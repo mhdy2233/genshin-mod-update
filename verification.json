@@ -70,6 +70,41 @@
   "subagents_used": false,
   "mobile_backend_and_native_inputs_included": false,
   "public_installation": {
-    "status": "pending_remote_publish"
+    "status": "passed",
+    "at": "2026-11-14T22:40:37.609134+08:00",
+    "source_commit": "d0ade865a151185b22464aff6758b56f446b6d4d",
+    "method": "Codex skill-installer --method download",
+    "github_auth_tokens_used": false,
+    "source_url": "https://github.com/mhdy2233/genshin-mod-update/tree/d0ade865a151185b22464aff6758b56f446b6d4d/genshin-mod-upgrade",
+    "installed_file_count": 11227,
+    "installed_bytes": 1290916644,
+    "exact_file_set_matches": true,
+    "all_file_lengths_and_sha256_match": true,
+    "destination_with_spaces_and_chinese_tested": true,
+    "reference_verification_passed": true,
+    "reference_files_verified": 11205,
+    "effect_rules_replayed": 21,
+    "native_objects_verified": 5592,
+    "native_prefabs_verified": 1034,
+    "sample_queries": [
+      "character ayaka",
+      "prior-draw Xilonen/XilonenCoat"
+    ],
+    "python_isolated_mode": true,
+    "game_or_gui_required_for_these_checks": false,
+    "separate_physical_machine_tested": false,
+    "windows_runtime_tested": false,
+    "gameplay_tested": false,
+    "skill_git_tree": "6b4af19c4bc08ddfee48da63682dffe556ee4e38"
+  },
+  "upload_transport": {
+    "protocol": "GitHub SSH on port 443",
+    "temporary_loopback_proxy": true,
+    "physical_interface_binding_required": true,
+    "global_proxy_configuration_changed": false,
+    "git_ssh_global_configuration_changed": false,
+    "host_key_validation_preserved": true,
+    "uploaded_mib": 373.02,
+    "reported_mib_per_second": 4.37
   }
 }
