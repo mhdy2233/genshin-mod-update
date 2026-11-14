@@ -1,0 +1,76 @@
+{
+  "kind": "native_profile",
+  "id": "ganyu",
+  "internal_name": "Ganyu",
+  "prefabs": [
+    {
+      "name": "Avatar_Girl_Bow_Ganyu",
+      "path": "native/prefabs/6f5f4b1a6a81ff9555be69a9fdbd8b305af58f1a4bcc93d95b1639b843d69b49.json",
+      "source_cab": "cab-c8b5f4f793f2092d2ee439b287c098fa",
+      "variant_suffix": "",
+      "transform_count": 178,
+      "renderer_count": 6,
+      "internal_name": "Ganyu"
+    },
+    {
+      "name": "Avatar_Girl_Bow_Ganyu_Edit",
+      "path": "native/prefabs/70586203c3dc989c6017abd7b43af1910395374e32853054afa5545864bafe1a.json",
+      "source_cab": "cab-28f0d478641268b348a6ffcb3e36e17b",
+      "variant_suffix": "_Edit",
+      "transform_count": 178,
+      "renderer_count": 6,
+      "internal_name": "Ganyu"
+    },
+    {
+      "name": "Avatar_Girl_Bow_Ganyu_Remote",
+      "path": "native/prefabs/7066a06bdcd17781211389bb0eca6ef54b808bafc0a7f23c328868bc33054b6a.json",
+      "source_cab": "cab-4e0190a29f3ce19961e52eb2bbb674dc",
+      "variant_suffix": "_Remote",
+      "transform_count": 178,
+      "renderer_count": 6,
+      "internal_name": "Ganyu"
+    },
+    {
+      "name": "Avatar_Girl_Bow_Ganyu_Kanban",
+      "path": "native/prefabs/a3fc38fc1e890ef90f6ca504e643c45e56e48059c4c302e876390996f0a54be0.json",
+      "source_cab": "cab-7de2955a672bcc18ddf2af15ad2ee6c8",
+      "variant_suffix": "_Kanban",
+      "transform_count": 147,
+      "renderer_count": 6,
+      "internal_name": "Ganyu"
+    },
+    {
+      "name": "Avatar_Girl_Bow_Ganyu_Kanban_Edit",
+      "path": "native/prefabs/aa1ce5aa6d2cdb3680ec74633356843a754ded05d8f843ae9c51cf7d92f2f706.json",
+      "source_cab": "cab-a02e3d665f29803ad62f211143cbba7b",
+      "variant_suffix": "_Kanban_Edit",
+      "transform_count": 147,
+      "renderer_count": 6,
+      "internal_name": "Ganyu"
+    },
+    {
+      "name": "Avatar_Girl_Bow_Ganyu_Manekin",
+      "path": "native/prefabs/e62027fd0e3f80a408b9d05db54352efd53ea47031af867a6cc525357c50f046.json",
+      "source_cab": "cab-232c223f8fd16d43894ce02a5193f7f5",
+      "variant_suffix": "_Manekin",
+      "transform_count": 147,
+      "renderer_count": 6,
+      "internal_name": "Ganyu"
+    }
+  ],
+  "roster_entries": [
+    {
+      "id": 10000037,
+      "internal_name": "Ganyu",
+      "name_zh": "甘雨",
+      "use_type": "AVATAR_FORMAL",
+      "body_type": "BODY_GIRL",
+      "weapon_type": "WEAPON_BOW",
+      "prefab_path_hash": "9990650498504315076"
+    }
+  ],
+  "costume": null,
+  "evidence_level": "installed_pc_asset_extraction",
+  "new_runtime_test_performed": false,
+  "character_id": "ganyu"
+}

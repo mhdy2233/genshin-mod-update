@@ -1,0 +1,76 @@
+{
+  "kind": "native_profile",
+  "id": "marionettenew",
+  "internal_name": "MarionetteNew",
+  "prefabs": [
+    {
+      "name": "Avatar_Girl_Claymore_MarionetteNew_Kanban",
+      "path": "native/prefabs/10f40d3171a5454bfb9177e9760f8f4ce19b3dbb607e5965e558459aa19faa0c.json",
+      "source_cab": "cab-ec69fc5aaf46de592e755d8dc1be74ff",
+      "variant_suffix": "_Kanban",
+      "transform_count": 249,
+      "renderer_count": 8,
+      "internal_name": "MarionetteNew"
+    },
+    {
+      "name": "Avatar_Girl_Claymore_MarionetteNew_Edit",
+      "path": "native/prefabs/73ca2152c331ad6d37cc586cad59875becdfc39a0a78cfe76cef54ebb8da7e70.json",
+      "source_cab": "cab-decd215e0cf5ba1280630ee033b527d1",
+      "variant_suffix": "_Edit",
+      "transform_count": 284,
+      "renderer_count": 8,
+      "internal_name": "MarionetteNew"
+    },
+    {
+      "name": "Avatar_Girl_Claymore_MarionetteNew_Kanban_Edit",
+      "path": "native/prefabs/7efdbba5851d56324821c5cef8dbb68a8772ce5763f649081f58200b16b74ac6.json",
+      "source_cab": "cab-93f74b8c876204fca39654364732faec",
+      "variant_suffix": "_Kanban_Edit",
+      "transform_count": 249,
+      "renderer_count": 8,
+      "internal_name": "MarionetteNew"
+    },
+    {
+      "name": "Avatar_Girl_Claymore_MarionetteNew_Manekin",
+      "path": "native/prefabs/a56d506ee82b0bf1ec1a968f137320e9eef5b2d536e4102321a1e11ee99a0dd4.json",
+      "source_cab": "cab-b813356ff1d3d99f1ef70d38574db820",
+      "variant_suffix": "_Manekin",
+      "transform_count": 249,
+      "renderer_count": 8,
+      "internal_name": "MarionetteNew"
+    },
+    {
+      "name": "Avatar_Girl_Claymore_MarionetteNew_Remote",
+      "path": "native/prefabs/ad24b614d4501fba10f1aa11972592f6ad0bf27ab9f9412ed5c67f23774bc8d5.json",
+      "source_cab": "cab-26f2c2ac9938ac39e3264799eb7aa265",
+      "variant_suffix": "_Remote",
+      "transform_count": 284,
+      "renderer_count": 8,
+      "internal_name": "MarionetteNew"
+    },
+    {
+      "name": "Avatar_Girl_Claymore_MarionetteNew",
+      "path": "native/prefabs/be7d30c9d3a47edac9d0f23b8438ec3ecfe7b545262d8fa75c52920286c79195.json",
+      "source_cab": "cab-852a326632c17f3bd0c0503f72cb6d1f",
+      "variant_suffix": "",
+      "transform_count": 284,
+      "renderer_count": 8,
+      "internal_name": "MarionetteNew"
+    }
+  ],
+  "roster_entries": [
+    {
+      "id": 10000133,
+      "internal_name": "MarionetteNew",
+      "name_zh": "桑多涅",
+      "use_type": "AVATAR_FORMAL",
+      "body_type": "BODY_GIRL",
+      "weapon_type": "WEAPON_CLAYMORE",
+      "prefab_path_hash": "5197987937525016587"
+    }
+  ],
+  "costume": null,
+  "evidence_level": "installed_pc_asset_extraction",
+  "new_runtime_test_performed": false,
+  "character_id": "marionettenew"
+}

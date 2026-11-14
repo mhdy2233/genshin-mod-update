@@ -1,0 +1,587 @@
+{
+  "kind": "native_mesh",
+  "id": "cab-ba5df6a6f176a9c899fcdc58d0db0906:-6829988242232170291",
+  "source_cab": "cab-ba5df6a6f176a9c899fcdc58d0db0906",
+  "path_id": "-6829988242232170291",
+  "class_id": 43,
+  "raw_bytes": 482616,
+  "raw_sha256": "58d0c4aa8be96eefd7c4863e0989e37d94c88d247841a623f4015d6b62492793",
+  "type_hash": "7cda0f2e6742c9b0f2a194edde97cbe2",
+  "source_object_offset": 3367120,
+  "layout": {
+    "name": "Face_Eye",
+    "submeshes": [
+      {
+        "first_byte": 0,
+        "index_count": 6222,
+        "topology": 0,
+        "base_vertex": 0,
+        "first_vertex": 0,
+        "vertex_count": 1428,
+        "aabb": [
+          0.0,
+          1.7049200534820557,
+          0.06169738620519638,
+          0.07869403809309006,
+          0.061592280864715576,
+          0.04780857264995575
+        ],
+        "first_index": 0
+      }
+    ],
+    "blend_shapes": {
+      "vertices": {
+        "count": 8728,
+        "offset": 68,
+        "bytes": 349120,
+        "stride": 40
+      },
+      "frames": [
+        {
+          "first_vertex": 0,
+          "vertex_count": 0,
+          "has_normals": 0,
+          "has_tangents": 0
+        },
+        {
+          "first_vertex": 0,
+          "vertex_count": 524,
+          "has_normals": 0,
+          "has_tangents": 0
+        },
+        {
+          "first_vertex": 524,
+          "vertex_count": 507,
+          "has_normals": 0,
+          "has_tangents": 0
+        },
+        {
+          "first_vertex": 1031,
+          "vertex_count": 525,
+          "has_normals": 0,
+          "has_tangents": 0
+        },
+        {
+          "first_vertex": 1556,
+          "vertex_count": 508,
+          "has_normals": 0,
+          "has_tangents": 0
+        },
+        {
+          "first_vertex": 2064,
+          "vertex_count": 524,
+          "has_normals": 0,
+          "has_tangents": 0
+        },
+        {
+          "first_vertex": 2588,
+          "vertex_count": 507,
+          "has_normals": 0,
+          "has_tangents": 0
+        },
+        {
+          "first_vertex": 3095,
+          "vertex_count": 899,
+          "has_normals": 0,
+          "has_tangents": 0
+        },
+        {
+          "first_vertex": 3994,
+          "vertex_count": 836,
+          "has_normals": 0,
+          "has_tangents": 0
+        },
+        {
+          "first_vertex": 4830,
+          "vertex_count": 986,
+          "has_normals": 0,
+          "has_tangents": 0
+        },
+        {
+          "first_vertex": 5816,
+          "vertex_count": 986,
+          "has_normals": 0,
+          "has_tangents": 0
+        },
+        {
+          "first_vertex": 6802,
+          "vertex_count": 834,
+          "has_normals": 0,
+          "has_tangents": 0
+        },
+        {
+          "first_vertex": 7636,
+          "vertex_count": 406,
+          "has_normals": 0,
+          "has_tangents": 0
+        },
+        {
+          "first_vertex": 8042,
+          "vertex_count": 424,
+          "has_normals": 0,
+          "has_tangents": 0
+        },
+        {
+          "first_vertex": 8466,
+          "vertex_count": 262,
+          "has_normals": 0,
+          "has_tangents": 0
+        }
+      ],
+      "channels": [
+        {
+          "name": "Eye_Default",
+          "name_hash": 3988351407,
+          "frame_index": 0,
+          "frame_count": 1
+        },
+        {
+          "name": "Eye_WinkA_L",
+          "name_hash": 1821054144,
+          "frame_index": 1,
+          "frame_count": 1
+        },
+        {
+          "name": "Eye_WinkA_R",
+          "name_hash": 2525243811,
+          "frame_index": 2,
+          "frame_count": 1
+        },
+        {
+          "name": "Eye_WinkB_L",
+          "name_hash": 1858972313,
+          "frame_index": 3,
+          "frame_count": 1
+        },
+        {
+          "name": "Eye_WinkB_R",
+          "name_hash": 2495780858,
+          "frame_index": 4,
+          "frame_count": 1
+        },
+        {
+          "name": "Eye_WinkC_L",
+          "name_hash": 1863303342,
+          "frame_index": 5,
+          "frame_count": 1
+        },
+        {
+          "name": "Eye_WinkC_R",
+          "name_hash": 2499870157,
+          "frame_index": 6,
+          "frame_count": 1
+        },
+        {
+          "name": "Eye_Ha",
+          "name_hash": 1939358397,
+          "frame_index": 7,
+          "frame_count": 1
+        },
+        {
+          "name": "Eye_Jito",
+          "name_hash": 3122972710,
+          "frame_index": 8,
+          "frame_count": 1
+        },
+        {
+          "name": "Eye_Wail",
+          "name_hash": 1881222010,
+          "frame_index": 9,
+          "frame_count": 1
+        },
+        {
+          "name": "Eye_Hostility",
+          "name_hash": 2655352523,
+          "frame_index": 10,
+          "frame_count": 1
+        },
+        {
+          "name": "Eye_Tired",
+          "name_hash": 1809339938,
+          "frame_index": 11,
+          "frame_count": 1
+        },
+        {
+          "name": "Eye_WUp",
+          "name_hash": 2616516216,
+          "frame_index": 12,
+          "frame_count": 1
+        },
+        {
+          "name": "Eye_WDown",
+          "name_hash": 4076860159,
+          "frame_index": 13,
+          "frame_count": 1
+        },
+        {
+          "name": "Eye_Lowereyelid",
+          "name_hash": 2735435709,
+          "frame_index": 14,
+          "frame_count": 1
+        }
+      ],
+      "full_weights": [
+        100.0,
+        100.0,
+        100.0,
+        100.0,
+        100.0,
+        100.0,
+        100.0,
+        100.0,
+        100.0,
+        100.0,
+        100.0,
+        100.0,
+        100.0,
+        100.0,
+        100.0
+      ]
+    },
+    "bindposes": {
+      "count": 1,
+      "offset": 349856,
+      "bytes": 64,
+      "stride": 64
+    },
+    "bone_hashes": {
+      "count": 1,
+      "offset": 349924,
+      "bytes": 4,
+      "stride": 4
+    },
+    "root_bone_hash": 1221127731,
+    "flags": {
+      "compression": 0,
+      "readable": 0,
+      "keep_vertices": 0,
+      "keep_indices": 0
+    },
+    "packed_skin_uv": 0,
+    "index_format": 0,
+    "indices": {
+      "count": 12444,
+      "offset": 349948,
+      "bytes": 12444,
+      "stride": 1
+    },
+    "skin": {
+      "count": 1428,
+      "offset": 362396,
+      "bytes": 45696,
+      "stride": 32
+    },
+    "current_channels": 143,
+    "vertex_count": 1428,
+    "channels": [
+      {
+        "index": 0,
+        "stream": 0,
+        "offset": 0,
+        "format": 0,
+        "dimension": 3,
+        "format_name": "float32",
+        "component_bytes": 4
+      },
+      {
+        "index": 1,
+        "stream": 0,
+        "offset": 12,
+        "format": 0,
+        "dimension": 3,
+        "format_name": "float32",
+        "component_bytes": 4
+      },
+      {
+        "index": 2,
+        "stream": 1,
+        "offset": 0,
+        "format": 2,
+        "dimension": 4,
+        "format_name": "color_unorm8",
+        "component_bytes": 1
+      },
+      {
+        "index": 3,
+        "stream": 1,
+        "offset": 4,
+        "format": 0,
+        "dimension": 2,
+        "format_name": "float32",
+        "component_bytes": 4
+      },
+      {
+        "index": 4,
+        "stream": 0,
+        "offset": 0,
+        "format": 0,
+        "dimension": 0
+      },
+      {
+        "index": 5,
+        "stream": 0,
+        "offset": 0,
+        "format": 0,
+        "dimension": 0
+      },
+      {
+        "index": 6,
+        "stream": 0,
+        "offset": 0,
+        "format": 0,
+        "dimension": 0
+      },
+      {
+        "index": 7,
+        "stream": 0,
+        "offset": 24,
+        "format": 0,
+        "dimension": 4,
+        "format_name": "float32",
+        "component_bytes": 4
+      }
+    ],
+    "vertex_data": {
+      "count": 74256,
+      "offset": 408140,
+      "bytes": 74256,
+      "stride": 1
+    },
+    "vertex_streams": [
+      {
+        "stream": 0,
+        "stride": 40,
+        "bytes": 57120,
+        "offset_in_vertex_data": 0,
+        "offset_in_raw_mesh": 408140,
+        "channel_indices": [
+          0,
+          1,
+          7
+        ]
+      },
+      {
+        "stream": 1,
+        "stride": 12,
+        "bytes": 17136,
+        "offset_in_vertex_data": 57120,
+        "offset_in_raw_mesh": 465260,
+        "channel_indices": [
+          2,
+          3
+        ]
+      }
+    ],
+    "compressed": {
+      "vertices": {
+        "offset": 482396,
+        "bytes": 20,
+        "count": 0,
+        "bits": 0,
+        "range_start": [
+          0.0,
+          0.0
+        ],
+        "data": {
+          "count": 0,
+          "offset": 482412,
+          "bytes": 0,
+          "stride": 1
+        }
+      },
+      "uv": {
+        "offset": 482416,
+        "bytes": 20,
+        "count": 0,
+        "bits": 0,
+        "range_start": [
+          0.0,
+          0.0
+        ],
+        "data": {
+          "count": 0,
+          "offset": 482432,
+          "bytes": 0,
+          "stride": 1
+        }
+      },
+      "normals": {
+        "offset": 482436,
+        "bytes": 20,
+        "count": 0,
+        "bits": 0,
+        "range_start": [
+          0.0,
+          0.0
+        ],
+        "data": {
+          "count": 0,
+          "offset": 482452,
+          "bytes": 0,
+          "stride": 1
+        }
+      },
+      "tangents": {
+        "offset": 482456,
+        "bytes": 20,
+        "count": 0,
+        "bits": 0,
+        "range_start": [
+          0.0,
+          0.0
+        ],
+        "data": {
+          "count": 0,
+          "offset": 482472,
+          "bytes": 0,
+          "stride": 1
+        }
+      },
+      "weights": {
+        "offset": 482476,
+        "bytes": 12,
+        "count": 0,
+        "bits": 0,
+        "range_start": null,
+        "data": {
+          "count": 0,
+          "offset": 482484,
+          "bytes": 0,
+          "stride": 1
+        }
+      },
+      "normal_signs": {
+        "offset": 482488,
+        "bytes": 12,
+        "count": 0,
+        "bits": 0,
+        "range_start": null,
+        "data": {
+          "count": 0,
+          "offset": 482496,
+          "bytes": 0,
+          "stride": 1
+        }
+      },
+      "tangent_signs": {
+        "offset": 482500,
+        "bytes": 12,
+        "count": 0,
+        "bits": 0,
+        "range_start": null,
+        "data": {
+          "count": 0,
+          "offset": 482508,
+          "bytes": 0,
+          "stride": 1
+        }
+      },
+      "float_colors": {
+        "offset": 482512,
+        "bytes": 20,
+        "count": 0,
+        "bits": 0,
+        "range_start": [
+          0.0,
+          0.0
+        ],
+        "data": {
+          "count": 0,
+          "offset": 482528,
+          "bytes": 0,
+          "stride": 1
+        }
+      },
+      "bone_indices": {
+        "offset": 482532,
+        "bytes": 12,
+        "count": 0,
+        "bits": 0,
+        "range_start": null,
+        "data": {
+          "count": 0,
+          "offset": 482540,
+          "bytes": 0,
+          "stride": 1
+        }
+      },
+      "triangles": {
+        "offset": 482544,
+        "bytes": 12,
+        "count": 0,
+        "bits": 0,
+        "range_start": null,
+        "data": {
+          "count": 0,
+          "offset": 482552,
+          "bytes": 0,
+          "stride": 1
+        }
+      }
+    },
+    "compressed_uv_info": 0,
+    "aabb": [
+      0.0,
+      1.7049200534820557,
+      0.06169738620519638,
+      0.07869403809309006,
+      0.061592280864715576,
+      0.04780857264995575
+    ],
+    "usage_flags": 0,
+    "baked_convex": {
+      "count": 0,
+      "offset": 482592,
+      "bytes": 0,
+      "stride": 1
+    },
+    "baked_triangle": {
+      "count": 0,
+      "offset": 482596,
+      "bytes": 0,
+      "stride": 1
+    },
+    "metrics": [
+      1.0,
+      1.0
+    ],
+    "metrics_dirty": 0,
+    "close_dynamic_compression": 0,
+    "is_streaming": 0,
+    "bindpose_matrices_row_major": [
+      [
+        5.812523227177735e-07,
+        -1.0,
+        4.371134565417378e-08,
+        1.6332554817199707,
+        2.133234602297307e-06,
+        4.3712589103961363e-08,
+        1.0,
+        -0.0007211767951957881,
+        -1.0,
+        -5.812522658743546e-07,
+        2.1332348296709824e-06,
+        9.309370625487645e-07,
+        0.0,
+        0.0,
+        0.0,
+        1.0
+      ]
+    ],
+    "bone_name_hashes": [
+      1221127731
+    ],
+    "index_summary": {
+      "count": 6222,
+      "minimum": 0,
+      "maximum": 1427,
+      "element_bytes": 2
+    },
+    "weighted_bone_indices": [
+      0
+    ]
+  },
+  "name": "Face_Eye",
+  "raw_binary": "native/mesh-data/58d0c4aa8be96eefd7c4863e0989e37d94c88d247841a623f4015d6b62492793.bin",
+  "parsed": true
+}

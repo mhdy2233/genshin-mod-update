@@ -1,0 +1,41 @@
+{
+  "kind": "character",
+  "id": "razor",
+  "name_zh": "雷泽",
+  "game_draw_targets": [],
+  "face_texture_example": [],
+  "example_mod": null,
+  "bone_mapping": null,
+  "full_skeleton_extracted": false,
+  "validation": {
+    "scope": "Native installed assets; no new draw capture or gameplay acceptance",
+    "new_runtime_test_performed_by_export": false,
+    "all_actions_lighting_and_lods_verified": false
+  },
+  "native_profiles": {
+    "razor": "native/profiles/razor.json"
+  },
+  "roster_entries": [
+    {
+      "id": 10000020,
+      "internal_name": "Razor",
+      "name_zh": "雷泽",
+      "use_type": "AVATAR_FORMAL",
+      "body_type": "BODY_BOY",
+      "weapon_type": "WEAPON_CLAYMORE",
+      "prefab_path_hash": "15824928098564055600"
+    },
+    {
+      "id": 11000025,
+      "internal_name": "Razor",
+      "name_zh": null,
+      "use_type": "AVATAR_TEST",
+      "body_type": "BODY_BOY",
+      "weapon_type": "WEAPON_BOW",
+      "prefab_path_hash": "17013115156038872770"
+    }
+  ],
+  "official_mesh_extracted": true,
+  "prefab_skeletons_extracted": true,
+  "draw_hash_status": "not_captured_on_target"
+}

@@ -1,0 +1,1335 @@
+{
+  "kind": "native_material",
+  "id": "cab-4e82e1711aafd0652610c8182c841c0e:8164611030046462716",
+  "source_cab": "cab-4e82e1711aafd0652610c8182c841c0e",
+  "path_id": "8164611030046462716",
+  "class_id": 21,
+  "raw_bytes": 7516,
+  "raw_sha256": "ab200c5a44434c7d64dd5018a27514beefbedf4f287f1ec1591e83a1e4a3c5f9",
+  "type_hash": "e1ee5b1091ac21b95baed1351f8fb1c2",
+  "source_object_offset": 4416,
+  "material": {
+    "name": "Avatar_Boy_Sword_LittleIdolBoy_Mat_Face",
+    "shader": {
+      "file_id": 2,
+      "path_id": "-9048100887357078078"
+    },
+    "keywords": "FACE_MAP_NEW_ON TOON_LIGHTMAP_ON",
+    "lightmap_flags": 4,
+    "instancing_flags_hex": "01000000",
+    "render_queue": -1,
+    "tags": [],
+    "disabled_passes": [],
+    "textures": [
+      {
+        "property": "_EyeMakeupTex",
+        "pointer": {
+          "file_id": 0,
+          "path_id": "0"
+        },
+        "scale": [
+          1.0,
+          1.0
+        ],
+        "offset": [
+          0.0,
+          0.0
+        ],
+        "max_mip_level": 0,
+        "texture_ref": null
+      },
+      {
+        "property": "_FaceDecalTex",
+        "pointer": {
+          "file_id": 0,
+          "path_id": "0"
+        },
+        "scale": [
+          1.0,
+          1.0
+        ],
+        "offset": [
+          0.0,
+          0.0
+        ],
+        "max_mip_level": 0,
+        "texture_ref": null
+      },
+      {
+        "property": "_FaceMapTex",
+        "pointer": {
+          "file_id": 1,
+          "path_id": "2360821028089782119"
+        },
+        "scale": [
+          1.0,
+          1.0
+        ],
+        "offset": [
+          0.0,
+          0.0
+        ],
+        "max_mip_level": 0,
+        "texture_ref": "cab-1c410f646fdcab7f6bddeb5f2a878353:2360821028089782119"
+      },
+      {
+        "property": "_LightMapTex",
+        "pointer": {
+          "file_id": 3,
+          "path_id": "2517581802503287858"
+        },
+        "scale": [
+          1.0,
+          1.0
+        ],
+        "offset": [
+          0.0,
+          0.0
+        ],
+        "max_mip_level": 0,
+        "texture_ref": "cab-c7d65b4eb802b99374df216cb2a0c245:2517581802503287858"
+      },
+      {
+        "property": "_LipMakeupTex",
+        "pointer": {
+          "file_id": 0,
+          "path_id": "0"
+        },
+        "scale": [
+          1.0,
+          1.0
+        ],
+        "offset": [
+          0.0,
+          0.0
+        ],
+        "max_mip_level": 0,
+        "texture_ref": null
+      },
+      {
+        "property": "_MainTex",
+        "pointer": {
+          "file_id": 4,
+          "path_id": "850331555998045506"
+        },
+        "scale": [
+          1.0,
+          1.0
+        ],
+        "offset": [
+          0.0,
+          0.0
+        ],
+        "max_mip_level": 0,
+        "texture_ref": "cab-f0d54341434b287425f5220a2e5ac48d:850331555998045506"
+      },
+      {
+        "property": "_PVMask1",
+        "pointer": {
+          "file_id": 0,
+          "path_id": "0"
+        },
+        "scale": [
+          1.0,
+          1.0
+        ],
+        "offset": [
+          0.0,
+          0.0
+        ],
+        "max_mip_level": 0,
+        "texture_ref": null
+      },
+      {
+        "property": "_PVMask2",
+        "pointer": {
+          "file_id": 0,
+          "path_id": "0"
+        },
+        "scale": [
+          1.0,
+          1.0
+        ],
+        "offset": [
+          0.0,
+          0.0
+        ],
+        "max_mip_level": 0,
+        "texture_ref": null
+      },
+      {
+        "property": "_ShaderLerpCharAvatarDie_DissolveNoise",
+        "pointer": {
+          "file_id": 0,
+          "path_id": "0"
+        },
+        "scale": [
+          1.0,
+          1.0
+        ],
+        "offset": [
+          0.0,
+          0.0
+        ],
+        "max_mip_level": 0,
+        "texture_ref": null
+      },
+      {
+        "property": "_ShaderLerpCharFrozen_CubeMap",
+        "pointer": {
+          "file_id": 0,
+          "path_id": "0"
+        },
+        "scale": [
+          1.0,
+          1.0
+        ],
+        "offset": [
+          0.0,
+          0.0
+        ],
+        "max_mip_level": 0,
+        "texture_ref": null
+      },
+      {
+        "property": "_ShaderLerpCharFrozen_IceBumpTex",
+        "pointer": {
+          "file_id": 0,
+          "path_id": "0"
+        },
+        "scale": [
+          1.0,
+          1.0
+        ],
+        "offset": [
+          0.0,
+          0.0
+        ],
+        "max_mip_level": 0,
+        "texture_ref": null
+      },
+      {
+        "property": "_ShaderLerpCharFrozen_TillingNormal",
+        "pointer": {
+          "file_id": 0,
+          "path_id": "0"
+        },
+        "scale": [
+          1.0,
+          1.0
+        ],
+        "offset": [
+          0.0,
+          0.0
+        ],
+        "max_mip_level": 0,
+        "texture_ref": null
+      },
+      {
+        "property": "_ShaderLerpCharFrozen_TriplanarTex",
+        "pointer": {
+          "file_id": 0,
+          "path_id": "0"
+        },
+        "scale": [
+          1.0,
+          1.0
+        ],
+        "offset": [
+          0.0,
+          0.0
+        ],
+        "max_mip_level": 0,
+        "texture_ref": null
+      },
+      {
+        "property": "_ShaderLerpCharPetrified_PetrifiedDetailTex",
+        "pointer": {
+          "file_id": 0,
+          "path_id": "0"
+        },
+        "scale": [
+          1.0,
+          1.0
+        ],
+        "offset": [
+          0.0,
+          0.0
+        ],
+        "max_mip_level": 0,
+        "texture_ref": null
+      },
+      {
+        "property": "_VSSKinningPoseTex",
+        "pointer": {
+          "file_id": 0,
+          "path_id": "0"
+        },
+        "scale": [
+          1.0,
+          1.0
+        ],
+        "offset": [
+          0.0,
+          0.0
+        ],
+        "max_mip_level": 0,
+        "texture_ref": null
+      }
+    ],
+    "floats": [
+      [
+        "_BumpScale",
+        1.0
+      ],
+      [
+        "_CharacterAmbientSensorColorOn",
+        0.0
+      ],
+      [
+        "_CharacterAmbientSensorForceShadowOn",
+        0.0
+      ],
+      [
+        "_CharacterAmbientSensorShadowOn",
+        0.0
+      ],
+      [
+        "_CharacterEmission",
+        0.0
+      ],
+      [
+        "_CharacterMainTex",
+        0.0
+      ],
+      [
+        "_CharacterShadow",
+        0.0
+      ],
+      [
+        "_CullMode",
+        2.0
+      ],
+      [
+        "_Cutoff",
+        0.5
+      ],
+      [
+        "_DecalPatternCenterX",
+        0.0
+      ],
+      [
+        "_DecalPatternCenterY",
+        0.0
+      ],
+      [
+        "_DecalPatternRotation",
+        0.0
+      ],
+      [
+        "_DecalPatternScale",
+        1.0
+      ],
+      [
+        "_DetailNormalMapScale",
+        1.0
+      ],
+      [
+        "_DitherAlpha",
+        1.0
+      ],
+      [
+        "_DrawBackFace",
+        0.0
+      ],
+      [
+        "_DstBlend",
+        0.0
+      ],
+      [
+        "_DummyHitColor",
+        0.0
+      ],
+      [
+        "_DummyMainSettings",
+        0.0
+      ],
+      [
+        "_DummyMaterial2",
+        0.0
+      ],
+      [
+        "_DummyOutline",
+        0.0
+      ],
+      [
+        "_DummyUseDither",
+        0.0
+      ],
+      [
+        "_Dx11ShaderPsScore",
+        102.0
+      ],
+      [
+        "_Dx11ShaderScore",
+        -1.0
+      ],
+      [
+        "_Dx11ShaderVsScore",
+        157.0
+      ],
+      [
+        "_ElementViewEleID",
+        0.0
+      ],
+      [
+        "_EmissionScaler",
+        1.0
+      ],
+      [
+        "_EmissionScaler1",
+        1.0
+      ],
+      [
+        "_EmissionScaler2",
+        1.0
+      ],
+      [
+        "_EmissionStrengthLerp",
+        0.0
+      ],
+      [
+        "_EnableAvatarDie",
+        0.0
+      ],
+      [
+        "_EnableAvatarDieDebug",
+        0.0
+      ],
+      [
+        "_EnableCharacterDissolve",
+        0.0
+      ],
+      [
+        "_EnableCharacterDissolveDebug",
+        0.0
+      ],
+      [
+        "_EnableCharacterFrozen",
+        0.0
+      ],
+      [
+        "_EnableCharacterFrozenDebug",
+        0.0
+      ],
+      [
+        "_EnableCharacterPetrified",
+        0.0
+      ],
+      [
+        "_EnableCharacterPetrifiedDebug",
+        0.0
+      ],
+      [
+        "_EnableCustomParams",
+        0.0
+      ],
+      [
+        "_EnableDistanceLerp",
+        0.0
+      ],
+      [
+        "_EnablePerformance",
+        0.0
+      ],
+      [
+        "_EnableShaderLerpDebug",
+        0.0
+      ],
+      [
+        "_EyeMakeupLinearBlend",
+        0.0
+      ],
+      [
+        "_FaceBlushStrength",
+        0.0
+      ],
+      [
+        "_FaceDecalLinearBlend",
+        0.0
+      ],
+      [
+        "_FaceDecalPatternCenterX",
+        0.0
+      ],
+      [
+        "_FaceDecalPatternCenterY",
+        0.0
+      ],
+      [
+        "_FaceDecalPatternRotation",
+        0.0
+      ],
+      [
+        "_FaceDecalPatternScaleX",
+        1.0
+      ],
+      [
+        "_FaceDecalPatternScaleY",
+        1.0
+      ],
+      [
+        "_FaceMapRotateOffset",
+        0.0
+      ],
+      [
+        "_FaceMapSoftness",
+        9.999999974752427e-07
+      ],
+      [
+        "_GlossMapScale",
+        1.0
+      ],
+      [
+        "_Glossiness",
+        0.5
+      ],
+      [
+        "_GlossyReflections",
+        1.0
+      ],
+      [
+        "_HitColorFresnelPower",
+        1.5
+      ],
+      [
+        "_HitColorScaler",
+        6.0
+      ],
+      [
+        "_LightArea",
+        0.5
+      ],
+      [
+        "_LightMapBlurSize",
+        1.0
+      ],
+      [
+        "_LightMapLayerEnum",
+        0.0
+      ],
+      [
+        "_LipMakeupLinearBlend",
+        0.0
+      ],
+      [
+        "_MHYZBias",
+        0.0
+      ],
+      [
+        "_MTMapBrightness",
+        1.0
+      ],
+      [
+        "_MTMapTileScale",
+        1.0
+      ],
+      [
+        "_MTSharpLayerOffset",
+        1.0
+      ],
+      [
+        "_MTShininess",
+        11.0
+      ],
+      [
+        "_MTSpecularAttenInShadow",
+        0.20000000298023224
+      ],
+      [
+        "_MTSpecularScale",
+        60.0
+      ],
+      [
+        "_MTUseSpecularRamp",
+        0.0
+      ],
+      [
+        "_MainSettingsGroup",
+        0.0
+      ],
+      [
+        "_MainTexAlphaCutoff",
+        0.5
+      ],
+      [
+        "_MainTexAlphaUse",
+        0.0
+      ],
+      [
+        "_MainTexColoring",
+        0.0
+      ],
+      [
+        "_MakeupContrast",
+        1.0
+      ],
+      [
+        "_MakeupIntensity",
+        1.0
+      ],
+      [
+        "_MakeupPatternCenterX",
+        0.5
+      ],
+      [
+        "_MakeupPatternCenterY",
+        0.5
+      ],
+      [
+        "_MakeupPatternRotation",
+        0.0
+      ],
+      [
+        "_MakeupPatternScale",
+        1.0
+      ],
+      [
+        "_MakeupUsePattern",
+        0.0
+      ],
+      [
+        "_MaxOutlineZOffset",
+        1.0
+      ],
+      [
+        "_MergedMeshEnable",
+        0.0
+      ],
+      [
+        "_MergedMeshTextureEnable",
+        0.0
+      ],
+      [
+        "_MetalMaterial",
+        0.0
+      ],
+      [
+        "_Metallic",
+        0.0
+      ],
+      [
+        "_Mode",
+        0.0
+      ],
+      [
+        "_NormalMapLayerEnum",
+        0.0
+      ],
+      [
+        "_NormalMapOffset",
+        0.0
+      ],
+      [
+        "_NormalMapScale",
+        0.0
+      ],
+      [
+        "_NyxStateEnableOutlineVertAnimScaleHeightLerp",
+        0.0
+      ],
+      [
+        "_NyxStateEnableOutlineWidthScaleHeightLerp",
+        0.0
+      ],
+      [
+        "_NyxStateOutlineColorNoiseTurbulence",
+        0.25
+      ],
+      [
+        "_NyxStateOutlineColorScale",
+        1.0
+      ],
+      [
+        "_NyxStateOutlineVertAnimScale",
+        30.0
+      ],
+      [
+        "_NyxStateOutlineWidthScale",
+        5.0
+      ],
+      [
+        "_NyxStatePaintMaskChannel",
+        0.0
+      ],
+      [
+        "_OcclusionStrength",
+        1.0
+      ],
+      [
+        "_OutLineIntensity",
+        1.0
+      ],
+      [
+        "_OutLineIntensity2",
+        0.0
+      ],
+      [
+        "_OutLineZOffset",
+        0.0
+      ],
+      [
+        "_OutlineGroup",
+        0.0
+      ],
+      [
+        "_OutlineMotionVectorsCull",
+        1.0
+      ],
+      [
+        "_OutlinePolygonOffsetFactor",
+        0.0
+      ],
+      [
+        "_OutlinePolygonOffsetUnit",
+        0.0
+      ],
+      [
+        "_OutlineWidth",
+        0.029999999329447746
+      ],
+      [
+        "_PackageLightMapToggle",
+        0.0
+      ],
+      [
+        "_PackageNormalMapToggle",
+        0.0
+      ],
+      [
+        "_Parallax",
+        0.019999999552965164
+      ],
+      [
+        "_PolygonOffsetFactor",
+        0.0
+      ],
+      [
+        "_PolygonOffsetUnit",
+        0.0
+      ],
+      [
+        "_SHADER_LERP_MATERIAL_ID",
+        0.0
+      ],
+      [
+        "_Scale",
+        0.009999999776482582
+      ],
+      [
+        "_ShaderLerpCharAvatarDie_DissolveColorScaler",
+        1.0
+      ],
+      [
+        "_ShaderLerpCharAvatarDie_DissolveEdgeWidth",
+        1.100000023841858
+      ],
+      [
+        "_ShaderLerpCharAvatarDie_DissolveValue",
+        0.0
+      ],
+      [
+        "_ShaderLerpCharDissolve_Value",
+        0.029620449990034103
+      ],
+      [
+        "_ShaderLerpCharFrozen_FrozenIntensity",
+        0.8999999761581421
+      ],
+      [
+        "_ShaderLerpCharPetrified_PetrifiedIntensity",
+        0.9058824181556702
+      ],
+      [
+        "_ShadowTransitionRange",
+        0.009999999776482582
+      ],
+      [
+        "_ShadowTransitionRange2",
+        0.009999999776482582
+      ],
+      [
+        "_ShadowTransitionSoftness",
+        0.5
+      ],
+      [
+        "_ShadowTransitionSoftness2",
+        0.5
+      ],
+      [
+        "_Shininess",
+        10.0
+      ],
+      [
+        "_Shininess2",
+        10.0
+      ],
+      [
+        "_SkinTintColorOutlineLerp",
+        0.5
+      ],
+      [
+        "_SmoothnessTextureChannel",
+        0.0
+      ],
+      [
+        "_SpecMulti",
+        0.10000000149011612
+      ],
+      [
+        "_SpecMulti2",
+        0.10000000149011612
+      ],
+      [
+        "_SpecOpacity",
+        0.0
+      ],
+      [
+        "_SpecOpacity2",
+        0.0
+      ],
+      [
+        "_SpecualrInShaow",
+        0.0
+      ],
+      [
+        "_SpecularHighlights",
+        1.0
+      ],
+      [
+        "_SrcBlend",
+        1.0
+      ],
+      [
+        "_TempNyxStatePaintMaskChannel",
+        0.0
+      ],
+      [
+        "_TextureBiasWhenDithering",
+        -1.0
+      ],
+      [
+        "_UVSec",
+        0.0
+      ],
+      [
+        "_UseBackFaceUV2",
+        1.0
+      ],
+      [
+        "_UseCharacterMakeup",
+        0.0
+      ],
+      [
+        "_UseCoolShadowColorOrTex",
+        1.0
+      ],
+      [
+        "_UseEyeMakeup",
+        0.0
+      ],
+      [
+        "_UseFaceDecal",
+        0.0
+      ],
+      [
+        "_UseFaceMapNew",
+        1.0
+      ],
+      [
+        "_UseLightMapColorAO",
+        1.0
+      ],
+      [
+        "_UseLipMakeup",
+        0.0
+      ],
+      [
+        "_UseMaterial2",
+        1.0
+      ],
+      [
+        "_UseMaterialMasksTex",
+        0.0
+      ],
+      [
+        "_UseNoseHighlight",
+        0.0
+      ],
+      [
+        "_UsePVMask1",
+        0.0
+      ],
+      [
+        "_UsePVMask2",
+        0.0
+      ],
+      [
+        "_UseShadowTransition",
+        0.0
+      ],
+      [
+        "_UseSpecular",
+        0.0
+      ],
+      [
+        "_UseToonLightMap",
+        1.0
+      ],
+      [
+        "_UseVertexColorAO",
+        0.0
+      ],
+      [
+        "_UsingDitherAlpha",
+        0.0
+      ],
+      [
+        "_ZWrite",
+        1.0
+      ],
+      [
+        "_isNativeMainNormal",
+        0.0
+      ]
+    ],
+    "colors": [
+      [
+        "_CharacterCubeColor2",
+        [
+          0.0,
+          0.0,
+          0.0,
+          0.0
+        ]
+      ],
+      [
+        "_Color",
+        [
+          1.0,
+          1.0,
+          1.0,
+          1.0
+        ]
+      ],
+      [
+        "_Color2",
+        [
+          1.0,
+          1.0,
+          1.0,
+          1.0
+        ]
+      ],
+      [
+        "_CoolShadowMultColor",
+        [
+          0.9764705300331116,
+          0.7529411911964417,
+          0.7058823108673096,
+          1.0
+        ]
+      ],
+      [
+        "_CoolShadowMultColor2",
+        [
+          0.8235294222831726,
+          0.8235294222831726,
+          0.8235294222831726,
+          1.0
+        ]
+      ],
+      [
+        "_DecalAlphaRamp",
+        [
+          0.0,
+          1.0,
+          1.0,
+          0.0
+        ]
+      ],
+      [
+        "_DecalColor",
+        [
+          1.0,
+          1.0,
+          1.0,
+          1.0
+        ]
+      ],
+      [
+        "_DecalColorRamp",
+        [
+          0.0,
+          1.0,
+          1.0,
+          0.0
+        ]
+      ],
+      [
+        "_ElementRimColor",
+        [
+          0.0,
+          0.0,
+          0.0,
+          0.0
+        ]
+      ],
+      [
+        "_EmissionColor",
+        [
+          0.0,
+          0.0,
+          0.0,
+          1.0
+        ]
+      ],
+      [
+        "_EmissionColor_MHY",
+        [
+          1.0,
+          1.0,
+          1.0,
+          1.0
+        ]
+      ],
+      [
+        "_EmissionColor_MHY1",
+        [
+          1.0,
+          1.0,
+          1.0,
+          1.0
+        ]
+      ],
+      [
+        "_EmissionColor_MHY2",
+        [
+          1.0,
+          1.0,
+          1.0,
+          1.0
+        ]
+      ],
+      [
+        "_FaceBlushColor",
+        [
+          1.0,
+          0.0,
+          0.0,
+          1.0
+        ]
+      ],
+      [
+        "_FaceDecalAlphaRamp",
+        [
+          0.0,
+          1.0,
+          1.0,
+          0.0
+        ]
+      ],
+      [
+        "_FaceDecalColor",
+        [
+          1.0,
+          1.0,
+          1.0,
+          1.0
+        ]
+      ],
+      [
+        "_FaceDecalColorRamp",
+        [
+          0.0,
+          1.0,
+          1.0,
+          0.0
+        ]
+      ],
+      [
+        "_FirstShadowMultColor",
+        [
+          0.9764705300331116,
+          0.7529411911964417,
+          0.7058823108673096,
+          1.0
+        ]
+      ],
+      [
+        "_FirstShadowMultColor2",
+        [
+          0.8627451062202454,
+          0.8627451062202454,
+          0.8627451062202454,
+          1.0
+        ]
+      ],
+      [
+        "_HitColor",
+        [
+          0.0,
+          0.0,
+          0.0,
+          0.0
+        ]
+      ],
+      [
+        "_MTMapDarkColor",
+        [
+          0.0,
+          0.0,
+          0.0,
+          0.0
+        ]
+      ],
+      [
+        "_MTMapLightColor",
+        [
+          1.0,
+          1.0,
+          1.0,
+          1.0
+        ]
+      ],
+      [
+        "_MTShadowMultiColor",
+        [
+          0.800000011920929,
+          0.800000011920929,
+          0.800000011920929,
+          0.800000011920929
+        ]
+      ],
+      [
+        "_MTSharpLayerColor",
+        [
+          1.0,
+          1.0,
+          1.0,
+          1.0
+        ]
+      ],
+      [
+        "_MTSpecularColor",
+        [
+          1.0,
+          1.0,
+          1.0,
+          1.0
+        ]
+      ],
+      [
+        "_MainTexTintColor",
+        [
+          1.0,
+          1.0,
+          1.0,
+          1.0
+        ]
+      ],
+      [
+        "_MakeupColor",
+        [
+          1.0,
+          1.0,
+          1.0,
+          1.0
+        ]
+      ],
+      [
+        "_NyxStateOutlineColorNoiseAnim",
+        [
+          0.05000000074505806,
+          0.05000000074505806,
+          0.0,
+          0.0
+        ]
+      ],
+      [
+        "_NyxStateOutlineColorNoiseScale",
+        [
+          2.0,
+          2.0,
+          0.0,
+          0.0
+        ]
+      ],
+      [
+        "_NyxStateOutlineVertAnimNoiseAnim",
+        [
+          0.05000000074505806,
+          0.05000000074505806,
+          0.0,
+          0.0
+        ]
+      ],
+      [
+        "_NyxStateOutlineVertAnimNoiseScale",
+        [
+          2.0,
+          2.0,
+          0.0,
+          0.0
+        ]
+      ],
+      [
+        "_NyxStateOutlineVertAnimScaleLerpHeightRange",
+        [
+          0.0,
+          1.0,
+          1.0,
+          0.0
+        ]
+      ],
+      [
+        "_NyxStateOutlineVertAnimScaleRange",
+        [
+          1.0,
+          1.0,
+          0.0,
+          0.0
+        ]
+      ],
+      [
+        "_NyxStateOutlineWidthScaleLerpHeightRange",
+        [
+          0.0,
+          1.0,
+          1.0,
+          0.0
+        ]
+      ],
+      [
+        "_NyxStateOutlineWidthScaleRange",
+        [
+          1.0,
+          1.0,
+          0.0,
+          0.0
+        ]
+      ],
+      [
+        "_NyxStateOutlineWidthVarietyWithResolution",
+        [
+          1080.0,
+          0.0,
+          0.0,
+          0.0
+        ]
+      ],
+      [
+        "_OutlineColor",
+        [
+          0.625,
+          0.3291919231414795,
+          0.30330878496170044,
+          1.0
+        ]
+      ],
+      [
+        "_OutlineColor2",
+        [
+          0.0,
+          0.0,
+          0.0,
+          1.0
+        ]
+      ],
+      [
+        "_OutlineWidthAdjustScales",
+        [
+          0.10499999672174454,
+          0.24500000476837158,
+          0.6000000238418579,
+          0.0
+        ]
+      ],
+      [
+        "_OutlineWidthAdjustZs",
+        [
+          0.009999999776482582,
+          2.0,
+          6.0,
+          0.0
+        ]
+      ],
+      [
+        "_ShaderLerpCharAvatarDie_DeathTintColor",
+        [
+          1.0,
+          1.0,
+          1.0,
+          1.0
+        ]
+      ],
+      [
+        "_ShaderLerpCharAvatarDie_DissolveColor",
+        [
+          0.43382346630096436,
+          1.0,
+          0.9297161102294922,
+          1.0
+        ]
+      ],
+      [
+        "_ShaderLerpCharDissolve_Color",
+        [
+          0.5,
+          1.0,
+          1.0,
+          1.0
+        ]
+      ],
+      [
+        "_SkinTintColor",
+        [
+          1.2209999561309814,
+          1.061007022857666,
+          0.9157500863075256,
+          1.0
+        ]
+      ],
+      [
+        "_SkinTintSecondColor",
+        [
+          0.0,
+          0.0,
+          0.0,
+          1.0
+        ]
+      ],
+      [
+        "_SpecularColor",
+        [
+          1.0,
+          1.0,
+          1.0,
+          1.0
+        ]
+      ],
+      [
+        "_SpecularColor2",
+        [
+          1.0,
+          1.0,
+          1.0,
+          1.0
+        ]
+      ]
+    ],
+    "shader_ref": "cab-bb8d9dd22670feb5fcd3fe1ff1f95d1a:-9048100887357078078"
+  },
+  "name": "Avatar_Boy_Sword_LittleIdolBoy_Mat_Face",
+  "parsed": true
+}

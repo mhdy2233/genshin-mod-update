@@ -1,0 +1,76 @@
+{
+  "kind": "native_profile",
+  "id": "flins",
+  "internal_name": "Flins",
+  "prefabs": [
+    {
+      "name": "Avatar_Male_Pole_Flins_Remote",
+      "path": "native/prefabs/1ac0b3ec82a3f513443027d5b563ebe0c4865c758c1d917b036dfd21cdddfac7.json",
+      "source_cab": "cab-94f2fa1c6651ccab934ef7e5f816fe49",
+      "variant_suffix": "_Remote",
+      "transform_count": 223,
+      "renderer_count": 10,
+      "internal_name": "Flins"
+    },
+    {
+      "name": "Avatar_Male_Pole_Flins_Manekin",
+      "path": "native/prefabs/336a133175692572ea437bc0655f3c4cb8b545d9b6ce6140b6e91dae452eade6.json",
+      "source_cab": "cab-a3d0ea1a6c60e0c5304a4c3823f4d862",
+      "variant_suffix": "_Manekin",
+      "transform_count": 192,
+      "renderer_count": 10,
+      "internal_name": "Flins"
+    },
+    {
+      "name": "Avatar_Male_Pole_Flins_Kanban_Edit",
+      "path": "native/prefabs/60e4a308deaabecf20cc69e56251d17e8d1e00c9ebc14ef45c61ed32149dc22e.json",
+      "source_cab": "cab-8e20cad26d441d2cc903b2ff7973e7f4",
+      "variant_suffix": "_Kanban_Edit",
+      "transform_count": 192,
+      "renderer_count": 10,
+      "internal_name": "Flins"
+    },
+    {
+      "name": "Avatar_Male_Pole_Flins_Kanban",
+      "path": "native/prefabs/64bab9175f8f1c6f19ab4c562c657a14a4402a4e361525c1ec9829d674a6af37.json",
+      "source_cab": "cab-34be0d51ae4f4fbf22a0d82655d5dea7",
+      "variant_suffix": "_Kanban",
+      "transform_count": 192,
+      "renderer_count": 10,
+      "internal_name": "Flins"
+    },
+    {
+      "name": "Avatar_Male_Pole_Flins",
+      "path": "native/prefabs/9282ddf344fced01801209164f0bfe625772e4ff268f7427adfaf989b226311b.json",
+      "source_cab": "cab-b530a68ecea26c6ede70f42c6c184e9a",
+      "variant_suffix": "",
+      "transform_count": 223,
+      "renderer_count": 10,
+      "internal_name": "Flins"
+    },
+    {
+      "name": "Avatar_Male_Pole_Flins_Edit",
+      "path": "native/prefabs/f69715c97089dd6945614dfc6ca837c0b383e873761302916fe306da631dec5d.json",
+      "source_cab": "cab-cb3bfc7b42d9667156ccbca85a082767",
+      "variant_suffix": "_Edit",
+      "transform_count": 223,
+      "renderer_count": 10,
+      "internal_name": "Flins"
+    }
+  ],
+  "roster_entries": [
+    {
+      "id": 10000120,
+      "internal_name": "Flins",
+      "name_zh": "菲林斯",
+      "use_type": "AVATAR_FORMAL",
+      "body_type": "BODY_MALE",
+      "weapon_type": "WEAPON_POLE",
+      "prefab_path_hash": "11074336533776458051"
+    }
+  ],
+  "costume": null,
+  "evidence_level": "installed_pc_asset_extraction",
+  "new_runtime_test_performed": false,
+  "character_id": "flins"
+}

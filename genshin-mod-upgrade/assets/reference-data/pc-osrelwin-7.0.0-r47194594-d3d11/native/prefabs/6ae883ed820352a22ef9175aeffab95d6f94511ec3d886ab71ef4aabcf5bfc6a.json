@@ -1,0 +1,7699 @@
+{
+  "kind": "native_prefab",
+  "id": "cab-456201db0dc1dbb485ed119872a16cba",
+  "source_cab": "cab-456201db0dc1dbb485ed119872a16cba",
+  "prefab_name": "Avatar_Girl_Bow_Ambor_Kanban",
+  "profile": "ambor",
+  "internal_name": "Ambor",
+  "body_token": "Girl",
+  "weapon_token": "Bow",
+  "variant_suffix": "_Kanban",
+  "root_transform_id": "5192241681517631792",
+  "transforms": {
+    "-9170409618989254831": {
+      "game_object": {
+        "file_id": 0,
+        "path_id": "-6524767967827900849"
+      },
+      "local_rotation_xyzw": [
+        -0.7071068286895752,
+        -0.7071067690849304,
+        2.824709213200549e-07,
+        0.00017263325571548194
+      ],
+      "local_position": [
+        0.5,
+        0.8999999761581421,
+        -3.999999620418748e-08
+      ],
+      "local_scale": [
+        1.0,
+        1.0,
+        1.0
+      ],
+      "children": [],
+      "parent": {
+        "file_id": 0,
+        "path_id": "-8757057724265982794"
+      },
+      "name": "CatalystR",
+      "path_components": [
+        "Avatar_Girl_Bow_Ambor_Kanban",
+        "Root",
+        "CatalystR"
+      ]
+    },
+    "-9024385611716233166": {
+      "game_object": {
+        "file_id": 0,
+        "path_id": "-4205741602765641286"
+      },
+      "local_rotation_xyzw": [
+        -2.425601053346327e-07,
+        4.884633497681534e-08,
+        0.11782927811145782,
+        -0.9930339455604553
+      ],
+      "local_position": [
+        -0.0238163024187088,
+        0.0,
+        -4.826610222607997e-10
+      ],
+      "local_scale": [
+        1.0000001192092896,
+        1.0,
+        1.0
+      ],
+      "children": [
+        {
+          "file_id": 0,
+          "path_id": "6910661736865184405"
+        }
+      ],
+      "parent": {
+        "file_id": 0,
+        "path_id": "1978012694229371096"
+      },
+      "name": "Bip001 R Finger22",
+      "path_components": [
+        "Avatar_Girl_Bow_Ambor_Kanban",
+        "Bip001",
+        "Bip001 Pelvis",
+        "Bip001 Spine",
+        "Bip001 Spine1",
+        "Bip001 Spine2",
+        "Bip001 R Clavicle",
+        "Bip001 R UpperArm",
+        "Bip001 R Forearm",
+        "Bip001 R Hand",
+        "Bip001 R Finger2",
+        "Bip001 R Finger21",
+        "Bip001 R Finger22"
+      ]
+    },
+    "-8817728259358464483": {
+      "game_object": {
+        "file_id": 0,
+        "path_id": "6157226625103359445"
+      },
+      "local_rotation_xyzw": [
+        -0.9486190676689148,
+        0.31114983558654785,
+        -0.025653069838881493,
+        0.05147381126880646
+      ],
+      "local_position": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "local_scale": [
+        1.0,
+        1.0,
+        1.0
+      ],
+      "children": [],
+      "parent": {
+        "file_id": 0,
+        "path_id": "-5960322304680996163"
+      },
+      "name": "WeaponL",
+      "path_components": [
+        "Avatar_Girl_Bow_Ambor_Kanban",
+        "Bip001",
+        "Bip001 Pelvis",
+        "Bip001 Spine",
+        "Bip001 Spine1",
+        "Bip001 Spine2",
+        "Bip001 L Clavicle",
+        "Bip001 L UpperArm",
+        "Bip001 L Forearm",
+        "Bip001 L Hand",
+        "WeaponL"
+      ]
+    },
+    "-8757057724265982794": {
+      "game_object": {
+        "file_id": 0,
+        "path_id": "1036767955112605432"
+      },
+      "local_rotation_xyzw": [
+        -0.0,
+        -0.0,
+        -0.0,
+        1.0
+      ],
+      "local_position": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "local_scale": [
+        1.0,
+        1.0,
+        1.0
+      ],
+      "children": [
+        {
+          "file_id": 0,
+          "path_id": "7959262982063385171"
+        },
+        {
+          "file_id": 0,
+          "path_id": "-2226848893539574033"
+        },
+        {
+          "file_id": 0,
+          "path_id": "-9170409618989254831"
+        }
+      ],
+      "parent": {
+        "file_id": 0,
+        "path_id": "5192241681517631792"
+      },
+      "name": "Root",
+      "path_components": [
+        "Avatar_Girl_Bow_Ambor_Kanban",
+        "Root"
+      ]
+    },
+    "-8632380392420789806": {
+      "game_object": {
+        "file_id": 0,
+        "path_id": "-1693978831061137046"
+      },
+      "local_rotation_xyzw": [
+        2.1855694143368964e-08,
+        0.0,
+        -0.0,
+        1.0
+      ],
+      "local_position": [
+        -0.0,
+        0.0,
+        0.0
+      ],
+      "local_scale": [
+        1.0,
+        1.0,
+        1.0
+      ],
+      "children": [],
+      "parent": {
+        "file_id": 0,
+        "path_id": "5192241681517631792"
+      },
+      "name": "Brow",
+      "path_components": [
+        "Avatar_Girl_Bow_Ambor_Kanban",
+        "Brow"
+      ]
+    },
+    "-8322688421953441693": {
+      "game_object": {
+        "file_id": 0,
+        "path_id": "4700750283818623060"
+      },
+      "local_rotation_xyzw": [
+        0.08617398142814636,
+        0.34874680638313293,
+        -0.19618597626686096,
+        0.9123929142951965
+      ],
+      "local_position": [
+        -0.08936136215925217,
+        4.703178291265431e-08,
+        4.544854164123535e-07
+      ],
+      "local_scale": [
+        0.9999998211860657,
+        0.9999998211860657,
+        0.9999999403953552
+      ],
+      "children": [
+        {
+          "file_id": 0,
+          "path_id": "-7951984432706239386"
+        },
+        {
+          "file_id": 0,
+          "path_id": "971802098721345876"
+        },
+        {
+          "file_id": 0,
+          "path_id": "7538285741678082746"
+        }
+      ],
+      "parent": {
+        "file_id": 0,
+        "path_id": "-6771496424848578058"
+      },
+      "name": "Bip001 R UpperArm",
+      "path_components": [
+        "Avatar_Girl_Bow_Ambor_Kanban",
+        "Bip001",
+        "Bip001 Pelvis",
+        "Bip001 Spine",
+        "Bip001 Spine1",
+        "Bip001 Spine2",
+        "Bip001 R Clavicle",
+        "Bip001 R UpperArm"
+      ]
+    },
+    "-8261034535499655595": {
+      "game_object": {
+        "file_id": 0,
+        "path_id": "2197166067255896022"
+      },
+      "local_rotation_xyzw": [
+        -3.2754840617599257e-07,
+        9.947665091658564e-08,
+        0.03254188969731331,
+        -0.9994703531265259
+      ],
+      "local_position": [
+        -0.01987881399691105,
+        1.192093463942001e-07,
+        6.401887908680237e-09
+      ],
+      "local_scale": [
+        1.0000001192092896,
+        1.0,
+        1.0
+      ],
+      "children": [
+        {
+          "file_id": 0,
+          "path_id": "8642945859820271643"
+        }
+      ],
+      "parent": {
+        "file_id": 0,
+        "path_id": "-6805595281270335811"
+      },
+      "name": "Bip001 R Finger12",
+      "path_components": [
+        "Avatar_Girl_Bow_Ambor_Kanban",
+        "Bip001",
+        "Bip001 Pelvis",
+        "Bip001 Spine",
+        "Bip001 Spine1",
+        "Bip001 Spine2",
+        "Bip001 R Clavicle",
+        "Bip001 R UpperArm",
+        "Bip001 R Forearm",
+        "Bip001 R Hand",
+        "Bip001 R Finger1",
+        "Bip001 R Finger11",
+        "Bip001 R Finger12"
+      ]
+    },
+    "-8243393226429494354": {
+      "game_object": {
+        "file_id": 0,
+        "path_id": "-6839257864655307660"
+      },
+      "local_rotation_xyzw": [
+        -0.01070993859320879,
+        -0.05113806203007698,
+        -0.11578293144702911,
+        0.9918994903564453
+      ],
+      "local_position": [
+        -0.06993387639522552,
+        0.0008187294588424265,
+        -0.005799065809696913
+      ],
+      "local_scale": [
+        0.9999998807907104,
+        0.9999998807907104,
+        0.9999998807907104
+      ],
+      "children": [
+        {
+          "file_id": 0,
+          "path_id": "2539408981860796469"
+        }
+      ],
+      "parent": {
+        "file_id": 0,
+        "path_id": "-5960322304680996163"
+      },
+      "name": "Bip001 L Finger2",
+      "path_components": [
+        "Avatar_Girl_Bow_Ambor_Kanban",
+        "Bip001",
+        "Bip001 Pelvis",
+        "Bip001 Spine",
+        "Bip001 Spine1",
+        "Bip001 Spine2",
+        "Bip001 L Clavicle",
+        "Bip001 L UpperArm",
+        "Bip001 L Forearm",
+        "Bip001 L Hand",
+        "Bip001 L Finger2"
+      ]
+    },
+    "-8018381210386597878": {
+      "game_object": {
+        "file_id": 0,
+        "path_id": "7669150178489023049"
+      },
+      "local_rotation_xyzw": [
+        -0.03980446234345436,
+        0.9852275848388672,
+        -0.13091036677360535,
+        0.1029798611998558
+      ],
+      "local_position": [
+        5.960465188081798e-08,
+        1.3929677322721545e-07,
+        0.07609198987483978
+      ],
+      "local_scale": [
+        1.0000001192092896,
+        1.0,
+        1.0000001192092896
+      ],
+      "children": [
+        {
+          "file_id": 0,
+          "path_id": "3387009638530333765"
+        }
+      ],
+      "parent": {
+        "file_id": 0,
+        "path_id": "3967143534093719871"
+      },
+      "name": "Bip001 L Thigh",
+      "path_components": [
+        "Avatar_Girl_Bow_Ambor_Kanban",
+        "Bip001",
+        "Bip001 Pelvis",
+        "Bip001 L Thigh"
+      ]
+    },
+    "-8012717525235389140": {
+      "game_object": {
+        "file_id": 0,
+        "path_id": "-8484549808962888881"
+      },
+      "local_rotation_xyzw": [
+        -0.48226016759872437,
+        0.4976397454738617,
+        0.555284857749939,
+        0.45982447266578674
+      ],
+      "local_position": [
+        0.001350384671241045,
+        0.8764597177505493,
+        0.026123888790607452
+      ],
+      "local_scale": [
+        0.9999999403953552,
+        0.9999999403953552,
+        1.0
+      ],
+      "children": [
+        {
+          "file_id": 0,
+          "path_id": "6315598708119467498"
+        },
+        {
+          "file_id": 0,
+          "path_id": "2181398867222945419"
+        },
+        {
+          "file_id": 0,
+          "path_id": "3967143534093719871"
+        }
+      ],
+      "parent": {
+        "file_id": 0,
+        "path_id": "5192241681517631792"
+      },
+      "name": "Bip001",
+      "path_components": [
+        "Avatar_Girl_Bow_Ambor_Kanban",
+        "Bip001"
+      ]
+    },
+    "-7951984432706239386": {
+      "game_object": {
+        "file_id": 0,
+        "path_id": "1306436533651103689"
+      },
+      "local_rotation_xyzw": [
+        -0.9997385740280151,
+        -0.009166772477328777,
+        0.020524563267827034,
+        0.0041838898323476315
+      ],
+      "local_position": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "local_scale": [
+        1.0,
+        1.0,
+        1.0
+      ],
+      "children": [],
+      "parent": {
+        "file_id": 0,
+        "path_id": "-8322688421953441693"
+      },
+      "name": "+UpperArmTwist R A01",
+      "path_components": [
+        "Avatar_Girl_Bow_Ambor_Kanban",
+        "Bip001",
+        "Bip001 Pelvis",
+        "Bip001 Spine",
+        "Bip001 Spine1",
+        "Bip001 Spine2",
+        "Bip001 R Clavicle",
+        "Bip001 R UpperArm",
+        "+UpperArmTwist R A01"
+      ]
+    },
+    "-7820089386783121296": {
+      "game_object": {
+        "file_id": 0,
+        "path_id": "-2145935299948743698"
+      },
+      "local_rotation_xyzw": [
+        2.1855694143368964e-08,
+        0.0,
+        -0.0,
+        1.0
+      ],
+      "local_position": [
+        -0.0,
+        0.0,
+        0.0
+      ],
+      "local_scale": [
+        1.0,
+        1.0,
+        1.0
+      ],
+      "children": [],
+      "parent": {
+        "file_id": 0,
+        "path_id": "5192241681517631792"
+      },
+      "name": "Face",
+      "path_components": [
+        "Avatar_Girl_Bow_Ambor_Kanban",
+        "Face"
+      ]
+    },
+    "-7652310181513145023": {
+      "game_object": {
+        "file_id": 0,
+        "path_id": "-2448105086269369621"
+      },
+      "local_rotation_xyzw": [
+        0.5840823650360107,
+        0.022076472640037537,
+        -0.8110937476158142,
+        -0.022076506167650223
+      ],
+      "local_position": [
+        -0.15444134175777435,
+        -0.007685850840061903,
+        0.016853798180818558
+      ],
+      "local_scale": [
+        1.0000001192092896,
+        1.0000001192092896,
+        1.0
+      ],
+      "children": [
+        {
+          "file_id": 0,
+          "path_id": "-2044189528292406799"
+        }
+      ],
+      "parent": {
+        "file_id": 0,
+        "path_id": "-4995281256955458469"
+      },
+      "name": "Bip001 L Clavicle",
+      "path_components": [
+        "Avatar_Girl_Bow_Ambor_Kanban",
+        "Bip001",
+        "Bip001 Pelvis",
+        "Bip001 Spine",
+        "Bip001 Spine1",
+        "Bip001 Spine2",
+        "Bip001 L Clavicle"
+      ]
+    },
+    "-7534467053401638697": {
+      "game_object": {
+        "file_id": 0,
+        "path_id": "-3797749324599512357"
+      },
+      "local_rotation_xyzw": [
+        0.0,
+        0.0,
+        0.0,
+        1.0
+      ],
+      "local_position": [
+        -0.2540000081062317,
+        0.0,
+        0.0
+      ],
+      "local_scale": [
+        1.0,
+        1.0,
+        1.0
+      ],
+      "children": [],
+      "parent": {
+        "file_id": 0,
+        "path_id": "4175417530043126864"
+      },
+      "name": "HitObject4",
+      "path_components": [
+        "Avatar_Girl_Bow_Ambor_Kanban",
+        "Bip001",
+        "Bip001 Pelvis",
+        "Bip001 R Thigh",
+        "Bip001 R Calf",
+        "HitObject4"
+      ]
+    },
+    "-7367758531345397864": {
+      "game_object": {
+        "file_id": 0,
+        "path_id": "-6011407896094240645"
+      },
+      "local_rotation_xyzw": [
+        0.0419175922870636,
+        -0.04191841185092926,
+        -0.7058634757995605,
+        0.7058629989624023
+      ],
+      "local_position": [
+        -0.03321671858429909,
+        0.00011627197091002017,
+        -0.0006886183982715011
+      ],
+      "local_scale": [
+        1.0000001192092896,
+        1.0000001192092896,
+        1.0
+      ],
+      "children": [],
+      "parent": {
+        "file_id": 0,
+        "path_id": "5166720436746767400"
+      },
+      "name": "+EyeBone R A02",
+      "path_components": [
+        "Avatar_Girl_Bow_Ambor_Kanban",
+        "Bip001",
+        "Bip001 Pelvis",
+        "Bip001 Spine",
+        "Bip001 Spine1",
+        "Bip001 Spine2",
+        "Bip001 Neck",
+        "Bip001 Head",
+        "+EyeBone R A01",
+        "+EyeBone R A02"
+      ]
+    },
+    "-7256770248825423741": {
+      "game_object": {
+        "file_id": 0,
+        "path_id": "6253728634954100365"
+      },
+      "local_rotation_xyzw": [
+        0.0012290443992242217,
+        -0.008264753036201,
+        -0.10718260705471039,
+        0.9942042231559753
+      ],
+      "local_position": [
+        -0.02033618837594986,
+        -9.53674295089968e-09,
+        0.0
+      ],
+      "local_scale": [
+        1.0,
+        1.0,
+        1.0
+      ],
+      "children": [
+        {
+          "file_id": 0,
+          "path_id": "7844540062639701229"
+        }
+      ],
+      "parent": {
+        "file_id": 0,
+        "path_id": "-7192279584454777093"
+      },
+      "name": "Bip001 L Finger02",
+      "path_components": [
+        "Avatar_Girl_Bow_Ambor_Kanban",
+        "Bip001",
+        "Bip001 Pelvis",
+        "Bip001 Spine",
+        "Bip001 Spine1",
+        "Bip001 Spine2",
+        "Bip001 L Clavicle",
+        "Bip001 L UpperArm",
+        "Bip001 L Forearm",
+        "Bip001 L Hand",
+        "Bip001 L Finger0",
+        "Bip001 L Finger01",
+        "Bip001 L Finger02"
+      ]
+    },
+    "-7192279584454777093": {
+      "game_object": {
+        "file_id": 0,
+        "path_id": "-8228677307571106435"
+      },
+      "local_rotation_xyzw": [
+        0.0024521469604223967,
+        -0.01524377427995205,
+        -0.12109038233757019,
+        0.9925214052200317
+      ],
+      "local_position": [
+        -0.02547859214246273,
+        -3.814697180359872e-08,
+        0.0
+      ],
+      "local_scale": [
+        1.0,
+        1.0,
+        1.0
+      ],
+      "children": [
+        {
+          "file_id": 0,
+          "path_id": "-7256770248825423741"
+        }
+      ],
+      "parent": {
+        "file_id": 0,
+        "path_id": "1357126967165137523"
+      },
+      "name": "Bip001 L Finger01",
+      "path_components": [
+        "Avatar_Girl_Bow_Ambor_Kanban",
+        "Bip001",
+        "Bip001 Pelvis",
+        "Bip001 Spine",
+        "Bip001 Spine1",
+        "Bip001 Spine2",
+        "Bip001 L Clavicle",
+        "Bip001 L UpperArm",
+        "Bip001 L Forearm",
+        "Bip001 L Hand",
+        "Bip001 L Finger0",
+        "Bip001 L Finger01"
+      ]
+    },
+    "-6900492153184675004": {
+      "game_object": {
+        "file_id": 0,
+        "path_id": "-433892398082323821"
+      },
+      "local_rotation_xyzw": [
+        -0.020501606166362762,
+        -0.05747333914041519,
+        -0.3278125524520874,
+        0.9427701234817505
+      ],
+      "local_position": [
+        -0.09713317453861237,
+        -3.433227391269611e-07,
+        -1.983642505365424e-06
+      ],
+      "local_scale": [
+        1.0,
+        1.0,
+        1.0
+      ],
+      "children": [],
+      "parent": {
+        "file_id": 0,
+        "path_id": "-6895996049110689070"
+      },
+      "name": "+EarS R A02",
+      "path_components": [
+        "Avatar_Girl_Bow_Ambor_Kanban",
+        "Bip001",
+        "Bip001 Pelvis",
+        "Bip001 Spine",
+        "Bip001 Spine1",
+        "Bip001 Spine2",
+        "Bip001 Neck",
+        "Bip001 Head",
+        "+EarS R A01",
+        "+EarS R A02"
+      ]
+    },
+    "-6895996049110689070": {
+      "game_object": {
+        "file_id": 0,
+        "path_id": "8474010137392495195"
+      },
+      "local_rotation_xyzw": [
+        0.8737434148788452,
+        -0.15081125497817993,
+        0.4546818435192108,
+        0.0842195376753807
+      ],
+      "local_position": [
+        -0.2255508303642273,
+        0.0354338213801384,
+        -0.004225158132612705
+      ],
+      "local_scale": [
+        1.0,
+        0.9999999403953552,
+        1.0
+      ],
+      "children": [
+        {
+          "file_id": 0,
+          "path_id": "-6900492153184675004"
+        }
+      ],
+      "parent": {
+        "file_id": 0,
+        "path_id": "745728562800963796"
+      },
+      "name": "+EarS R A01",
+      "path_components": [
+        "Avatar_Girl_Bow_Ambor_Kanban",
+        "Bip001",
+        "Bip001 Pelvis",
+        "Bip001 Spine",
+        "Bip001 Spine1",
+        "Bip001 Spine2",
+        "Bip001 Neck",
+        "Bip001 Head",
+        "+EarS R A01"
+      ]
+    },
+    "-6805595281270335811": {
+      "game_object": {
+        "file_id": 0,
+        "path_id": "1408701090920057239"
+      },
+      "local_rotation_xyzw": [
+        -3.1538354505755706e-07,
+        8.153926245313414e-08,
+        0.08512434363365173,
+        -0.9963703751564026
+      ],
+      "local_position": [
+        -0.024974768981337547,
+        -1.192093321833454e-07,
+        2.3131203619186635e-09
+      ],
+      "local_scale": [
+        0.9999999403953552,
+        0.9999999403953552,
+        0.9999999403953552
+      ],
+      "children": [
+        {
+          "file_id": 0,
+          "path_id": "-8261034535499655595"
+        }
+      ],
+      "parent": {
+        "file_id": 0,
+        "path_id": "-2225301868024967569"
+      },
+      "name": "Bip001 R Finger11",
+      "path_components": [
+        "Avatar_Girl_Bow_Ambor_Kanban",
+        "Bip001",
+        "Bip001 Pelvis",
+        "Bip001 Spine",
+        "Bip001 Spine1",
+        "Bip001 Spine2",
+        "Bip001 R Clavicle",
+        "Bip001 R UpperArm",
+        "Bip001 R Forearm",
+        "Bip001 R Hand",
+        "Bip001 R Finger1",
+        "Bip001 R Finger11"
+      ]
+    },
+    "-6771496424848578058": {
+      "game_object": {
+        "file_id": 0,
+        "path_id": "78543080765030484"
+      },
+      "local_rotation_xyzw": [
+        0.5840824842453003,
+        0.02207447960972786,
+        0.8110938668251038,
+        0.02207440882921219
+      ],
+      "local_position": [
+        -0.15444134175777435,
+        -0.007685780059546232,
+        -0.01685383729636669
+      ],
+      "local_scale": [
+        1.0000001192092896,
+        1.0000001192092896,
+        1.0
+      ],
+      "children": [
+        {
+          "file_id": 0,
+          "path_id": "-8322688421953441693"
+        }
+      ],
+      "parent": {
+        "file_id": 0,
+        "path_id": "-4995281256955458469"
+      },
+      "name": "Bip001 R Clavicle",
+      "path_components": [
+        "Avatar_Girl_Bow_Ambor_Kanban",
+        "Bip001",
+        "Bip001 Pelvis",
+        "Bip001 Spine",
+        "Bip001 Spine1",
+        "Bip001 Spine2",
+        "Bip001 R Clavicle"
+      ]
+    },
+    "-6387985896221723767": {
+      "game_object": {
+        "file_id": 0,
+        "path_id": "-1935797259829167374"
+      },
+      "local_rotation_xyzw": [
+        0.01966339908540249,
+        0.009747060015797615,
+        0.21273711323738098,
+        0.9768629670143127
+      ],
+      "local_position": [
+        -0.12437362223863602,
+        -3.128051730527659e-06,
+        -3.8146970382513246e-07
+      ],
+      "local_scale": [
+        1.0,
+        1.0000001192092896,
+        1.0
+      ],
+      "children": [
+        {
+          "file_id": 0,
+          "path_id": "338288120752737046"
+        }
+      ],
+      "parent": {
+        "file_id": 0,
+        "path_id": "-4753165010172785347"
+      },
+      "name": "+HairB L B03",
+      "path_components": [
+        "Avatar_Girl_Bow_Ambor_Kanban",
+        "Bip001",
+        "Bip001 Pelvis",
+        "Bip001 Spine",
+        "Bip001 Spine1",
+        "Bip001 Spine2",
+        "Bip001 Neck",
+        "Bip001 Head",
+        "+HairB L B01",
+        "+HairB L B02",
+        "+HairB L B03"
+      ]
+    },
+    "-6386239436522052731": {
+      "game_object": {
+        "file_id": 0,
+        "path_id": "5911700627048891195"
+      },
+      "local_rotation_xyzw": [
+        -2.149037360148513e-15,
+        1.7763570511584873e-15,
+        1.0,
+        1.0719373048158516e-14
+      ],
+      "local_position": [
+        -0.04250624403357506,
+        0.0,
+        -2.38418573772492e-09
+      ],
+      "local_scale": [
+        -1.0,
+        -0.9999999403953552,
+        -1.0
+      ],
+      "children": [],
+      "parent": {
+        "file_id": 0,
+        "path_id": "4932334178784255041"
+      },
+      "name": "Bip001 L Toe0Nub",
+      "path_components": [
+        "Avatar_Girl_Bow_Ambor_Kanban",
+        "Bip001",
+        "Bip001 Pelvis",
+        "Bip001 L Thigh",
+        "Bip001 L Calf",
+        "Bip001 L Foot",
+        "Bip001 L Toe0",
+        "Bip001 L Toe0Nub"
+      ]
+    },
+    "-6330072935276209107": {
+      "game_object": {
+        "file_id": 0,
+        "path_id": "3877517280496356285"
+      },
+      "local_rotation_xyzw": [
+        1.580212511953505e-07,
+        -2.925592923475051e-08,
+        -0.11818665266036987,
+        0.9929914474487305
+      ],
+      "local_position": [
+        -0.023816287517547607,
+        0.0,
+        -2.802543308533245e-09
+      ],
+      "local_scale": [
+        1.0000001192092896,
+        1.0000001192092896,
+        1.0000001192092896
+      ],
+      "children": [
+        {
+          "file_id": 0,
+          "path_id": "4445323562660564060"
+        }
+      ],
+      "parent": {
+        "file_id": 0,
+        "path_id": "2539408981860796469"
+      },
+      "name": "Bip001 L Finger22",
+      "path_components": [
+        "Avatar_Girl_Bow_Ambor_Kanban",
+        "Bip001",
+        "Bip001 Pelvis",
+        "Bip001 Spine",
+        "Bip001 Spine1",
+        "Bip001 Spine2",
+        "Bip001 L Clavicle",
+        "Bip001 L UpperArm",
+        "Bip001 L Forearm",
+        "Bip001 L Hand",
+        "Bip001 L Finger2",
+        "Bip001 L Finger21",
+        "Bip001 L Finger22"
+      ]
+    },
+    "-6019297719820240132": {
+      "game_object": {
+        "file_id": 0,
+        "path_id": "2700312434893377848"
+      },
+      "local_rotation_xyzw": [
+        -0.023674681782722473,
+        -0.055709339678287506,
+        -0.17405077815055847,
+        0.9828745722770691
+      ],
+      "local_position": [
+        -0.06885980814695358,
+        0.0018534662667661905,
+        0.011120941489934921
+      ],
+      "local_scale": [
+        0.9999998807907104,
+        0.9999999403953552,
+        0.9999999403953552
+      ],
+      "children": [
+        {
+          "file_id": 0,
+          "path_id": "-2195839612704067057"
+        }
+      ],
+      "parent": {
+        "file_id": 0,
+        "path_id": "-5960322304680996163"
+      },
+      "name": "Bip001 L Finger3",
+      "path_components": [
+        "Avatar_Girl_Bow_Ambor_Kanban",
+        "Bip001",
+        "Bip001 Pelvis",
+        "Bip001 Spine",
+        "Bip001 Spine1",
+        "Bip001 Spine2",
+        "Bip001 L Clavicle",
+        "Bip001 L UpperArm",
+        "Bip001 L Forearm",
+        "Bip001 L Hand",
+        "Bip001 L Finger3"
+      ]
+    },
+    "-5966268962463930342": {
+      "game_object": {
+        "file_id": 0,
+        "path_id": "-3142815144051296090"
+      },
+      "local_rotation_xyzw": [
+        2.1855694143368964e-08,
+        0.0,
+        -0.0,
+        1.0
+      ],
+      "local_position": [
+        -0.0,
+        0.0,
+        0.0
+      ],
+      "local_scale": [
+        1.0,
+        1.0,
+        1.0
+      ],
+      "children": [],
+      "parent": {
+        "file_id": 0,
+        "path_id": "5192241681517631792"
+      },
+      "name": "Face_Eye",
+      "path_components": [
+        "Avatar_Girl_Bow_Ambor_Kanban",
+        "Face_Eye"
+      ]
+    },
+    "-5960322304680996163": {
+      "game_object": {
+        "file_id": 0,
+        "path_id": "2519302039326622915"
+      },
+      "local_rotation_xyzw": [
+        0.5809416770935059,
+        -0.14583934843540192,
+        -0.12012031674385071,
+        -0.7917125821113586
+      ],
+      "local_position": [
+        -0.18090586364269257,
+        3.77185607192132e-08,
+        0.00019843131303787231
+      ],
+      "local_scale": [
+        1.0,
+        1.0000001192092896,
+        1.0000001192092896
+      ],
+      "children": [
+        {
+          "file_id": 0,
+          "path_id": "1357126967165137523"
+        },
+        {
+          "file_id": 0,
+          "path_id": "-416725429816004428"
+        },
+        {
+          "file_id": 0,
+          "path_id": "-8243393226429494354"
+        },
+        {
+          "file_id": 0,
+          "path_id": "-6019297719820240132"
+        },
+        {
+          "file_id": 0,
+          "path_id": "-1049791237191746330"
+        },
+        {
+          "file_id": 0,
+          "path_id": "-8817728259358464483"
+        }
+      ],
+      "parent": {
+        "file_id": 0,
+        "path_id": "1896527169830542836"
+      },
+      "name": "Bip001 L Hand",
+      "path_components": [
+        "Avatar_Girl_Bow_Ambor_Kanban",
+        "Bip001",
+        "Bip001 Pelvis",
+        "Bip001 Spine",
+        "Bip001 Spine1",
+        "Bip001 Spine2",
+        "Bip001 L Clavicle",
+        "Bip001 L UpperArm",
+        "Bip001 L Forearm",
+        "Bip001 L Hand"
+      ]
+    },
+    "-5800991470812447633": {
+      "game_object": {
+        "file_id": 0,
+        "path_id": "-1811731587398204422"
+      },
+      "local_rotation_xyzw": [
+        0.0868053212761879,
+        0.7291963696479797,
+        -0.4802333414554596,
+        -0.479701429605484
+      ],
+      "local_position": [
+        -0.09440643340349197,
+        0.0018343853298574686,
+        -0.10066844522953033
+      ],
+      "local_scale": [
+        0.9999999403953552,
+        1.0,
+        1.0
+      ],
+      "children": [],
+      "parent": {
+        "file_id": 0,
+        "path_id": "745728562800963796"
+      },
+      "name": "+HairS R C01",
+      "path_components": [
+        "Avatar_Girl_Bow_Ambor_Kanban",
+        "Bip001",
+        "Bip001 Pelvis",
+        "Bip001 Spine",
+        "Bip001 Spine1",
+        "Bip001 Spine2",
+        "Bip001 Neck",
+        "Bip001 Head",
+        "+HairS R C01"
+      ]
+    },
+    "-5306620898266165772": {
+      "game_object": {
+        "file_id": 0,
+        "path_id": "2286638368854433371"
+      },
+      "local_rotation_xyzw": [
+        -0.014519385062158108,
+        -0.0045504798181355,
+        0.1644309163093567,
+        -0.9862712621688843
+      ],
+      "local_position": [
+        -0.06273794919252396,
+        0.0046074409037828445,
+        -0.02420196123421192
+      ],
+      "local_scale": [
+        1.0000001192092896,
+        0.9999998807907104,
+        1.0
+      ],
+      "children": [
+        {
+          "file_id": 0,
+          "path_id": "-254778508421104525"
+        }
+      ],
+      "parent": {
+        "file_id": 0,
+        "path_id": "1835839520754342258"
+      },
+      "name": "Bip001 R Finger4",
+      "path_components": [
+        "Avatar_Girl_Bow_Ambor_Kanban",
+        "Bip001",
+        "Bip001 Pelvis",
+        "Bip001 Spine",
+        "Bip001 Spine1",
+        "Bip001 Spine2",
+        "Bip001 R Clavicle",
+        "Bip001 R UpperArm",
+        "Bip001 R Forearm",
+        "Bip001 R Hand",
+        "Bip001 R Finger4"
+      ]
+    },
+    "-5120134024378554929": {
+      "game_object": {
+        "file_id": 0,
+        "path_id": "-7588475052813376681"
+      },
+      "local_rotation_xyzw": [
+        -2.220446049250313e-16,
+        -1.4901161193847656e-08,
+        1.0,
+        1.4901161193847656e-08
+      ],
+      "local_position": [
+        -0.02165401354432106,
+        -7.629394360719743e-08,
+        1.907348590179936e-08
+      ],
+      "local_scale": [
+        -1.0,
+        -1.0,
+        -1.0
+      ],
+      "children": [],
+      "parent": {
+        "file_id": 0,
+        "path_id": "-2660891953163345712"
+      },
+      "name": "Bip001 R Finger0Nub",
+      "path_components": [
+        "Avatar_Girl_Bow_Ambor_Kanban",
+        "Bip001",
+        "Bip001 Pelvis",
+        "Bip001 Spine",
+        "Bip001 Spine1",
+        "Bip001 Spine2",
+        "Bip001 R Clavicle",
+        "Bip001 R UpperArm",
+        "Bip001 R Forearm",
+        "Bip001 R Hand",
+        "Bip001 R Finger0",
+        "Bip001 R Finger01",
+        "Bip001 R Finger02",
+        "Bip001 R Finger0Nub"
+      ]
+    },
+    "-4995281256955458469": {
+      "game_object": {
+        "file_id": 0,
+        "path_id": "-3265759351617873843"
+      },
+      "local_rotation_xyzw": [
+        0.020558172836899757,
+        -0.03432267904281616,
+        0.09566652029752731,
+        0.9946091175079346
+      ],
+      "local_position": [
+        -0.06684696674346924,
+        -0.0001220333797391504,
+        -1.1641532182693481e-10
+      ],
+      "local_scale": [
+        1.0000001192092896,
+        1.0000001192092896,
+        1.0
+      ],
+      "children": [
+        {
+          "file_id": 0,
+          "path_id": "6378945009453556391"
+        },
+        {
+          "file_id": 0,
+          "path_id": "-24789523013156944"
+        },
+        {
+          "file_id": 0,
+          "path_id": "-1696218838252506290"
+        },
+        {
+          "file_id": 0,
+          "path_id": "-7652310181513145023"
+        },
+        {
+          "file_id": 0,
+          "path_id": "-4751825393360302517"
+        },
+        {
+          "file_id": 0,
+          "path_id": "-6771496424848578058"
+        },
+        {
+          "file_id": 0,
+          "path_id": "5483776165114993725"
+        },
+        {
+          "file_id": 0,
+          "path_id": "8176244249897317046"
+        }
+      ],
+      "parent": {
+        "file_id": 0,
+        "path_id": "3670604818566406978"
+      },
+      "name": "Bip001 Spine2",
+      "path_components": [
+        "Avatar_Girl_Bow_Ambor_Kanban",
+        "Bip001",
+        "Bip001 Pelvis",
+        "Bip001 Spine",
+        "Bip001 Spine1",
+        "Bip001 Spine2"
+      ]
+    },
+    "-4845974877720528088": {
+      "game_object": {
+        "file_id": 0,
+        "path_id": "4268071518795581810"
+      },
+      "local_rotation_xyzw": [
+        -0.6995188593864441,
+        0.6995435953140259,
+        0.10318583995103836,
+        0.10327096283435822
+      ],
+      "local_position": [
+        -0.05377441272139549,
+        0.048309143632650375,
+        0.03282958269119263
+      ],
+      "local_scale": [
+        1.0,
+        0.9999999403953552,
+        1.0
+      ],
+      "children": [
+        {
+          "file_id": 0,
+          "path_id": "-511078113831442113"
+        }
+      ],
+      "parent": {
+        "file_id": 0,
+        "path_id": "745728562800963796"
+      },
+      "name": "+EyeBone L A01",
+      "path_components": [
+        "Avatar_Girl_Bow_Ambor_Kanban",
+        "Bip001",
+        "Bip001 Pelvis",
+        "Bip001 Spine",
+        "Bip001 Spine1",
+        "Bip001 Spine2",
+        "Bip001 Neck",
+        "Bip001 Head",
+        "+EyeBone L A01"
+      ]
+    },
+    "-4753165010172785347": {
+      "game_object": {
+        "file_id": 0,
+        "path_id": "190523598757847397"
+      },
+      "local_rotation_xyzw": [
+        -0.006512010935693979,
+        -0.050550468266010284,
+        -0.20513954758644104,
+        0.977404773235321
+      ],
+      "local_position": [
+        -0.17541328072547913,
+        2.670288097306184e-07,
+        3.433227391269611e-07
+      ],
+      "local_scale": [
+        1.0,
+        1.0,
+        1.0
+      ],
+      "children": [
+        {
+          "file_id": 0,
+          "path_id": "-6387985896221723767"
+        }
+      ],
+      "parent": {
+        "file_id": 0,
+        "path_id": "-3540897847426781675"
+      },
+      "name": "+HairB L B02",
+      "path_components": [
+        "Avatar_Girl_Bow_Ambor_Kanban",
+        "Bip001",
+        "Bip001 Pelvis",
+        "Bip001 Spine",
+        "Bip001 Spine1",
+        "Bip001 Spine2",
+        "Bip001 Neck",
+        "Bip001 Head",
+        "+HairB L B01",
+        "+HairB L B02"
+      ]
+    },
+    "-4751825393360302517": {
+      "game_object": {
+        "file_id": 0,
+        "path_id": "1424984034808697635"
+      },
+      "local_rotation_xyzw": [
+        0.0020707021467387676,
+        0.025097627192735672,
+        -0.21895244717597961,
+        0.975410521030426
+      ],
+      "local_position": [
+        -0.1773296445608139,
+        0.000921475060749799,
+        -6.752088665962219e-09
+      ],
+      "local_scale": [
+        1.0,
+        0.9999999403953552,
+        1.0
+      ],
+      "children": [
+        {
+          "file_id": 0,
+          "path_id": "745728562800963796"
+        }
+      ],
+      "parent": {
+        "file_id": 0,
+        "path_id": "-4995281256955458469"
+      },
+      "name": "Bip001 Neck",
+      "path_components": [
+        "Avatar_Girl_Bow_Ambor_Kanban",
+        "Bip001",
+        "Bip001 Pelvis",
+        "Bip001 Spine",
+        "Bip001 Spine1",
+        "Bip001 Spine2",
+        "Bip001 Neck"
+      ]
+    },
+    "-4526136839928086194": {
+      "game_object": {
+        "file_id": 0,
+        "path_id": "-7695147017816035378"
+      },
+      "local_rotation_xyzw": [
+        0.08536200225353241,
+        0.7276627421379089,
+        0.4830173850059509,
+        0.4794939458370209
+      ],
+      "local_position": [
+        -0.09440719336271286,
+        0.0018317686626687646,
+        0.1006675660610199
+      ],
+      "local_scale": [
+        0.9999998211860657,
+        0.9999998807907104,
+        0.9999999403953552
+      ],
+      "children": [],
+      "parent": {
+        "file_id": 0,
+        "path_id": "745728562800963796"
+      },
+      "name": "+HairS L C01",
+      "path_components": [
+        "Avatar_Girl_Bow_Ambor_Kanban",
+        "Bip001",
+        "Bip001 Pelvis",
+        "Bip001 Spine",
+        "Bip001 Spine1",
+        "Bip001 Spine2",
+        "Bip001 Neck",
+        "Bip001 Head",
+        "+HairS L C01"
+      ]
+    },
+    "-4431815637448652654": {
+      "game_object": {
+        "file_id": 0,
+        "path_id": "-3758340944688034302"
+      },
+      "local_rotation_xyzw": [
+        -0.010710402391850948,
+        -0.05113806575536728,
+        0.11578285694122314,
+        -0.9918994903564453
+      ],
+      "local_position": [
+        -0.06993398815393448,
+        0.0008187297498807311,
+        0.0057990592904388905
+      ],
+      "local_scale": [
+        0.9999998807907104,
+        0.9999998211860657,
+        1.0000001192092896
+      ],
+      "children": [
+        {
+          "file_id": 0,
+          "path_id": "1978012694229371096"
+        }
+      ],
+      "parent": {
+        "file_id": 0,
+        "path_id": "1835839520754342258"
+      },
+      "name": "Bip001 R Finger2",
+      "path_components": [
+        "Avatar_Girl_Bow_Ambor_Kanban",
+        "Bip001",
+        "Bip001 Pelvis",
+        "Bip001 Spine",
+        "Bip001 Spine1",
+        "Bip001 Spine2",
+        "Bip001 R Clavicle",
+        "Bip001 R UpperArm",
+        "Bip001 R Forearm",
+        "Bip001 R Hand",
+        "Bip001 R Finger2"
+      ]
+    },
+    "-4429711824367573148": {
+      "game_object": {
+        "file_id": 0,
+        "path_id": "2386150939663570271"
+      },
+      "local_rotation_xyzw": [
+        -3.628400975230761e-07,
+        8.18354592979631e-08,
+        0.14314600825309753,
+        -0.9897016286849976
+      ],
+      "local_position": [
+        -0.014911537989974022,
+        0.0,
+        1.0387402937794832e-08
+      ],
+      "local_scale": [
+        1.0,
+        1.0,
+        1.0
+      ],
+      "children": [
+        {
+          "file_id": 0,
+          "path_id": "-2817895480344922458"
+        }
+      ],
+      "parent": {
+        "file_id": 0,
+        "path_id": "-254778508421104525"
+      },
+      "name": "Bip001 R Finger42",
+      "path_components": [
+        "Avatar_Girl_Bow_Ambor_Kanban",
+        "Bip001",
+        "Bip001 Pelvis",
+        "Bip001 Spine",
+        "Bip001 Spine1",
+        "Bip001 Spine2",
+        "Bip001 R Clavicle",
+        "Bip001 R UpperArm",
+        "Bip001 R Forearm",
+        "Bip001 R Hand",
+        "Bip001 R Finger4",
+        "Bip001 R Finger41",
+        "Bip001 R Finger42"
+      ]
+    },
+    "-4358059350374179913": {
+      "game_object": {
+        "file_id": 0,
+        "path_id": "8221139417083700151"
+      },
+      "local_rotation_xyzw": [
+        0.9998510479927063,
+        -0.013030458241701126,
+        -0.011012875474989414,
+        0.0026129966136068106
+      ],
+      "local_position": [
+        -0.1072247326374054,
+        -0.0027504311874508858,
+        -0.0022999572101980448
+      ],
+      "local_scale": [
+        1.0,
+        1.0,
+        1.0
+      ],
+      "children": [],
+      "parent": {
+        "file_id": 0,
+        "path_id": "-2044189528292406799"
+      },
+      "name": "+UpperArmTwist L A02",
+      "path_components": [
+        "Avatar_Girl_Bow_Ambor_Kanban",
+        "Bip001",
+        "Bip001 Pelvis",
+        "Bip001 Spine",
+        "Bip001 Spine1",
+        "Bip001 Spine2",
+        "Bip001 L Clavicle",
+        "Bip001 L UpperArm",
+        "+UpperArmTwist L A02"
+      ]
+    },
+    "-4111556551948651160": {
+      "game_object": {
+        "file_id": 0,
+        "path_id": "1313425080558716115"
+      },
+      "local_rotation_xyzw": [
+        0.0,
+        0.0,
+        0.0,
+        1.0
+      ],
+      "local_position": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "local_scale": [
+        1.0,
+        1.0,
+        1.0
+      ],
+      "children": [],
+      "parent": {
+        "file_id": 0,
+        "path_id": "7538285741678082746"
+      },
+      "name": "HitObject5",
+      "path_components": [
+        "Avatar_Girl_Bow_Ambor_Kanban",
+        "Bip001",
+        "Bip001 Pelvis",
+        "Bip001 Spine",
+        "Bip001 Spine1",
+        "Bip001 Spine2",
+        "Bip001 R Clavicle",
+        "Bip001 R UpperArm",
+        "Bip001 R Forearm",
+        "HitObject5"
+      ]
+    },
+    "-3961396310323296827": {
+      "game_object": {
+        "file_id": 0,
+        "path_id": "6223333050515046111"
+      },
+      "local_rotation_xyzw": [
+        -3.725290298461914e-09,
+        3.725290298461914e-09,
+        1.0,
+        -1.4901161193847656e-08
+      ],
+      "local_position": [
+        -0.020714225247502327,
+        0.0,
+        0.0
+      ],
+      "local_scale": [
+        -1.0,
+        -1.0,
+        -1.0
+      ],
+      "children": [],
+      "parent": {
+        "file_id": 0,
+        "path_id": "1349831414686696902"
+      },
+      "name": "Bip001 R Finger3Nub",
+      "path_components": [
+        "Avatar_Girl_Bow_Ambor_Kanban",
+        "Bip001",
+        "Bip001 Pelvis",
+        "Bip001 Spine",
+        "Bip001 Spine1",
+        "Bip001 Spine2",
+        "Bip001 R Clavicle",
+        "Bip001 R UpperArm",
+        "Bip001 R Forearm",
+        "Bip001 R Hand",
+        "Bip001 R Finger3",
+        "Bip001 R Finger31",
+        "Bip001 R Finger32",
+        "Bip001 R Finger3Nub"
+      ]
+    },
+    "-3835754628803445081": {
+      "game_object": {
+        "file_id": 0,
+        "path_id": "-4179356610808672672"
+      },
+      "local_rotation_xyzw": [
+        0.14650118350982666,
+        -0.28711217641830444,
+        0.9450057148933411,
+        0.055391211062669754
+      ],
+      "local_position": [
+        -0.12598419189453125,
+        -0.07089953869581223,
+        -0.025929410010576248
+      ],
+      "local_scale": [
+        1.0,
+        1.0000001192092896,
+        0.9999999403953552
+      ],
+      "children": [
+        {
+          "file_id": 0,
+          "path_id": "-206404748086470364"
+        }
+      ],
+      "parent": {
+        "file_id": 0,
+        "path_id": "745728562800963796"
+      },
+      "name": "+HairB R B01",
+      "path_components": [
+        "Avatar_Girl_Bow_Ambor_Kanban",
+        "Bip001",
+        "Bip001 Pelvis",
+        "Bip001 Spine",
+        "Bip001 Spine1",
+        "Bip001 Spine2",
+        "Bip001 Neck",
+        "Bip001 Head",
+        "+HairB R B01"
+      ]
+    },
+    "-3540897847426781675": {
+      "game_object": {
+        "file_id": 0,
+        "path_id": "1322268986040820829"
+      },
+      "local_rotation_xyzw": [
+        -0.14647136628627777,
+        0.2873859703540802,
+        0.9449255466461182,
+        0.05541830137372017
+      ],
+      "local_position": [
+        -0.12598465383052826,
+        -0.0708995908498764,
+        0.025934135541319847
+      ],
+      "local_scale": [
+        1.0000001192092896,
+        0.9999999403953552,
+        1.0
+      ],
+      "children": [
+        {
+          "file_id": 0,
+          "path_id": "-4753165010172785347"
+        }
+      ],
+      "parent": {
+        "file_id": 0,
+        "path_id": "745728562800963796"
+      },
+      "name": "+HairB L B01",
+      "path_components": [
+        "Avatar_Girl_Bow_Ambor_Kanban",
+        "Bip001",
+        "Bip001 Pelvis",
+        "Bip001 Spine",
+        "Bip001 Spine1",
+        "Bip001 Spine2",
+        "Bip001 Neck",
+        "Bip001 Head",
+        "+HairB L B01"
+      ]
+    },
+    "-3268089283121724093": {
+      "game_object": {
+        "file_id": 0,
+        "path_id": "-8964242629469164988"
+      },
+      "local_rotation_xyzw": [
+        -1.4263150660553947e-07,
+        7.486278263968416e-08,
+        -0.14350247383117676,
+        0.9896500110626221
+      ],
+      "local_position": [
+        -0.014911588281393051,
+        0.0,
+        -2.924112507685095e-08
+      ],
+      "local_scale": [
+        1.0,
+        1.0,
+        0.9999999403953552
+      ],
+      "children": [
+        {
+          "file_id": 0,
+          "path_id": "7210225050834418480"
+        }
+      ],
+      "parent": {
+        "file_id": 0,
+        "path_id": "-518739682791545689"
+      },
+      "name": "Bip001 L Finger42",
+      "path_components": [
+        "Avatar_Girl_Bow_Ambor_Kanban",
+        "Bip001",
+        "Bip001 Pelvis",
+        "Bip001 Spine",
+        "Bip001 Spine1",
+        "Bip001 Spine2",
+        "Bip001 L Clavicle",
+        "Bip001 L UpperArm",
+        "Bip001 L Forearm",
+        "Bip001 L Hand",
+        "Bip001 L Finger4",
+        "Bip001 L Finger41",
+        "Bip001 L Finger42"
+      ]
+    },
+    "-3095604579309107425": {
+      "game_object": {
+        "file_id": 0,
+        "path_id": "-5265141720631185516"
+      },
+      "local_rotation_xyzw": [
+        0.0,
+        -3.725290742551124e-09,
+        -0.0,
+        1.0
+      ],
+      "local_position": [
+        -0.020714225247502327,
+        0.0,
+        4.76837147544984e-09
+      ],
+      "local_scale": [
+        0.9999999403953552,
+        1.0,
+        0.9999999403953552
+      ],
+      "children": [],
+      "parent": {
+        "file_id": 0,
+        "path_id": "2210388947974585846"
+      },
+      "name": "Bip001 L Finger3Nub",
+      "path_components": [
+        "Avatar_Girl_Bow_Ambor_Kanban",
+        "Bip001",
+        "Bip001 Pelvis",
+        "Bip001 Spine",
+        "Bip001 Spine1",
+        "Bip001 Spine2",
+        "Bip001 L Clavicle",
+        "Bip001 L UpperArm",
+        "Bip001 L Forearm",
+        "Bip001 L Hand",
+        "Bip001 L Finger3",
+        "Bip001 L Finger31",
+        "Bip001 L Finger32",
+        "Bip001 L Finger3Nub"
+      ]
+    },
+    "-2886972048588443280": {
+      "game_object": {
+        "file_id": 0,
+        "path_id": "4849307503060348884"
+      },
+      "local_rotation_xyzw": [
+        -2.691548672828503e-07,
+        2.7502363053599765e-08,
+        0.2315862774848938,
+        -0.9728144407272339
+      ],
+      "local_position": [
+        -0.027841586619615555,
+        0.0,
+        1.1188799220462897e-08
+      ],
+      "local_scale": [
+        1.0,
+        1.0000001192092896,
+        1.0
+      ],
+      "children": [
+        {
+          "file_id": 0,
+          "path_id": "1349831414686696902"
+        }
+      ],
+      "parent": {
+        "file_id": 0,
+        "path_id": "-2606259196865253746"
+      },
+      "name": "Bip001 R Finger31",
+      "path_components": [
+        "Avatar_Girl_Bow_Ambor_Kanban",
+        "Bip001",
+        "Bip001 Pelvis",
+        "Bip001 Spine",
+        "Bip001 Spine1",
+        "Bip001 Spine2",
+        "Bip001 R Clavicle",
+        "Bip001 R UpperArm",
+        "Bip001 R Forearm",
+        "Bip001 R Hand",
+        "Bip001 R Finger3",
+        "Bip001 R Finger31"
+      ]
+    },
+    "-2817895480344922458": {
+      "game_object": {
+        "file_id": 0,
+        "path_id": "-752102451904568488"
+      },
+      "local_rotation_xyzw": [
+        -1.4901161193847656e-08,
+        9.124330077954887e-25,
+        1.0,
+        6.123234262925839e-17
+      ],
+      "local_position": [
+        -0.016185415908694267,
+        0.0,
+        -2.8610228852699038e-08
+      ],
+      "local_scale": [
+        -1.0,
+        -1.0,
+        -1.0000001192092896
+      ],
+      "children": [],
+      "parent": {
+        "file_id": 0,
+        "path_id": "-4429711824367573148"
+      },
+      "name": "Bip001 R Finger4Nub",
+      "path_components": [
+        "Avatar_Girl_Bow_Ambor_Kanban",
+        "Bip001",
+        "Bip001 Pelvis",
+        "Bip001 Spine",
+        "Bip001 Spine1",
+        "Bip001 Spine2",
+        "Bip001 R Clavicle",
+        "Bip001 R UpperArm",
+        "Bip001 R Forearm",
+        "Bip001 R Hand",
+        "Bip001 R Finger4",
+        "Bip001 R Finger41",
+        "Bip001 R Finger42",
+        "Bip001 R Finger4Nub"
+      ]
+    },
+    "-2660891953163345712": {
+      "game_object": {
+        "file_id": 0,
+        "path_id": "6811766351168869583"
+      },
+      "local_rotation_xyzw": [
+        -0.0012277992209419608,
+        0.008265005424618721,
+        -0.10718263685703278,
+        0.9942042231559753
+      ],
+      "local_position": [
+        -0.02033618837594986,
+        1.907348590179936e-08,
+        0.0
+      ],
+      "local_scale": [
+        1.0,
+        1.0,
+        1.0
+      ],
+      "children": [
+        {
+          "file_id": 0,
+          "path_id": "-5120134024378554929"
+        }
+      ],
+      "parent": {
+        "file_id": 0,
+        "path_id": "8646582124383014283"
+      },
+      "name": "Bip001 R Finger02",
+      "path_components": [
+        "Avatar_Girl_Bow_Ambor_Kanban",
+        "Bip001",
+        "Bip001 Pelvis",
+        "Bip001 Spine",
+        "Bip001 Spine1",
+        "Bip001 Spine2",
+        "Bip001 R Clavicle",
+        "Bip001 R UpperArm",
+        "Bip001 R Forearm",
+        "Bip001 R Hand",
+        "Bip001 R Finger0",
+        "Bip001 R Finger01",
+        "Bip001 R Finger02"
+      ]
+    },
+    "-2606259196865253746": {
+      "game_object": {
+        "file_id": 0,
+        "path_id": "-6527574532462825140"
+      },
+      "local_rotation_xyzw": [
+        -0.0236750990152359,
+        -0.05570928007364273,
+        0.1740507334470749,
+        -0.9828745722770691
+      ],
+      "local_position": [
+        -0.06885989755392075,
+        0.0018534669652581215,
+        -0.011120926588773727
+      ],
+      "local_scale": [
+        0.9999998807907104,
+        0.9999999403953552,
+        0.9999999403953552
+      ],
+      "children": [
+        {
+          "file_id": 0,
+          "path_id": "-2886972048588443280"
+        }
+      ],
+      "parent": {
+        "file_id": 0,
+        "path_id": "1835839520754342258"
+      },
+      "name": "Bip001 R Finger3",
+      "path_components": [
+        "Avatar_Girl_Bow_Ambor_Kanban",
+        "Bip001",
+        "Bip001 Pelvis",
+        "Bip001 Spine",
+        "Bip001 Spine1",
+        "Bip001 Spine2",
+        "Bip001 R Clavicle",
+        "Bip001 R UpperArm",
+        "Bip001 R Forearm",
+        "Bip001 R Hand",
+        "Bip001 R Finger3"
+      ]
+    },
+    "-2226848893539574033": {
+      "game_object": {
+        "file_id": 0,
+        "path_id": "853719540086058742"
+      },
+      "local_rotation_xyzw": [
+        -2.824709213200549e-07,
+        -9.415697377335164e-08,
+        0.7071068286895752,
+        0.7071068286895752
+      ],
+      "local_position": [
+        -0.5,
+        0.8999999761581421,
+        -1.0999998067973138e-07
+      ],
+      "local_scale": [
+        1.0,
+        1.0,
+        1.0
+      ],
+      "children": [],
+      "parent": {
+        "file_id": 0,
+        "path_id": "-8757057724265982794"
+      },
+      "name": "CatalystL",
+      "path_components": [
+        "Avatar_Girl_Bow_Ambor_Kanban",
+        "Root",
+        "CatalystL"
+      ]
+    },
+    "-2225301868024967569": {
+      "game_object": {
+        "file_id": 0,
+        "path_id": "8167315665607919717"
+      },
+      "local_rotation_xyzw": [
+        -0.0035168402828276157,
+        -0.02674376778304577,
+        0.05633503571152687,
+        -0.9980475306510925
+      ],
+      "local_position": [
+        -0.0691516324877739,
+        0.0032068504951894283,
+        0.023684009909629822
+      ],
+      "local_scale": [
+        1.000000238418579,
+        1.0000001192092896,
+        1.0000001192092896
+      ],
+      "children": [
+        {
+          "file_id": 0,
+          "path_id": "-6805595281270335811"
+        }
+      ],
+      "parent": {
+        "file_id": 0,
+        "path_id": "1835839520754342258"
+      },
+      "name": "Bip001 R Finger1",
+      "path_components": [
+        "Avatar_Girl_Bow_Ambor_Kanban",
+        "Bip001",
+        "Bip001 Pelvis",
+        "Bip001 Spine",
+        "Bip001 Spine1",
+        "Bip001 Spine2",
+        "Bip001 R Clavicle",
+        "Bip001 R UpperArm",
+        "Bip001 R Forearm",
+        "Bip001 R Hand",
+        "Bip001 R Finger1"
+      ]
+    },
+    "-2222538249507537091": {
+      "game_object": {
+        "file_id": 0,
+        "path_id": "4561014733144046981"
+      },
+      "local_rotation_xyzw": [
+        0.026324208825826645,
+        0.051101330667734146,
+        0.1964905560016632,
+        0.9788192510604858
+      ],
+      "local_position": [
+        -0.12499874085187912,
+        -3.2424925393570447e-06,
+        1.8501281147109694e-06
+      ],
+      "local_scale": [
+        1.0,
+        1.0,
+        1.0
+      ],
+      "children": [
+        {
+          "file_id": 0,
+          "path_id": "7822377491828870215"
+        }
+      ],
+      "parent": {
+        "file_id": 0,
+        "path_id": "178936656280667927"
+      },
+      "name": "+LegBagS L A05",
+      "path_components": [
+        "Avatar_Girl_Bow_Ambor_Kanban",
+        "Bip001",
+        "+PelvisTwist CF A01",
+        "+LegBagS L A03",
+        "+LegBagS L A04",
+        "+LegBagS L A05"
+      ]
+    },
+    "-2195839612704067057": {
+      "game_object": {
+        "file_id": 0,
+        "path_id": "-7198086221324677464"
+      },
+      "local_rotation_xyzw": [
+        1.7762144466360041e-07,
+        -1.3698167933284822e-08,
+        -0.2319059669971466,
+        0.9727382659912109
+      ],
+      "local_position": [
+        -0.02784162387251854,
+        0.0,
+        -5.1651238841543545e-09
+      ],
+      "local_scale": [
+        1.0,
+        0.9999999403953552,
+        1.0
+      ],
+      "children": [
+        {
+          "file_id": 0,
+          "path_id": "2210388947974585846"
+        }
+      ],
+      "parent": {
+        "file_id": 0,
+        "path_id": "-6019297719820240132"
+      },
+      "name": "Bip001 L Finger31",
+      "path_components": [
+        "Avatar_Girl_Bow_Ambor_Kanban",
+        "Bip001",
+        "Bip001 Pelvis",
+        "Bip001 Spine",
+        "Bip001 Spine1",
+        "Bip001 Spine2",
+        "Bip001 L Clavicle",
+        "Bip001 L UpperArm",
+        "Bip001 L Forearm",
+        "Bip001 L Hand",
+        "Bip001 L Finger3",
+        "Bip001 L Finger31"
+      ]
+    },
+    "-2156680326014302942": {
+      "game_object": {
+        "file_id": 0,
+        "path_id": "-5803954912609665209"
+      },
+      "local_rotation_xyzw": [
+        -0.0,
+        -0.0,
+        -0.0,
+        1.0
+      ],
+      "local_position": [
+        0.0,
+        0.800000011920929,
+        0.0
+      ],
+      "local_scale": [
+        1.0,
+        1.0,
+        1.0
+      ],
+      "children": [],
+      "parent": {
+        "file_id": 0,
+        "path_id": "5192241681517631792"
+      },
+      "name": "AttackCollider",
+      "path_components": [
+        "Avatar_Girl_Bow_Ambor_Kanban",
+        "AttackCollider"
+      ]
+    },
+    "-2044189528292406799": {
+      "game_object": {
+        "file_id": 0,
+        "path_id": "-6708050477924671962"
+      },
+      "local_rotation_xyzw": [
+        0.022987471893429756,
+        -0.400576651096344,
+        -0.1901300698518753,
+        0.8960248231887817
+      ],
+      "local_position": [
+        -0.08936130255460739,
+        8.381902283360887e-09,
+        -3.3155083656311035e-07
+      ],
+      "local_scale": [
+        0.9999998807907104,
+        0.9999998807907104,
+        0.9999999403953552
+      ],
+      "children": [
+        {
+          "file_id": 0,
+          "path_id": "6955514212125952094"
+        },
+        {
+          "file_id": 0,
+          "path_id": "-4358059350374179913"
+        },
+        {
+          "file_id": 0,
+          "path_id": "1896527169830542836"
+        }
+      ],
+      "parent": {
+        "file_id": 0,
+        "path_id": "-7652310181513145023"
+      },
+      "name": "Bip001 L UpperArm",
+      "path_components": [
+        "Avatar_Girl_Bow_Ambor_Kanban",
+        "Bip001",
+        "Bip001 Pelvis",
+        "Bip001 Spine",
+        "Bip001 Spine1",
+        "Bip001 Spine2",
+        "Bip001 L Clavicle",
+        "Bip001 L UpperArm"
+      ]
+    },
+    "-1952676797660931398": {
+      "game_object": {
+        "file_id": 0,
+        "path_id": "2782059471578049533"
+      },
+      "local_rotation_xyzw": [
+        2.665920817435108e-08,
+        -1.2107181923681765e-08,
+        0.7376156449317932,
+        -0.6752209067344666
+      ],
+      "local_position": [
+        -0.06948049366474152,
+        0.07336605340242386,
+        -0.0012016441905871034
+      ],
+      "local_scale": [
+        1.0,
+        0.9999999403953552,
+        1.0
+      ],
+      "children": [
+        {
+          "file_id": 0,
+          "path_id": "6028997517028493323"
+        }
+      ],
+      "parent": {
+        "file_id": 0,
+        "path_id": "-772045207244898370"
+      },
+      "name": "Bip001 R Toe0",
+      "path_components": [
+        "Avatar_Girl_Bow_Ambor_Kanban",
+        "Bip001",
+        "Bip001 Pelvis",
+        "Bip001 R Thigh",
+        "Bip001 R Calf",
+        "Bip001 R Foot",
+        "Bip001 R Toe0"
+      ]
+    },
+    "-1696218838252506290": {
+      "game_object": {
+        "file_id": 0,
+        "path_id": "7759146444846567255"
+      },
+      "local_rotation_xyzw": [
+        0.0,
+        0.0,
+        0.0,
+        1.0
+      ],
+      "local_position": [
+        -0.19264449179172516,
+        -0.029310263693332672,
+        -1.5258788721439487e-07
+      ],
+      "local_scale": [
+        1.0,
+        1.0,
+        1.0
+      ],
+      "children": [],
+      "parent": {
+        "file_id": 0,
+        "path_id": "-4995281256955458469"
+      },
+      "name": "+FlycloakRootB CB A01",
+      "path_components": [
+        "Avatar_Girl_Bow_Ambor_Kanban",
+        "Bip001",
+        "Bip001 Pelvis",
+        "Bip001 Spine",
+        "Bip001 Spine1",
+        "Bip001 Spine2",
+        "+FlycloakRootB CB A01"
+      ]
+    },
+    "-1647848051377608283": {
+      "game_object": {
+        "file_id": 0,
+        "path_id": "1312721797924736262"
+      },
+      "local_rotation_xyzw": [
+        -0.05154358968138695,
+        0.025614233687520027,
+        -0.3111926317214966,
+        0.9486023187637329
+      ],
+      "local_position": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "local_scale": [
+        1.0,
+        1.0,
+        1.0
+      ],
+      "children": [],
+      "parent": {
+        "file_id": 0,
+        "path_id": "1835839520754342258"
+      },
+      "name": "WeaponR",
+      "path_components": [
+        "Avatar_Girl_Bow_Ambor_Kanban",
+        "Bip001",
+        "Bip001 Pelvis",
+        "Bip001 Spine",
+        "Bip001 Spine1",
+        "Bip001 Spine2",
+        "Bip001 R Clavicle",
+        "Bip001 R UpperArm",
+        "Bip001 R Forearm",
+        "Bip001 R Hand",
+        "WeaponR"
+      ]
+    },
+    "-1559894933097030949": {
+      "game_object": {
+        "file_id": 0,
+        "path_id": "-4274988537478448950"
+      },
+      "local_rotation_xyzw": [
+        0.039532944560050964,
+        0.05710430070757866,
+        0.13517870008945465,
+        0.9883840084075928
+      ],
+      "local_position": [
+        -0.12149429321289062,
+        7.629394360719743e-08,
+        -2.8610227786884934e-07
+      ],
+      "local_scale": [
+        1.0,
+        0.9999999403953552,
+        1.0000001192092896
+      ],
+      "children": [],
+      "parent": {
+        "file_id": 0,
+        "path_id": "-1181617539495521820"
+      },
+      "name": "+HairB R B04",
+      "path_components": [
+        "Avatar_Girl_Bow_Ambor_Kanban",
+        "Bip001",
+        "Bip001 Pelvis",
+        "Bip001 Spine",
+        "Bip001 Spine1",
+        "Bip001 Spine2",
+        "Bip001 Neck",
+        "Bip001 Head",
+        "+HairB R B01",
+        "+HairB R B02",
+        "+HairB R B03",
+        "+HairB R B04"
+      ]
+    },
+    "-1447776528795706132": {
+      "game_object": {
+        "file_id": 0,
+        "path_id": "4547498368549788512"
+      },
+      "local_rotation_xyzw": [
+        -0.0,
+        -0.0,
+        -0.0,
+        1.0
+      ],
+      "local_position": [
+        0.13125109672546387,
+        1.2556049823760986,
+        -0.06410277634859085
+      ],
+      "local_scale": [
+        1.0,
+        1.0,
+        1.0
+      ],
+      "children": [],
+      "parent": {
+        "file_id": 0,
+        "path_id": "5192241681517631792"
+      },
+      "name": "FocusAnchor",
+      "path_components": [
+        "Avatar_Girl_Bow_Ambor_Kanban",
+        "FocusAnchor"
+      ]
+    },
+    "-1181617539495521820": {
+      "game_object": {
+        "file_id": 0,
+        "path_id": "1837316168171920882"
+      },
+      "local_rotation_xyzw": [
+        -0.019046401605010033,
+        -0.011614330112934113,
+        0.21260087192058563,
+        0.9768844246864319
+      ],
+      "local_position": [
+        -0.1243685856461525,
+        -1.7547606603329768e-06,
+        -3.2424927098873013e-07
+      ],
+      "local_scale": [
+        1.0,
+        1.0,
+        1.0
+      ],
+      "children": [
+        {
+          "file_id": 0,
+          "path_id": "-1559894933097030949"
+        }
+      ],
+      "parent": {
+        "file_id": 0,
+        "path_id": "-206404748086470364"
+      },
+      "name": "+HairB R B03",
+      "path_components": [
+        "Avatar_Girl_Bow_Ambor_Kanban",
+        "Bip001",
+        "Bip001 Pelvis",
+        "Bip001 Spine",
+        "Bip001 Spine1",
+        "Bip001 Spine2",
+        "Bip001 Neck",
+        "Bip001 Head",
+        "+HairB R B01",
+        "+HairB R B02",
+        "+HairB R B03"
+      ]
+    },
+    "-1049791237191746330": {
+      "game_object": {
+        "file_id": 0,
+        "path_id": "2081441537723928003"
+      },
+      "local_rotation_xyzw": [
+        -0.01451888494193554,
+        -0.004549175500869751,
+        -0.1644308865070343,
+        0.986271321773529
+      ],
+      "local_position": [
+        -0.06273782253265381,
+        0.004607439041137695,
+        0.024201979860663414
+      ],
+      "local_scale": [
+        1.0,
+        0.9999998807907104,
+        0.9999998807907104
+      ],
+      "children": [
+        {
+          "file_id": 0,
+          "path_id": "-518739682791545689"
+        }
+      ],
+      "parent": {
+        "file_id": 0,
+        "path_id": "-5960322304680996163"
+      },
+      "name": "Bip001 L Finger4",
+      "path_components": [
+        "Avatar_Girl_Bow_Ambor_Kanban",
+        "Bip001",
+        "Bip001 Pelvis",
+        "Bip001 Spine",
+        "Bip001 Spine1",
+        "Bip001 Spine2",
+        "Bip001 L Clavicle",
+        "Bip001 L UpperArm",
+        "Bip001 L Forearm",
+        "Bip001 L Hand",
+        "Bip001 L Finger4"
+      ]
+    },
+    "-975789429215068519": {
+      "game_object": {
+        "file_id": 0,
+        "path_id": "-7363080599800475627"
+      },
+      "local_rotation_xyzw": [
+        7.4505797087454084e-09,
+        1.1175870895385742e-08,
+        -1.4901161193847656e-08,
+        1.0
+      ],
+      "local_position": [
+        -0.017381533980369568,
+        7.629394360719743e-08,
+        9.53674295089968e-09
+      ],
+      "local_scale": [
+        1.0,
+        1.0000001192092896,
+        1.0
+      ],
+      "children": [],
+      "parent": {
+        "file_id": 0,
+        "path_id": "8058299521747704338"
+      },
+      "name": "Bip001 L Finger1Nub",
+      "path_components": [
+        "Avatar_Girl_Bow_Ambor_Kanban",
+        "Bip001",
+        "Bip001 Pelvis",
+        "Bip001 Spine",
+        "Bip001 Spine1",
+        "Bip001 Spine2",
+        "Bip001 L Clavicle",
+        "Bip001 L UpperArm",
+        "Bip001 L Forearm",
+        "Bip001 L Hand",
+        "Bip001 L Finger1",
+        "Bip001 L Finger11",
+        "Bip001 L Finger12",
+        "Bip001 L Finger1Nub"
+      ]
+    },
+    "-772045207244898370": {
+      "game_object": {
+        "file_id": 0,
+        "path_id": "1632804030424150259"
+      },
+      "local_rotation_xyzw": [
+        0.05323929339647293,
+        -0.012419138103723526,
+        -0.005145044066011906,
+        0.9984912872314453
+      ],
+      "local_position": [
+        -0.4137418270111084,
+        2.930755726993084e-08,
+        3.771856427192688e-08
+      ],
+      "local_scale": [
+        1.0000001192092896,
+        1.0,
+        1.0
+      ],
+      "children": [
+        {
+          "file_id": 0,
+          "path_id": "-1952676797660931398"
+        }
+      ],
+      "parent": {
+        "file_id": 0,
+        "path_id": "4175417530043126864"
+      },
+      "name": "Bip001 R Foot",
+      "path_components": [
+        "Avatar_Girl_Bow_Ambor_Kanban",
+        "Bip001",
+        "Bip001 Pelvis",
+        "Bip001 R Thigh",
+        "Bip001 R Calf",
+        "Bip001 R Foot"
+      ]
+    },
+    "-567241690011498545": {
+      "game_object": {
+        "file_id": 0,
+        "path_id": "-6577951745197788879"
+      },
+      "local_rotation_xyzw": [
+        2.1855694143368964e-08,
+        0.0,
+        -0.0,
+        1.0
+      ],
+      "local_position": [
+        -0.0,
+        0.0,
+        0.0
+      ],
+      "local_scale": [
+        1.0,
+        1.0,
+        1.0
+      ],
+      "children": [],
+      "parent": {
+        "file_id": 0,
+        "path_id": "5192241681517631792"
+      },
+      "name": "EffectMesh",
+      "path_components": [
+        "Avatar_Girl_Bow_Ambor_Kanban",
+        "EffectMesh"
+      ]
+    },
+    "-518739682791545689": {
+      "game_object": {
+        "file_id": 0,
+        "path_id": "5179546192358038327"
+      },
+      "local_rotation_xyzw": [
+        5.290473392705053e-09,
+        4.111228335546002e-08,
+        -0.22127671539783478,
+        0.9752111434936523
+      ],
+      "local_position": [
+        -0.022120589390397072,
+        0.0,
+        2.799504983386214e-08
+      ],
+      "local_scale": [
+        1.0,
+        1.0,
+        1.0000001192092896
+      ],
+      "children": [
+        {
+          "file_id": 0,
+          "path_id": "-3268089283121724093"
+        }
+      ],
+      "parent": {
+        "file_id": 0,
+        "path_id": "-1049791237191746330"
+      },
+      "name": "Bip001 L Finger41",
+      "path_components": [
+        "Avatar_Girl_Bow_Ambor_Kanban",
+        "Bip001",
+        "Bip001 Pelvis",
+        "Bip001 Spine",
+        "Bip001 Spine1",
+        "Bip001 Spine2",
+        "Bip001 L Clavicle",
+        "Bip001 L UpperArm",
+        "Bip001 L Forearm",
+        "Bip001 L Hand",
+        "Bip001 L Finger4",
+        "Bip001 L Finger41"
+      ]
+    },
+    "-511078113831442113": {
+      "game_object": {
+        "file_id": 0,
+        "path_id": "3245721925350963605"
+      },
+      "local_rotation_xyzw": [
+        -0.04184485971927643,
+        0.041844576597213745,
+        -0.7058678269386292,
+        0.705867350101471
+      ],
+      "local_position": [
+        -0.03321230784058571,
+        0.00011566161992959678,
+        0.0006864285096526146
+      ],
+      "local_scale": [
+        0.9999999403953552,
+        1.0,
+        1.0
+      ],
+      "children": [],
+      "parent": {
+        "file_id": 0,
+        "path_id": "-4845974877720528088"
+      },
+      "name": "+EyeBone L A02",
+      "path_components": [
+        "Avatar_Girl_Bow_Ambor_Kanban",
+        "Bip001",
+        "Bip001 Pelvis",
+        "Bip001 Spine",
+        "Bip001 Spine1",
+        "Bip001 Spine2",
+        "Bip001 Neck",
+        "Bip001 Head",
+        "+EyeBone L A01",
+        "+EyeBone L A02"
+      ]
+    },
+    "-416725429816004428": {
+      "game_object": {
+        "file_id": 0,
+        "path_id": "-1760715226195348709"
+      },
+      "local_rotation_xyzw": [
+        -0.0035165781155228615,
+        -0.026743829250335693,
+        -0.05633479356765747,
+        0.9980475902557373
+      ],
+      "local_position": [
+        -0.06915149092674255,
+        0.00320684933103621,
+        -0.023684028536081314
+      ],
+      "local_scale": [
+        1.000000238418579,
+        1.0000001192092896,
+        0.9999998807907104
+      ],
+      "children": [
+        {
+          "file_id": 0,
+          "path_id": "3238827670990866346"
+        }
+      ],
+      "parent": {
+        "file_id": 0,
+        "path_id": "-5960322304680996163"
+      },
+      "name": "Bip001 L Finger1",
+      "path_components": [
+        "Avatar_Girl_Bow_Ambor_Kanban",
+        "Bip001",
+        "Bip001 Pelvis",
+        "Bip001 Spine",
+        "Bip001 Spine1",
+        "Bip001 Spine2",
+        "Bip001 L Clavicle",
+        "Bip001 L UpperArm",
+        "Bip001 L Forearm",
+        "Bip001 L Hand",
+        "Bip001 L Finger1"
+      ]
+    },
+    "-254778508421104525": {
+      "game_object": {
+        "file_id": 0,
+        "path_id": "3451448919024710421"
+      },
+      "local_rotation_xyzw": [
+        -3.136598820674408e-07,
+        4.5003588411418605e-08,
+        0.22095632553100586,
+        -0.9752837419509888
+      ],
+      "local_position": [
+        -0.022120604291558266,
+        -1.1920936060505483e-07,
+        8.778863191949426e-10
+      ],
+      "local_scale": [
+        1.0,
+        0.9999999403953552,
+        1.0
+      ],
+      "children": [
+        {
+          "file_id": 0,
+          "path_id": "-4429711824367573148"
+        }
+      ],
+      "parent": {
+        "file_id": 0,
+        "path_id": "-5306620898266165772"
+      },
+      "name": "Bip001 R Finger41",
+      "path_components": [
+        "Avatar_Girl_Bow_Ambor_Kanban",
+        "Bip001",
+        "Bip001 Pelvis",
+        "Bip001 Spine",
+        "Bip001 Spine1",
+        "Bip001 Spine2",
+        "Bip001 R Clavicle",
+        "Bip001 R UpperArm",
+        "Bip001 R Forearm",
+        "Bip001 R Hand",
+        "Bip001 R Finger4",
+        "Bip001 R Finger41"
+      ]
+    },
+    "-206404748086470364": {
+      "game_object": {
+        "file_id": 0,
+        "path_id": "-8329206846331134050"
+      },
+      "local_rotation_xyzw": [
+        0.0015486223855987191,
+        0.05146745592355728,
+        -0.20486928522586823,
+        0.9774340391159058
+      ],
+      "local_position": [
+        -0.1754172444343567,
+        -1.1062621751989354e-06,
+        -3.433227391269611e-07
+      ],
+      "local_scale": [
+        1.0000001192092896,
+        1.0,
+        1.0
+      ],
+      "children": [
+        {
+          "file_id": 0,
+          "path_id": "-1181617539495521820"
+        }
+      ],
+      "parent": {
+        "file_id": 0,
+        "path_id": "-3835754628803445081"
+      },
+      "name": "+HairB R B02",
+      "path_components": [
+        "Avatar_Girl_Bow_Ambor_Kanban",
+        "Bip001",
+        "Bip001 Pelvis",
+        "Bip001 Spine",
+        "Bip001 Spine1",
+        "Bip001 Spine2",
+        "Bip001 Neck",
+        "Bip001 Head",
+        "+HairB R B01",
+        "+HairB R B02"
+      ]
+    },
+    "-41230709084178851": {
+      "game_object": {
+        "file_id": 0,
+        "path_id": "9035958789415338705"
+      },
+      "local_rotation_xyzw": [
+        2.1855694143368964e-08,
+        0.0,
+        -0.0,
+        1.0
+      ],
+      "local_position": [
+        -0.0,
+        0.0,
+        0.0
+      ],
+      "local_scale": [
+        1.0,
+        1.0,
+        1.0
+      ],
+      "children": [],
+      "parent": {
+        "file_id": 0,
+        "path_id": "5192241681517631792"
+      },
+      "name": "EyeStar",
+      "path_components": [
+        "Avatar_Girl_Bow_Ambor_Kanban",
+        "EyeStar"
+      ]
+    },
+    "-24789523013156944": {
+      "game_object": {
+        "file_id": 0,
+        "path_id": "2218522702488583222"
+      },
+      "local_rotation_xyzw": [
+        -0.686517059803009,
+        0.7222774028778076,
+        -0.013954823836684227,
+        -0.08255277574062347
+      ],
+      "local_position": [
+        -0.04380355775356293,
+        0.04044433683156967,
+        -0.049505241215229034
+      ],
+      "local_scale": [
+        1.0,
+        1.0,
+        1.0
+      ],
+      "children": [],
+      "parent": {
+        "file_id": 0,
+        "path_id": "-4995281256955458469"
+      },
+      "name": "+Breast R A01",
+      "path_components": [
+        "Avatar_Girl_Bow_Ambor_Kanban",
+        "Bip001",
+        "Bip001 Pelvis",
+        "Bip001 Spine",
+        "Bip001 Spine1",
+        "Bip001 Spine2",
+        "+Breast R A01"
+      ]
+    },
+    "178936656280667927": {
+      "game_object": {
+        "file_id": 0,
+        "path_id": "-6080029744111723172"
+      },
+      "local_rotation_xyzw": [
+        0.018493371084332466,
+        -0.0027113533578813076,
+        0.13740910589694977,
+        0.9903380274772644
+      ],
+      "local_position": [
+        -0.11293403059244156,
+        -4.425048700795742e-06,
+        8.392333938900265e-07
+      ],
+      "local_scale": [
+        0.9999999403953552,
+        1.0,
+        1.0
+      ],
+      "children": [
+        {
+          "file_id": 0,
+          "path_id": "-2222538249507537091"
+        }
+      ],
+      "parent": {
+        "file_id": 0,
+        "path_id": "3407698846217289401"
+      },
+      "name": "+LegBagS L A04",
+      "path_components": [
+        "Avatar_Girl_Bow_Ambor_Kanban",
+        "Bip001",
+        "+PelvisTwist CF A01",
+        "+LegBagS L A03",
+        "+LegBagS L A04"
+      ]
+    },
+    "265199093681892721": {
+      "game_object": {
+        "file_id": 0,
+        "path_id": "875954331692621514"
+      },
+      "local_rotation_xyzw": [
+        0.0,
+        0.0,
+        0.0,
+        1.0
+      ],
+      "local_position": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "local_scale": [
+        1.0,
+        1.0,
+        1.0
+      ],
+      "children": [],
+      "parent": {
+        "file_id": 0,
+        "path_id": "1896527169830542836"
+      },
+      "name": "HitObject1",
+      "path_components": [
+        "Avatar_Girl_Bow_Ambor_Kanban",
+        "Bip001",
+        "Bip001 Pelvis",
+        "Bip001 Spine",
+        "Bip001 Spine1",
+        "Bip001 Spine2",
+        "Bip001 L Clavicle",
+        "Bip001 L UpperArm",
+        "Bip001 L Forearm",
+        "HitObject1"
+      ]
+    },
+    "338288120752737046": {
+      "game_object": {
+        "file_id": 0,
+        "path_id": "-5016710812801804784"
+      },
+      "local_rotation_xyzw": [
+        -0.03321889787912369,
+        -0.05739504098892212,
+        0.13502159714698792,
+        0.9886209964752197
+      ],
+      "local_position": [
+        -0.12148986756801605,
+        4.1961669694501325e-07,
+        -5.722045557376987e-07
+      ],
+      "local_scale": [
+        1.0,
+        0.9999999403953552,
+        1.0
+      ],
+      "children": [],
+      "parent": {
+        "file_id": 0,
+        "path_id": "-6387985896221723767"
+      },
+      "name": "+HairB L B04",
+      "path_components": [
+        "Avatar_Girl_Bow_Ambor_Kanban",
+        "Bip001",
+        "Bip001 Pelvis",
+        "Bip001 Spine",
+        "Bip001 Spine1",
+        "Bip001 Spine2",
+        "Bip001 Neck",
+        "Bip001 Head",
+        "+HairB L B01",
+        "+HairB L B02",
+        "+HairB L B03",
+        "+HairB L B04"
+      ]
+    },
+    "745728562800963796": {
+      "game_object": {
+        "file_id": 0,
+        "path_id": "-8127510600405994804"
+      },
+      "local_rotation_xyzw": [
+        0.007489309646189213,
+        -0.005649241153150797,
+        0.06252125650644302,
+        0.9979996085166931
+      ],
+      "local_position": [
+        -0.07638946175575256,
+        1.5832485544819974e-08,
+        -1.1641532182693481e-10
+      ],
+      "local_scale": [
+        0.9999999403953552,
+        1.0,
+        1.0
+      ],
+      "children": [
+        {
+          "file_id": 0,
+          "path_id": "1496835150792821082"
+        },
+        {
+          "file_id": 0,
+          "path_id": "-6895996049110689070"
+        },
+        {
+          "file_id": 0,
+          "path_id": "-4845974877720528088"
+        },
+        {
+          "file_id": 0,
+          "path_id": "5166720436746767400"
+        },
+        {
+          "file_id": 0,
+          "path_id": "-3540897847426781675"
+        },
+        {
+          "file_id": 0,
+          "path_id": "-3835754628803445081"
+        },
+        {
+          "file_id": 0,
+          "path_id": "-4526136839928086194"
+        },
+        {
+          "file_id": 0,
+          "path_id": "-5800991470812447633"
+        },
+        {
+          "file_id": 0,
+          "path_id": "1046317610545530536"
+        },
+        {
+          "file_id": 0,
+          "path_id": "864897728092396666"
+        },
+        {
+          "file_id": 0,
+          "path_id": "3212909757639681207"
+        }
+      ],
+      "parent": {
+        "file_id": 0,
+        "path_id": "-4751825393360302517"
+      },
+      "name": "Bip001 Head",
+      "path_components": [
+        "Avatar_Girl_Bow_Ambor_Kanban",
+        "Bip001",
+        "Bip001 Pelvis",
+        "Bip001 Spine",
+        "Bip001 Spine1",
+        "Bip001 Spine2",
+        "Bip001 Neck",
+        "Bip001 Head"
+      ]
+    },
+    "863801283423473831": {
+      "game_object": {
+        "file_id": 0,
+        "path_id": "-3516334935492398473"
+      },
+      "local_rotation_xyzw": [
+        -0.007092013489454985,
+        -0.02555498294532299,
+        0.00820206105709076,
+        0.9996146559715271
+      ],
+      "local_position": [
+        -0.08813787251710892,
+        0.01677181012928486,
+        9.313227167240257e-08
+      ],
+      "local_scale": [
+        1.0,
+        1.0,
+        0.9999999403953552
+      ],
+      "children": [
+        {
+          "file_id": 0,
+          "path_id": "3670604818566406978"
+        }
+      ],
+      "parent": {
+        "file_id": 0,
+        "path_id": "3967143534093719871"
+      },
+      "name": "Bip001 Spine",
+      "path_components": [
+        "Avatar_Girl_Bow_Ambor_Kanban",
+        "Bip001",
+        "Bip001 Pelvis",
+        "Bip001 Spine"
+      ]
+    },
+    "864897728092396666": {
+      "game_object": {
+        "file_id": 0,
+        "path_id": "-3600885312234185583"
+      },
+      "local_rotation_xyzw": [
+        -0.6655634641647339,
+        0.7463412880897522,
+        1.8424448455789388e-07,
+        2.722815679589985e-07
+      ],
+      "local_position": [
+        -0.005778503138571978,
+        0.08821095526218414,
+        3.0517580285049917e-07
+      ],
+      "local_scale": [
+        1.0,
+        1.0,
+        1.0
+      ],
+      "children": [],
+      "parent": {
+        "file_id": 0,
+        "path_id": "745728562800963796"
+      },
+      "name": "+ToothBone U A01",
+      "path_components": [
+        "Avatar_Girl_Bow_Ambor_Kanban",
+        "Bip001",
+        "Bip001 Pelvis",
+        "Bip001 Spine",
+        "Bip001 Spine1",
+        "Bip001 Spine2",
+        "Bip001 Neck",
+        "Bip001 Head",
+        "+ToothBone U A01"
+      ]
+    },
+    "971802098721345876": {
+      "game_object": {
+        "file_id": 0,
+        "path_id": "1439261192256504817"
+      },
+      "local_rotation_xyzw": [
+        -0.9995988011360168,
+        0.008737976662814617,
+        -0.020284144207835197,
+        0.01773189753293991
+      ],
+      "local_position": [
+        -0.10521720349788666,
+        -0.0019485473167151213,
+        0.0043101501651108265
+      ],
+      "local_scale": [
+        1.0,
+        1.0,
+        1.0
+      ],
+      "children": [],
+      "parent": {
+        "file_id": 0,
+        "path_id": "-8322688421953441693"
+      },
+      "name": "+UpperArmTwist R A02",
+      "path_components": [
+        "Avatar_Girl_Bow_Ambor_Kanban",
+        "Bip001",
+        "Bip001 Pelvis",
+        "Bip001 Spine",
+        "Bip001 Spine1",
+        "Bip001 Spine2",
+        "Bip001 R Clavicle",
+        "Bip001 R UpperArm",
+        "+UpperArmTwist R A02"
+      ]
+    },
+    "1046317610545530536": {
+      "game_object": {
+        "file_id": 0,
+        "path_id": "7189457307987486605"
+      },
+      "local_rotation_xyzw": [
+        -0.668237566947937,
+        0.7439479827880859,
+        4.3322611986695847e-07,
+        3.693294559070637e-07
+      ],
+      "local_position": [
+        0.0002777099434752017,
+        0.0881914272904396,
+        3.0517568916366145e-07
+      ],
+      "local_scale": [
+        1.0,
+        1.0,
+        1.0
+      ],
+      "children": [],
+      "parent": {
+        "file_id": 0,
+        "path_id": "745728562800963796"
+      },
+      "name": "+ToothBone D A01",
+      "path_components": [
+        "Avatar_Girl_Bow_Ambor_Kanban",
+        "Bip001",
+        "Bip001 Pelvis",
+        "Bip001 Spine",
+        "Bip001 Spine1",
+        "Bip001 Spine2",
+        "Bip001 Neck",
+        "Bip001 Head",
+        "+ToothBone D A01"
+      ]
+    },
+    "1206600067873579279": {
+      "game_object": {
+        "file_id": 0,
+        "path_id": "4584837535641777086"
+      },
+      "local_rotation_xyzw": [
+        0.017299916595220566,
+        0.05663369223475456,
+        -0.32790321111679077,
+        0.942853569984436
+      ],
+      "local_position": [
+        -0.09712874889373779,
+        -2.288818308215923e-07,
+        3.8146970382513246e-07
+      ],
+      "local_scale": [
+        1.0,
+        1.0,
+        1.0000001192092896
+      ],
+      "children": [],
+      "parent": {
+        "file_id": 0,
+        "path_id": "1496835150792821082"
+      },
+      "name": "+EarS L A02",
+      "path_components": [
+        "Avatar_Girl_Bow_Ambor_Kanban",
+        "Bip001",
+        "Bip001 Pelvis",
+        "Bip001 Spine",
+        "Bip001 Spine1",
+        "Bip001 Spine2",
+        "Bip001 Neck",
+        "Bip001 Head",
+        "+EarS L A01",
+        "+EarS L A02"
+      ]
+    },
+    "1349831414686696902": {
+      "game_object": {
+        "file_id": 0,
+        "path_id": "8480183435985997162"
+      },
+      "local_rotation_xyzw": [
+        -2.794219824409083e-07,
+        4.491158023256503e-08,
+        0.17863202095031738,
+        -0.9839159846305847
+      ],
+      "local_position": [
+        -0.02163250558078289,
+        0.0,
+        4.994808566749498e-09
+      ],
+      "local_scale": [
+        1.0,
+        1.0,
+        0.9999999403953552
+      ],
+      "children": [
+        {
+          "file_id": 0,
+          "path_id": "-3961396310323296827"
+        }
+      ],
+      "parent": {
+        "file_id": 0,
+        "path_id": "-2886972048588443280"
+      },
+      "name": "Bip001 R Finger32",
+      "path_components": [
+        "Avatar_Girl_Bow_Ambor_Kanban",
+        "Bip001",
+        "Bip001 Pelvis",
+        "Bip001 Spine",
+        "Bip001 Spine1",
+        "Bip001 Spine2",
+        "Bip001 R Clavicle",
+        "Bip001 R UpperArm",
+        "Bip001 R Forearm",
+        "Bip001 R Hand",
+        "Bip001 R Finger3",
+        "Bip001 R Finger31",
+        "Bip001 R Finger32"
+      ]
+    },
+    "1357126967165137523": {
+      "game_object": {
+        "file_id": 0,
+        "path_id": "-3256200553955543881"
+      },
+      "local_rotation_xyzw": [
+        0.6406994462013245,
+        -0.3052448332309723,
+        0.053762055933475494,
+        0.7024524807929993
+      ],
+      "local_position": [
+        -0.023681640625,
+        0.012697982601821423,
+        -0.023128075525164604
+      ],
+      "local_scale": [
+        1.0,
+        1.0,
+        1.0
+      ],
+      "children": [
+        {
+          "file_id": 0,
+          "path_id": "-7192279584454777093"
+        }
+      ],
+      "parent": {
+        "file_id": 0,
+        "path_id": "-5960322304680996163"
+      },
+      "name": "Bip001 L Finger0",
+      "path_components": [
+        "Avatar_Girl_Bow_Ambor_Kanban",
+        "Bip001",
+        "Bip001 Pelvis",
+        "Bip001 Spine",
+        "Bip001 Spine1",
+        "Bip001 Spine2",
+        "Bip001 L Clavicle",
+        "Bip001 L UpperArm",
+        "Bip001 L Forearm",
+        "Bip001 L Hand",
+        "Bip001 L Finger0"
+      ]
+    },
+    "1496835150792821082": {
+      "game_object": {
+        "file_id": 0,
+        "path_id": "3718315555701390566"
+      },
+      "local_rotation_xyzw": [
+        0.8735045790672302,
+        -0.1521276980638504,
+        -0.45421743392944336,
+        -0.08679614216089249
+      ],
+      "local_position": [
+        -0.22555099427700043,
+        0.03543386980891228,
+        0.004230498801916838
+      ],
+      "local_scale": [
+        1.0,
+        1.0,
+        1.0000001192092896
+      ],
+      "children": [
+        {
+          "file_id": 0,
+          "path_id": "1206600067873579279"
+        }
+      ],
+      "parent": {
+        "file_id": 0,
+        "path_id": "745728562800963796"
+      },
+      "name": "+EarS L A01",
+      "path_components": [
+        "Avatar_Girl_Bow_Ambor_Kanban",
+        "Bip001",
+        "Bip001 Pelvis",
+        "Bip001 Spine",
+        "Bip001 Spine1",
+        "Bip001 Spine2",
+        "Bip001 Neck",
+        "Bip001 Head",
+        "+EarS L A01"
+      ]
+    },
+    "1581556768664590982": {
+      "game_object": {
+        "file_id": 0,
+        "path_id": "-4694507444267056516"
+      },
+      "local_rotation_xyzw": [
+        -0.0,
+        -0.0,
+        -0.0,
+        1.0
+      ],
+      "local_position": [
+        0.0,
+        1.7000000476837158,
+        0.0
+      ],
+      "local_scale": [
+        1.0,
+        1.0,
+        1.0
+      ],
+      "children": [],
+      "parent": {
+        "file_id": 0,
+        "path_id": "5192241681517631792"
+      },
+      "name": "BubbleAttachPoint",
+      "path_components": [
+        "Avatar_Girl_Bow_Ambor_Kanban",
+        "BubbleAttachPoint"
+      ]
+    },
+    "1835839520754342258": {
+      "game_object": {
+        "file_id": 0,
+        "path_id": "-4998917575343749452"
+      },
+      "local_rotation_xyzw": [
+        0.5333230495452881,
+        -0.11979866772890091,
+        0.08540941774845123,
+        0.8330186009407043
+      ],
+      "local_position": [
+        -0.1809060275554657,
+        9.033828973770142e-08,
+        -0.00022182054817676544
+      ],
+      "local_scale": [
+        1.0,
+        1.0,
+        1.0000001192092896
+      ],
+      "children": [
+        {
+          "file_id": 0,
+          "path_id": "2024425770650120037"
+        },
+        {
+          "file_id": 0,
+          "path_id": "-2225301868024967569"
+        },
+        {
+          "file_id": 0,
+          "path_id": "-4431815637448652654"
+        },
+        {
+          "file_id": 0,
+          "path_id": "-2606259196865253746"
+        },
+        {
+          "file_id": 0,
+          "path_id": "-5306620898266165772"
+        },
+        {
+          "file_id": 0,
+          "path_id": "-1647848051377608283"
+        },
+        {
+          "file_id": 0,
+          "path_id": "6597632363673178069"
+        }
+      ],
+      "parent": {
+        "file_id": 0,
+        "path_id": "7538285741678082746"
+      },
+      "name": "Bip001 R Hand",
+      "path_components": [
+        "Avatar_Girl_Bow_Ambor_Kanban",
+        "Bip001",
+        "Bip001 Pelvis",
+        "Bip001 Spine",
+        "Bip001 Spine1",
+        "Bip001 Spine2",
+        "Bip001 R Clavicle",
+        "Bip001 R UpperArm",
+        "Bip001 R Forearm",
+        "Bip001 R Hand"
+      ]
+    },
+    "1896527169830542836": {
+      "game_object": {
+        "file_id": 0,
+        "path_id": "6182571357452516287"
+      },
+      "local_rotation_xyzw": [
+        0.08115822076797485,
+        0.011349440552294254,
+        0.13803018629550934,
+        0.9870320558547974
+      ],
+      "local_position": [
+        -0.21217653155326843,
+        -2.6077035641947077e-08,
+        -1.266598843585598e-07
+      ],
+      "local_scale": [
+        1.0000001192092896,
+        1.0000001192092896,
+        1.0
+      ],
+      "children": [
+        {
+          "file_id": 0,
+          "path_id": "-5960322304680996163"
+        },
+        {
+          "file_id": 0,
+          "path_id": "265199093681892721"
+        }
+      ],
+      "parent": {
+        "file_id": 0,
+        "path_id": "-2044189528292406799"
+      },
+      "name": "Bip001 L Forearm",
+      "path_components": [
+        "Avatar_Girl_Bow_Ambor_Kanban",
+        "Bip001",
+        "Bip001 Pelvis",
+        "Bip001 Spine",
+        "Bip001 Spine1",
+        "Bip001 Spine2",
+        "Bip001 L Clavicle",
+        "Bip001 L UpperArm",
+        "Bip001 L Forearm"
+      ]
+    },
+    "1978012694229371096": {
+      "game_object": {
+        "file_id": 0,
+        "path_id": "8759934766158189883"
+      },
+      "local_rotation_xyzw": [
+        -2.473181837103766e-07,
+        2.9387786426582352e-08,
+        0.19724977016448975,
+        -0.9803532958030701
+      ],
+      "local_position": [
+        -0.028507787734270096,
+        1.1920937481590954e-07,
+        -5.216040932509713e-10
+      ],
+      "local_scale": [
+        1.0,
+        1.0,
+        1.0
+      ],
+      "children": [
+        {
+          "file_id": 0,
+          "path_id": "-9024385611716233166"
+        }
+      ],
+      "parent": {
+        "file_id": 0,
+        "path_id": "-4431815637448652654"
+      },
+      "name": "Bip001 R Finger21",
+      "path_components": [
+        "Avatar_Girl_Bow_Ambor_Kanban",
+        "Bip001",
+        "Bip001 Pelvis",
+        "Bip001 Spine",
+        "Bip001 Spine1",
+        "Bip001 Spine2",
+        "Bip001 R Clavicle",
+        "Bip001 R UpperArm",
+        "Bip001 R Forearm",
+        "Bip001 R Hand",
+        "Bip001 R Finger2",
+        "Bip001 R Finger21"
+      ]
+    },
+    "2024425770650120037": {
+      "game_object": {
+        "file_id": 0,
+        "path_id": "1897232794089843355"
+      },
+      "local_rotation_xyzw": [
+        -0.6426073908805847,
+        0.3012123107910156,
+        0.049239858984947205,
+        0.7027818560600281
+      ],
+      "local_position": [
+        -0.023681640625,
+        0.012697906233370304,
+        0.023128071799874306
+      ],
+      "local_scale": [
+        1.0,
+        1.0,
+        1.0
+      ],
+      "children": [
+        {
+          "file_id": 0,
+          "path_id": "8646582124383014283"
+        }
+      ],
+      "parent": {
+        "file_id": 0,
+        "path_id": "1835839520754342258"
+      },
+      "name": "Bip001 R Finger0",
+      "path_components": [
+        "Avatar_Girl_Bow_Ambor_Kanban",
+        "Bip001",
+        "Bip001 Pelvis",
+        "Bip001 Spine",
+        "Bip001 Spine1",
+        "Bip001 Spine2",
+        "Bip001 R Clavicle",
+        "Bip001 R UpperArm",
+        "Bip001 R Forearm",
+        "Bip001 R Hand",
+        "Bip001 R Finger0"
+      ]
+    },
+    "2181398867222945419": {
+      "game_object": {
+        "file_id": 0,
+        "path_id": "7100418804609718420"
+      },
+      "local_rotation_xyzw": [
+        0.0,
+        0.0,
+        -0.7071062922477722,
+        0.7071072459220886
+      ],
+      "local_position": [
+        -0.0,
+        0.0,
+        -0.8752842545509338
+      ],
+      "local_scale": [
+        1.0,
+        1.0,
+        1.0
+      ],
+      "children": [],
+      "parent": {
+        "file_id": 0,
+        "path_id": "-8012717525235389140"
+      },
+      "name": "Bip001 Footsteps",
+      "path_components": [
+        "Avatar_Girl_Bow_Ambor_Kanban",
+        "Bip001",
+        "Bip001 Footsteps"
+      ]
+    },
+    "2210388947974585846": {
+      "game_object": {
+        "file_id": 0,
+        "path_id": "3189725716717161168"
+      },
+      "local_rotation_xyzw": [
+        1.7292477139108087e-07,
+        -2.239804430814729e-08,
+        -0.17898637056350708,
+        0.9838516116142273
+      ],
+      "local_position": [
+        -0.021632490679621696,
+        0.0,
+        -1.5208156955992536e-09
+      ],
+      "local_scale": [
+        0.9999999403953552,
+        1.0000001192092896,
+        1.0
+      ],
+      "children": [
+        {
+          "file_id": 0,
+          "path_id": "-3095604579309107425"
+        }
+      ],
+      "parent": {
+        "file_id": 0,
+        "path_id": "-2195839612704067057"
+      },
+      "name": "Bip001 L Finger32",
+      "path_components": [
+        "Avatar_Girl_Bow_Ambor_Kanban",
+        "Bip001",
+        "Bip001 Pelvis",
+        "Bip001 Spine",
+        "Bip001 Spine1",
+        "Bip001 Spine2",
+        "Bip001 L Clavicle",
+        "Bip001 L UpperArm",
+        "Bip001 L Forearm",
+        "Bip001 L Hand",
+        "Bip001 L Finger3",
+        "Bip001 L Finger31",
+        "Bip001 L Finger32"
+      ]
+    },
+    "2469932757588959917": {
+      "game_object": {
+        "file_id": 0,
+        "path_id": "-3891434788740933384"
+      },
+      "local_rotation_xyzw": [
+        0.0,
+        0.0,
+        0.0,
+        1.0
+      ],
+      "local_position": [
+        0.057999998331069946,
+        -0.0,
+        0.0
+      ],
+      "local_scale": [
+        1.0,
+        1.0,
+        1.0
+      ],
+      "children": [],
+      "parent": {
+        "file_id": 0,
+        "path_id": "3387009638530333765"
+      },
+      "name": "HitObject8",
+      "path_components": [
+        "Avatar_Girl_Bow_Ambor_Kanban",
+        "Bip001",
+        "Bip001 Pelvis",
+        "Bip001 L Thigh",
+        "Bip001 L Calf",
+        "HitObject8"
+      ]
+    },
+    "2539408981860796469": {
+      "game_object": {
+        "file_id": 0,
+        "path_id": "3099009417349883572"
+      },
+      "local_rotation_xyzw": [
+        1.6924717272104317e-07,
+        -1.7584737221909563e-08,
+        -0.19757163524627686,
+        0.9802884459495544
+      ],
+      "local_position": [
+        -0.028507765382528305,
+        0.0,
+        -1.8308061733307568e-09
+      ],
+      "local_scale": [
+        0.9999999403953552,
+        0.9999999403953552,
+        0.9999998807907104
+      ],
+      "children": [
+        {
+          "file_id": 0,
+          "path_id": "-6330072935276209107"
+        }
+      ],
+      "parent": {
+        "file_id": 0,
+        "path_id": "-8243393226429494354"
+      },
+      "name": "Bip001 L Finger21",
+      "path_components": [
+        "Avatar_Girl_Bow_Ambor_Kanban",
+        "Bip001",
+        "Bip001 Pelvis",
+        "Bip001 Spine",
+        "Bip001 Spine1",
+        "Bip001 Spine2",
+        "Bip001 L Clavicle",
+        "Bip001 L UpperArm",
+        "Bip001 L Forearm",
+        "Bip001 L Hand",
+        "Bip001 L Finger2",
+        "Bip001 L Finger21"
+      ]
+    },
+    "2662877440125314218": {
+      "game_object": {
+        "file_id": 0,
+        "path_id": "390530830197843440"
+      },
+      "local_rotation_xyzw": [
+        0.8364109992980957,
+        -0.036462392657995224,
+        -0.5409587621688843,
+        -0.08031759411096573
+      ],
+      "local_position": [
+        -0.05900000035762787,
+        -0.3269999921321869,
+        0.03999999910593033
+      ],
+      "local_scale": [
+        1.0000004768371582,
+        1.0000003576278687,
+        1.0000003576278687
+      ],
+      "children": [],
+      "parent": {
+        "file_id": 0,
+        "path_id": "3670604818566406978"
+      },
+      "name": "PRIVATE_WeaponRootBow",
+      "path_components": [
+        "Avatar_Girl_Bow_Ambor_Kanban",
+        "Bip001",
+        "Bip001 Pelvis",
+        "Bip001 Spine",
+        "Bip001 Spine1",
+        "PRIVATE_WeaponRootBow"
+      ]
+    },
+    "2882478051738907634": {
+      "game_object": {
+        "file_id": 0,
+        "path_id": "-5840230870680632701"
+      },
+      "local_rotation_xyzw": [
+        -0.0013038810575380921,
+        0.9925584197044373,
+        0.11719200760126114,
+        0.03304775431752205
+      ],
+      "local_position": [
+        -5.960465188081798e-08,
+        -6.479096015254981e-08,
+        -0.07609198987483978
+      ],
+      "local_scale": [
+        1.0,
+        1.0,
+        1.0
+      ],
+      "children": [
+        {
+          "file_id": 0,
+          "path_id": "6454570639151214998"
+        },
+        {
+          "file_id": 0,
+          "path_id": "4175417530043126864"
+        }
+      ],
+      "parent": {
+        "file_id": 0,
+        "path_id": "3967143534093719871"
+      },
+      "name": "Bip001 R Thigh",
+      "path_components": [
+        "Avatar_Girl_Bow_Ambor_Kanban",
+        "Bip001",
+        "Bip001 Pelvis",
+        "Bip001 R Thigh"
+      ]
+    },
+    "3205748534595469891": {
+      "game_object": {
+        "file_id": 0,
+        "path_id": "-8153019989147279773"
+      },
+      "local_rotation_xyzw": [
+        -0.059279028326272964,
+        0.06941930204629898,
+        -0.04221202805638313,
+        0.9949297308921814
+      ],
+      "local_position": [
+        -0.413741797208786,
+        3.387685865163803e-08,
+        3.073364496231079e-08
+      ],
+      "local_scale": [
+        1.0,
+        0.9999998211860657,
+        0.9999998211860657
+      ],
+      "children": [
+        {
+          "file_id": 0,
+          "path_id": "4932334178784255041"
+        }
+      ],
+      "parent": {
+        "file_id": 0,
+        "path_id": "3387009638530333765"
+      },
+      "name": "Bip001 L Foot",
+      "path_components": [
+        "Avatar_Girl_Bow_Ambor_Kanban",
+        "Bip001",
+        "Bip001 Pelvis",
+        "Bip001 L Thigh",
+        "Bip001 L Calf",
+        "Bip001 L Foot"
+      ]
+    },
+    "3212909757639681207": {
+      "game_object": {
+        "file_id": 0,
+        "path_id": "7628496477566726991"
+      },
+      "local_rotation_xyzw": [
+        -4.117465659275729e-20,
+        -3.3881317890172014e-21,
+        -1.3950486731739284e-40,
+        1.0
+      ],
+      "local_position": [
+        -0.240325927734375,
+        0.0,
+        2.2737367036103438e-15
+      ],
+      "local_scale": [
+        1.0,
+        0.9999999403953552,
+        0.9999999403953552
+      ],
+      "children": [],
+      "parent": {
+        "file_id": 0,
+        "path_id": "745728562800963796"
+      },
+      "name": "Bip001 HeadNub",
+      "path_components": [
+        "Avatar_Girl_Bow_Ambor_Kanban",
+        "Bip001",
+        "Bip001 Pelvis",
+        "Bip001 Spine",
+        "Bip001 Spine1",
+        "Bip001 Spine2",
+        "Bip001 Neck",
+        "Bip001 Head",
+        "Bip001 HeadNub"
+      ]
+    },
+    "3238827670990866346": {
+      "game_object": {
+        "file_id": 0,
+        "path_id": "-6475803751414058227"
+      },
+      "local_rotation_xyzw": [
+        2.968972410144488e-07,
+        -8.14255471937031e-08,
+        -0.08545044809579849,
+        0.9963424205780029
+      ],
+      "local_position": [
+        -0.02497469261288643,
+        -1.1920928955078125e-07,
+        -1.4658328773009544e-08
+      ],
+      "local_scale": [
+        0.9999999403953552,
+        0.9999999403953552,
+        1.0
+      ],
+      "children": [
+        {
+          "file_id": 0,
+          "path_id": "8058299521747704338"
+        }
+      ],
+      "parent": {
+        "file_id": 0,
+        "path_id": "-416725429816004428"
+      },
+      "name": "Bip001 L Finger11",
+      "path_components": [
+        "Avatar_Girl_Bow_Ambor_Kanban",
+        "Bip001",
+        "Bip001 Pelvis",
+        "Bip001 Spine",
+        "Bip001 Spine1",
+        "Bip001 Spine2",
+        "Bip001 L Clavicle",
+        "Bip001 L UpperArm",
+        "Bip001 L Forearm",
+        "Bip001 L Hand",
+        "Bip001 L Finger1",
+        "Bip001 L Finger11"
+      ]
+    },
+    "3387009638530333765": {
+      "game_object": {
+        "file_id": 0,
+        "path_id": "9134373178734168597"
+      },
+      "local_rotation_xyzw": [
+        -0.03195594251155853,
+        -0.0023007614072412252,
+        0.07177165895700455,
+        0.9969063997268677
+      ],
+      "local_position": [
+        -0.3954195976257324,
+        7.450580596923828e-09,
+        2.9802318834981634e-08
+      ],
+      "local_scale": [
+        0.9999998807907104,
+        1.0,
+        1.0
+      ],
+      "children": [
+        {
+          "file_id": 0,
+          "path_id": "3205748534595469891"
+        },
+        {
+          "file_id": 0,
+          "path_id": "6637976171971247931"
+        },
+        {
+          "file_id": 0,
+          "path_id": "2469932757588959917"
+        }
+      ],
+      "parent": {
+        "file_id": 0,
+        "path_id": "-8018381210386597878"
+      },
+      "name": "Bip001 L Calf",
+      "path_components": [
+        "Avatar_Girl_Bow_Ambor_Kanban",
+        "Bip001",
+        "Bip001 Pelvis",
+        "Bip001 L Thigh",
+        "Bip001 L Calf"
+      ]
+    },
+    "3407698846217289401": {
+      "game_object": {
+        "file_id": 0,
+        "path_id": "-5349383620665053100"
+      },
+      "local_rotation_xyzw": [
+        0.24569998681545258,
+        -0.6714416742324829,
+        0.6903541684150696,
+        0.11049314588308334
+      ],
+      "local_position": [
+        -0.024778518825769424,
+        0.04511666297912598,
+        -0.1633334755897522
+      ],
+      "local_scale": [
+        1.0,
+        1.0,
+        1.0
+      ],
+      "children": [
+        {
+          "file_id": 0,
+          "path_id": "178936656280667927"
+        },
+        {
+          "file_id": 0,
+          "path_id": "6854126979251017034"
+        }
+      ],
+      "parent": {
+        "file_id": 0,
+        "path_id": "6315598708119467498"
+      },
+      "name": "+LegBagS L A03",
+      "path_components": [
+        "Avatar_Girl_Bow_Ambor_Kanban",
+        "Bip001",
+        "+PelvisTwist CF A01",
+        "+LegBagS L A03"
+      ]
+    },
+    "3670604818566406978": {
+      "game_object": {
+        "file_id": 0,
+        "path_id": "-8217425197018804946"
+      },
+      "local_rotation_xyzw": [
+        0.034380584955215454,
+        -0.004066220950335264,
+        0.05433811619877815,
+        0.9979223012924194
+      ],
+      "local_position": [
+        -0.05375785380601883,
+        -5.159856300451793e-05,
+        -5.638867150992155e-10
+      ],
+      "local_scale": [
+        1.0000001192092896,
+        1.0000001192092896,
+        1.0
+      ],
+      "children": [
+        {
+          "file_id": 0,
+          "path_id": "-4995281256955458469"
+        },
+        {
+          "file_id": 0,
+          "path_id": "2662877440125314218"
+        }
+      ],
+      "parent": {
+        "file_id": 0,
+        "path_id": "863801283423473831"
+      },
+      "name": "Bip001 Spine1",
+      "path_components": [
+        "Avatar_Girl_Bow_Ambor_Kanban",
+        "Bip001",
+        "Bip001 Pelvis",
+        "Bip001 Spine",
+        "Bip001 Spine1"
+      ]
+    },
+    "3967143534093719871": {
+      "game_object": {
+        "file_id": 0,
+        "path_id": "-846381939855157805"
+      },
+      "local_rotation_xyzw": [
+        0.5,
+        -0.5,
+        -0.5,
+        -0.5
+      ],
+      "local_position": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "local_scale": [
+        1.0,
+        0.9999999403953552,
+        0.9999999403953552
+      ],
+      "children": [
+        {
+          "file_id": 0,
+          "path_id": "-8018381210386597878"
+        },
+        {
+          "file_id": 0,
+          "path_id": "2882478051738907634"
+        },
+        {
+          "file_id": 0,
+          "path_id": "863801283423473831"
+        }
+      ],
+      "parent": {
+        "file_id": 0,
+        "path_id": "-8012717525235389140"
+      },
+      "name": "Bip001 Pelvis",
+      "path_components": [
+        "Avatar_Girl_Bow_Ambor_Kanban",
+        "Bip001",
+        "Bip001 Pelvis"
+      ]
+    },
+    "4175417530043126864": {
+      "game_object": {
+        "file_id": 0,
+        "path_id": "-1155227799036037881"
+      },
+      "local_rotation_xyzw": [
+        0.028662504628300667,
+        0.000985627993941307,
+        0.03435712680220604,
+        0.9989981055259705
+      ],
+      "local_position": [
+        -0.39541947841644287,
+        2.9336661100387573e-08,
+        4.0978193283081055e-08
+      ],
+      "local_scale": [
+        0.9999998211860657,
+        1.0,
+        0.9999999403953552
+      ],
+      "children": [
+        {
+          "file_id": 0,
+          "path_id": "-772045207244898370"
+        },
+        {
+          "file_id": 0,
+          "path_id": "6603752884327963575"
+        },
+        {
+          "file_id": 0,
+          "path_id": "-7534467053401638697"
+        }
+      ],
+      "parent": {
+        "file_id": 0,
+        "path_id": "2882478051738907634"
+      },
+      "name": "Bip001 R Calf",
+      "path_components": [
+        "Avatar_Girl_Bow_Ambor_Kanban",
+        "Bip001",
+        "Bip001 Pelvis",
+        "Bip001 R Thigh",
+        "Bip001 R Calf"
+      ]
+    },
+    "4445323562660564060": {
+      "game_object": {
+        "file_id": 0,
+        "path_id": "-1504689125476704012"
+      },
+      "local_rotation_xyzw": [
+        9.313225746154785e-10,
+        9.313225746154785e-10,
+        1.4901161193847656e-08,
+        1.0
+      ],
+      "local_position": [
+        -0.02103404887020588,
+        0.0,
+        -1.19209286886246e-09
+      ],
+      "local_scale": [
+        1.0,
+        1.0,
+        1.0
+      ],
+      "children": [],
+      "parent": {
+        "file_id": 0,
+        "path_id": "-6330072935276209107"
+      },
+      "name": "Bip001 L Finger2Nub",
+      "path_components": [
+        "Avatar_Girl_Bow_Ambor_Kanban",
+        "Bip001",
+        "Bip001 Pelvis",
+        "Bip001 Spine",
+        "Bip001 Spine1",
+        "Bip001 Spine2",
+        "Bip001 L Clavicle",
+        "Bip001 L UpperArm",
+        "Bip001 L Forearm",
+        "Bip001 L Hand",
+        "Bip001 L Finger2",
+        "Bip001 L Finger21",
+        "Bip001 L Finger22",
+        "Bip001 L Finger2Nub"
+      ]
+    },
+    "4932334178784255041": {
+      "game_object": {
+        "file_id": 0,
+        "path_id": "-6404587492186772428"
+      },
+      "local_rotation_xyzw": [
+        1.1175860237244706e-08,
+        7.450573047407261e-09,
+        0.7071067690849304,
+        -0.7071068286895752
+      ],
+      "local_position": [
+        -0.06948047876358032,
+        0.07336608320474625,
+        0.0012016461696475744
+      ],
+      "local_scale": [
+        1.0,
+        0.9999999403953552,
+        1.0
+      ],
+      "children": [
+        {
+          "file_id": 0,
+          "path_id": "-6386239436522052731"
+        }
+      ],
+      "parent": {
+        "file_id": 0,
+        "path_id": "3205748534595469891"
+      },
+      "name": "Bip001 L Toe0",
+      "path_components": [
+        "Avatar_Girl_Bow_Ambor_Kanban",
+        "Bip001",
+        "Bip001 Pelvis",
+        "Bip001 L Thigh",
+        "Bip001 L Calf",
+        "Bip001 L Foot",
+        "Bip001 L Toe0"
+      ]
+    },
+    "5166720436746767400": {
+      "game_object": {
+        "file_id": 0,
+        "path_id": "-9183069165420376222"
+      },
+      "local_rotation_xyzw": [
+        0.6995685696601868,
+        -0.6994798183441162,
+        0.10328473895788193,
+        0.10326683521270752
+      ],
+      "local_position": [
+        -0.053774259984493256,
+        0.04830881953239441,
+        -0.03282790258526802
+      ],
+      "local_scale": [
+        1.0,
+        1.0,
+        1.0
+      ],
+      "children": [
+        {
+          "file_id": 0,
+          "path_id": "-7367758531345397864"
+        }
+      ],
+      "parent": {
+        "file_id": 0,
+        "path_id": "745728562800963796"
+      },
+      "name": "+EyeBone R A01",
+      "path_components": [
+        "Avatar_Girl_Bow_Ambor_Kanban",
+        "Bip001",
+        "Bip001 Pelvis",
+        "Bip001 Spine",
+        "Bip001 Spine1",
+        "Bip001 Spine2",
+        "Bip001 Neck",
+        "Bip001 Head",
+        "+EyeBone R A01"
+      ]
+    },
+    "5192241681517631792": {
+      "game_object": {
+        "file_id": 0,
+        "path_id": "-3859649541234943511"
+      },
+      "local_rotation_xyzw": [
+        -0.0,
+        -0.0,
+        -0.0,
+        1.0
+      ],
+      "local_position": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "local_scale": [
+        1.0,
+        1.0,
+        1.0
+      ],
+      "children": [
+        {
+          "file_id": 0,
+          "path_id": "-8012717525235389140"
+        },
+        {
+          "file_id": 0,
+          "path_id": "7511528602430713830"
+        },
+        {
+          "file_id": 0,
+          "path_id": "-8632380392420789806"
+        },
+        {
+          "file_id": 0,
+          "path_id": "-567241690011498545"
+        },
+        {
+          "file_id": 0,
+          "path_id": "-41230709084178851"
+        },
+        {
+          "file_id": 0,
+          "path_id": "-7820089386783121296"
+        },
+        {
+          "file_id": 0,
+          "path_id": "-5966268962463930342"
+        },
+        {
+          "file_id": 0,
+          "path_id": "-8757057724265982794"
+        },
+        {
+          "file_id": 0,
+          "path_id": "-2156680326014302942"
+        },
+        {
+          "file_id": 0,
+          "path_id": "5548992731911941978"
+        },
+        {
+          "file_id": 0,
+          "path_id": "-1447776528795706132"
+        },
+        {
+          "file_id": 0,
+          "path_id": "1581556768664590982"
+        }
+      ],
+      "parent": {
+        "file_id": 0,
+        "path_id": "0"
+      },
+      "name": "Avatar_Girl_Bow_Ambor_Kanban",
+      "path_components": [
+        "Avatar_Girl_Bow_Ambor_Kanban"
+      ]
+    },
+    "5483776165114993725": {
+      "game_object": {
+        "file_id": 0,
+        "path_id": "9194779841482918296"
+      },
+      "local_rotation_xyzw": [
+        4.378475182420516e-08,
+        1.7320307676982338e-07,
+        -0.09230827540159225,
+        0.995730459690094
+      ],
+      "local_position": [
+        -0.09200000017881393,
+        0.004999999888241291,
+        0.0
+      ],
+      "local_scale": [
+        1.0,
+        1.0,
+        1.0
+      ],
+      "children": [],
+      "parent": {
+        "file_id": 0,
+        "path_id": "-4995281256955458469"
+      },
+      "name": "HitObject3",
+      "path_components": [
+        "Avatar_Girl_Bow_Ambor_Kanban",
+        "Bip001",
+        "Bip001 Pelvis",
+        "Bip001 Spine",
+        "Bip001 Spine1",
+        "Bip001 Spine2",
+        "HitObject3"
+      ]
+    },
+    "5548992731911941978": {
+      "game_object": {
+        "file_id": 0,
+        "path_id": "-5846337609848110552"
+      },
+      "local_rotation_xyzw": [
+        -0.0,
+        -0.0,
+        -0.0,
+        1.0
+      ],
+      "local_position": [
+        0.0,
+        1.6299999952316284,
+        0.0
+      ],
+      "local_scale": [
+        1.0,
+        1.0,
+        1.0
+      ],
+      "children": [],
+      "parent": {
+        "file_id": 0,
+        "path_id": "5192241681517631792"
+      },
+      "name": "MoveHead",
+      "path_components": [
+        "Avatar_Girl_Bow_Ambor_Kanban",
+        "MoveHead"
+      ]
+    },
+    "6028997517028493323": {
+      "game_object": {
+        "file_id": 0,
+        "path_id": "-8566806480963288220"
+      },
+      "local_rotation_xyzw": [
+        3.552713678800501e-15,
+        3.5725660135017736e-15,
+        -7.105427357601002e-15,
+        1.0
+      ],
+      "local_position": [
+        -0.042506251484155655,
+        0.0,
+        0.0
+      ],
+      "local_scale": [
+        1.0,
+        1.0,
+        1.0
+      ],
+      "children": [],
+      "parent": {
+        "file_id": 0,
+        "path_id": "-1952676797660931398"
+      },
+      "name": "Bip001 R Toe0Nub",
+      "path_components": [
+        "Avatar_Girl_Bow_Ambor_Kanban",
+        "Bip001",
+        "Bip001 Pelvis",
+        "Bip001 R Thigh",
+        "Bip001 R Calf",
+        "Bip001 R Foot",
+        "Bip001 R Toe0",
+        "Bip001 R Toe0Nub"
+      ]
+    },
+    "6315598708119467498": {
+      "game_object": {
+        "file_id": 0,
+        "path_id": "-5819407955876611468"
+      },
+      "local_rotation_xyzw": [
+        0.5312159061431885,
+        0.46831458806991577,
+        -0.46696898341178894,
+        0.529557466506958
+      ],
+      "local_position": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "local_scale": [
+        1.0,
+        1.0,
+        1.0
+      ],
+      "children": [
+        {
+          "file_id": 0,
+          "path_id": "3407698846217289401"
+        }
+      ],
+      "parent": {
+        "file_id": 0,
+        "path_id": "-8012717525235389140"
+      },
+      "name": "+PelvisTwist CF A01",
+      "path_components": [
+        "Avatar_Girl_Bow_Ambor_Kanban",
+        "Bip001",
+        "+PelvisTwist CF A01"
+      ]
+    },
+    "6378945009453556391": {
+      "game_object": {
+        "file_id": 0,
+        "path_id": "-5902602327207740302"
+      },
+      "local_rotation_xyzw": [
+        -0.6800628304481506,
+        0.7282646298408508,
+        0.012251083739101887,
+        0.08363676071166992
+      ],
+      "local_position": [
+        -0.043803632259368896,
+        0.04044410586357117,
+        0.049510106444358826
+      ],
+      "local_scale": [
+        1.0,
+        0.9999999403953552,
+        1.0
+      ],
+      "children": [],
+      "parent": {
+        "file_id": 0,
+        "path_id": "-4995281256955458469"
+      },
+      "name": "+Breast L A01",
+      "path_components": [
+        "Avatar_Girl_Bow_Ambor_Kanban",
+        "Bip001",
+        "Bip001 Pelvis",
+        "Bip001 Spine",
+        "Bip001 Spine1",
+        "Bip001 Spine2",
+        "+Breast L A01"
+      ]
+    },
+    "6454570639151214998": {
+      "game_object": {
+        "file_id": 0,
+        "path_id": "6625672169153250751"
+      },
+      "local_rotation_xyzw": [
+        0.6714712977409363,
+        0.26586678624153137,
+        -0.23610906302928925,
+        0.6501489281654358
+      ],
+      "local_position": [
+        -0.0015406799502670765,
+        0.010466890409588814,
+        0.04339165613055229
+      ],
+      "local_scale": [
+        0.9999999403953552,
+        1.0,
+        0.9999999403953552
+      ],
+      "children": [
+        {
+          "file_id": 0,
+          "path_id": "7861709040270636963"
+        }
+      ],
+      "parent": {
+        "file_id": 0,
+        "path_id": "2882478051738907634"
+      },
+      "name": "+LegBagS R A01",
+      "path_components": [
+        "Avatar_Girl_Bow_Ambor_Kanban",
+        "Bip001",
+        "Bip001 Pelvis",
+        "Bip001 R Thigh",
+        "+LegBagS R A01"
+      ]
+    },
+    "6597632363673178069": {
+      "game_object": {
+        "file_id": 0,
+        "path_id": "-8624247181318470129"
+      },
+      "local_rotation_xyzw": [
+        0.0,
+        0.0,
+        0.0,
+        1.0
+      ],
+      "local_position": [
+        -0.06400000303983688,
+        0.023000000044703484,
+        0.0010000000474974513
+      ],
+      "local_scale": [
+        1.0,
+        1.0,
+        1.0
+      ],
+      "children": [],
+      "parent": {
+        "file_id": 0,
+        "path_id": "1835839520754342258"
+      },
+      "name": "PRIVATE_RHand",
+      "path_components": [
+        "Avatar_Girl_Bow_Ambor_Kanban",
+        "Bip001",
+        "Bip001 Pelvis",
+        "Bip001 Spine",
+        "Bip001 Spine1",
+        "Bip001 Spine2",
+        "Bip001 R Clavicle",
+        "Bip001 R UpperArm",
+        "Bip001 R Forearm",
+        "Bip001 R Hand",
+        "PRIVATE_RHand"
+      ]
+    },
+    "6603752884327963575": {
+      "game_object": {
+        "file_id": 0,
+        "path_id": "3365293359145256074"
+      },
+      "local_rotation_xyzw": [
+        0.0,
+        0.0,
+        0.0,
+        1.0
+      ],
+      "local_position": [
+        0.057999998331069946,
+        0.0,
+        0.0
+      ],
+      "local_scale": [
+        1.0,
+        1.0,
+        1.0
+      ],
+      "children": [],
+      "parent": {
+        "file_id": 0,
+        "path_id": "4175417530043126864"
+      },
+      "name": "HitObject6",
+      "path_components": [
+        "Avatar_Girl_Bow_Ambor_Kanban",
+        "Bip001",
+        "Bip001 Pelvis",
+        "Bip001 R Thigh",
+        "Bip001 R Calf",
+        "HitObject6"
+      ]
+    },
+    "6637976171971247931": {
+      "game_object": {
+        "file_id": 0,
+        "path_id": "6239262141159105151"
+      },
+      "local_rotation_xyzw": [
+        0.0,
+        0.0,
+        0.0,
+        1.0
+      ],
+      "local_position": [
+        -0.2540000081062317,
+        0.0,
+        0.0
+      ],
+      "local_scale": [
+        1.0,
+        1.0,
+        1.0
+      ],
+      "children": [],
+      "parent": {
+        "file_id": 0,
+        "path_id": "3387009638530333765"
+      },
+      "name": "HitObject9",
+      "path_components": [
+        "Avatar_Girl_Bow_Ambor_Kanban",
+        "Bip001",
+        "Bip001 Pelvis",
+        "Bip001 L Thigh",
+        "Bip001 L Calf",
+        "HitObject9"
+      ]
+    },
+    "6854126979251017034": {
+      "game_object": {
+        "file_id": 0,
+        "path_id": "-9200629818094529303"
+      },
+      "local_rotation_xyzw": [
+        0.6862581372261047,
+        0.014994194731116295,
+        0.039405740797519684,
+        0.7261351346969604
+      ],
+      "local_position": [
+        -0.06744521856307983,
+        0.002903405576944351,
+        -0.0058814845979213715
+      ],
+      "local_scale": [
+        1.0,
+        1.0,
+        1.0
+      ],
+      "children": [],
+      "parent": {
+        "file_id": 0,
+        "path_id": "3407698846217289401"
+      },
+      "name": "PRIVATE_Pendant",
+      "path_components": [
+        "Avatar_Girl_Bow_Ambor_Kanban",
+        "Bip001",
+        "+PelvisTwist CF A01",
+        "+LegBagS L A03",
+        "PRIVATE_Pendant"
+      ]
+    },
+    "6910661736865184405": {
+      "game_object": {
+        "file_id": 0,
+        "path_id": "-2767920345813406909"
+      },
+      "local_rotation_xyzw": [
+        9.313224635931761e-10,
+        -9.313224635931761e-10,
+        1.0,
+        1.4901159417490817e-08
+      ],
+      "local_position": [
+        -0.02103404887020588,
+        7.629394360719743e-08,
+        -1.19209286886246e-09
+      ],
+      "local_scale": [
+        -1.0000001192092896,
+        -1.0000001192092896,
+        -1.0000001192092896
+      ],
+      "children": [],
+      "parent": {
+        "file_id": 0,
+        "path_id": "-9024385611716233166"
+      },
+      "name": "Bip001 R Finger2Nub",
+      "path_components": [
+        "Avatar_Girl_Bow_Ambor_Kanban",
+        "Bip001",
+        "Bip001 Pelvis",
+        "Bip001 Spine",
+        "Bip001 Spine1",
+        "Bip001 Spine2",
+        "Bip001 R Clavicle",
+        "Bip001 R UpperArm",
+        "Bip001 R Forearm",
+        "Bip001 R Hand",
+        "Bip001 R Finger2",
+        "Bip001 R Finger21",
+        "Bip001 R Finger22",
+        "Bip001 R Finger2Nub"
+      ]
+    },
+    "6955514212125952094": {
+      "game_object": {
+        "file_id": 0,
+        "path_id": "7161766970247710543"
+      },
+      "local_rotation_xyzw": [
+        0.9998606443405151,
+        0.012823943048715591,
+        0.010683899745345116,
+        0.000334792654030025
+      ],
+      "local_position": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "local_scale": [
+        1.0,
+        1.0,
+        1.0
+      ],
+      "children": [],
+      "parent": {
+        "file_id": 0,
+        "path_id": "-2044189528292406799"
+      },
+      "name": "+UpperArmTwist L A01",
+      "path_components": [
+        "Avatar_Girl_Bow_Ambor_Kanban",
+        "Bip001",
+        "Bip001 Pelvis",
+        "Bip001 Spine",
+        "Bip001 Spine1",
+        "Bip001 Spine2",
+        "Bip001 L Clavicle",
+        "Bip001 L UpperArm",
+        "+UpperArmTwist L A01"
+      ]
+    },
+    "7210225050834418480": {
+      "game_object": {
+        "file_id": 0,
+        "path_id": "-2332104170163319324"
+      },
+      "local_rotation_xyzw": [
+        -1.1175870895385742e-08,
+        -7.450580596923828e-09,
+        -1.4901161193847656e-08,
+        1.0
+      ],
+      "local_position": [
+        -0.0161854550242424,
+        0.0,
+        0.0
+      ],
+      "local_scale": [
+        1.0,
+        1.0,
+        1.0
+      ],
+      "children": [],
+      "parent": {
+        "file_id": 0,
+        "path_id": "-3268089283121724093"
+      },
+      "name": "Bip001 L Finger4Nub",
+      "path_components": [
+        "Avatar_Girl_Bow_Ambor_Kanban",
+        "Bip001",
+        "Bip001 Pelvis",
+        "Bip001 Spine",
+        "Bip001 Spine1",
+        "Bip001 Spine2",
+        "Bip001 L Clavicle",
+        "Bip001 L UpperArm",
+        "Bip001 L Forearm",
+        "Bip001 L Hand",
+        "Bip001 L Finger4",
+        "Bip001 L Finger41",
+        "Bip001 L Finger42",
+        "Bip001 L Finger4Nub"
+      ]
+    },
+    "7511528602430713830": {
+      "game_object": {
+        "file_id": 0,
+        "path_id": "-593218247093499388"
+      },
+      "local_rotation_xyzw": [
+        2.1855694143368964e-08,
+        0.0,
+        -0.0,
+        1.0
+      ],
+      "local_position": [
+        -0.0,
+        0.0,
+        0.0
+      ],
+      "local_scale": [
+        1.0,
+        1.0,
+        1.0
+      ],
+      "children": [],
+      "parent": {
+        "file_id": 0,
+        "path_id": "5192241681517631792"
+      },
+      "name": "Body",
+      "path_components": [
+        "Avatar_Girl_Bow_Ambor_Kanban",
+        "Body"
+      ]
+    },
+    "7538285741678082746": {
+      "game_object": {
+        "file_id": 0,
+        "path_id": "-112349838819337447"
+      },
+      "local_rotation_xyzw": [
+        -0.11489307880401611,
+        -0.01601630635559559,
+        0.13713520765304565,
+        0.9837362766265869
+      ],
+      "local_position": [
+        -0.2121766060590744,
+        1.1222439866287459e-07,
+        -7.450581307466564e-08
+      ],
+      "local_scale": [
+        1.0,
+        1.0,
+        1.0
+      ],
+      "children": [
+        {
+          "file_id": 0,
+          "path_id": "1835839520754342258"
+        },
+        {
+          "file_id": 0,
+          "path_id": "-4111556551948651160"
+        }
+      ],
+      "parent": {
+        "file_id": 0,
+        "path_id": "-8322688421953441693"
+      },
+      "name": "Bip001 R Forearm",
+      "path_components": [
+        "Avatar_Girl_Bow_Ambor_Kanban",
+        "Bip001",
+        "Bip001 Pelvis",
+        "Bip001 Spine",
+        "Bip001 Spine1",
+        "Bip001 Spine2",
+        "Bip001 R Clavicle",
+        "Bip001 R UpperArm",
+        "Bip001 R Forearm"
+      ]
+    },
+    "7822377491828870215": {
+      "game_object": {
+        "file_id": 0,
+        "path_id": "-2953424385996935160"
+      },
+      "local_rotation_xyzw": [
+        0.042920082807540894,
+        0.053723711520433426,
+        0.14859989285469055,
+        0.9865037798881531
+      ],
+      "local_position": [
+        -0.12651923298835754,
+        -2.231597818536102e-06,
+        1.8119811784345075e-06
+      ],
+      "local_scale": [
+        1.0,
+        1.0,
+        1.0
+      ],
+      "children": [],
+      "parent": {
+        "file_id": 0,
+        "path_id": "-2222538249507537091"
+      },
+      "name": "+LegBagS L A06",
+      "path_components": [
+        "Avatar_Girl_Bow_Ambor_Kanban",
+        "Bip001",
+        "+PelvisTwist CF A01",
+        "+LegBagS L A03",
+        "+LegBagS L A04",
+        "+LegBagS L A05",
+        "+LegBagS L A06"
+      ]
+    },
+    "7844540062639701229": {
+      "game_object": {
+        "file_id": 0,
+        "path_id": "-9013994759621589752"
+      },
+      "local_rotation_xyzw": [
+        7.450580596923828e-09,
+        -1.4901161193847656e-08,
+        -1.4901161193847656e-08,
+        1.0
+      ],
+      "local_position": [
+        -0.02165401354432106,
+        0.0,
+        -1.907348590179936e-08
+      ],
+      "local_scale": [
+        1.0,
+        1.0,
+        0.9999999403953552
+      ],
+      "children": [],
+      "parent": {
+        "file_id": 0,
+        "path_id": "-7256770248825423741"
+      },
+      "name": "Bip001 L Finger0Nub",
+      "path_components": [
+        "Avatar_Girl_Bow_Ambor_Kanban",
+        "Bip001",
+        "Bip001 Pelvis",
+        "Bip001 Spine",
+        "Bip001 Spine1",
+        "Bip001 Spine2",
+        "Bip001 L Clavicle",
+        "Bip001 L UpperArm",
+        "Bip001 L Forearm",
+        "Bip001 L Hand",
+        "Bip001 L Finger0",
+        "Bip001 L Finger01",
+        "Bip001 L Finger02",
+        "Bip001 L Finger0Nub"
+      ]
+    },
+    "7861709040270636963": {
+      "game_object": {
+        "file_id": 0,
+        "path_id": "2597676457655774020"
+      },
+      "local_rotation_xyzw": [
+        0.00596599793061614,
+        -0.013646356761455536,
+        0.4039405286312103,
+        0.9146640300750732
+      ],
+      "local_position": [
+        -0.08527633547782898,
+        -9.91821252682712e-07,
+        -5.7220457705398076e-08
+      ],
+      "local_scale": [
+        1.0,
+        1.0,
+        1.0
+      ],
+      "children": [],
+      "parent": {
+        "file_id": 0,
+        "path_id": "6454570639151214998"
+      },
+      "name": "+LegBagS R A02",
+      "path_components": [
+        "Avatar_Girl_Bow_Ambor_Kanban",
+        "Bip001",
+        "Bip001 Pelvis",
+        "Bip001 R Thigh",
+        "+LegBagS R A01",
+        "+LegBagS R A02"
+      ]
+    },
+    "7959262982063385171": {
+      "game_object": {
+        "file_id": 0,
+        "path_id": "8596623199089909275"
+      },
+      "local_rotation_xyzw": [
+        0.0,
+        0.0,
+        0.0,
+        1.0
+      ],
+      "local_position": [
+        0.0,
+        1.149999976158142,
+        -5.999998364814019e-08
+      ],
+      "local_scale": [
+        1.0,
+        1.0,
+        1.0
+      ],
+      "children": [],
+      "parent": {
+        "file_id": 0,
+        "path_id": "-8757057724265982794"
+      },
+      "name": "CameraLook",
+      "path_components": [
+        "Avatar_Girl_Bow_Ambor_Kanban",
+        "Root",
+        "CameraLook"
+      ]
+    },
+    "8058299521747704338": {
+      "game_object": {
+        "file_id": 0,
+        "path_id": "1871096061397985609"
+      },
+      "local_rotation_xyzw": [
+        3.204059737527132e-07,
+        -9.937242850810435e-08,
+        -0.03284471854567528,
+        0.9994605183601379
+      ],
+      "local_position": [
+        -0.019878797233104706,
+        0.0,
+        1.0684352069745273e-08
+      ],
+      "local_scale": [
+        1.0,
+        1.0,
+        1.0
+      ],
+      "children": [
+        {
+          "file_id": 0,
+          "path_id": "-975789429215068519"
+        }
+      ],
+      "parent": {
+        "file_id": 0,
+        "path_id": "3238827670990866346"
+      },
+      "name": "Bip001 L Finger12",
+      "path_components": [
+        "Avatar_Girl_Bow_Ambor_Kanban",
+        "Bip001",
+        "Bip001 Pelvis",
+        "Bip001 Spine",
+        "Bip001 Spine1",
+        "Bip001 Spine2",
+        "Bip001 L Clavicle",
+        "Bip001 L UpperArm",
+        "Bip001 L Forearm",
+        "Bip001 L Hand",
+        "Bip001 L Finger1",
+        "Bip001 L Finger11",
+        "Bip001 L Finger12"
+      ]
+    },
+    "8176244249897317046": {
+      "game_object": {
+        "file_id": 0,
+        "path_id": "8938310795451566361"
+      },
+      "local_rotation_xyzw": [
+        3.4604919818548296e-08,
+        1.1430952895352675e-07,
+        -0.09230830520391464,
+        0.995730459690094
+      ],
+      "local_position": [
+        0.14300000667572021,
+        -0.04399999976158142,
+        -0.0
+      ],
+      "local_scale": [
+        1.0,
+        1.0,
+        1.0
+      ],
+      "children": [],
+      "parent": {
+        "file_id": 0,
+        "path_id": "-4995281256955458469"
+      },
+      "name": "HitObject2",
+      "path_components": [
+        "Avatar_Girl_Bow_Ambor_Kanban",
+        "Bip001",
+        "Bip001 Pelvis",
+        "Bip001 Spine",
+        "Bip001 Spine1",
+        "Bip001 Spine2",
+        "HitObject2"
+      ]
+    },
+    "8642945859820271643": {
+      "game_object": {
+        "file_id": 0,
+        "path_id": "-9016310746115411135"
+      },
+      "local_rotation_xyzw": [
+        -7.450580596923828e-09,
+        -3.725290742551124e-09,
+        1.0,
+        -1.4901161193847656e-08
+      ],
+      "local_position": [
+        -0.0173815730959177,
+        0.0,
+        4.76837147544984e-09
+      ],
+      "local_scale": [
+        -1.0,
+        -0.9999998807907104,
+        -0.9999998807907104
+      ],
+      "children": [],
+      "parent": {
+        "file_id": 0,
+        "path_id": "-8261034535499655595"
+      },
+      "name": "Bip001 R Finger1Nub",
+      "path_components": [
+        "Avatar_Girl_Bow_Ambor_Kanban",
+        "Bip001",
+        "Bip001 Pelvis",
+        "Bip001 Spine",
+        "Bip001 Spine1",
+        "Bip001 Spine2",
+        "Bip001 R Clavicle",
+        "Bip001 R UpperArm",
+        "Bip001 R Forearm",
+        "Bip001 R Hand",
+        "Bip001 R Finger1",
+        "Bip001 R Finger11",
+        "Bip001 R Finger12",
+        "Bip001 R Finger1Nub"
+      ]
+    },
+    "8646582124383014283": {
+      "game_object": {
+        "file_id": 0,
+        "path_id": "1106971831443317759"
+      },
+      "local_rotation_xyzw": [
+        -0.002449874999001622,
+        0.015244174748659134,
+        -0.12109046429395676,
+        0.9925214648246765
+      ],
+      "local_position": [
+        -0.02547859214246273,
+        -3.814697180359872e-08,
+        0.0
+      ],
+      "local_scale": [
+        1.0,
+        1.0,
+        1.0
+      ],
+      "children": [
+        {
+          "file_id": 0,
+          "path_id": "-2660891953163345712"
+        }
+      ],
+      "parent": {
+        "file_id": 0,
+        "path_id": "2024425770650120037"
+      },
+      "name": "Bip001 R Finger01",
+      "path_components": [
+        "Avatar_Girl_Bow_Ambor_Kanban",
+        "Bip001",
+        "Bip001 Pelvis",
+        "Bip001 Spine",
+        "Bip001 Spine1",
+        "Bip001 Spine2",
+        "Bip001 R Clavicle",
+        "Bip001 R UpperArm",
+        "Bip001 R Forearm",
+        "Bip001 R Hand",
+        "Bip001 R Finger0",
+        "Bip001 R Finger01"
+      ]
+    }
+  },
+  "renderers": [
+    {
+      "game_object": {
+        "file_id": 0,
+        "path_id": "-3142815144051296090"
+      },
+      "header_flags_hex": "010100010001000100000000000001000000000100000000",
+      "lightmap_scale_offset": [
+        1.0,
+        1.0,
+        0.0,
+        0.0
+      ],
+      "dynamic_lightmap_scale_offset": [
+        1.0,
+        1.0,
+        0.0,
+        0.0
+      ],
+      "view_distance_ratio": 16.0,
+      "shader_lod_distance_ratio": 1.0,
+      "materials": [
+        {
+          "file_id": 2,
+          "path_id": "2088479582519271134"
+        }
+      ],
+      "static_batch": [
+        0,
+        0
+      ],
+      "static_batch_root": {
+        "file_id": 0,
+        "path_id": "0"
+      },
+      "material_layers": 1,
+      "probe_anchor": {
+        "file_id": 0,
+        "path_id": "0"
+      },
+      "probe_volume": {
+        "file_id": 0,
+        "path_id": "0"
+      },
+      "sorting": [
+        0,
+        0,
+        0
+      ],
+      "use_highest_mip": 0,
+      "quality": 0,
+      "update_when_offscreen": 0,
+      "skin_normals": 1,
+      "mesh": {
+        "file_id": 1,
+        "path_id": "1663948667130563426"
+      },
+      "bones": [
+        {
+          "file_id": 0,
+          "path_id": "745728562800963796"
+        }
+      ],
+      "blend_shape_weights": [],
+      "root_bone": {
+        "file_id": 0,
+        "path_id": "745728562800963796"
+      },
+      "aabb": [
+        -0.055475711822509766,
+        0.07746712863445282,
+        1.6391277313232422e-07,
+        0.0525813102722168,
+        0.0330246239900589,
+        0.0822199359536171
+      ],
+      "dirty_aabb": 0,
+      "uninterpreted_trailer_hex": "000000000000000000000000000000000000803f01000000",
+      "id": "-3721498538142546200",
+      "name": "Face_Eye",
+      "type_hash": "d74087651cccc56b59dcdac73be06d71",
+      "raw_sha256": "3a59b6234293fe34a43e491f28749cd263ae46e0602e157276d66a0a57f18101",
+      "mesh_ref": "cab-5c85cf741aee8b3e9b3c8129ecfe0352:1663948667130563426",
+      "material_refs": [
+        "cab-a5820e37a11e838dd6fd379a3bdeaa67:2088479582519271134"
+      ],
+      "bone_names": [
+        "Bip001 Head"
+      ],
+      "bone_paths": [
+        [
+          "Avatar_Girl_Bow_Ambor_Kanban",
+          "Bip001",
+          "Bip001 Pelvis",
+          "Bip001 Spine",
+          "Bip001 Spine1",
+          "Bip001 Spine2",
+          "Bip001 Neck",
+          "Bip001 Head"
+        ]
+      ]
+    },
+    {
+      "game_object": {
+        "file_id": 0,
+        "path_id": "-2145935299948743698"
+      },
+      "header_flags_hex": "010100010001000100000000000001000000000100000000",
+      "lightmap_scale_offset": [
+        1.0,
+        1.0,
+        0.0,
+        0.0
+      ],
+      "dynamic_lightmap_scale_offset": [
+        1.0,
+        1.0,
+        0.0,
+        0.0
+      ],
+      "view_distance_ratio": 16.0,
+      "shader_lod_distance_ratio": 1.0,
+      "materials": [
+        {
+          "file_id": 2,
+          "path_id": "2088479582519271134"
+        }
+      ],
+      "static_batch": [
+        0,
+        0
+      ],
+      "static_batch_root": {
+        "file_id": 0,
+        "path_id": "0"
+      },
+      "material_layers": 1,
+      "probe_anchor": {
+        "file_id": 0,
+        "path_id": "0"
+      },
+      "probe_volume": {
+        "file_id": 0,
+        "path_id": "0"
+      },
+      "sorting": [
+        0,
+        0,
+        0
+      ],
+      "use_highest_mip": 0,
+      "quality": 0,
+      "update_when_offscreen": 0,
+      "skin_normals": 1,
+      "mesh": {
+        "file_id": 1,
+        "path_id": "7839377103902054912"
+      },
+      "bones": [
+        {
+          "file_id": 0,
+          "path_id": "1046317610545530536"
+        },
+        {
+          "file_id": 0,
+          "path_id": "864897728092396666"
+        },
+        {
+          "file_id": 0,
+          "path_id": "745728562800963796"
+        }
+      ],
+      "blend_shape_weights": [],
+      "root_bone": {
+        "file_id": 0,
+        "path_id": "745728562800963796"
+      },
+      "aabb": [
+        -0.07122993469238281,
+        0.05287400633096695,
+        7.450580596923828e-08,
+        0.10310661792755127,
+        0.06316027790307999,
+        0.08835562318563461
+      ],
+      "dirty_aabb": 0,
+      "uninterpreted_trailer_hex": "000000000000000000000000000000000000803f01000000",
+      "id": "909458674581413089",
+      "name": "Face",
+      "type_hash": "d74087651cccc56b59dcdac73be06d71",
+      "raw_sha256": "cb5f9d70fb644d667c301f2da5dc6ed5e9865512ef8d0f46a5147526aab2fa08",
+      "mesh_ref": "cab-5c85cf741aee8b3e9b3c8129ecfe0352:7839377103902054912",
+      "material_refs": [
+        "cab-a5820e37a11e838dd6fd379a3bdeaa67:2088479582519271134"
+      ],
+      "bone_names": [
+        "+ToothBone D A01",
+        "+ToothBone U A01",
+        "Bip001 Head"
+      ],
+      "bone_paths": [
+        [
+          "Avatar_Girl_Bow_Ambor_Kanban",
+          "Bip001",
+          "Bip001 Pelvis",
+          "Bip001 Spine",
+          "Bip001 Spine1",
+          "Bip001 Spine2",
+          "Bip001 Neck",
+          "Bip001 Head",
+          "+ToothBone D A01"
+        ],
+        [
+          "Avatar_Girl_Bow_Ambor_Kanban",
+          "Bip001",
+          "Bip001 Pelvis",
+          "Bip001 Spine",
+          "Bip001 Spine1",
+          "Bip001 Spine2",
+          "Bip001 Neck",
+          "Bip001 Head",
+          "+ToothBone U A01"
+        ],
+        [
+          "Avatar_Girl_Bow_Ambor_Kanban",
+          "Bip001",
+          "Bip001 Pelvis",
+          "Bip001 Spine",
+          "Bip001 Spine1",
+          "Bip001 Spine2",
+          "Bip001 Neck",
+          "Bip001 Head"
+        ]
+      ]
+    },
+    {
+      "game_object": {
+        "file_id": 0,
+        "path_id": "-1693978831061137046"
+      },
+      "header_flags_hex": "010100010001000100000000000001000000000100000000",
+      "lightmap_scale_offset": [
+        1.0,
+        1.0,
+        0.0,
+        0.0
+      ],
+      "dynamic_lightmap_scale_offset": [
+        1.0,
+        1.0,
+        0.0,
+        0.0
+      ],
+      "view_distance_ratio": 16.0,
+      "shader_lod_distance_ratio": 1.0,
+      "materials": [
+        {
+          "file_id": 2,
+          "path_id": "2088479582519271134"
+        }
+      ],
+      "static_batch": [
+        0,
+        0
+      ],
+      "static_batch_root": {
+        "file_id": 0,
+        "path_id": "0"
+      },
+      "material_layers": 1,
+      "probe_anchor": {
+        "file_id": 0,
+        "path_id": "0"
+      },
+      "probe_volume": {
+        "file_id": 0,
+        "path_id": "0"
+      },
+      "sorting": [
+        0,
+        0,
+        0
+      ],
+      "use_highest_mip": 0,
+      "quality": 0,
+      "update_when_offscreen": 0,
+      "skin_normals": 1,
+      "mesh": {
+        "file_id": 1,
+        "path_id": "6955739950345743835"
+      },
+      "bones": [
+        {
+          "file_id": 0,
+          "path_id": "745728562800963796"
+        }
+      ],
+      "blend_shape_weights": [],
+      "root_bone": {
+        "file_id": 0,
+        "path_id": "745728562800963796"
+      },
+      "aabb": [
+        -0.08971834182739258,
+        0.09246625006198883,
+        1.7136335372924805e-07,
+        0.01646721363067627,
+        0.01566789299249649,
+        0.0709281638264656
+      ],
+      "dirty_aabb": 0,
+      "uninterpreted_trailer_hex": "000000000000000000000000000000000000803f01000000",
+      "id": "3740695884532503542",
+      "name": "Brow",
+      "type_hash": "d74087651cccc56b59dcdac73be06d71",
+      "raw_sha256": "7dd1d3afc0a3bdb443416ce864aa048722c3fe2f2cb0a54671fc6145258b3e58",
+      "mesh_ref": "cab-5c85cf741aee8b3e9b3c8129ecfe0352:6955739950345743835",
+      "material_refs": [
+        "cab-a5820e37a11e838dd6fd379a3bdeaa67:2088479582519271134"
+      ],
+      "bone_names": [
+        "Bip001 Head"
+      ],
+      "bone_paths": [
+        [
+          "Avatar_Girl_Bow_Ambor_Kanban",
+          "Bip001",
+          "Bip001 Pelvis",
+          "Bip001 Spine",
+          "Bip001 Spine1",
+          "Bip001 Spine2",
+          "Bip001 Neck",
+          "Bip001 Head"
+        ]
+      ]
+    },
+    {
+      "game_object": {
+        "file_id": 0,
+        "path_id": "9035958789415338705"
+      },
+      "header_flags_hex": "010100010001000100000000000001000000000100000000",
+      "lightmap_scale_offset": [
+        1.0,
+        1.0,
+        0.0,
+        0.0
+      ],
+      "dynamic_lightmap_scale_offset": [
+        1.0,
+        1.0,
+        0.0,
+        0.0
+      ],
+      "view_distance_ratio": 1.0,
+      "shader_lod_distance_ratio": 1.0,
+      "materials": [
+        {
+          "file_id": 2,
+          "path_id": "2088479582519271134"
+        }
+      ],
+      "static_batch": [
+        0,
+        0
+      ],
+      "static_batch_root": {
+        "file_id": 0,
+        "path_id": "0"
+      },
+      "material_layers": 1,
+      "probe_anchor": {
+        "file_id": 0,
+        "path_id": "0"
+      },
+      "probe_volume": {
+        "file_id": 0,
+        "path_id": "0"
+      },
+      "sorting": [
+        0,
+        0,
+        0
+      ],
+      "use_highest_mip": 0,
+      "quality": 0,
+      "update_when_offscreen": 0,
+      "skin_normals": 1,
+      "mesh": {
+        "file_id": 1,
+        "path_id": "9117211305738767348"
+      },
+      "bones": [
+        {
+          "file_id": 0,
+          "path_id": "-511078113831442113"
+        },
+        {
+          "file_id": 0,
+          "path_id": "-7367758531345397864"
+        }
+      ],
+      "blend_shape_weights": [],
+      "root_bone": {
+        "file_id": 0,
+        "path_id": "-7367758531345397864"
+      },
+      "aabb": [
+        -0.002700572833418846,
+        0.007426988799124956,
+        -0.04136265069246292,
+        0.01176890917122364,
+        0.010569637641310692,
+        0.051584988832473755
+      ],
+      "dirty_aabb": 0,
+      "uninterpreted_trailer_hex": "000000000000000000000000000000000000803f00000000",
+      "id": "4856479162099589245",
+      "name": "EyeStar",
+      "type_hash": "d74087651cccc56b59dcdac73be06d71",
+      "raw_sha256": "70253eda5bb66d44670bdabce4df4e357c161a12429505d9f3302267b771c97b",
+      "mesh_ref": "cab-5c85cf741aee8b3e9b3c8129ecfe0352:9117211305738767348",
+      "material_refs": [
+        "cab-a5820e37a11e838dd6fd379a3bdeaa67:2088479582519271134"
+      ],
+      "bone_names": [
+        "+EyeBone L A02",
+        "+EyeBone R A02"
+      ],
+      "bone_paths": [
+        [
+          "Avatar_Girl_Bow_Ambor_Kanban",
+          "Bip001",
+          "Bip001 Pelvis",
+          "Bip001 Spine",
+          "Bip001 Spine1",
+          "Bip001 Spine2",
+          "Bip001 Neck",
+          "Bip001 Head",
+          "+EyeBone L A01",
+          "+EyeBone L A02"
+        ],
+        [
+          "Avatar_Girl_Bow_Ambor_Kanban",
+          "Bip001",
+          "Bip001 Pelvis",
+          "Bip001 Spine",
+          "Bip001 Spine1",
+          "Bip001 Spine2",
+          "Bip001 Neck",
+          "Bip001 Head",
+          "+EyeBone R A01",
+          "+EyeBone R A02"
+        ]
+      ]
+    },
+    {
+      "game_object": {
+        "file_id": 0,
+        "path_id": "-6577951745197788879"
+      },
+      "header_flags_hex": "010100010001000100000000000001000000000100000000",
+      "lightmap_scale_offset": [
+        1.0,
+        1.0,
+        0.0,
+        0.0
+      ],
+      "dynamic_lightmap_scale_offset": [
+        1.0,
+        1.0,
+        0.0,
+        0.0
+      ],
+      "view_distance_ratio": 1.0,
+      "shader_lod_distance_ratio": 1.0,
+      "materials": [
+        {
+          "file_id": 6,
+          "path_id": "2229495150828588393"
+        }
+      ],
+      "static_batch": [
+        0,
+        0
+      ],
+      "static_batch_root": {
+        "file_id": 0,
+        "path_id": "0"
+      },
+      "material_layers": 1,
+      "probe_anchor": {
+        "file_id": 0,
+        "path_id": "0"
+      },
+      "probe_volume": {
+        "file_id": 0,
+        "path_id": "0"
+      },
+      "sorting": [
+        0,
+        0,
+        0
+      ],
+      "use_highest_mip": 0,
+      "quality": 0,
+      "update_when_offscreen": 0,
+      "skin_normals": 1,
+      "mesh": {
+        "file_id": 1,
+        "path_id": "7643986698357484736"
+      },
+      "bones": [
+        {
+          "file_id": 0,
+          "path_id": "6378945009453556391"
+        },
+        {
+          "file_id": 0,
+          "path_id": "-24789523013156944"
+        },
+        {
+          "file_id": 0,
+          "path_id": "6315598708119467498"
+        },
+        {
+          "file_id": 0,
+          "path_id": "6955514212125952094"
+        },
+        {
+          "file_id": 0,
+          "path_id": "-4358059350374179913"
+        },
+        {
+          "file_id": 0,
+          "path_id": "-7951984432706239386"
+        },
+        {
+          "file_id": 0,
+          "path_id": "971802098721345876"
+        },
+        {
+          "file_id": 0,
+          "path_id": "-7652310181513145023"
+        },
+        {
+          "file_id": 0,
+          "path_id": "1896527169830542836"
+        },
+        {
+          "file_id": 0,
+          "path_id": "-8018381210386597878"
+        },
+        {
+          "file_id": 0,
+          "path_id": "-6771496424848578058"
+        },
+        {
+          "file_id": 0,
+          "path_id": "7538285741678082746"
+        },
+        {
+          "file_id": 0,
+          "path_id": "2882478051738907634"
+        },
+        {
+          "file_id": 0,
+          "path_id": "863801283423473831"
+        },
+        {
+          "file_id": 0,
+          "path_id": "3670604818566406978"
+        },
+        {
+          "file_id": 0,
+          "path_id": "-4995281256955458469"
+        }
+      ],
+      "blend_shape_weights": [],
+      "root_bone": {
+        "file_id": 0,
+        "path_id": "863801283423473831"
+      },
+      "aabb": [
+        -0.10679194331169128,
+        -0.04107503220438957,
+        -3.240257501602173e-05,
+        0.26524898409843445,
+        0.15629743039608002,
+        0.20683059096336365
+      ],
+      "dirty_aabb": 0,
+      "uninterpreted_trailer_hex": "000000000000000000000000000000000000803f00000000",
+      "id": "5627310233275109277",
+      "name": "EffectMesh",
+      "type_hash": "d74087651cccc56b59dcdac73be06d71",
+      "raw_sha256": "0955e1fd4ccd3733ee2f14c2d3afe188d5f6cf2039f3ae71cc64b3cd1e77c62c",
+      "mesh_ref": "cab-5c85cf741aee8b3e9b3c8129ecfe0352:7643986698357484736",
+      "material_refs": [
+        "cab-aaa3de6fd3a7cb70814c4c21d76eee6a:2229495150828588393"
+      ],
+      "bone_names": [
+        "+Breast L A01",
+        "+Breast R A01",
+        "+PelvisTwist CF A01",
+        "+UpperArmTwist L A01",
+        "+UpperArmTwist L A02",
+        "+UpperArmTwist R A01",
+        "+UpperArmTwist R A02",
+        "Bip001 L Clavicle",
+        "Bip001 L Forearm",
+        "Bip001 L Thigh",
+        "Bip001 R Clavicle",
+        "Bip001 R Forearm",
+        "Bip001 R Thigh",
+        "Bip001 Spine",
+        "Bip001 Spine1",
+        "Bip001 Spine2"
+      ],
+      "bone_paths": [
+        [
+          "Avatar_Girl_Bow_Ambor_Kanban",
+          "Bip001",
+          "Bip001 Pelvis",
+          "Bip001 Spine",
+          "Bip001 Spine1",
+          "Bip001 Spine2",
+          "+Breast L A01"
+        ],
+        [
+          "Avatar_Girl_Bow_Ambor_Kanban",
+          "Bip001",
+          "Bip001 Pelvis",
+          "Bip001 Spine",
+          "Bip001 Spine1",
+          "Bip001 Spine2",
+          "+Breast R A01"
+        ],
+        [
+          "Avatar_Girl_Bow_Ambor_Kanban",
+          "Bip001",
+          "+PelvisTwist CF A01"
+        ],
+        [
+          "Avatar_Girl_Bow_Ambor_Kanban",
+          "Bip001",
+          "Bip001 Pelvis",
+          "Bip001 Spine",
+          "Bip001 Spine1",
+          "Bip001 Spine2",
+          "Bip001 L Clavicle",
+          "Bip001 L UpperArm",
+          "+UpperArmTwist L A01"
+        ],
+        [
+          "Avatar_Girl_Bow_Ambor_Kanban",
+          "Bip001",
+          "Bip001 Pelvis",
+          "Bip001 Spine",
+          "Bip001 Spine1",
+          "Bip001 Spine2",
+          "Bip001 L Clavicle",
+          "Bip001 L UpperArm",
+          "+UpperArmTwist L A02"
+        ],
+        [
+          "Avatar_Girl_Bow_Ambor_Kanban",
+          "Bip001",
+          "Bip001 Pelvis",
+          "Bip001 Spine",
+          "Bip001 Spine1",
+          "Bip001 Spine2",
+          "Bip001 R Clavicle",
+          "Bip001 R UpperArm",
+          "+UpperArmTwist R A01"
+        ],
+        [
+          "Avatar_Girl_Bow_Ambor_Kanban",
+          "Bip001",
+          "Bip001 Pelvis",
+          "Bip001 Spine",
+          "Bip001 Spine1",
+          "Bip001 Spine2",
+          "Bip001 R Clavicle",
+          "Bip001 R UpperArm",
+          "+UpperArmTwist R A02"
+        ],
+        [
+          "Avatar_Girl_Bow_Ambor_Kanban",
+          "Bip001",
+          "Bip001 Pelvis",
+          "Bip001 Spine",
+          "Bip001 Spine1",
+          "Bip001 Spine2",
+          "Bip001 L Clavicle"
+        ],
+        [
+          "Avatar_Girl_Bow_Ambor_Kanban",
+          "Bip001",
+          "Bip001 Pelvis",
+          "Bip001 Spine",
+          "Bip001 Spine1",
+          "Bip001 Spine2",
+          "Bip001 L Clavicle",
+          "Bip001 L UpperArm",
+          "Bip001 L Forearm"
+        ],
+        [
+          "Avatar_Girl_Bow_Ambor_Kanban",
+          "Bip001",
+          "Bip001 Pelvis",
+          "Bip001 L Thigh"
+        ],
+        [
+          "Avatar_Girl_Bow_Ambor_Kanban",
+          "Bip001",
+          "Bip001 Pelvis",
+          "Bip001 Spine",
+          "Bip001 Spine1",
+          "Bip001 Spine2",
+          "Bip001 R Clavicle"
+        ],
+        [
+          "Avatar_Girl_Bow_Ambor_Kanban",
+          "Bip001",
+          "Bip001 Pelvis",
+          "Bip001 Spine",
+          "Bip001 Spine1",
+          "Bip001 Spine2",
+          "Bip001 R Clavicle",
+          "Bip001 R UpperArm",
+          "Bip001 R Forearm"
+        ],
+        [
+          "Avatar_Girl_Bow_Ambor_Kanban",
+          "Bip001",
+          "Bip001 Pelvis",
+          "Bip001 R Thigh"
+        ],
+        [
+          "Avatar_Girl_Bow_Ambor_Kanban",
+          "Bip001",
+          "Bip001 Pelvis",
+          "Bip001 Spine"
+        ],
+        [
+          "Avatar_Girl_Bow_Ambor_Kanban",
+          "Bip001",
+          "Bip001 Pelvis",
+          "Bip001 Spine",
+          "Bip001 Spine1"
+        ],
+        [
+          "Avatar_Girl_Bow_Ambor_Kanban",
+          "Bip001",
+          "Bip001 Pelvis",
+          "Bip001 Spine",
+          "Bip001 Spine1",
+          "Bip001 Spine2"
+        ]
+      ]
+    },
+    {
+      "game_object": {
+        "file_id": 0,
+        "path_id": "-593218247093499388"
+      },
+      "header_flags_hex": "010100010001000100000000000001000000000100000000",
+      "lightmap_scale_offset": [
+        1.0,
+        1.0,
+        0.0,
+        0.0
+      ],
+      "dynamic_lightmap_scale_offset": [
+        1.0,
+        1.0,
+        0.0,
+        0.0
+      ],
+      "view_distance_ratio": 16.0,
+      "shader_lod_distance_ratio": 1.0,
+      "materials": [
+        {
+          "file_id": 5,
+          "path_id": "1248879260408967459"
+        },
+        {
+          "file_id": 3,
+          "path_id": "-2210829384282267529"
+        }
+      ],
+      "static_batch": [
+        0,
+        0
+      ],
+      "static_batch_root": {
+        "file_id": 0,
+        "path_id": "0"
+      },
+      "material_layers": 1,
+      "probe_anchor": {
+        "file_id": 0,
+        "path_id": "0"
+      },
+      "probe_volume": {
+        "file_id": 0,
+        "path_id": "0"
+      },
+      "sorting": [
+        0,
+        0,
+        0
+      ],
+      "use_highest_mip": 0,
+      "quality": 0,
+      "update_when_offscreen": 0,
+      "skin_normals": 1,
+      "mesh": {
+        "file_id": 1,
+        "path_id": "7465907692885805102"
+      },
+      "bones": [
+        {
+          "file_id": 0,
+          "path_id": "6378945009453556391"
+        },
+        {
+          "file_id": 0,
+          "path_id": "-24789523013156944"
+        },
+        {
+          "file_id": 0,
+          "path_id": "1496835150792821082"
+        },
+        {
+          "file_id": 0,
+          "path_id": "1206600067873579279"
+        },
+        {
+          "file_id": 0,
+          "path_id": "-6895996049110689070"
+        },
+        {
+          "file_id": 0,
+          "path_id": "-6900492153184675004"
+        },
+        {
+          "file_id": 0,
+          "path_id": "-511078113831442113"
+        },
+        {
+          "file_id": 0,
+          "path_id": "-7367758531345397864"
+        },
+        {
+          "file_id": 0,
+          "path_id": "-3540897847426781675"
+        },
+        {
+          "file_id": 0,
+          "path_id": "-4753165010172785347"
+        },
+        {
+          "file_id": 0,
+          "path_id": "-6387985896221723767"
+        },
+        {
+          "file_id": 0,
+          "path_id": "338288120752737046"
+        },
+        {
+          "file_id": 0,
+          "path_id": "-3835754628803445081"
+        },
+        {
+          "file_id": 0,
+          "path_id": "-206404748086470364"
+        },
+        {
+          "file_id": 0,
+          "path_id": "-1181617539495521820"
+        },
+        {
+          "file_id": 0,
+          "path_id": "-1559894933097030949"
+        },
+        {
+          "file_id": 0,
+          "path_id": "-4526136839928086194"
+        },
+        {
+          "file_id": 0,
+          "path_id": "-5800991470812447633"
+        },
+        {
+          "file_id": 0,
+          "path_id": "3407698846217289401"
+        },
+        {
+          "file_id": 0,
+          "path_id": "178936656280667927"
+        },
+        {
+          "file_id": 0,
+          "path_id": "-2222538249507537091"
+        },
+        {
+          "file_id": 0,
+          "path_id": "7822377491828870215"
+        },
+        {
+          "file_id": 0,
+          "path_id": "6454570639151214998"
+        },
+        {
+          "file_id": 0,
+          "path_id": "7861709040270636963"
+        },
+        {
+          "file_id": 0,
+          "path_id": "6315598708119467498"
+        },
+        {
+          "file_id": 0,
+          "path_id": "6955514212125952094"
+        },
+        {
+          "file_id": 0,
+          "path_id": "-4358059350374179913"
+        },
+        {
+          "file_id": 0,
+          "path_id": "-7951984432706239386"
+        },
+        {
+          "file_id": 0,
+          "path_id": "971802098721345876"
+        },
+        {
+          "file_id": 0,
+          "path_id": "745728562800963796"
+        },
+        {
+          "file_id": 0,
+          "path_id": "3387009638530333765"
+        },
+        {
+          "file_id": 0,
+          "path_id": "-7652310181513145023"
+        },
+        {
+          "file_id": 0,
+          "path_id": "1357126967165137523"
+        },
+        {
+          "file_id": 0,
+          "path_id": "-7192279584454777093"
+        },
+        {
+          "file_id": 0,
+          "path_id": "-7256770248825423741"
+        },
+        {
+          "file_id": 0,
+          "path_id": "-416725429816004428"
+        },
+        {
+          "file_id": 0,
+          "path_id": "3238827670990866346"
+        },
+        {
+          "file_id": 0,
+          "path_id": "8058299521747704338"
+        },
+        {
+          "file_id": 0,
+          "path_id": "-8243393226429494354"
+        },
+        {
+          "file_id": 0,
+          "path_id": "2539408981860796469"
+        },
+        {
+          "file_id": 0,
+          "path_id": "-6330072935276209107"
+        },
+        {
+          "file_id": 0,
+          "path_id": "-6019297719820240132"
+        },
+        {
+          "file_id": 0,
+          "path_id": "-2195839612704067057"
+        },
+        {
+          "file_id": 0,
+          "path_id": "2210388947974585846"
+        },
+        {
+          "file_id": 0,
+          "path_id": "-1049791237191746330"
+        },
+        {
+          "file_id": 0,
+          "path_id": "-518739682791545689"
+        },
+        {
+          "file_id": 0,
+          "path_id": "-3268089283121724093"
+        },
+        {
+          "file_id": 0,
+          "path_id": "3205748534595469891"
+        },
+        {
+          "file_id": 0,
+          "path_id": "1896527169830542836"
+        },
+        {
+          "file_id": 0,
+          "path_id": "-5960322304680996163"
+        },
+        {
+          "file_id": 0,
+          "path_id": "-8018381210386597878"
+        },
+        {
+          "file_id": 0,
+          "path_id": "4932334178784255041"
+        },
+        {
+          "file_id": 0,
+          "path_id": "-4751825393360302517"
+        },
+        {
+          "file_id": 0,
+          "path_id": "4175417530043126864"
+        },
+        {
+          "file_id": 0,
+          "path_id": "-6771496424848578058"
+        },
+        {
+          "file_id": 0,
+          "path_id": "2024425770650120037"
+        },
+        {
+          "file_id": 0,
+          "path_id": "8646582124383014283"
+        },
+        {
+          "file_id": 0,
+          "path_id": "-2660891953163345712"
+        },
+        {
+          "file_id": 0,
+          "path_id": "-2225301868024967569"
+        },
+        {
+          "file_id": 0,
+          "path_id": "-6805595281270335811"
+        },
+        {
+          "file_id": 0,
+          "path_id": "-8261034535499655595"
+        },
+        {
+          "file_id": 0,
+          "path_id": "-4431815637448652654"
+        },
+        {
+          "file_id": 0,
+          "path_id": "1978012694229371096"
+        },
+        {
+          "file_id": 0,
+          "path_id": "-9024385611716233166"
+        },
+        {
+          "file_id": 0,
+          "path_id": "-2606259196865253746"
+        },
+        {
+          "file_id": 0,
+          "path_id": "-2886972048588443280"
+        },
+        {
+          "file_id": 0,
+          "path_id": "1349831414686696902"
+        },
+        {
+          "file_id": 0,
+          "path_id": "-5306620898266165772"
+        },
+        {
+          "file_id": 0,
+          "path_id": "-254778508421104525"
+        },
+        {
+          "file_id": 0,
+          "path_id": "-4429711824367573148"
+        },
+        {
+          "file_id": 0,
+          "path_id": "-772045207244898370"
+        },
+        {
+          "file_id": 0,
+          "path_id": "7538285741678082746"
+        },
+        {
+          "file_id": 0,
+          "path_id": "1835839520754342258"
+        },
+        {
+          "file_id": 0,
+          "path_id": "2882478051738907634"
+        },
+        {
+          "file_id": 0,
+          "path_id": "-1952676797660931398"
+        },
+        {
+          "file_id": 0,
+          "path_id": "863801283423473831"
+        },
+        {
+          "file_id": 0,
+          "path_id": "3670604818566406978"
+        },
+        {
+          "file_id": 0,
+          "path_id": "-4995281256955458469"
+        }
+      ],
+      "blend_shape_weights": [],
+      "root_bone": {
+        "file_id": 0,
+        "path_id": "863801283423473831"
+      },
+      "aabb": [
+        0.12012976408004761,
+        -0.10888545960187912,
+        4.470348358154297e-08,
+        0.856320858001709,
+        0.31268730759620667,
+        0.41834884881973267
+      ],
+      "dirty_aabb": 0,
+      "uninterpreted_trailer_hex": "000000000000000000000000000000000000803f01000000",
+      "id": "9162307592822899104",
+      "name": "Body",
+      "type_hash": "d74087651cccc56b59dcdac73be06d71",
+      "raw_sha256": "c8d2ae6b357b5da8c3f0140d67174d7d8acf14bcff740625568e2fb172e28f18",
+      "mesh_ref": "cab-5c85cf741aee8b3e9b3c8129ecfe0352:7465907692885805102",
+      "material_refs": [
+        "cab-46f7d6ed362cf58eece01bc3309836d0:1248879260408967459",
+        "cab-0b57d8b682712271add9f28514d183dc:-2210829384282267529"
+      ],
+      "bone_names": [
+        "+Breast L A01",
+        "+Breast R A01",
+        "+EarS L A01",
+        "+EarS L A02",
+        "+EarS R A01",
+        "+EarS R A02",
+        "+EyeBone L A02",
+        "+EyeBone R A02",
+        "+HairB L B01",
+        "+HairB L B02",
+        "+HairB L B03",
+        "+HairB L B04",
+        "+HairB R B01",
+        "+HairB R B02",
+        "+HairB R B03",
+        "+HairB R B04",
+        "+HairS L C01",
+        "+HairS R C01",
+        "+LegBagS L A03",
+        "+LegBagS L A04",
+        "+LegBagS L A05",
+        "+LegBagS L A06",
+        "+LegBagS R A01",
+        "+LegBagS R A02",
+        "+PelvisTwist CF A01",
+        "+UpperArmTwist L A01",
+        "+UpperArmTwist L A02",
+        "+UpperArmTwist R A01",
+        "+UpperArmTwist R A02",
+        "Bip001 Head",
+        "Bip001 L Calf",
+        "Bip001 L Clavicle",
+        "Bip001 L Finger0",
+        "Bip001 L Finger01",
+        "Bip001 L Finger02",
+        "Bip001 L Finger1",
+        "Bip001 L Finger11",
+        "Bip001 L Finger12",
+        "Bip001 L Finger2",
+        "Bip001 L Finger21",
+        "Bip001 L Finger22",
+        "Bip001 L Finger3",
+        "Bip001 L Finger31",
+        "Bip001 L Finger32",
+        "Bip001 L Finger4",
+        "Bip001 L Finger41",
+        "Bip001 L Finger42",
+        "Bip001 L Foot",
+        "Bip001 L Forearm",
+        "Bip001 L Hand",
+        "Bip001 L Thigh",
+        "Bip001 L Toe0",
+        "Bip001 Neck",
+        "Bip001 R Calf",
+        "Bip001 R Clavicle",
+        "Bip001 R Finger0",
+        "Bip001 R Finger01",
+        "Bip001 R Finger02",
+        "Bip001 R Finger1",
+        "Bip001 R Finger11",
+        "Bip001 R Finger12",
+        "Bip001 R Finger2",
+        "Bip001 R Finger21",
+        "Bip001 R Finger22",
+        "Bip001 R Finger3",
+        "Bip001 R Finger31",
+        "Bip001 R Finger32",
+        "Bip001 R Finger4",
+        "Bip001 R Finger41",
+        "Bip001 R Finger42",
+        "Bip001 R Foot",
+        "Bip001 R Forearm",
+        "Bip001 R Hand",
+        "Bip001 R Thigh",
+        "Bip001 R Toe0",
+        "Bip001 Spine",
+        "Bip001 Spine1",
+        "Bip001 Spine2"
+      ],
+      "bone_paths": [
+        [
+          "Avatar_Girl_Bow_Ambor_Kanban",
+          "Bip001",
+          "Bip001 Pelvis",
+          "Bip001 Spine",
+          "Bip001 Spine1",
+          "Bip001 Spine2",
+          "+Breast L A01"
+        ],
+        [
+          "Avatar_Girl_Bow_Ambor_Kanban",
+          "Bip001",
+          "Bip001 Pelvis",
+          "Bip001 Spine",
+          "Bip001 Spine1",
+          "Bip001 Spine2",
+          "+Breast R A01"
+        ],
+        [
+          "Avatar_Girl_Bow_Ambor_Kanban",
+          "Bip001",
+          "Bip001 Pelvis",
+          "Bip001 Spine",
+          "Bip001 Spine1",
+          "Bip001 Spine2",
+          "Bip001 Neck",
+          "Bip001 Head",
+          "+EarS L A01"
+        ],
+        [
+          "Avatar_Girl_Bow_Ambor_Kanban",
+          "Bip001",
+          "Bip001 Pelvis",
+          "Bip001 Spine",
+          "Bip001 Spine1",
+          "Bip001 Spine2",
+          "Bip001 Neck",
+          "Bip001 Head",
+          "+EarS L A01",
+          "+EarS L A02"
+        ],
+        [
+          "Avatar_Girl_Bow_Ambor_Kanban",
+          "Bip001",
+          "Bip001 Pelvis",
+          "Bip001 Spine",
+          "Bip001 Spine1",
+          "Bip001 Spine2",
+          "Bip001 Neck",
+          "Bip001 Head",
+          "+EarS R A01"
+        ],
+        [
+          "Avatar_Girl_Bow_Ambor_Kanban",
+          "Bip001",
+          "Bip001 Pelvis",
+          "Bip001 Spine",
+          "Bip001 Spine1",
+          "Bip001 Spine2",
+          "Bip001 Neck",
+          "Bip001 Head",
+          "+EarS R A01",
+          "+EarS R A02"
+        ],
+        [
+          "Avatar_Girl_Bow_Ambor_Kanban",
+          "Bip001",
+          "Bip001 Pelvis",
+          "Bip001 Spine",
+          "Bip001 Spine1",
+          "Bip001 Spine2",
+          "Bip001 Neck",
+          "Bip001 Head",
+          "+EyeBone L A01",
+          "+EyeBone L A02"
+        ],
+        [
+          "Avatar_Girl_Bow_Ambor_Kanban",
+          "Bip001",
+          "Bip001 Pelvis",
+          "Bip001 Spine",
+          "Bip001 Spine1",
+          "Bip001 Spine2",
+          "Bip001 Neck",
+          "Bip001 Head",
+          "+EyeBone R A01",
+          "+EyeBone R A02"
+        ],
+        [
+          "Avatar_Girl_Bow_Ambor_Kanban",
+          "Bip001",
+          "Bip001 Pelvis",
+          "Bip001 Spine",
+          "Bip001 Spine1",
+          "Bip001 Spine2",
+          "Bip001 Neck",
+          "Bip001 Head",
+          "+HairB L B01"
+        ],
+        [
+          "Avatar_Girl_Bow_Ambor_Kanban",
+          "Bip001",
+          "Bip001 Pelvis",
+          "Bip001 Spine",
+          "Bip001 Spine1",
+          "Bip001 Spine2",
+          "Bip001 Neck",
+          "Bip001 Head",
+          "+HairB L B01",
+          "+HairB L B02"
+        ],
+        [
+          "Avatar_Girl_Bow_Ambor_Kanban",
+          "Bip001",
+          "Bip001 Pelvis",
+          "Bip001 Spine",
+          "Bip001 Spine1",
+          "Bip001 Spine2",
+          "Bip001 Neck",
+          "Bip001 Head",
+          "+HairB L B01",
+          "+HairB L B02",
+          "+HairB L B03"
+        ],
+        [
+          "Avatar_Girl_Bow_Ambor_Kanban",
+          "Bip001",
+          "Bip001 Pelvis",
+          "Bip001 Spine",
+          "Bip001 Spine1",
+          "Bip001 Spine2",
+          "Bip001 Neck",
+          "Bip001 Head",
+          "+HairB L B01",
+          "+HairB L B02",
+          "+HairB L B03",
+          "+HairB L B04"
+        ],
+        [
+          "Avatar_Girl_Bow_Ambor_Kanban",
+          "Bip001",
+          "Bip001 Pelvis",
+          "Bip001 Spine",
+          "Bip001 Spine1",
+          "Bip001 Spine2",
+          "Bip001 Neck",
+          "Bip001 Head",
+          "+HairB R B01"
+        ],
+        [
+          "Avatar_Girl_Bow_Ambor_Kanban",
+          "Bip001",
+          "Bip001 Pelvis",
+          "Bip001 Spine",
+          "Bip001 Spine1",
+          "Bip001 Spine2",
+          "Bip001 Neck",
+          "Bip001 Head",
+          "+HairB R B01",
+          "+HairB R B02"
+        ],
+        [
+          "Avatar_Girl_Bow_Ambor_Kanban",
+          "Bip001",
+          "Bip001 Pelvis",
+          "Bip001 Spine",
+          "Bip001 Spine1",
+          "Bip001 Spine2",
+          "Bip001 Neck",
+          "Bip001 Head",
+          "+HairB R B01",
+          "+HairB R B02",
+          "+HairB R B03"
+        ],
+        [
+          "Avatar_Girl_Bow_Ambor_Kanban",
+          "Bip001",
+          "Bip001 Pelvis",
+          "Bip001 Spine",
+          "Bip001 Spine1",
+          "Bip001 Spine2",
+          "Bip001 Neck",
+          "Bip001 Head",
+          "+HairB R B01",
+          "+HairB R B02",
+          "+HairB R B03",
+          "+HairB R B04"
+        ],
+        [
+          "Avatar_Girl_Bow_Ambor_Kanban",
+          "Bip001",
+          "Bip001 Pelvis",
+          "Bip001 Spine",
+          "Bip001 Spine1",
+          "Bip001 Spine2",
+          "Bip001 Neck",
+          "Bip001 Head",
+          "+HairS L C01"
+        ],
+        [
+          "Avatar_Girl_Bow_Ambor_Kanban",
+          "Bip001",
+          "Bip001 Pelvis",
+          "Bip001 Spine",
+          "Bip001 Spine1",
+          "Bip001 Spine2",
+          "Bip001 Neck",
+          "Bip001 Head",
+          "+HairS R C01"
+        ],
+        [
+          "Avatar_Girl_Bow_Ambor_Kanban",
+          "Bip001",
+          "+PelvisTwist CF A01",
+          "+LegBagS L A03"
+        ],
+        [
+          "Avatar_Girl_Bow_Ambor_Kanban",
+          "Bip001",
+          "+PelvisTwist CF A01",
+          "+LegBagS L A03",
+          "+LegBagS L A04"
+        ],
+        [
+          "Avatar_Girl_Bow_Ambor_Kanban",
+          "Bip001",
+          "+PelvisTwist CF A01",
+          "+LegBagS L A03",
+          "+LegBagS L A04",
+          "+LegBagS L A05"
+        ],
+        [
+          "Avatar_Girl_Bow_Ambor_Kanban",
+          "Bip001",
+          "+PelvisTwist CF A01",
+          "+LegBagS L A03",
+          "+LegBagS L A04",
+          "+LegBagS L A05",
+          "+LegBagS L A06"
+        ],
+        [
+          "Avatar_Girl_Bow_Ambor_Kanban",
+          "Bip001",
+          "Bip001 Pelvis",
+          "Bip001 R Thigh",
+          "+LegBagS R A01"
+        ],
+        [
+          "Avatar_Girl_Bow_Ambor_Kanban",
+          "Bip001",
+          "Bip001 Pelvis",
+          "Bip001 R Thigh",
+          "+LegBagS R A01",
+          "+LegBagS R A02"
+        ],
+        [
+          "Avatar_Girl_Bow_Ambor_Kanban",
+          "Bip001",
+          "+PelvisTwist CF A01"
+        ],
+        [
+          "Avatar_Girl_Bow_Ambor_Kanban",
+          "Bip001",
+          "Bip001 Pelvis",
+          "Bip001 Spine",
+          "Bip001 Spine1",
+          "Bip001 Spine2",
+          "Bip001 L Clavicle",
+          "Bip001 L UpperArm",
+          "+UpperArmTwist L A01"
+        ],
+        [
+          "Avatar_Girl_Bow_Ambor_Kanban",
+          "Bip001",
+          "Bip001 Pelvis",
+          "Bip001 Spine",
+          "Bip001 Spine1",
+          "Bip001 Spine2",
+          "Bip001 L Clavicle",
+          "Bip001 L UpperArm",
+          "+UpperArmTwist L A02"
+        ],
+        [
+          "Avatar_Girl_Bow_Ambor_Kanban",
+          "Bip001",
+          "Bip001 Pelvis",
+          "Bip001 Spine",
+          "Bip001 Spine1",
+          "Bip001 Spine2",
+          "Bip001 R Clavicle",
+          "Bip001 R UpperArm",
+          "+UpperArmTwist R A01"
+        ],
+        [
+          "Avatar_Girl_Bow_Ambor_Kanban",
+          "Bip001",
+          "Bip001 Pelvis",
+          "Bip001 Spine",
+          "Bip001 Spine1",
+          "Bip001 Spine2",
+          "Bip001 R Clavicle",
+          "Bip001 R UpperArm",
+          "+UpperArmTwist R A02"
+        ],
+        [
+          "Avatar_Girl_Bow_Ambor_Kanban",
+          "Bip001",
+          "Bip001 Pelvis",
+          "Bip001 Spine",
+          "Bip001 Spine1",
+          "Bip001 Spine2",
+          "Bip001 Neck",
+          "Bip001 Head"
+        ],
+        [
+          "Avatar_Girl_Bow_Ambor_Kanban",
+          "Bip001",
+          "Bip001 Pelvis",
+          "Bip001 L Thigh",
+          "Bip001 L Calf"
+        ],
+        [
+          "Avatar_Girl_Bow_Ambor_Kanban",
+          "Bip001",
+          "Bip001 Pelvis",
+          "Bip001 Spine",
+          "Bip001 Spine1",
+          "Bip001 Spine2",
+          "Bip001 L Clavicle"
+        ],
+        [
+          "Avatar_Girl_Bow_Ambor_Kanban",
+          "Bip001",
+          "Bip001 Pelvis",
+          "Bip001 Spine",
+          "Bip001 Spine1",
+          "Bip001 Spine2",
+          "Bip001 L Clavicle",
+          "Bip001 L UpperArm",
+          "Bip001 L Forearm",
+          "Bip001 L Hand",
+          "Bip001 L Finger0"
+        ],
+        [
+          "Avatar_Girl_Bow_Ambor_Kanban",
+          "Bip001",
+          "Bip001 Pelvis",
+          "Bip001 Spine",
+          "Bip001 Spine1",
+          "Bip001 Spine2",
+          "Bip001 L Clavicle",
+          "Bip001 L UpperArm",
+          "Bip001 L Forearm",
+          "Bip001 L Hand",
+          "Bip001 L Finger0",
+          "Bip001 L Finger01"
+        ],
+        [
+          "Avatar_Girl_Bow_Ambor_Kanban",
+          "Bip001",
+          "Bip001 Pelvis",
+          "Bip001 Spine",
+          "Bip001 Spine1",
+          "Bip001 Spine2",
+          "Bip001 L Clavicle",
+          "Bip001 L UpperArm",
+          "Bip001 L Forearm",
+          "Bip001 L Hand",
+          "Bip001 L Finger0",
+          "Bip001 L Finger01",
+          "Bip001 L Finger02"
+        ],
+        [
+          "Avatar_Girl_Bow_Ambor_Kanban",
+          "Bip001",
+          "Bip001 Pelvis",
+          "Bip001 Spine",
+          "Bip001 Spine1",
+          "Bip001 Spine2",
+          "Bip001 L Clavicle",
+          "Bip001 L UpperArm",
+          "Bip001 L Forearm",
+          "Bip001 L Hand",
+          "Bip001 L Finger1"
+        ],
+        [
+          "Avatar_Girl_Bow_Ambor_Kanban",
+          "Bip001",
+          "Bip001 Pelvis",
+          "Bip001 Spine",
+          "Bip001 Spine1",
+          "Bip001 Spine2",
+          "Bip001 L Clavicle",
+          "Bip001 L UpperArm",
+          "Bip001 L Forearm",
+          "Bip001 L Hand",
+          "Bip001 L Finger1",
+          "Bip001 L Finger11"
+        ],
+        [
+          "Avatar_Girl_Bow_Ambor_Kanban",
+          "Bip001",
+          "Bip001 Pelvis",
+          "Bip001 Spine",
+          "Bip001 Spine1",
+          "Bip001 Spine2",
+          "Bip001 L Clavicle",
+          "Bip001 L UpperArm",
+          "Bip001 L Forearm",
+          "Bip001 L Hand",
+          "Bip001 L Finger1",
+          "Bip001 L Finger11",
+          "Bip001 L Finger12"
+        ],
+        [
+          "Avatar_Girl_Bow_Ambor_Kanban",
+          "Bip001",
+          "Bip001 Pelvis",
+          "Bip001 Spine",
+          "Bip001 Spine1",
+          "Bip001 Spine2",
+          "Bip001 L Clavicle",
+          "Bip001 L UpperArm",
+          "Bip001 L Forearm",
+          "Bip001 L Hand",
+          "Bip001 L Finger2"
+        ],
+        [
+          "Avatar_Girl_Bow_Ambor_Kanban",
+          "Bip001",
+          "Bip001 Pelvis",
+          "Bip001 Spine",
+          "Bip001 Spine1",
+          "Bip001 Spine2",
+          "Bip001 L Clavicle",
+          "Bip001 L UpperArm",
+          "Bip001 L Forearm",
+          "Bip001 L Hand",
+          "Bip001 L Finger2",
+          "Bip001 L Finger21"
+        ],
+        [
+          "Avatar_Girl_Bow_Ambor_Kanban",
+          "Bip001",
+          "Bip001 Pelvis",
+          "Bip001 Spine",
+          "Bip001 Spine1",
+          "Bip001 Spine2",
+          "Bip001 L Clavicle",
+          "Bip001 L UpperArm",
+          "Bip001 L Forearm",
+          "Bip001 L Hand",
+          "Bip001 L Finger2",
+          "Bip001 L Finger21",
+          "Bip001 L Finger22"
+        ],
+        [
+          "Avatar_Girl_Bow_Ambor_Kanban",
+          "Bip001",
+          "Bip001 Pelvis",
+          "Bip001 Spine",
+          "Bip001 Spine1",
+          "Bip001 Spine2",
+          "Bip001 L Clavicle",
+          "Bip001 L UpperArm",
+          "Bip001 L Forearm",
+          "Bip001 L Hand",
+          "Bip001 L Finger3"
+        ],
+        [
+          "Avatar_Girl_Bow_Ambor_Kanban",
+          "Bip001",
+          "Bip001 Pelvis",
+          "Bip001 Spine",
+          "Bip001 Spine1",
+          "Bip001 Spine2",
+          "Bip001 L Clavicle",
+          "Bip001 L UpperArm",
+          "Bip001 L Forearm",
+          "Bip001 L Hand",
+          "Bip001 L Finger3",
+          "Bip001 L Finger31"
+        ],
+        [
+          "Avatar_Girl_Bow_Ambor_Kanban",
+          "Bip001",
+          "Bip001 Pelvis",
+          "Bip001 Spine",
+          "Bip001 Spine1",
+          "Bip001 Spine2",
+          "Bip001 L Clavicle",
+          "Bip001 L UpperArm",
+          "Bip001 L Forearm",
+          "Bip001 L Hand",
+          "Bip001 L Finger3",
+          "Bip001 L Finger31",
+          "Bip001 L Finger32"
+        ],
+        [
+          "Avatar_Girl_Bow_Ambor_Kanban",
+          "Bip001",
+          "Bip001 Pelvis",
+          "Bip001 Spine",
+          "Bip001 Spine1",
+          "Bip001 Spine2",
+          "Bip001 L Clavicle",
+          "Bip001 L UpperArm",
+          "Bip001 L Forearm",
+          "Bip001 L Hand",
+          "Bip001 L Finger4"
+        ],
+        [
+          "Avatar_Girl_Bow_Ambor_Kanban",
+          "Bip001",
+          "Bip001 Pelvis",
+          "Bip001 Spine",
+          "Bip001 Spine1",
+          "Bip001 Spine2",
+          "Bip001 L Clavicle",
+          "Bip001 L UpperArm",
+          "Bip001 L Forearm",
+          "Bip001 L Hand",
+          "Bip001 L Finger4",
+          "Bip001 L Finger41"
+        ],
+        [
+          "Avatar_Girl_Bow_Ambor_Kanban",
+          "Bip001",
+          "Bip001 Pelvis",
+          "Bip001 Spine",
+          "Bip001 Spine1",
+          "Bip001 Spine2",
+          "Bip001 L Clavicle",
+          "Bip001 L UpperArm",
+          "Bip001 L Forearm",
+          "Bip001 L Hand",
+          "Bip001 L Finger4",
+          "Bip001 L Finger41",
+          "Bip001 L Finger42"
+        ],
+        [
+          "Avatar_Girl_Bow_Ambor_Kanban",
+          "Bip001",
+          "Bip001 Pelvis",
+          "Bip001 L Thigh",
+          "Bip001 L Calf",
+          "Bip001 L Foot"
+        ],
+        [
+          "Avatar_Girl_Bow_Ambor_Kanban",
+          "Bip001",
+          "Bip001 Pelvis",
+          "Bip001 Spine",
+          "Bip001 Spine1",
+          "Bip001 Spine2",
+          "Bip001 L Clavicle",
+          "Bip001 L UpperArm",
+          "Bip001 L Forearm"
+        ],
+        [
+          "Avatar_Girl_Bow_Ambor_Kanban",
+          "Bip001",
+          "Bip001 Pelvis",
+          "Bip001 Spine",
+          "Bip001 Spine1",
+          "Bip001 Spine2",
+          "Bip001 L Clavicle",
+          "Bip001 L UpperArm",
+          "Bip001 L Forearm",
+          "Bip001 L Hand"
+        ],
+        [
+          "Avatar_Girl_Bow_Ambor_Kanban",
+          "Bip001",
+          "Bip001 Pelvis",
+          "Bip001 L Thigh"
+        ],
+        [
+          "Avatar_Girl_Bow_Ambor_Kanban",
+          "Bip001",
+          "Bip001 Pelvis",
+          "Bip001 L Thigh",
+          "Bip001 L Calf",
+          "Bip001 L Foot",
+          "Bip001 L Toe0"
+        ],
+        [
+          "Avatar_Girl_Bow_Ambor_Kanban",
+          "Bip001",
+          "Bip001 Pelvis",
+          "Bip001 Spine",
+          "Bip001 Spine1",
+          "Bip001 Spine2",
+          "Bip001 Neck"
+        ],
+        [
+          "Avatar_Girl_Bow_Ambor_Kanban",
+          "Bip001",
+          "Bip001 Pelvis",
+          "Bip001 R Thigh",
+          "Bip001 R Calf"
+        ],
+        [
+          "Avatar_Girl_Bow_Ambor_Kanban",
+          "Bip001",
+          "Bip001 Pelvis",
+          "Bip001 Spine",
+          "Bip001 Spine1",
+          "Bip001 Spine2",
+          "Bip001 R Clavicle"
+        ],
+        [
+          "Avatar_Girl_Bow_Ambor_Kanban",
+          "Bip001",
+          "Bip001 Pelvis",
+          "Bip001 Spine",
+          "Bip001 Spine1",
+          "Bip001 Spine2",
+          "Bip001 R Clavicle",
+          "Bip001 R UpperArm",
+          "Bip001 R Forearm",
+          "Bip001 R Hand",
+          "Bip001 R Finger0"
+        ],
+        [
+          "Avatar_Girl_Bow_Ambor_Kanban",
+          "Bip001",
+          "Bip001 Pelvis",
+          "Bip001 Spine",
+          "Bip001 Spine1",
+          "Bip001 Spine2",
+          "Bip001 R Clavicle",
+          "Bip001 R UpperArm",
+          "Bip001 R Forearm",
+          "Bip001 R Hand",
+          "Bip001 R Finger0",
+          "Bip001 R Finger01"
+        ],
+        [
+          "Avatar_Girl_Bow_Ambor_Kanban",
+          "Bip001",
+          "Bip001 Pelvis",
+          "Bip001 Spine",
+          "Bip001 Spine1",
+          "Bip001 Spine2",
+          "Bip001 R Clavicle",
+          "Bip001 R UpperArm",
+          "Bip001 R Forearm",
+          "Bip001 R Hand",
+          "Bip001 R Finger0",
+          "Bip001 R Finger01",
+          "Bip001 R Finger02"
+        ],
+        [
+          "Avatar_Girl_Bow_Ambor_Kanban",
+          "Bip001",
+          "Bip001 Pelvis",
+          "Bip001 Spine",
+          "Bip001 Spine1",
+          "Bip001 Spine2",
+          "Bip001 R Clavicle",
+          "Bip001 R UpperArm",
+          "Bip001 R Forearm",
+          "Bip001 R Hand",
+          "Bip001 R Finger1"
+        ],
+        [
+          "Avatar_Girl_Bow_Ambor_Kanban",
+          "Bip001",
+          "Bip001 Pelvis",
+          "Bip001 Spine",
+          "Bip001 Spine1",
+          "Bip001 Spine2",
+          "Bip001 R Clavicle",
+          "Bip001 R UpperArm",
+          "Bip001 R Forearm",
+          "Bip001 R Hand",
+          "Bip001 R Finger1",
+          "Bip001 R Finger11"
+        ],
+        [
+          "Avatar_Girl_Bow_Ambor_Kanban",
+          "Bip001",
+          "Bip001 Pelvis",
+          "Bip001 Spine",
+          "Bip001 Spine1",
+          "Bip001 Spine2",
+          "Bip001 R Clavicle",
+          "Bip001 R UpperArm",
+          "Bip001 R Forearm",
+          "Bip001 R Hand",
+          "Bip001 R Finger1",
+          "Bip001 R Finger11",
+          "Bip001 R Finger12"
+        ],
+        [
+          "Avatar_Girl_Bow_Ambor_Kanban",
+          "Bip001",
+          "Bip001 Pelvis",
+          "Bip001 Spine",
+          "Bip001 Spine1",
+          "Bip001 Spine2",
+          "Bip001 R Clavicle",
+          "Bip001 R UpperArm",
+          "Bip001 R Forearm",
+          "Bip001 R Hand",
+          "Bip001 R Finger2"
+        ],
+        [
+          "Avatar_Girl_Bow_Ambor_Kanban",
+          "Bip001",
+          "Bip001 Pelvis",
+          "Bip001 Spine",
+          "Bip001 Spine1",
+          "Bip001 Spine2",
+          "Bip001 R Clavicle",
+          "Bip001 R UpperArm",
+          "Bip001 R Forearm",
+          "Bip001 R Hand",
+          "Bip001 R Finger2",
+          "Bip001 R Finger21"
+        ],
+        [
+          "Avatar_Girl_Bow_Ambor_Kanban",
+          "Bip001",
+          "Bip001 Pelvis",
+          "Bip001 Spine",
+          "Bip001 Spine1",
+          "Bip001 Spine2",
+          "Bip001 R Clavicle",
+          "Bip001 R UpperArm",
+          "Bip001 R Forearm",
+          "Bip001 R Hand",
+          "Bip001 R Finger2",
+          "Bip001 R Finger21",
+          "Bip001 R Finger22"
+        ],
+        [
+          "Avatar_Girl_Bow_Ambor_Kanban",
+          "Bip001",
+          "Bip001 Pelvis",
+          "Bip001 Spine",
+          "Bip001 Spine1",
+          "Bip001 Spine2",
+          "Bip001 R Clavicle",
+          "Bip001 R UpperArm",
+          "Bip001 R Forearm",
+          "Bip001 R Hand",
+          "Bip001 R Finger3"
+        ],
+        [
+          "Avatar_Girl_Bow_Ambor_Kanban",
+          "Bip001",
+          "Bip001 Pelvis",
+          "Bip001 Spine",
+          "Bip001 Spine1",
+          "Bip001 Spine2",
+          "Bip001 R Clavicle",
+          "Bip001 R UpperArm",
+          "Bip001 R Forearm",
+          "Bip001 R Hand",
+          "Bip001 R Finger3",
+          "Bip001 R Finger31"
+        ],
+        [
+          "Avatar_Girl_Bow_Ambor_Kanban",
+          "Bip001",
+          "Bip001 Pelvis",
+          "Bip001 Spine",
+          "Bip001 Spine1",
+          "Bip001 Spine2",
+          "Bip001 R Clavicle",
+          "Bip001 R UpperArm",
+          "Bip001 R Forearm",
+          "Bip001 R Hand",
+          "Bip001 R Finger3",
+          "Bip001 R Finger31",
+          "Bip001 R Finger32"
+        ],
+        [
+          "Avatar_Girl_Bow_Ambor_Kanban",
+          "Bip001",
+          "Bip001 Pelvis",
+          "Bip001 Spine",
+          "Bip001 Spine1",
+          "Bip001 Spine2",
+          "Bip001 R Clavicle",
+          "Bip001 R UpperArm",
+          "Bip001 R Forearm",
+          "Bip001 R Hand",
+          "Bip001 R Finger4"
+        ],
+        [
+          "Avatar_Girl_Bow_Ambor_Kanban",
+          "Bip001",
+          "Bip001 Pelvis",
+          "Bip001 Spine",
+          "Bip001 Spine1",
+          "Bip001 Spine2",
+          "Bip001 R Clavicle",
+          "Bip001 R UpperArm",
+          "Bip001 R Forearm",
+          "Bip001 R Hand",
+          "Bip001 R Finger4",
+          "Bip001 R Finger41"
+        ],
+        [
+          "Avatar_Girl_Bow_Ambor_Kanban",
+          "Bip001",
+          "Bip001 Pelvis",
+          "Bip001 Spine",
+          "Bip001 Spine1",
+          "Bip001 Spine2",
+          "Bip001 R Clavicle",
+          "Bip001 R UpperArm",
+          "Bip001 R Forearm",
+          "Bip001 R Hand",
+          "Bip001 R Finger4",
+          "Bip001 R Finger41",
+          "Bip001 R Finger42"
+        ],
+        [
+          "Avatar_Girl_Bow_Ambor_Kanban",
+          "Bip001",
+          "Bip001 Pelvis",
+          "Bip001 R Thigh",
+          "Bip001 R Calf",
+          "Bip001 R Foot"
+        ],
+        [
+          "Avatar_Girl_Bow_Ambor_Kanban",
+          "Bip001",
+          "Bip001 Pelvis",
+          "Bip001 Spine",
+          "Bip001 Spine1",
+          "Bip001 Spine2",
+          "Bip001 R Clavicle",
+          "Bip001 R UpperArm",
+          "Bip001 R Forearm"
+        ],
+        [
+          "Avatar_Girl_Bow_Ambor_Kanban",
+          "Bip001",
+          "Bip001 Pelvis",
+          "Bip001 Spine",
+          "Bip001 Spine1",
+          "Bip001 Spine2",
+          "Bip001 R Clavicle",
+          "Bip001 R UpperArm",
+          "Bip001 R Forearm",
+          "Bip001 R Hand"
+        ],
+        [
+          "Avatar_Girl_Bow_Ambor_Kanban",
+          "Bip001",
+          "Bip001 Pelvis",
+          "Bip001 R Thigh"
+        ],
+        [
+          "Avatar_Girl_Bow_Ambor_Kanban",
+          "Bip001",
+          "Bip001 Pelvis",
+          "Bip001 R Thigh",
+          "Bip001 R Calf",
+          "Bip001 R Foot",
+          "Bip001 R Toe0"
+        ],
+        [
+          "Avatar_Girl_Bow_Ambor_Kanban",
+          "Bip001",
+          "Bip001 Pelvis",
+          "Bip001 Spine"
+        ],
+        [
+          "Avatar_Girl_Bow_Ambor_Kanban",
+          "Bip001",
+          "Bip001 Pelvis",
+          "Bip001 Spine",
+          "Bip001 Spine1"
+        ],
+        [
+          "Avatar_Girl_Bow_Ambor_Kanban",
+          "Bip001",
+          "Bip001 Pelvis",
+          "Bip001 Spine",
+          "Bip001 Spine1",
+          "Bip001 Spine2"
+        ]
+      ]
+    }
+  ],
+  "static_mesh_filters": [],
+  "lod_mesh_groups": [],
+  "new_runtime_test_performed": false
+}

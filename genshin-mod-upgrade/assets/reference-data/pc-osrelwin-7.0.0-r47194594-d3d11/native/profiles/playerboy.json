@@ -1,0 +1,193 @@
+{
+  "kind": "native_profile",
+  "id": "playerboy",
+  "internal_name": "PlayerBoy",
+  "prefabs": [
+    {
+      "name": "Avatar_Boy_Sword_PlayerBoy_HeroEntity_Edit",
+      "path": "native/prefabs/050663b355e5d282e67971ea62654e8b14b49179bb9a9373b13f428a8fce04db.json",
+      "source_cab": "cab-76b970de7bb5dd2de541d381abe3dd7f",
+      "variant_suffix": "_HeroEntity_Edit",
+      "transform_count": 184,
+      "renderer_count": 6,
+      "internal_name": "PlayerBoy"
+    },
+    {
+      "name": "Avatar_Boy_Sword_PlayerBoy_Edit",
+      "path": "native/prefabs/0e9576389750599728ae38540c940afa6233a47bc8ceb91cac4a95e491468702.json",
+      "source_cab": "cab-847060060aed502445b6340d7fecf903",
+      "variant_suffix": "_Edit",
+      "transform_count": 184,
+      "renderer_count": 6,
+      "internal_name": "PlayerBoy"
+    },
+    {
+      "name": "Avatar_Boy_Sword_PlayerBoy_Remote",
+      "path": "native/prefabs/1b6a97f94d75b73fa600ead4db45c6009776a9f271eec3b6de4e1338d2f5b9e5.json",
+      "source_cab": "cab-a89f5deab5406a58e4d6ebf38eb8f7d8",
+      "variant_suffix": "_Remote",
+      "transform_count": 184,
+      "renderer_count": 6,
+      "internal_name": "PlayerBoy"
+    },
+    {
+      "name": "Avatar_Boy_Sword_PlayerBoy",
+      "path": "native/prefabs/1c065f4fbb3c84b2fce77ab19746d8b2953043efaf84b863e235688045d52f88.json",
+      "source_cab": "cab-7512712545f8303a933dd854a4693184",
+      "variant_suffix": "",
+      "transform_count": 174,
+      "renderer_count": 6,
+      "internal_name": "PlayerBoy"
+    },
+    {
+      "name": "Avatar_Boy_Sword_PlayerBoy_Kanban",
+      "path": "native/prefabs/2d6a4daf0fa227c6127ae9f799f4813a4b7c21a2953c07d6db86c0adeeb18975.json",
+      "source_cab": "cab-4091828f1d3c9f5451f0ba72e4e018c8",
+      "variant_suffix": "_Kanban",
+      "transform_count": 153,
+      "renderer_count": 6,
+      "internal_name": "PlayerBoy"
+    },
+    {
+      "name": "Avatar_Boy_Sword_PlayerBoy_HeroEntity",
+      "path": "native/prefabs/36ef52b8f60112bf99acadbede5d7b34d36954e8aba3d261b7cc504e5d4413dc.json",
+      "source_cab": "cab-c5026fcf5801f46c1e2b99055d71d6ec",
+      "variant_suffix": "_HeroEntity",
+      "transform_count": 184,
+      "renderer_count": 6,
+      "internal_name": "PlayerBoy"
+    },
+    {
+      "name": "Avatar_Boy_Sword_PlayerBoy_Manekin",
+      "path": "native/prefabs/3927147400642fc58feae91f5752c0313fec348eb3addd0a13e9c9571ba6fe02.json",
+      "source_cab": "cab-51533047d951c6394a385f05d2ab8f91",
+      "variant_suffix": "_Manekin",
+      "transform_count": 153,
+      "renderer_count": 6,
+      "internal_name": "PlayerBoy"
+    },
+    {
+      "name": "Avatar_Boy_Sword_PlayerBoy",
+      "path": "native/prefabs/90d6d4ff24343099bb1d03ed0c55aee06f18427fe225cf17f83cc060c83217a4.json",
+      "source_cab": "cab-2a6edf74695704f4ab7f681cacc02302",
+      "variant_suffix": "",
+      "transform_count": 184,
+      "renderer_count": 6,
+      "internal_name": "PlayerBoy"
+    },
+    {
+      "name": "Avatar_Boy_Sword_PlayerBoy_Kanban_Edit",
+      "path": "native/prefabs/a2883607abe4333110e3e2eb85491d2c94fec9e89250d29dc4c9082bccae745d.json",
+      "source_cab": "cab-75d1651af197820bf7fa1cdb036d18b0",
+      "variant_suffix": "_Kanban_Edit",
+      "transform_count": 153,
+      "renderer_count": 6,
+      "internal_name": "PlayerBoy"
+    },
+    {
+      "name": "Avatar_Boy_Sword_PlayerBoy",
+      "path": "native/prefabs/b50a69b3b9a663a951b08d7922549ab769e442394a21bb8b643a60badb332c32.json",
+      "source_cab": "cab-a3ee34ff1cf958f9e3e9418d9b6532c6",
+      "variant_suffix": "",
+      "transform_count": 166,
+      "renderer_count": 6,
+      "internal_name": "PlayerBoy"
+    },
+    {
+      "name": "Avatar_Boy_Sword_PlayerBoy_Model",
+      "path": "native/prefabs/b6d515d51e8b9e69ea6b89cfc85ee77cb1f85a3bce21f06da2686a61860aa216.json",
+      "source_cab": "cab-19bd7bfa6d8667a7392967e85d0172d2",
+      "variant_suffix": "_Model",
+      "transform_count": 141,
+      "renderer_count": 6,
+      "internal_name": "PlayerBoy"
+    },
+    {
+      "name": "Avatar_Boy_Sword_PlayerBoy_Model",
+      "path": "native/prefabs/c61b861a212d02ddbb9383b7695dba905ae6e61f8091edcee5fc400d1c37bdbe.json",
+      "source_cab": "cab-c26eb91aef8edfc00fe611a5556d0a34",
+      "variant_suffix": "_Model",
+      "transform_count": 141,
+      "renderer_count": 6,
+      "internal_name": "PlayerBoy"
+    }
+  ],
+  "roster_entries": [
+    {
+      "id": 10000005,
+      "internal_name": "PlayerBoy",
+      "name_zh": "男主",
+      "use_type": "AVATAR_FORMAL",
+      "body_type": "BODY_BOY",
+      "weapon_type": "WEAPON_SWORD_ONE_HAND",
+      "prefab_path_hash": "15226614807408239869"
+    },
+    {
+      "id": 10000134,
+      "internal_name": "PlayerBoy",
+      "name_zh": null,
+      "use_type": "AVATAR_FORMAL",
+      "body_type": "BODY_BOY",
+      "weapon_type": "WEAPON_CROSSBOW",
+      "prefab_path_hash": "13733808314842803504"
+    },
+    {
+      "id": 10000998,
+      "internal_name": "PlayerBoy",
+      "name_zh": null,
+      "use_type": "AVATAR_FORMAL",
+      "body_type": "BODY_BOY",
+      "weapon_type": "WEAPON_SWORD_ONE_HAND",
+      "prefab_path_hash": "16713584438810353715"
+    },
+    {
+      "id": 11000037,
+      "internal_name": "PlayerBoy",
+      "name_zh": null,
+      "use_type": "AVATAR_TEST",
+      "body_type": "BODY_BOY",
+      "weapon_type": "WEAPON_BOW",
+      "prefab_path_hash": "9927363766368762979"
+    },
+    {
+      "id": 11000041,
+      "internal_name": "PlayerBoy",
+      "name_zh": null,
+      "use_type": "AVATAR_TEST",
+      "body_type": "BODY_BOY",
+      "weapon_type": "WEAPON_SWORD_ONE_HAND",
+      "prefab_path_hash": "3181605812462086653"
+    },
+    {
+      "id": 11000042,
+      "internal_name": "PlayerBoy",
+      "name_zh": null,
+      "use_type": "AVATAR_TEST",
+      "body_type": "BODY_BOY",
+      "weapon_type": "WEAPON_SWORD_ONE_HAND",
+      "prefab_path_hash": "3181605812462086653"
+    },
+    {
+      "id": 11000134,
+      "internal_name": "PlayerBoy",
+      "name_zh": null,
+      "use_type": null,
+      "body_type": "BODY_GIRL",
+      "weapon_type": "WEAPON_CROSSBOW",
+      "prefab_path_hash": "13733808314842803504"
+    },
+    {
+      "id": 11000998,
+      "internal_name": "PlayerBoy",
+      "name_zh": null,
+      "use_type": "AVATAR_TEST",
+      "body_type": "BODY_BOY",
+      "weapon_type": "WEAPON_SWORD_ONE_HAND",
+      "prefab_path_hash": "16713584438810353715"
+    }
+  ],
+  "costume": null,
+  "evidence_level": "installed_pc_asset_extraction",
+  "new_runtime_test_performed": false,
+  "character_id": "playerboy"
+}

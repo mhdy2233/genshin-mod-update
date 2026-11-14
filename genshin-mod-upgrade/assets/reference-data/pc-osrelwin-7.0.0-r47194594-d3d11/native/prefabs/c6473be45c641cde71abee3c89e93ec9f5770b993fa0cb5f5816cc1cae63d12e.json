@@ -1,0 +1,8034 @@
+{
+  "kind": "native_prefab",
+  "id": "cab-2a4d30fdbcc07199e1d80e07463254d9",
+  "source_cab": "cab-2a4d30fdbcc07199e1d80e07463254d9",
+  "prefab_name": "Avatar_Male_Sword_KaeyaCostumeDancer_Kanban",
+  "profile": "kaeyacostumedancer",
+  "internal_name": "KaeyaCostumeDancer",
+  "body_token": "Male",
+  "weapon_token": "Sword",
+  "variant_suffix": "_Kanban",
+  "root_transform_id": "-1179132493587984741",
+  "transforms": {
+    "-9199988602588918904": {
+      "game_object": {
+        "file_id": 0,
+        "path_id": "-178163956152168893"
+      },
+      "local_rotation_xyzw": [
+        -1.3166782991902437e-05,
+        -2.3557489839731716e-05,
+        -0.0025812997482717037,
+        0.9999966621398926
+      ],
+      "local_position": [
+        -0.12785804271697998,
+        3.967285010730848e-06,
+        1.4781952017983713e-07
+      ],
+      "local_scale": [
+        0.9999972581863403,
+        1.000003695487976,
+        0.9999962449073792
+      ],
+      "children": [],
+      "parent": {
+        "file_id": 0,
+        "path_id": "-394919537143381651"
+      },
+      "name": "+AmiceF R B03",
+      "path_components": [
+        "Avatar_Male_Sword_KaeyaCostumeDancer_Kanban",
+        "Bip001",
+        "Bip001 Pelvis",
+        "Bip001 Spine",
+        "Bip001 Spine1",
+        "Bip001 Spine2",
+        "+AmiceF R B01",
+        "+AmiceF R B02",
+        "+AmiceF R B03"
+      ]
+    },
+    "-8956839080033403645": {
+      "game_object": {
+        "file_id": 0,
+        "path_id": "7869935912161723577"
+      },
+      "local_rotation_xyzw": [
+        0.031576190143823624,
+        -0.022326260805130005,
+        -0.06955958157777786,
+        0.9968279600143433
+      ],
+      "local_position": [
+        -0.43496522307395935,
+        -2.820160815986128e-08,
+        -1.210719347000122e-08
+      ],
+      "local_scale": [
+        1.0,
+        0.9999998807907104,
+        1.0000001192092896
+      ],
+      "children": [
+        {
+          "file_id": 0,
+          "path_id": "7894334786515178627"
+        }
+      ],
+      "parent": {
+        "file_id": 0,
+        "path_id": "-3737593065289244685"
+      },
+      "name": "Bip001 R Foot",
+      "path_components": [
+        "Avatar_Male_Sword_KaeyaCostumeDancer_Kanban",
+        "Bip001",
+        "Bip001 Pelvis",
+        "Bip001 R Thigh",
+        "Bip001 R Calf",
+        "Bip001 R Foot"
+      ]
+    },
+    "-8861955673368917682": {
+      "game_object": {
+        "file_id": 0,
+        "path_id": "-1353657045204297840"
+      },
+      "local_rotation_xyzw": [
+        0.001956947147846222,
+        0.0009775171056389809,
+        0.0009775171056389809,
+        0.9999971389770508
+      ],
+      "local_position": [
+        -0.0,
+        1.2999999523162842,
+        -1.3000000365082087e-07
+      ],
+      "local_scale": [
+        1.0,
+        1.0,
+        1.0
+      ],
+      "children": [],
+      "parent": {
+        "file_id": 0,
+        "path_id": "4162341875905858940"
+      },
+      "name": "CameraLook",
+      "path_components": [
+        "Avatar_Male_Sword_KaeyaCostumeDancer_Kanban",
+        "Root",
+        "CameraLook"
+      ]
+    },
+    "-8670866910970778143": {
+      "game_object": {
+        "file_id": 0,
+        "path_id": "8035130817987650599"
+      },
+      "local_rotation_xyzw": [
+        0.0,
+        0.0,
+        0.0,
+        1.0
+      ],
+      "local_position": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "local_scale": [
+        1.0,
+        1.0,
+        1.0
+      ],
+      "children": [],
+      "parent": {
+        "file_id": 0,
+        "path_id": "-2614342014661523084"
+      },
+      "name": "HitObject5",
+      "path_components": [
+        "Avatar_Male_Sword_KaeyaCostumeDancer_Kanban",
+        "Bip001",
+        "Bip001 Pelvis",
+        "Bip001 Spine",
+        "Bip001 Spine1",
+        "Bip001 Spine2",
+        "Bip001 R Clavicle",
+        "Bip001 R UpperArm",
+        "Bip001 R Forearm",
+        "HitObject5"
+      ]
+    },
+    "-8367985649931303105": {
+      "game_object": {
+        "file_id": 0,
+        "path_id": "6564182378142943524"
+      },
+      "local_rotation_xyzw": [
+        0.9835792779922485,
+        -0.025440312922000885,
+        0.03616813197731972,
+        0.17497555911540985
+      ],
+      "local_position": [
+        -0.04008903354406357,
+        0.001639194437302649,
+        -0.003316326066851616
+      ],
+      "local_scale": [
+        0.9999999403953552,
+        0.9999999403953552,
+        1.0
+      ],
+      "children": [],
+      "parent": {
+        "file_id": 0,
+        "path_id": "4792918373164804675"
+      },
+      "name": "WeaponL",
+      "path_components": [
+        "Avatar_Male_Sword_KaeyaCostumeDancer_Kanban",
+        "Bip001",
+        "Bip001 Pelvis",
+        "Bip001 Spine",
+        "Bip001 Spine1",
+        "Bip001 Spine2",
+        "Bip001 L Clavicle",
+        "Bip001 L UpperArm",
+        "Bip001 L Forearm",
+        "Bip001 L Hand",
+        "WeaponL"
+      ]
+    },
+    "-8121613130560395963": {
+      "game_object": {
+        "file_id": 0,
+        "path_id": "334129164283616321"
+      },
+      "local_rotation_xyzw": [
+        -0.05583803728222847,
+        0.9957382678985596,
+        -0.07220660150051117,
+        -0.013178315944969654
+      ],
+      "local_position": [
+        -0.16596068441867828,
+        0.09324275702238083,
+        -0.07168310880661011
+      ],
+      "local_scale": [
+        0.9999973773956299,
+        1.0000042915344238,
+        1.0000008344650269
+      ],
+      "children": [
+        {
+          "file_id": 0,
+          "path_id": "-394919537143381651"
+        }
+      ],
+      "parent": {
+        "file_id": 0,
+        "path_id": "-5371960529216644103"
+      },
+      "name": "+AmiceF R B01",
+      "path_components": [
+        "Avatar_Male_Sword_KaeyaCostumeDancer_Kanban",
+        "Bip001",
+        "Bip001 Pelvis",
+        "Bip001 Spine",
+        "Bip001 Spine1",
+        "Bip001 Spine2",
+        "+AmiceF R B01"
+      ]
+    },
+    "-7998226029406787665": {
+      "game_object": {
+        "file_id": 0,
+        "path_id": "2433323744844928739"
+      },
+      "local_rotation_xyzw": [
+        -0.04224042966961861,
+        0.012399367056787014,
+        0.9743782877922058,
+        0.2205650955438614
+      ],
+      "local_position": [
+        -0.22019973397254944,
+        -0.08401361107826233,
+        0.039824336767196655
+      ],
+      "local_scale": [
+        0.9999989867210388,
+        1.0000014305114746,
+        0.9999997615814209
+      ],
+      "children": [
+        {
+          "file_id": 0,
+          "path_id": "6138815176021582443"
+        }
+      ],
+      "parent": {
+        "file_id": 0,
+        "path_id": "-5371960529216644103"
+      },
+      "name": "+AmiceB L B11",
+      "path_components": [
+        "Avatar_Male_Sword_KaeyaCostumeDancer_Kanban",
+        "Bip001",
+        "Bip001 Pelvis",
+        "Bip001 Spine",
+        "Bip001 Spine1",
+        "Bip001 Spine2",
+        "+AmiceB L B11"
+      ]
+    },
+    "-7990208186810785249": {
+      "game_object": {
+        "file_id": 0,
+        "path_id": "-9025374374378805769"
+      },
+      "local_rotation_xyzw": [
+        0.0,
+        0.0,
+        0.0,
+        1.0
+      ],
+      "local_position": [
+        -0.06400000303983688,
+        0.023000000044703484,
+        0.0010000000474974513
+      ],
+      "local_scale": [
+        1.0,
+        1.0,
+        1.0
+      ],
+      "children": [],
+      "parent": {
+        "file_id": 0,
+        "path_id": "5849290048534608604"
+      },
+      "name": "PRIVATE_RHand",
+      "path_components": [
+        "Avatar_Male_Sword_KaeyaCostumeDancer_Kanban",
+        "Bip001",
+        "Bip001 Pelvis",
+        "Bip001 Spine",
+        "Bip001 Spine1",
+        "Bip001 Spine2",
+        "Bip001 R Clavicle",
+        "Bip001 R UpperArm",
+        "Bip001 R Forearm",
+        "Bip001 R Hand",
+        "PRIVATE_RHand"
+      ]
+    },
+    "-7831556403931015309": {
+      "game_object": {
+        "file_id": 0,
+        "path_id": "6922477905870704788"
+      },
+      "local_rotation_xyzw": [
+        2.2577512481802842e-07,
+        -5.453136395772162e-07,
+        0.06475610285997391,
+        0.9979011416435242
+      ],
+      "local_position": [
+        -0.09163085371255875,
+        -2.212524350397871e-06,
+        -2.0027160019253643e-07
+      ],
+      "local_scale": [
+        1.0000073909759521,
+        1.0000048875808716,
+        0.9999999403953552
+      ],
+      "children": [
+        {
+          "file_id": 0,
+          "path_id": "3895240864472803752"
+        }
+      ],
+      "parent": {
+        "file_id": 0,
+        "path_id": "8659949023366926375"
+      },
+      "name": "+AmiceS L C02",
+      "path_components": [
+        "Avatar_Male_Sword_KaeyaCostumeDancer_Kanban",
+        "Bip001",
+        "Bip001 Pelvis",
+        "Bip001 Spine",
+        "Bip001 Spine1",
+        "Bip001 Spine2",
+        "+AmiceS L C01",
+        "+AmiceS L C02"
+      ]
+    },
+    "-7815884582103804133": {
+      "game_object": {
+        "file_id": 0,
+        "path_id": "-5969719310752302741"
+      },
+      "local_rotation_xyzw": [
+        3.4604919818548296e-08,
+        1.1430952895352675e-07,
+        -0.09230830520391464,
+        0.995730459690094
+      ],
+      "local_position": [
+        0.14300000667572021,
+        -0.04399999976158142,
+        -0.0
+      ],
+      "local_scale": [
+        1.0,
+        1.0,
+        1.0
+      ],
+      "children": [],
+      "parent": {
+        "file_id": 0,
+        "path_id": "-5371960529216644103"
+      },
+      "name": "HitObject2",
+      "path_components": [
+        "Avatar_Male_Sword_KaeyaCostumeDancer_Kanban",
+        "Bip001",
+        "Bip001 Pelvis",
+        "Bip001 Spine",
+        "Bip001 Spine1",
+        "Bip001 Spine2",
+        "HitObject2"
+      ]
+    },
+    "-7755422598975380934": {
+      "game_object": {
+        "file_id": 0,
+        "path_id": "4917814110032844232"
+      },
+      "local_rotation_xyzw": [
+        2.2351743567128324e-08,
+        7.4505797087454084e-09,
+        1.0,
+        2.9802322387695312e-08
+      ],
+      "local_position": [
+        -0.022221220657229424,
+        0.0,
+        -9.53674295089968e-09
+      ],
+      "local_scale": [
+        -0.9999999403953552,
+        -1.0,
+        -1.0
+      ],
+      "children": [],
+      "parent": {
+        "file_id": 0,
+        "path_id": "-1526298625528557102"
+      },
+      "name": "Bip001 R Finger4Nub",
+      "path_components": [
+        "Avatar_Male_Sword_KaeyaCostumeDancer_Kanban",
+        "Bip001",
+        "Bip001 Pelvis",
+        "Bip001 Spine",
+        "Bip001 Spine1",
+        "Bip001 Spine2",
+        "Bip001 R Clavicle",
+        "Bip001 R UpperArm",
+        "Bip001 R Forearm",
+        "Bip001 R Hand",
+        "Bip001 R Finger4",
+        "Bip001 R Finger41",
+        "Bip001 R Finger42",
+        "Bip001 R Finger4Nub"
+      ]
+    },
+    "-7198176367840456765": {
+      "game_object": {
+        "file_id": 0,
+        "path_id": "5531696528371384440"
+      },
+      "local_rotation_xyzw": [
+        7.450580596923828e-09,
+        3.725290298461914e-09,
+        -2.7755575615628914e-17,
+        1.0
+      ],
+      "local_position": [
+        -0.02504444122314453,
+        0.0,
+        -4.76837147544984e-09
+      ],
+      "local_scale": [
+        1.0,
+        1.0,
+        1.0
+      ],
+      "children": [],
+      "parent": {
+        "file_id": 0,
+        "path_id": "3756780092453750275"
+      },
+      "name": "Bip001 L Finger3Nub",
+      "path_components": [
+        "Avatar_Male_Sword_KaeyaCostumeDancer_Kanban",
+        "Bip001",
+        "Bip001 Pelvis",
+        "Bip001 Spine",
+        "Bip001 Spine1",
+        "Bip001 Spine2",
+        "Bip001 L Clavicle",
+        "Bip001 L UpperArm",
+        "Bip001 L Forearm",
+        "Bip001 L Hand",
+        "Bip001 L Finger3",
+        "Bip001 L Finger31",
+        "Bip001 L Finger32",
+        "Bip001 L Finger3Nub"
+      ]
+    },
+    "-7184044898277881270": {
+      "game_object": {
+        "file_id": 0,
+        "path_id": "-8243533358319493938"
+      },
+      "local_rotation_xyzw": [
+        0.9691682457923889,
+        -0.24196474254131317,
+        0.006515846122056246,
+        -0.046082064509391785
+      ],
+      "local_position": [
+        -0.0860000029206276,
+        0.04600000008940697,
+        0.0010000000474974513
+      ],
+      "local_scale": [
+        0.9999996423721313,
+        1.000000238418579,
+        1.000000238418579
+      ],
+      "children": [],
+      "parent": {
+        "file_id": 0,
+        "path_id": "4792918373164804675"
+      },
+      "name": "PRIVATE_LHand",
+      "path_components": [
+        "Avatar_Male_Sword_KaeyaCostumeDancer_Kanban",
+        "Bip001",
+        "Bip001 Pelvis",
+        "Bip001 Spine",
+        "Bip001 Spine1",
+        "Bip001 Spine2",
+        "Bip001 L Clavicle",
+        "Bip001 L UpperArm",
+        "Bip001 L Forearm",
+        "Bip001 L Hand",
+        "PRIVATE_LHand"
+      ]
+    },
+    "-7173132202988157135": {
+      "game_object": {
+        "file_id": 0,
+        "path_id": "-5894870266658562182"
+      },
+      "local_rotation_xyzw": [
+        -0.6955708861351013,
+        0.695594310760498,
+        0.12712271511554718,
+        0.1271592527627945
+      ],
+      "local_position": [
+        -0.06896453350782394,
+        0.03794923424720764,
+        0.019869547337293625
+      ],
+      "local_scale": [
+        0.9999711513519287,
+        1.0000157356262207,
+        0.9999704957008362
+      ],
+      "children": [
+        {
+          "file_id": 0,
+          "path_id": "-4647373060774328436"
+        }
+      ],
+      "parent": {
+        "file_id": 0,
+        "path_id": "-710602615991358924"
+      },
+      "name": "+EyeBone L A01",
+      "path_components": [
+        "Avatar_Male_Sword_KaeyaCostumeDancer_Kanban",
+        "Bip001",
+        "Bip001 Pelvis",
+        "Bip001 Spine",
+        "Bip001 Spine1",
+        "Bip001 Spine2",
+        "Bip001 Neck",
+        "Bip001 Head",
+        "+EyeBone L A01"
+      ]
+    },
+    "-6959342834792192360": {
+      "game_object": {
+        "file_id": 0,
+        "path_id": "-6840787238103131685"
+      },
+      "local_rotation_xyzw": [
+        2.421438694000244e-08,
+        -0.0,
+        0.03556497022509575,
+        0.9993674159049988
+      ],
+      "local_position": [
+        -0.5220749378204346,
+        -4.470348358154297e-08,
+        -2.9802322387695312e-08
+      ],
+      "local_scale": [
+        1.0000001192092896,
+        1.0000001192092896,
+        1.0
+      ],
+      "children": [
+        {
+          "file_id": 0,
+          "path_id": "8404129890049566196"
+        },
+        {
+          "file_id": 0,
+          "path_id": "2582359698719180392"
+        },
+        {
+          "file_id": 0,
+          "path_id": "-1744117628884615253"
+        }
+      ],
+      "parent": {
+        "file_id": 0,
+        "path_id": "553032455123377504"
+      },
+      "name": "Bip001 L Calf",
+      "path_components": [
+        "Avatar_Male_Sword_KaeyaCostumeDancer_Kanban",
+        "Bip001",
+        "Bip001 Pelvis",
+        "Bip001 L Thigh",
+        "Bip001 L Calf"
+      ]
+    },
+    "-6930388867064314161": {
+      "game_object": {
+        "file_id": 0,
+        "path_id": "-4750879201429200986"
+      },
+      "local_rotation_xyzw": [
+        -2.3323395907937083e-06,
+        -2.250149736937601e-05,
+        0.0025808752980083227,
+        0.9999966621398926
+      ],
+      "local_position": [
+        -0.12785880267620087,
+        -1.6021728015402914e-06,
+        1.0967254127081105e-07
+      ],
+      "local_scale": [
+        0.9999998211860657,
+        1.0000035762786865,
+        0.9999984502792358
+      ],
+      "children": [],
+      "parent": {
+        "file_id": 0,
+        "path_id": "8523797333475485807"
+      },
+      "name": "+AmiceF L B03",
+      "path_components": [
+        "Avatar_Male_Sword_KaeyaCostumeDancer_Kanban",
+        "Bip001",
+        "Bip001 Pelvis",
+        "Bip001 Spine",
+        "Bip001 Spine1",
+        "Bip001 Spine2",
+        "+AmiceF L B01",
+        "+AmiceF L B02",
+        "+AmiceF L B03"
+      ]
+    },
+    "-6638414074612158923": {
+      "game_object": {
+        "file_id": 0,
+        "path_id": "9187826510005765896"
+      },
+      "local_rotation_xyzw": [
+        -0.7111530303955078,
+        0.3182162642478943,
+        0.14441430568695068,
+        0.610036313533783
+      ],
+      "local_position": [
+        -0.022144164890050888,
+        0.010130729526281357,
+        0.024239372462034225
+      ],
+      "local_scale": [
+        1.0,
+        1.0,
+        1.0
+      ],
+      "children": [
+        {
+          "file_id": 0,
+          "path_id": "-3468892312782523528"
+        }
+      ],
+      "parent": {
+        "file_id": 0,
+        "path_id": "5849290048534608604"
+      },
+      "name": "DMZ R 01",
+      "path_components": [
+        "Avatar_Male_Sword_KaeyaCostumeDancer_Kanban",
+        "Bip001",
+        "Bip001 Pelvis",
+        "Bip001 Spine",
+        "Bip001 Spine1",
+        "Bip001 Spine2",
+        "Bip001 R Clavicle",
+        "Bip001 R UpperArm",
+        "Bip001 R Forearm",
+        "Bip001 R Hand",
+        "DMZ R 01"
+      ]
+    },
+    "-6443187756352627355": {
+      "game_object": {
+        "file_id": 0,
+        "path_id": "-2400145461897328985"
+      },
+      "local_rotation_xyzw": [
+        -1.4210854715202004e-14,
+        -8.18920872411831e-14,
+        -2.842170943040401e-14,
+        1.0
+      ],
+      "local_position": [
+        -0.06869671493768692,
+        0.0,
+        -4.76837147544984e-09
+      ],
+      "local_scale": [
+        1.0,
+        1.0,
+        1.0
+      ],
+      "children": [],
+      "parent": {
+        "file_id": 0,
+        "path_id": "7894334786515178627"
+      },
+      "name": "Bip001 R Toe0Nub",
+      "path_components": [
+        "Avatar_Male_Sword_KaeyaCostumeDancer_Kanban",
+        "Bip001",
+        "Bip001 Pelvis",
+        "Bip001 R Thigh",
+        "Bip001 R Calf",
+        "Bip001 R Foot",
+        "Bip001 R Toe0",
+        "Bip001 R Toe0Nub"
+      ]
+    },
+    "-6150476073942129662": {
+      "game_object": {
+        "file_id": 0,
+        "path_id": "-2003161589535573843"
+      },
+      "local_rotation_xyzw": [
+        0.7077537178993225,
+        0.7064579129219055,
+        -0.0009775171056389809,
+        -0.0009775171056389809
+      ],
+      "local_position": [
+        0.5,
+        1.0,
+        -1.4999997688391886e-07
+      ],
+      "local_scale": [
+        1.0,
+        1.0,
+        1.0
+      ],
+      "children": [],
+      "parent": {
+        "file_id": 0,
+        "path_id": "4162341875905858940"
+      },
+      "name": "CatalystR",
+      "path_components": [
+        "Avatar_Male_Sword_KaeyaCostumeDancer_Kanban",
+        "Root",
+        "CatalystR"
+      ]
+    },
+    "-5413557043372285693": {
+      "game_object": {
+        "file_id": 0,
+        "path_id": "-6265174700179495447"
+      },
+      "local_rotation_xyzw": [
+        1.227027865979835e-07,
+        2.464302717442024e-08,
+        -0.4718146026134491,
+        0.8816977739334106
+      ],
+      "local_position": [
+        -0.02034025825560093,
+        0.0,
+        8.040929033725774e-10
+      ],
+      "local_scale": [
+        1.0000001192092896,
+        1.0,
+        1.0000001192092896
+      ],
+      "children": [
+        {
+          "file_id": 0,
+          "path_id": "-730320316473800129"
+        }
+      ],
+      "parent": {
+        "file_id": 0,
+        "path_id": "234505996655728355"
+      },
+      "name": "Bip001 L Finger42",
+      "path_components": [
+        "Avatar_Male_Sword_KaeyaCostumeDancer_Kanban",
+        "Bip001",
+        "Bip001 Pelvis",
+        "Bip001 Spine",
+        "Bip001 Spine1",
+        "Bip001 Spine2",
+        "Bip001 L Clavicle",
+        "Bip001 L UpperArm",
+        "Bip001 L Forearm",
+        "Bip001 L Hand",
+        "Bip001 L Finger4",
+        "Bip001 L Finger41",
+        "Bip001 L Finger42"
+      ]
+    },
+    "-5371960529216644103": {
+      "game_object": {
+        "file_id": 0,
+        "path_id": "-4158581475406706608"
+      },
+      "local_rotation_xyzw": [
+        -0.04708882048726082,
+        -0.013941195793449879,
+        -0.08342654258012772,
+        0.9953031539916992
+      ],
+      "local_position": [
+        -0.11242963373661041,
+        -0.0001264727907255292,
+        4.656612873077393e-10
+      ],
+      "local_scale": [
+        1.0,
+        1.0,
+        1.0
+      ],
+      "children": [
+        {
+          "file_id": 0,
+          "path_id": "-7998226029406787665"
+        },
+        {
+          "file_id": 0,
+          "path_id": "6187068310098934595"
+        },
+        {
+          "file_id": 0,
+          "path_id": "-8121613130560395963"
+        },
+        {
+          "file_id": 0,
+          "path_id": "8659949023366926375"
+        },
+        {
+          "file_id": 0,
+          "path_id": "4333026569144527954"
+        },
+        {
+          "file_id": 0,
+          "path_id": "-3846538174027806596"
+        },
+        {
+          "file_id": 0,
+          "path_id": "-3520064074628710791"
+        },
+        {
+          "file_id": 0,
+          "path_id": "7390949353485782593"
+        },
+        {
+          "file_id": 0,
+          "path_id": "8746388705638818526"
+        },
+        {
+          "file_id": 0,
+          "path_id": "3691802865376209078"
+        },
+        {
+          "file_id": 0,
+          "path_id": "-4344456825261655878"
+        },
+        {
+          "file_id": 0,
+          "path_id": "-7815884582103804133"
+        }
+      ],
+      "parent": {
+        "file_id": 0,
+        "path_id": "5782375033098683180"
+      },
+      "name": "Bip001 Spine2",
+      "path_components": [
+        "Avatar_Male_Sword_KaeyaCostumeDancer_Kanban",
+        "Bip001",
+        "Bip001 Pelvis",
+        "Bip001 Spine",
+        "Bip001 Spine1",
+        "Bip001 Spine2"
+      ]
+    },
+    "-4647373060774328436": {
+      "game_object": {
+        "file_id": 0,
+        "path_id": "-6559981589560778182"
+      },
+      "local_rotation_xyzw": [
+        0.04385557025671005,
+        -0.04381927102804184,
+        0.7057552933692932,
+        -0.7057379484176636
+      ],
+      "local_position": [
+        -0.04333505406975746,
+        -0.0024520873557776213,
+        -0.0020785515662282705
+      ],
+      "local_scale": [
+        1.0000004768371582,
+        1.0000009536743164,
+        1.000000238418579
+      ],
+      "children": [],
+      "parent": {
+        "file_id": 0,
+        "path_id": "-7173132202988157135"
+      },
+      "name": "+EyeBone L A02",
+      "path_components": [
+        "Avatar_Male_Sword_KaeyaCostumeDancer_Kanban",
+        "Bip001",
+        "Bip001 Pelvis",
+        "Bip001 Spine",
+        "Bip001 Spine1",
+        "Bip001 Spine2",
+        "Bip001 Neck",
+        "Bip001 Head",
+        "+EyeBone L A01",
+        "+EyeBone L A02"
+      ]
+    },
+    "-4513651018809629697": {
+      "game_object": {
+        "file_id": 0,
+        "path_id": "-8938029536733850593"
+      },
+      "local_rotation_xyzw": [
+        -0.0011412253370508552,
+        0.0026311171241104603,
+        0.0013195377541705966,
+        0.9999950528144836
+      ],
+      "local_position": [
+        -0.2042684108018875,
+        1.678466787780053e-06,
+        -7.629394360719743e-08
+      ],
+      "local_scale": [
+        0.9999974370002747,
+        1.0000026226043701,
+        1.000000238418579
+      ],
+      "children": [],
+      "parent": {
+        "file_id": 0,
+        "path_id": "-2936957726015249088"
+      },
+      "name": "+AmiceB L B15",
+      "path_components": [
+        "Avatar_Male_Sword_KaeyaCostumeDancer_Kanban",
+        "Bip001",
+        "Bip001 Pelvis",
+        "Bip001 Spine",
+        "Bip001 Spine1",
+        "Bip001 Spine2",
+        "+AmiceB L B11",
+        "+AmiceB L B12",
+        "+AmiceB L B13",
+        "+AmiceB L B14",
+        "+AmiceB L B15"
+      ]
+    },
+    "-4377992635649185386": {
+      "game_object": {
+        "file_id": 0,
+        "path_id": "-8792386614762387692"
+      },
+      "local_rotation_xyzw": [
+        7.450580596923828e-09,
+        -1.1102231569740545e-16,
+        -1.4901162970204496e-08,
+        1.0
+      ],
+      "local_position": [
+        -0.02393852174282074,
+        0.0,
+        1.907348590179936e-08
+      ],
+      "local_scale": [
+        0.9999998807907104,
+        1.0,
+        1.0
+      ],
+      "children": [],
+      "parent": {
+        "file_id": 0,
+        "path_id": "4031398686336029890"
+      },
+      "name": "Bip001 L Finger1Nub",
+      "path_components": [
+        "Avatar_Male_Sword_KaeyaCostumeDancer_Kanban",
+        "Bip001",
+        "Bip001 Pelvis",
+        "Bip001 Spine",
+        "Bip001 Spine1",
+        "Bip001 Spine2",
+        "Bip001 L Clavicle",
+        "Bip001 L UpperArm",
+        "Bip001 L Forearm",
+        "Bip001 L Hand",
+        "Bip001 L Finger1",
+        "Bip001 L Finger11",
+        "Bip001 L Finger12",
+        "Bip001 L Finger1Nub"
+      ]
+    },
+    "-4344456825261655878": {
+      "game_object": {
+        "file_id": 0,
+        "path_id": "-5639272218356173613"
+      },
+      "local_rotation_xyzw": [
+        4.378475182420516e-08,
+        1.7320307676982338e-07,
+        -0.09230827540159225,
+        0.995730459690094
+      ],
+      "local_position": [
+        -0.09200000017881393,
+        0.004999999888241291,
+        0.0
+      ],
+      "local_scale": [
+        1.0,
+        1.0,
+        1.0
+      ],
+      "children": [],
+      "parent": {
+        "file_id": 0,
+        "path_id": "-5371960529216644103"
+      },
+      "name": "HitObject3",
+      "path_components": [
+        "Avatar_Male_Sword_KaeyaCostumeDancer_Kanban",
+        "Bip001",
+        "Bip001 Pelvis",
+        "Bip001 Spine",
+        "Bip001 Spine1",
+        "Bip001 Spine2",
+        "HitObject3"
+      ]
+    },
+    "-4121035320888879255": {
+      "game_object": {
+        "file_id": 0,
+        "path_id": "6121077549443019302"
+      },
+      "local_rotation_xyzw": [
+        0.5,
+        -0.5,
+        -0.5,
+        -0.5
+      ],
+      "local_position": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "local_scale": [
+        1.0,
+        0.9999999403953552,
+        0.9999999403953552
+      ],
+      "children": [
+        {
+          "file_id": 0,
+          "path_id": "9202173233208468425"
+        },
+        {
+          "file_id": 0,
+          "path_id": "553032455123377504"
+        },
+        {
+          "file_id": 0,
+          "path_id": "-1863019779665556425"
+        },
+        {
+          "file_id": 0,
+          "path_id": "6944201047763824249"
+        }
+      ],
+      "parent": {
+        "file_id": 0,
+        "path_id": "2958481642635774733"
+      },
+      "name": "Bip001 Pelvis",
+      "path_components": [
+        "Avatar_Male_Sword_KaeyaCostumeDancer_Kanban",
+        "Bip001",
+        "Bip001 Pelvis"
+      ]
+    },
+    "-3996068512004045728": {
+      "game_object": {
+        "file_id": 0,
+        "path_id": "-3411981239417721683"
+      },
+      "local_rotation_xyzw": [
+        -0.0,
+        -0.0,
+        -0.0,
+        1.0
+      ],
+      "local_position": [
+        0.0,
+        1.8632999658584595,
+        0.0
+      ],
+      "local_scale": [
+        1.0,
+        1.0,
+        1.0
+      ],
+      "children": [],
+      "parent": {
+        "file_id": 0,
+        "path_id": "-1179132493587984741"
+      },
+      "name": "MoveHead",
+      "path_components": [
+        "Avatar_Male_Sword_KaeyaCostumeDancer_Kanban",
+        "MoveHead"
+      ]
+    },
+    "-3951202848037201851": {
+      "game_object": {
+        "file_id": 0,
+        "path_id": "9146983623926837258"
+      },
+      "local_rotation_xyzw": [
+        0.04447096958756447,
+        -0.04446948692202568,
+        -0.7057179808616638,
+        0.7056961059570312
+      ],
+      "local_position": [
+        -0.043334536254405975,
+        -0.0024520873557776213,
+        0.0020779427140951157
+      ],
+      "local_scale": [
+        1.0000073909759521,
+        0.9999879002571106,
+        0.999987781047821
+      ],
+      "children": [],
+      "parent": {
+        "file_id": 0,
+        "path_id": "3655811099167383697"
+      },
+      "name": "+EyeBone R A02",
+      "path_components": [
+        "Avatar_Male_Sword_KaeyaCostumeDancer_Kanban",
+        "Bip001",
+        "Bip001 Pelvis",
+        "Bip001 Spine",
+        "Bip001 Spine1",
+        "Bip001 Spine2",
+        "Bip001 Neck",
+        "Bip001 Head",
+        "+EyeBone R A01",
+        "+EyeBone R A02"
+      ]
+    },
+    "-3846538174027806596": {
+      "game_object": {
+        "file_id": 0,
+        "path_id": "2050621822671780142"
+      },
+      "local_rotation_xyzw": [
+        -0.07145054638385773,
+        0.9678328037261963,
+        -0.23836784064769745,
+        -0.037085603922605515
+      ],
+      "local_position": [
+        -0.16871459782123566,
+        0.054408758878707886,
+        -0.14875945448875427
+      ],
+      "local_scale": [
+        1.0000067949295044,
+        1.0000022649765015,
+        0.9999955296516418
+      ],
+      "children": [
+        {
+          "file_id": 0,
+          "path_id": "4185667835552824989"
+        }
+      ],
+      "parent": {
+        "file_id": 0,
+        "path_id": "-5371960529216644103"
+      },
+      "name": "+AmiceS R C01",
+      "path_components": [
+        "Avatar_Male_Sword_KaeyaCostumeDancer_Kanban",
+        "Bip001",
+        "Bip001 Pelvis",
+        "Bip001 Spine",
+        "Bip001 Spine1",
+        "Bip001 Spine2",
+        "+AmiceS R C01"
+      ]
+    },
+    "-3781444612048009658": {
+      "game_object": {
+        "file_id": 0,
+        "path_id": "-4812077906223767155"
+      },
+      "local_rotation_xyzw": [
+        1.2202421295626209e-08,
+        -3.5519718721843674e-08,
+        -0.010447472333908081,
+        0.9999454617500305
+      ],
+      "local_position": [
+        -0.11519592255353928,
+        -4.1961669694501325e-07,
+        -2.0980834847250662e-07
+      ],
+      "local_scale": [
+        0.9999991655349731,
+        1.0000007152557373,
+        0.9999985694885254
+      ],
+      "children": [
+        {
+          "file_id": 0,
+          "path_id": "8953412961191574988"
+        }
+      ],
+      "parent": {
+        "file_id": 0,
+        "path_id": "7371043497204618129"
+      },
+      "name": "+AmiceS R B12",
+      "path_components": [
+        "Avatar_Male_Sword_KaeyaCostumeDancer_Kanban",
+        "Bip001",
+        "Bip001 Pelvis",
+        "Bip001 Spine",
+        "Bip001 Spine1",
+        "Bip001 Spine2",
+        "Bip001 R Clavicle",
+        "+AmiceS R B11",
+        "+AmiceS R B12"
+      ]
+    },
+    "-3737593065289244685": {
+      "game_object": {
+        "file_id": 0,
+        "path_id": "-2855256978883500966"
+      },
+      "local_rotation_xyzw": [
+        0.017026374116539955,
+        0.00089787517208606,
+        0.052656568586826324,
+        0.998467206954956
+      ],
+      "local_position": [
+        -0.5220744609832764,
+        -6.658956408500671e-08,
+        -1.4901161193847656e-08
+      ],
+      "local_scale": [
+        1.0,
+        1.0000001192092896,
+        1.0
+      ],
+      "children": [
+        {
+          "file_id": 0,
+          "path_id": "-8956839080033403645"
+        },
+        {
+          "file_id": 0,
+          "path_id": "-1184104503491975148"
+        },
+        {
+          "file_id": 0,
+          "path_id": "8846009400531518007"
+        }
+      ],
+      "parent": {
+        "file_id": 0,
+        "path_id": "-1863019779665556425"
+      },
+      "name": "Bip001 R Calf",
+      "path_components": [
+        "Avatar_Male_Sword_KaeyaCostumeDancer_Kanban",
+        "Bip001",
+        "Bip001 Pelvis",
+        "Bip001 R Thigh",
+        "Bip001 R Calf"
+      ]
+    },
+    "-3554915242260329177": {
+      "game_object": {
+        "file_id": 0,
+        "path_id": "6139685742317041742"
+      },
+      "local_rotation_xyzw": [
+        -3.675523316815088e-07,
+        1.0439708830745076e-07,
+        0.0807826817035675,
+        -0.9967318177223206
+      ],
+      "local_position": [
+        -0.026350440457463264,
+        0.0,
+        2.055285364122028e-08
+      ],
+      "local_scale": [
+        0.9999998807907104,
+        1.0,
+        0.9999999403953552
+      ],
+      "children": [
+        {
+          "file_id": 0,
+          "path_id": "8658543882582481769"
+        }
+      ],
+      "parent": {
+        "file_id": 0,
+        "path_id": "6372545794480245851"
+      },
+      "name": "Bip001 R Finger12",
+      "path_components": [
+        "Avatar_Male_Sword_KaeyaCostumeDancer_Kanban",
+        "Bip001",
+        "Bip001 Pelvis",
+        "Bip001 Spine",
+        "Bip001 Spine1",
+        "Bip001 Spine2",
+        "Bip001 R Clavicle",
+        "Bip001 R UpperArm",
+        "Bip001 R Forearm",
+        "Bip001 R Hand",
+        "Bip001 R Finger1",
+        "Bip001 R Finger11",
+        "Bip001 R Finger12"
+      ]
+    },
+    "-3520064074628710791": {
+      "game_object": {
+        "file_id": 0,
+        "path_id": "-5074227469461452821"
+      },
+      "local_rotation_xyzw": [
+        1.1688917889163264e-10,
+        -7.018167158534538e-10,
+        0.1642892211675644,
+        0.9864122271537781
+      ],
+      "local_position": [
+        -0.25635984539985657,
+        -0.05793982744216919,
+        -3.8385391576412076e-07
+      ],
+      "local_scale": [
+        1.0,
+        1.0,
+        1.0
+      ],
+      "children": [],
+      "parent": {
+        "file_id": 0,
+        "path_id": "-5371960529216644103"
+      },
+      "name": "+FlycloakRootB CB A01",
+      "path_components": [
+        "Avatar_Male_Sword_KaeyaCostumeDancer_Kanban",
+        "Bip001",
+        "Bip001 Pelvis",
+        "Bip001 Spine",
+        "Bip001 Spine1",
+        "Bip001 Spine2",
+        "+FlycloakRootB CB A01"
+      ]
+    },
+    "-3468892312782523528": {
+      "game_object": {
+        "file_id": 0,
+        "path_id": "-4818929659378267133"
+      },
+      "local_rotation_xyzw": [
+        -0.0019337574485689402,
+        0.006923512555658817,
+        -0.26375073194503784,
+        0.9645640850067139
+      ],
+      "local_position": [
+        -0.034888532012701035,
+        -3.814697180359872e-08,
+        -9.53674295089968e-09
+      ],
+      "local_scale": [
+        1.0,
+        1.0,
+        1.0
+      ],
+      "children": [
+        {
+          "file_id": 0,
+          "path_id": "1986741195799458062"
+        }
+      ],
+      "parent": {
+        "file_id": 0,
+        "path_id": "-6638414074612158923"
+      },
+      "name": "DMZ R 02",
+      "path_components": [
+        "Avatar_Male_Sword_KaeyaCostumeDancer_Kanban",
+        "Bip001",
+        "Bip001 Pelvis",
+        "Bip001 Spine",
+        "Bip001 Spine1",
+        "Bip001 Spine2",
+        "Bip001 R Clavicle",
+        "Bip001 R UpperArm",
+        "Bip001 R Forearm",
+        "Bip001 R Hand",
+        "DMZ R 01",
+        "DMZ R 02"
+      ]
+    },
+    "-3161925583607766888": {
+      "game_object": {
+        "file_id": 0,
+        "path_id": "6426907368031521959"
+      },
+      "local_rotation_xyzw": [
+        1.648628966677279e-08,
+        1.1175865566315224e-08,
+        0.7069994211196899,
+        -0.7072141766548157
+      ],
+      "local_position": [
+        -0.09252915531396866,
+        0.13630461692810059,
+        0.002016081241890788
+      ],
+      "local_scale": [
+        1.0,
+        1.0,
+        1.0
+      ],
+      "children": [
+        {
+          "file_id": 0,
+          "path_id": "-2536298816309942329"
+        }
+      ],
+      "parent": {
+        "file_id": 0,
+        "path_id": "8404129890049566196"
+      },
+      "name": "Bip001 L Toe0",
+      "path_components": [
+        "Avatar_Male_Sword_KaeyaCostumeDancer_Kanban",
+        "Bip001",
+        "Bip001 Pelvis",
+        "Bip001 L Thigh",
+        "Bip001 L Calf",
+        "Bip001 L Foot",
+        "Bip001 L Toe0"
+      ]
+    },
+    "-3062286883289259850": {
+      "game_object": {
+        "file_id": 0,
+        "path_id": "3638925709471557512"
+      },
+      "local_rotation_xyzw": [
+        2.1855694143368964e-08,
+        0.0,
+        -0.0,
+        1.0
+      ],
+      "local_position": [
+        -0.0,
+        0.0,
+        0.0
+      ],
+      "local_scale": [
+        1.0,
+        1.0,
+        1.0
+      ],
+      "children": [],
+      "parent": {
+        "file_id": 0,
+        "path_id": "-1179132493587984741"
+      },
+      "name": "Body",
+      "path_components": [
+        "Avatar_Male_Sword_KaeyaCostumeDancer_Kanban",
+        "Body"
+      ]
+    },
+    "-2996088346415529931": {
+      "game_object": {
+        "file_id": 0,
+        "path_id": "-3483487818003872158"
+      },
+      "local_rotation_xyzw": [
+        0.6928635239601135,
+        -0.7210687398910522,
+        1.393223385548481e-07,
+        1.944929124420014e-07
+      ],
+      "local_position": [
+        -0.002917175181210041,
+        0.07887078821659088,
+        6.153796903163311e-07
+      ],
+      "local_scale": [
+        1.0,
+        1.0,
+        1.0
+      ],
+      "children": [],
+      "parent": {
+        "file_id": 0,
+        "path_id": "-710602615991358924"
+      },
+      "name": "+ToothBone D A01",
+      "path_components": [
+        "Avatar_Male_Sword_KaeyaCostumeDancer_Kanban",
+        "Bip001",
+        "Bip001 Pelvis",
+        "Bip001 Spine",
+        "Bip001 Spine1",
+        "Bip001 Spine2",
+        "Bip001 Neck",
+        "Bip001 Head",
+        "+ToothBone D A01"
+      ]
+    },
+    "-2936957726015249088": {
+      "game_object": {
+        "file_id": 0,
+        "path_id": "1324099179153565926"
+      },
+      "local_rotation_xyzw": [
+        -0.008322929963469505,
+        0.0033802776597440243,
+        0.022172434255480766,
+        0.9997138381004333
+      ],
+      "local_position": [
+        -0.2055441290140152,
+        -1.716613724056515e-06,
+        -5.7220457705398076e-08
+      ],
+      "local_scale": [
+        1.000001311302185,
+        0.9999987483024597,
+        0.9999996423721313
+      ],
+      "children": [
+        {
+          "file_id": 0,
+          "path_id": "-4513651018809629697"
+        }
+      ],
+      "parent": {
+        "file_id": 0,
+        "path_id": "3137485308883367548"
+      },
+      "name": "+AmiceB L B14",
+      "path_components": [
+        "Avatar_Male_Sword_KaeyaCostumeDancer_Kanban",
+        "Bip001",
+        "Bip001 Pelvis",
+        "Bip001 Spine",
+        "Bip001 Spine1",
+        "Bip001 Spine2",
+        "+AmiceB L B11",
+        "+AmiceB L B12",
+        "+AmiceB L B13",
+        "+AmiceB L B14"
+      ]
+    },
+    "-2828677228683877558": {
+      "game_object": {
+        "file_id": 0,
+        "path_id": "-8403163236789335164"
+      },
+      "local_rotation_xyzw": [
+        -0.0,
+        -0.0,
+        -0.0,
+        1.0
+      ],
+      "local_position": [
+        0.0,
+        1.899999976158142,
+        0.0
+      ],
+      "local_scale": [
+        1.0,
+        1.0,
+        1.0
+      ],
+      "children": [],
+      "parent": {
+        "file_id": 0,
+        "path_id": "-1179132493587984741"
+      },
+      "name": "BubbleAttachPoint",
+      "path_components": [
+        "Avatar_Male_Sword_KaeyaCostumeDancer_Kanban",
+        "BubbleAttachPoint"
+      ]
+    },
+    "-2720979688412476157": {
+      "game_object": {
+        "file_id": 0,
+        "path_id": "7085372974369193360"
+      },
+      "local_rotation_xyzw": [
+        1.2880784083790786e-07,
+        4.1848973175717674e-09,
+        -0.3382161855697632,
+        0.9410684704780579
+      ],
+      "local_position": [
+        -0.031145870685577393,
+        1.1920936060505483e-07,
+        2.8029443210897398e-09
+      ],
+      "local_scale": [
+        1.0,
+        1.0000001192092896,
+        1.0
+      ],
+      "children": [
+        {
+          "file_id": 0,
+          "path_id": "-1594715289275538373"
+        }
+      ],
+      "parent": {
+        "file_id": 0,
+        "path_id": "5672899438990791010"
+      },
+      "name": "Bip001 L Finger22",
+      "path_components": [
+        "Avatar_Male_Sword_KaeyaCostumeDancer_Kanban",
+        "Bip001",
+        "Bip001 Pelvis",
+        "Bip001 Spine",
+        "Bip001 Spine1",
+        "Bip001 Spine2",
+        "Bip001 L Clavicle",
+        "Bip001 L UpperArm",
+        "Bip001 L Forearm",
+        "Bip001 L Hand",
+        "Bip001 L Finger2",
+        "Bip001 L Finger21",
+        "Bip001 L Finger22"
+      ]
+    },
+    "-2614342014661523084": {
+      "game_object": {
+        "file_id": 0,
+        "path_id": "-7283152902404542830"
+      },
+      "local_rotation_xyzw": [
+        -0.017901770770549774,
+        -0.002671539783477783,
+        0.14757180213928223,
+        0.988885760307312
+      ],
+      "local_position": [
+        -0.2260778397321701,
+        1.6391273049976007e-07,
+        0.0
+      ],
+      "local_scale": [
+        1.000000238418579,
+        1.0,
+        1.0
+      ],
+      "children": [
+        {
+          "file_id": 0,
+          "path_id": "5849290048534608604"
+        },
+        {
+          "file_id": 0,
+          "path_id": "-8670866910970778143"
+        }
+      ],
+      "parent": {
+        "file_id": 0,
+        "path_id": "5261518176734903792"
+      },
+      "name": "Bip001 R Forearm",
+      "path_components": [
+        "Avatar_Male_Sword_KaeyaCostumeDancer_Kanban",
+        "Bip001",
+        "Bip001 Pelvis",
+        "Bip001 Spine",
+        "Bip001 Spine1",
+        "Bip001 Spine2",
+        "Bip001 R Clavicle",
+        "Bip001 R UpperArm",
+        "Bip001 R Forearm"
+      ]
+    },
+    "-2536298816309942329": {
+      "game_object": {
+        "file_id": 0,
+        "path_id": "8759823386626812709"
+      },
+      "local_rotation_xyzw": [
+        1.5572954845154488e-14,
+        -4.435635736454978e-28,
+        1.0,
+        2.8482943136226915e-14
+      ],
+      "local_position": [
+        -0.06869672983884811,
+        0.0,
+        4.76837147544984e-09
+      ],
+      "local_scale": [
+        -1.0,
+        -1.0,
+        -1.0
+      ],
+      "children": [],
+      "parent": {
+        "file_id": 0,
+        "path_id": "-3161925583607766888"
+      },
+      "name": "Bip001 L Toe0Nub",
+      "path_components": [
+        "Avatar_Male_Sword_KaeyaCostumeDancer_Kanban",
+        "Bip001",
+        "Bip001 Pelvis",
+        "Bip001 L Thigh",
+        "Bip001 L Calf",
+        "Bip001 L Foot",
+        "Bip001 L Toe0",
+        "Bip001 L Toe0Nub"
+      ]
+    },
+    "-2475746824057565153": {
+      "game_object": {
+        "file_id": 0,
+        "path_id": "5724231841944457722"
+      },
+      "local_rotation_xyzw": [
+        -0.0,
+        -0.0,
+        -0.0,
+        1.0
+      ],
+      "local_position": [
+        0.09600000083446503,
+        1.5,
+        0.003000000026077032
+      ],
+      "local_scale": [
+        1.0,
+        1.0,
+        1.0
+      ],
+      "children": [],
+      "parent": {
+        "file_id": 0,
+        "path_id": "-1179132493587984741"
+      },
+      "name": "FocusAnchor",
+      "path_components": [
+        "Avatar_Male_Sword_KaeyaCostumeDancer_Kanban",
+        "FocusAnchor"
+      ]
+    },
+    "-2370716365919906006": {
+      "game_object": {
+        "file_id": 0,
+        "path_id": "5418011091982046717"
+      },
+      "local_rotation_xyzw": [
+        0.00983838178217411,
+        0.00599688570946455,
+        -0.20097626745700836,
+        0.9795284271240234
+      ],
+      "local_position": [
+        -0.09045838564634323,
+        -0.0044385208748281,
+        -0.005725575610995293
+      ],
+      "local_scale": [
+        0.9999998211860657,
+        0.9999999403953552,
+        0.9999999403953552
+      ],
+      "children": [
+        {
+          "file_id": 0,
+          "path_id": "5672899438990791010"
+        }
+      ],
+      "parent": {
+        "file_id": 0,
+        "path_id": "4792918373164804675"
+      },
+      "name": "Bip001 L Finger2",
+      "path_components": [
+        "Avatar_Male_Sword_KaeyaCostumeDancer_Kanban",
+        "Bip001",
+        "Bip001 Pelvis",
+        "Bip001 Spine",
+        "Bip001 Spine1",
+        "Bip001 Spine2",
+        "Bip001 L Clavicle",
+        "Bip001 L UpperArm",
+        "Bip001 L Forearm",
+        "Bip001 L Hand",
+        "Bip001 L Finger2"
+      ]
+    },
+    "-2185448345762486725": {
+      "game_object": {
+        "file_id": 0,
+        "path_id": "-1546780497656756459"
+      },
+      "local_rotation_xyzw": [
+        0.7087486386299133,
+        -0.3433639109134674,
+        0.13782581686973572,
+        0.6006501913070679
+      ],
+      "local_position": [
+        -0.022144164890050888,
+        0.010130729526281357,
+        -0.024239368736743927
+      ],
+      "local_scale": [
+        1.0,
+        1.0,
+        1.0
+      ],
+      "children": [
+        {
+          "file_id": 0,
+          "path_id": "5282687593750871872"
+        }
+      ],
+      "parent": {
+        "file_id": 0,
+        "path_id": "4792918373164804675"
+      },
+      "name": "DMZ L 01",
+      "path_components": [
+        "Avatar_Male_Sword_KaeyaCostumeDancer_Kanban",
+        "Bip001",
+        "Bip001 Pelvis",
+        "Bip001 Spine",
+        "Bip001 Spine1",
+        "Bip001 Spine2",
+        "Bip001 L Clavicle",
+        "Bip001 L UpperArm",
+        "Bip001 L Forearm",
+        "Bip001 L Hand",
+        "DMZ L 01"
+      ]
+    },
+    "-1863019779665556425": {
+      "game_object": {
+        "file_id": 0,
+        "path_id": "-5457493306862380620"
+      },
+      "local_rotation_xyzw": [
+        0.09142762422561646,
+        0.9813032150268555,
+        -0.16908413171768188,
+        0.009777811355888844
+      ],
+      "local_position": [
+        -1.1920930376163597e-07,
+        -4.955599308686942e-08,
+        -0.07267644256353378
+      ],
+      "local_scale": [
+        0.9999998807907104,
+        1.0,
+        0.9999998807907104
+      ],
+      "children": [
+        {
+          "file_id": 0,
+          "path_id": "-3737593065289244685"
+        }
+      ],
+      "parent": {
+        "file_id": 0,
+        "path_id": "-4121035320888879255"
+      },
+      "name": "Bip001 R Thigh",
+      "path_components": [
+        "Avatar_Male_Sword_KaeyaCostumeDancer_Kanban",
+        "Bip001",
+        "Bip001 Pelvis",
+        "Bip001 R Thigh"
+      ]
+    },
+    "-1744117628884615253": {
+      "game_object": {
+        "file_id": 0,
+        "path_id": "-5640015340740850961"
+      },
+      "local_rotation_xyzw": [
+        0.0,
+        0.0,
+        0.0,
+        1.0
+      ],
+      "local_position": [
+        0.057999998331069946,
+        -0.0,
+        0.0
+      ],
+      "local_scale": [
+        1.0,
+        1.0,
+        1.0
+      ],
+      "children": [],
+      "parent": {
+        "file_id": 0,
+        "path_id": "-6959342834792192360"
+      },
+      "name": "HitObject8",
+      "path_components": [
+        "Avatar_Male_Sword_KaeyaCostumeDancer_Kanban",
+        "Bip001",
+        "Bip001 Pelvis",
+        "Bip001 L Thigh",
+        "Bip001 L Calf",
+        "HitObject8"
+      ]
+    },
+    "-1594715289275538373": {
+      "game_object": {
+        "file_id": 0,
+        "path_id": "8704852415772236474"
+      },
+      "local_rotation_xyzw": [
+        1.3877787807814457e-17,
+        -4.656612873077393e-10,
+        2.9802322387695312e-08,
+        1.0
+      ],
+      "local_position": [
+        -0.028212012723088264,
+        0.0,
+        0.0
+      ],
+      "local_scale": [
+        1.0,
+        1.0,
+        1.0
+      ],
+      "children": [],
+      "parent": {
+        "file_id": 0,
+        "path_id": "-2720979688412476157"
+      },
+      "name": "Bip001 L Finger2Nub",
+      "path_components": [
+        "Avatar_Male_Sword_KaeyaCostumeDancer_Kanban",
+        "Bip001",
+        "Bip001 Pelvis",
+        "Bip001 Spine",
+        "Bip001 Spine1",
+        "Bip001 Spine2",
+        "Bip001 L Clavicle",
+        "Bip001 L UpperArm",
+        "Bip001 L Forearm",
+        "Bip001 L Hand",
+        "Bip001 L Finger2",
+        "Bip001 L Finger21",
+        "Bip001 L Finger22",
+        "Bip001 L Finger2Nub"
+      ]
+    },
+    "-1567213392422975860": {
+      "game_object": {
+        "file_id": 0,
+        "path_id": "3142227794108289593"
+      },
+      "local_rotation_xyzw": [
+        0.003221564693376422,
+        -0.16843542456626892,
+        0.10441382229328156,
+        0.9801616668701172
+      ],
+      "local_position": [
+        -0.03682906925678253,
+        -9.91821252682712e-07,
+        1.7166136956348055e-07
+      ],
+      "local_scale": [
+        0.9999914169311523,
+        1.0000200271606445,
+        1.0000011920928955
+      ],
+      "children": [],
+      "parent": {
+        "file_id": 0,
+        "path_id": "3875241085342078808"
+      },
+      "name": "+HairS R A02",
+      "path_components": [
+        "Avatar_Male_Sword_KaeyaCostumeDancer_Kanban",
+        "Bip001",
+        "Bip001 Pelvis",
+        "Bip001 Spine",
+        "Bip001 Spine1",
+        "Bip001 Spine2",
+        "Bip001 Neck",
+        "Bip001 Head",
+        "+HairS R A01",
+        "+HairS R A02"
+      ]
+    },
+    "-1526298625528557102": {
+      "game_object": {
+        "file_id": 0,
+        "path_id": "-3963280049371233879"
+      },
+      "local_rotation_xyzw": [
+        -2.6914108275377657e-07,
+        -9.85590808966208e-09,
+        0.4717938303947449,
+        -0.8817089200019836
+      ],
+      "local_position": [
+        -0.0203402079641819,
+        0.0,
+        -9.165667336219485e-09
+      ],
+      "local_scale": [
+        0.9999998807907104,
+        1.0,
+        1.0
+      ],
+      "children": [
+        {
+          "file_id": 0,
+          "path_id": "-7755422598975380934"
+        }
+      ],
+      "parent": {
+        "file_id": 0,
+        "path_id": "987406354024313467"
+      },
+      "name": "Bip001 R Finger42",
+      "path_components": [
+        "Avatar_Male_Sword_KaeyaCostumeDancer_Kanban",
+        "Bip001",
+        "Bip001 Pelvis",
+        "Bip001 Spine",
+        "Bip001 Spine1",
+        "Bip001 Spine2",
+        "Bip001 R Clavicle",
+        "Bip001 R UpperArm",
+        "Bip001 R Forearm",
+        "Bip001 R Hand",
+        "Bip001 R Finger4",
+        "Bip001 R Finger41",
+        "Bip001 R Finger42"
+      ]
+    },
+    "-1184104503491975148": {
+      "game_object": {
+        "file_id": 0,
+        "path_id": "-1704674410449618486"
+      },
+      "local_rotation_xyzw": [
+        0.0,
+        0.0,
+        0.0,
+        1.0
+      ],
+      "local_position": [
+        0.057999998331069946,
+        0.0,
+        0.0
+      ],
+      "local_scale": [
+        1.0,
+        1.0,
+        1.0
+      ],
+      "children": [],
+      "parent": {
+        "file_id": 0,
+        "path_id": "-3737593065289244685"
+      },
+      "name": "HitObject6",
+      "path_components": [
+        "Avatar_Male_Sword_KaeyaCostumeDancer_Kanban",
+        "Bip001",
+        "Bip001 Pelvis",
+        "Bip001 R Thigh",
+        "Bip001 R Calf",
+        "HitObject6"
+      ]
+    },
+    "-1179132493587984741": {
+      "game_object": {
+        "file_id": 0,
+        "path_id": "4633060376891953096"
+      },
+      "local_rotation_xyzw": [
+        -0.0,
+        -0.0,
+        -0.0,
+        1.0
+      ],
+      "local_position": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "local_scale": [
+        1.0,
+        1.0,
+        1.0
+      ],
+      "children": [
+        {
+          "file_id": 0,
+          "path_id": "2958481642635774733"
+        },
+        {
+          "file_id": 0,
+          "path_id": "-3062286883289259850"
+        },
+        {
+          "file_id": 0,
+          "path_id": "5964545309504708435"
+        },
+        {
+          "file_id": 0,
+          "path_id": "8291766068579765300"
+        },
+        {
+          "file_id": 0,
+          "path_id": "1542533129571548221"
+        },
+        {
+          "file_id": 0,
+          "path_id": "4582985296766326538"
+        },
+        {
+          "file_id": 0,
+          "path_id": "3597847304089346568"
+        },
+        {
+          "file_id": 0,
+          "path_id": "4162341875905858940"
+        },
+        {
+          "file_id": 0,
+          "path_id": "2565376790515643330"
+        },
+        {
+          "file_id": 0,
+          "path_id": "-3996068512004045728"
+        },
+        {
+          "file_id": 0,
+          "path_id": "-2475746824057565153"
+        },
+        {
+          "file_id": 0,
+          "path_id": "-2828677228683877558"
+        }
+      ],
+      "parent": {
+        "file_id": 0,
+        "path_id": "0"
+      },
+      "name": "Avatar_Male_Sword_KaeyaCostumeDancer_Kanban",
+      "path_components": [
+        "Avatar_Male_Sword_KaeyaCostumeDancer_Kanban"
+      ]
+    },
+    "-1173473010530319892": {
+      "game_object": {
+        "file_id": 0,
+        "path_id": "5857481155936789847"
+      },
+      "local_rotation_xyzw": [
+        -0.0019569473806768656,
+        -0.0009775172220543027,
+        0.706744909286499,
+        0.7074651718139648
+      ],
+      "local_position": [
+        -0.5,
+        1.0,
+        -1.4999997688391886e-07
+      ],
+      "local_scale": [
+        1.0,
+        1.0,
+        1.0
+      ],
+      "children": [],
+      "parent": {
+        "file_id": 0,
+        "path_id": "4162341875905858940"
+      },
+      "name": "CatalystL",
+      "path_components": [
+        "Avatar_Male_Sword_KaeyaCostumeDancer_Kanban",
+        "Root",
+        "CatalystL"
+      ]
+    },
+    "-1168113475151164883": {
+      "game_object": {
+        "file_id": 0,
+        "path_id": "-6123342242736430494"
+      },
+      "local_rotation_xyzw": [
+        0.009892474859952927,
+        0.0051864380948245525,
+        0.10420560836791992,
+        -0.9944930672645569
+      ],
+      "local_position": [
+        -0.0867219939827919,
+        -0.0014219291042536497,
+        0.027128688991069794
+      ],
+      "local_scale": [
+        1.000000238418579,
+        1.0000001192092896,
+        1.0
+      ],
+      "children": [
+        {
+          "file_id": 0,
+          "path_id": "6372545794480245851"
+        }
+      ],
+      "parent": {
+        "file_id": 0,
+        "path_id": "5849290048534608604"
+      },
+      "name": "Bip001 R Finger1",
+      "path_components": [
+        "Avatar_Male_Sword_KaeyaCostumeDancer_Kanban",
+        "Bip001",
+        "Bip001 Pelvis",
+        "Bip001 Spine",
+        "Bip001 Spine1",
+        "Bip001 Spine2",
+        "Bip001 R Clavicle",
+        "Bip001 R UpperArm",
+        "Bip001 R Forearm",
+        "Bip001 R Hand",
+        "Bip001 R Finger1"
+      ]
+    },
+    "-1060836243081856213": {
+      "game_object": {
+        "file_id": 0,
+        "path_id": "2181906000907981233"
+      },
+      "local_rotation_xyzw": [
+        -0.7678633332252502,
+        -0.34796229004859924,
+        0.18701426684856415,
+        0.5043151378631592
+      ],
+      "local_position": [
+        -0.10927493870258331,
+        -0.009675483219325542,
+        -0.11361480504274368
+      ],
+      "local_scale": [
+        1.000004768371582,
+        1.0000102519989014,
+        1.0000087022781372
+      ],
+      "children": [],
+      "parent": {
+        "file_id": 0,
+        "path_id": "3691802865376209078"
+      },
+      "name": "+CollarS R A01",
+      "path_components": [
+        "Avatar_Male_Sword_KaeyaCostumeDancer_Kanban",
+        "Bip001",
+        "Bip001 Pelvis",
+        "Bip001 Spine",
+        "Bip001 Spine1",
+        "Bip001 Spine2",
+        "Bip001 R Clavicle",
+        "+CollarS R A01"
+      ]
+    },
+    "-1021351061392567678": {
+      "game_object": {
+        "file_id": 0,
+        "path_id": "1843125460876762434"
+      },
+      "local_rotation_xyzw": [
+        0.004114951007068157,
+        0.0008281989139504731,
+        -0.04833351448178291,
+        0.9988225102424622
+      ],
+      "local_position": [
+        -0.08672181516885757,
+        -0.0014219289878383279,
+        -0.027128713205456734
+      ],
+      "local_scale": [
+        1.000000238418579,
+        1.0000001192092896,
+        0.9999999403953552
+      ],
+      "children": [
+        {
+          "file_id": 0,
+          "path_id": "1754501941992020043"
+        }
+      ],
+      "parent": {
+        "file_id": 0,
+        "path_id": "4792918373164804675"
+      },
+      "name": "Bip001 L Finger1",
+      "path_components": [
+        "Avatar_Male_Sword_KaeyaCostumeDancer_Kanban",
+        "Bip001",
+        "Bip001 Pelvis",
+        "Bip001 Spine",
+        "Bip001 Spine1",
+        "Bip001 Spine2",
+        "Bip001 L Clavicle",
+        "Bip001 L UpperArm",
+        "Bip001 L Forearm",
+        "Bip001 L Hand",
+        "Bip001 L Finger1"
+      ]
+    },
+    "-730320316473800129": {
+      "game_object": {
+        "file_id": 0,
+        "path_id": "4251108100442590796"
+      },
+      "local_rotation_xyzw": [
+        0.0,
+        -0.0,
+        -0.0,
+        1.0
+      ],
+      "local_position": [
+        -0.02222118340432644,
+        0.0,
+        -2.8610228852699038e-08
+      ],
+      "local_scale": [
+        0.9999999403953552,
+        0.9999999403953552,
+        0.9999998807907104
+      ],
+      "children": [],
+      "parent": {
+        "file_id": 0,
+        "path_id": "-5413557043372285693"
+      },
+      "name": "Bip001 L Finger4Nub",
+      "path_components": [
+        "Avatar_Male_Sword_KaeyaCostumeDancer_Kanban",
+        "Bip001",
+        "Bip001 Pelvis",
+        "Bip001 Spine",
+        "Bip001 Spine1",
+        "Bip001 Spine2",
+        "Bip001 L Clavicle",
+        "Bip001 L UpperArm",
+        "Bip001 L Forearm",
+        "Bip001 L Hand",
+        "Bip001 L Finger4",
+        "Bip001 L Finger41",
+        "Bip001 L Finger42",
+        "Bip001 L Finger4Nub"
+      ]
+    },
+    "-710602615991358924": {
+      "game_object": {
+        "file_id": 0,
+        "path_id": "2619692039284966155"
+      },
+      "local_rotation_xyzw": [
+        -0.0032420295756310225,
+        0.0027520169969648123,
+        0.021077992394566536,
+        0.9997687935829163
+      ],
+      "local_position": [
+        -0.1034545823931694,
+        0.010462191887199879,
+        1.1175870895385742e-08
+      ],
+      "local_scale": [
+        1.0000001192092896,
+        1.0000001192092896,
+        0.9999999403953552
+      ],
+      "children": [
+        {
+          "file_id": 0,
+          "path_id": "-7173132202988157135"
+        },
+        {
+          "file_id": 0,
+          "path_id": "3655811099167383697"
+        },
+        {
+          "file_id": 0,
+          "path_id": "3875241085342078808"
+        },
+        {
+          "file_id": 0,
+          "path_id": "-2996088346415529931"
+        },
+        {
+          "file_id": 0,
+          "path_id": "5741079162104622896"
+        },
+        {
+          "file_id": 0,
+          "path_id": "2611406286140797446"
+        }
+      ],
+      "parent": {
+        "file_id": 0,
+        "path_id": "8746388705638818526"
+      },
+      "name": "Bip001 Head",
+      "path_components": [
+        "Avatar_Male_Sword_KaeyaCostumeDancer_Kanban",
+        "Bip001",
+        "Bip001 Pelvis",
+        "Bip001 Spine",
+        "Bip001 Spine1",
+        "Bip001 Spine2",
+        "Bip001 Neck",
+        "Bip001 Head"
+      ]
+    },
+    "-683114280303683806": {
+      "game_object": {
+        "file_id": 0,
+        "path_id": "-3476593635433187823"
+      },
+      "local_rotation_xyzw": [
+        0.0,
+        -0.0,
+        1.0,
+        6.123234262925839e-17
+      ],
+      "local_position": [
+        -0.025044478476047516,
+        7.629394360719743e-08,
+        0.0
+      ],
+      "local_scale": [
+        -1.0,
+        -1.0,
+        -1.0
+      ],
+      "children": [],
+      "parent": {
+        "file_id": 0,
+        "path_id": "4421989792111562817"
+      },
+      "name": "Bip001 R Finger3Nub",
+      "path_components": [
+        "Avatar_Male_Sword_KaeyaCostumeDancer_Kanban",
+        "Bip001",
+        "Bip001 Pelvis",
+        "Bip001 Spine",
+        "Bip001 Spine1",
+        "Bip001 Spine2",
+        "Bip001 R Clavicle",
+        "Bip001 R UpperArm",
+        "Bip001 R Forearm",
+        "Bip001 R Hand",
+        "Bip001 R Finger3",
+        "Bip001 R Finger31",
+        "Bip001 R Finger32",
+        "Bip001 R Finger3Nub"
+      ]
+    },
+    "-394919537143381651": {
+      "game_object": {
+        "file_id": 0,
+        "path_id": "4470846379528184373"
+      },
+      "local_rotation_xyzw": [
+        -1.5118774854272488e-06,
+        3.7822310332558118e-06,
+        0.022490283474326134,
+        0.999747097492218
+      ],
+      "local_position": [
+        -0.13492706418037415,
+        -3.585815420592553e-06,
+        4.768371297814156e-08
+      ],
+      "local_scale": [
+        1.0000007152557373,
+        1.0000038146972656,
+        1.0000017881393433
+      ],
+      "children": [
+        {
+          "file_id": 0,
+          "path_id": "-9199988602588918904"
+        }
+      ],
+      "parent": {
+        "file_id": 0,
+        "path_id": "-8121613130560395963"
+      },
+      "name": "+AmiceF R B02",
+      "path_components": [
+        "Avatar_Male_Sword_KaeyaCostumeDancer_Kanban",
+        "Bip001",
+        "Bip001 Pelvis",
+        "Bip001 Spine",
+        "Bip001 Spine1",
+        "Bip001 Spine2",
+        "+AmiceF R B01",
+        "+AmiceF R B02"
+      ]
+    },
+    "122775704184976082": {
+      "game_object": {
+        "file_id": 0,
+        "path_id": "-201150571268395132"
+      },
+      "local_rotation_xyzw": [
+        0.17460595071315765,
+        0.6638713479042053,
+        -0.014428026974201202,
+        0.7270346879959106
+      ],
+      "local_position": [
+        -0.5099999904632568,
+        -0.24899999797344208,
+        -0.21299999952316284
+      ],
+      "local_scale": [
+        1.0,
+        1.1382020711898804,
+        1.0
+      ],
+      "children": [],
+      "parent": {
+        "file_id": 0,
+        "path_id": "5782375033098683180"
+      },
+      "name": "PRIVATE_WeaponRootSword",
+      "path_components": [
+        "Avatar_Male_Sword_KaeyaCostumeDancer_Kanban",
+        "Bip001",
+        "Bip001 Pelvis",
+        "Bip001 Spine",
+        "Bip001 Spine1",
+        "PRIVATE_WeaponRootSword"
+      ]
+    },
+    "152700499781251172": {
+      "game_object": {
+        "file_id": 0,
+        "path_id": "-5003481182095791999"
+      },
+      "local_rotation_xyzw": [
+        -2.809612169585307e-07,
+        -8.966599907012096e-09,
+        0.4861922264099121,
+        -0.8738518953323364
+      ],
+      "local_position": [
+        -0.03855343163013458,
+        0.0,
+        9.093715114261158e-09
+      ],
+      "local_scale": [
+        0.9999999403953552,
+        0.9999999403953552,
+        1.0
+      ],
+      "children": [
+        {
+          "file_id": 0,
+          "path_id": "4421989792111562817"
+        }
+      ],
+      "parent": {
+        "file_id": 0,
+        "path_id": "4087291621995186020"
+      },
+      "name": "Bip001 R Finger31",
+      "path_components": [
+        "Avatar_Male_Sword_KaeyaCostumeDancer_Kanban",
+        "Bip001",
+        "Bip001 Pelvis",
+        "Bip001 Spine",
+        "Bip001 Spine1",
+        "Bip001 Spine2",
+        "Bip001 R Clavicle",
+        "Bip001 R UpperArm",
+        "Bip001 R Forearm",
+        "Bip001 R Hand",
+        "Bip001 R Finger3",
+        "Bip001 R Finger31"
+      ]
+    },
+    "234505996655728355": {
+      "game_object": {
+        "file_id": 0,
+        "path_id": "2312393160952328872"
+      },
+      "local_rotation_xyzw": [
+        1.2468930776776688e-07,
+        1.9733947809186247e-08,
+        -0.44100356101989746,
+        0.8975053429603577
+      ],
+      "local_position": [
+        -0.031168993562459946,
+        0.0,
+        -1.862716203504533e-08
+      ],
+      "local_scale": [
+        1.0000001192092896,
+        1.0,
+        0.9999999403953552
+      ],
+      "children": [
+        {
+          "file_id": 0,
+          "path_id": "-5413557043372285693"
+        }
+      ],
+      "parent": {
+        "file_id": 0,
+        "path_id": "3416374428992066582"
+      },
+      "name": "Bip001 L Finger41",
+      "path_components": [
+        "Avatar_Male_Sword_KaeyaCostumeDancer_Kanban",
+        "Bip001",
+        "Bip001 Pelvis",
+        "Bip001 Spine",
+        "Bip001 Spine1",
+        "Bip001 Spine2",
+        "Bip001 L Clavicle",
+        "Bip001 L UpperArm",
+        "Bip001 L Forearm",
+        "Bip001 L Hand",
+        "Bip001 L Finger4",
+        "Bip001 L Finger41"
+      ]
+    },
+    "552167184242854037": {
+      "game_object": {
+        "file_id": 0,
+        "path_id": "2683686216106610486"
+      },
+      "local_rotation_xyzw": [
+        0.0,
+        0.0,
+        0.0,
+        1.0
+      ],
+      "local_position": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "local_scale": [
+        1.0,
+        1.0,
+        1.0
+      ],
+      "children": [],
+      "parent": {
+        "file_id": 0,
+        "path_id": "4616331154217304584"
+      },
+      "name": "HitObject1",
+      "path_components": [
+        "Avatar_Male_Sword_KaeyaCostumeDancer_Kanban",
+        "Bip001",
+        "Bip001 Pelvis",
+        "Bip001 Spine",
+        "Bip001 Spine1",
+        "Bip001 Spine2",
+        "Bip001 L Clavicle",
+        "Bip001 L UpperArm",
+        "Bip001 L Forearm",
+        "HitObject1"
+      ]
+    },
+    "553032455123377504": {
+      "game_object": {
+        "file_id": 0,
+        "path_id": "1034188140379256044"
+      },
+      "local_rotation_xyzw": [
+        0.055522479116916656,
+        0.9781569838523865,
+        0.14774155616760254,
+        0.13527224957942963
+      ],
+      "local_position": [
+        1.1920930376163597e-07,
+        1.4641354084687919e-07,
+        0.07267644256353378
+      ],
+      "local_scale": [
+        1.0,
+        1.0,
+        1.0
+      ],
+      "children": [
+        {
+          "file_id": 0,
+          "path_id": "-6959342834792192360"
+        }
+      ],
+      "parent": {
+        "file_id": 0,
+        "path_id": "-4121035320888879255"
+      },
+      "name": "Bip001 L Thigh",
+      "path_components": [
+        "Avatar_Male_Sword_KaeyaCostumeDancer_Kanban",
+        "Bip001",
+        "Bip001 Pelvis",
+        "Bip001 L Thigh"
+      ]
+    },
+    "819363303011661118": {
+      "game_object": {
+        "file_id": 0,
+        "path_id": "-7667165671151717020"
+      },
+      "local_rotation_xyzw": [
+        -2.145723328794702e-06,
+        7.154234822337457e-07,
+        -7.973574247444049e-05,
+        1.0
+      ],
+      "local_position": [
+        -0.06796790659427643,
+        -4.577636616431846e-07,
+        8.583068478174027e-08
+      ],
+      "local_scale": [
+        1.0000046491622925,
+        1.0000078678131104,
+        1.0
+      ],
+      "children": [],
+      "parent": {
+        "file_id": 0,
+        "path_id": "4333026569144527954"
+      },
+      "name": "+AmiceS R A12",
+      "path_components": [
+        "Avatar_Male_Sword_KaeyaCostumeDancer_Kanban",
+        "Bip001",
+        "Bip001 Pelvis",
+        "Bip001 Spine",
+        "Bip001 Spine1",
+        "Bip001 Spine2",
+        "+AmiceS R A11",
+        "+AmiceS R A12"
+      ]
+    },
+    "987406354024313467": {
+      "game_object": {
+        "file_id": 0,
+        "path_id": "-3183994150632919227"
+      },
+      "local_rotation_xyzw": [
+        -2.6752479698188836e-07,
+        -9.620278795807735e-09,
+        0.4681168794631958,
+        -0.8836666345596313
+      ],
+      "local_position": [
+        -0.031169183552265167,
+        0.0,
+        -1.044078246081881e-08
+      ],
+      "local_scale": [
+        1.0000001192092896,
+        1.0,
+        1.0000001192092896
+      ],
+      "children": [
+        {
+          "file_id": 0,
+          "path_id": "-1526298625528557102"
+        }
+      ],
+      "parent": {
+        "file_id": 0,
+        "path_id": "9163499151873170541"
+      },
+      "name": "Bip001 R Finger41",
+      "path_components": [
+        "Avatar_Male_Sword_KaeyaCostumeDancer_Kanban",
+        "Bip001",
+        "Bip001 Pelvis",
+        "Bip001 Spine",
+        "Bip001 Spine1",
+        "Bip001 Spine2",
+        "Bip001 R Clavicle",
+        "Bip001 R UpperArm",
+        "Bip001 R Forearm",
+        "Bip001 R Hand",
+        "Bip001 R Finger4",
+        "Bip001 R Finger41"
+      ]
+    },
+    "1078767815827299317": {
+      "game_object": {
+        "file_id": 0,
+        "path_id": "-5574743891697881307"
+      },
+      "local_rotation_xyzw": [
+        -0.00015584683569613844,
+        -0.00835425965487957,
+        0.05890563875436783,
+        0.9982286095619202
+      ],
+      "local_position": [
+        -0.03327842801809311,
+        -4.768371297814156e-08,
+        -3.814697180359872e-08
+      ],
+      "local_scale": [
+        1.0,
+        1.0,
+        1.0
+      ],
+      "children": [
+        {
+          "file_id": 0,
+          "path_id": "8422936019587075148"
+        }
+      ],
+      "parent": {
+        "file_id": 0,
+        "path_id": "5282687593750871872"
+      },
+      "name": "DMZ L 03",
+      "path_components": [
+        "Avatar_Male_Sword_KaeyaCostumeDancer_Kanban",
+        "Bip001",
+        "Bip001 Pelvis",
+        "Bip001 Spine",
+        "Bip001 Spine1",
+        "Bip001 Spine2",
+        "Bip001 L Clavicle",
+        "Bip001 L UpperArm",
+        "Bip001 L Forearm",
+        "Bip001 L Hand",
+        "DMZ L 01",
+        "DMZ L 02",
+        "DMZ L 03"
+      ]
+    },
+    "1542533129571548221": {
+      "game_object": {
+        "file_id": 0,
+        "path_id": "-4539666390541823525"
+      },
+      "local_rotation_xyzw": [
+        2.1855694143368964e-08,
+        0.0,
+        -0.0,
+        1.0
+      ],
+      "local_position": [
+        -0.0,
+        0.0,
+        0.0
+      ],
+      "local_scale": [
+        1.0,
+        1.0,
+        1.0
+      ],
+      "children": [],
+      "parent": {
+        "file_id": 0,
+        "path_id": "-1179132493587984741"
+      },
+      "name": "EyeStar",
+      "path_components": [
+        "Avatar_Male_Sword_KaeyaCostumeDancer_Kanban",
+        "EyeStar"
+      ]
+    },
+    "1754501941992020043": {
+      "game_object": {
+        "file_id": 0,
+        "path_id": "3260548098851098030"
+      },
+      "local_rotation_xyzw": [
+        8.364972359231615e-08,
+        3.0336746448256235e-08,
+        -0.4197053909301758,
+        0.9076604247093201
+      ],
+      "local_position": [
+        -0.03756849467754364,
+        -1.1920931797249068e-07,
+        -8.265807593943464e-09
+      ],
+      "local_scale": [
+        0.9999999403953552,
+        1.0,
+        1.0
+      ],
+      "children": [
+        {
+          "file_id": 0,
+          "path_id": "4031398686336029890"
+        }
+      ],
+      "parent": {
+        "file_id": 0,
+        "path_id": "-1021351061392567678"
+      },
+      "name": "Bip001 L Finger11",
+      "path_components": [
+        "Avatar_Male_Sword_KaeyaCostumeDancer_Kanban",
+        "Bip001",
+        "Bip001 Pelvis",
+        "Bip001 Spine",
+        "Bip001 Spine1",
+        "Bip001 Spine2",
+        "Bip001 L Clavicle",
+        "Bip001 L UpperArm",
+        "Bip001 L Forearm",
+        "Bip001 L Hand",
+        "Bip001 L Finger1",
+        "Bip001 L Finger11"
+      ]
+    },
+    "1959752994422947683": {
+      "game_object": {
+        "file_id": 0,
+        "path_id": "7556324478298566113"
+      },
+      "local_rotation_xyzw": [
+        -2.0017812119021983e-07,
+        -4.680265508483217e-09,
+        0.33823224902153015,
+        -0.9410627484321594
+      ],
+      "local_position": [
+        -0.031145881861448288,
+        1.1920936060505483e-07,
+        -2.0441088821598896e-09
+      ],
+      "local_scale": [
+        0.9999999403953552,
+        1.0,
+        1.0000001192092896
+      ],
+      "children": [
+        {
+          "file_id": 0,
+          "path_id": "4785190342843364382"
+        }
+      ],
+      "parent": {
+        "file_id": 0,
+        "path_id": "5263194361333402254"
+      },
+      "name": "Bip001 R Finger22",
+      "path_components": [
+        "Avatar_Male_Sword_KaeyaCostumeDancer_Kanban",
+        "Bip001",
+        "Bip001 Pelvis",
+        "Bip001 Spine",
+        "Bip001 Spine1",
+        "Bip001 Spine2",
+        "Bip001 R Clavicle",
+        "Bip001 R UpperArm",
+        "Bip001 R Forearm",
+        "Bip001 R Hand",
+        "Bip001 R Finger2",
+        "Bip001 R Finger21",
+        "Bip001 R Finger22"
+      ]
+    },
+    "1986741195799458062": {
+      "game_object": {
+        "file_id": 0,
+        "path_id": "-407422078808768387"
+      },
+      "local_rotation_xyzw": [
+        0.00015782774426043034,
+        0.008354227058589458,
+        0.058938756585121155,
+        0.9982266426086426
+      ],
+      "local_position": [
+        -0.03327842801809311,
+        -9.53674295089968e-09,
+        2.8610228852699038e-08
+      ],
+      "local_scale": [
+        1.0,
+        1.0,
+        1.0
+      ],
+      "children": [
+        {
+          "file_id": 0,
+          "path_id": "5775039874353247305"
+        }
+      ],
+      "parent": {
+        "file_id": 0,
+        "path_id": "-3468892312782523528"
+      },
+      "name": "DMZ R 03",
+      "path_components": [
+        "Avatar_Male_Sword_KaeyaCostumeDancer_Kanban",
+        "Bip001",
+        "Bip001 Pelvis",
+        "Bip001 Spine",
+        "Bip001 Spine1",
+        "Bip001 Spine2",
+        "Bip001 R Clavicle",
+        "Bip001 R UpperArm",
+        "Bip001 R Forearm",
+        "Bip001 R Hand",
+        "DMZ R 01",
+        "DMZ R 02",
+        "DMZ R 03"
+      ]
+    },
+    "2270866928648157845": {
+      "game_object": {
+        "file_id": 0,
+        "path_id": "-402647602917734610"
+      },
+      "local_rotation_xyzw": [
+        -0.014682215638458729,
+        -0.014136670157313347,
+        -0.26103341579437256,
+        0.9651145935058594
+      ],
+      "local_position": [
+        -0.08702421188354492,
+        -0.0027486097533255816,
+        0.017060184851288795
+      ],
+      "local_scale": [
+        0.9999998807907104,
+        1.0,
+        1.0000001192092896
+      ],
+      "children": [
+        {
+          "file_id": 0,
+          "path_id": "2304328298029366160"
+        }
+      ],
+      "parent": {
+        "file_id": 0,
+        "path_id": "4792918373164804675"
+      },
+      "name": "Bip001 L Finger3",
+      "path_components": [
+        "Avatar_Male_Sword_KaeyaCostumeDancer_Kanban",
+        "Bip001",
+        "Bip001 Pelvis",
+        "Bip001 Spine",
+        "Bip001 Spine1",
+        "Bip001 Spine2",
+        "Bip001 L Clavicle",
+        "Bip001 L UpperArm",
+        "Bip001 L Forearm",
+        "Bip001 L Hand",
+        "Bip001 L Finger3"
+      ]
+    },
+    "2304328298029366160": {
+      "game_object": {
+        "file_id": 0,
+        "path_id": "-8479071565357158322"
+      },
+      "local_rotation_xyzw": [
+        1.273143510616137e-07,
+        2.5101954292949813e-08,
+        -0.4861624240875244,
+        0.873868465423584
+      ],
+      "local_position": [
+        -0.03855341672897339,
+        0.0,
+        -2.9592686634494214e-10
+      ],
+      "local_scale": [
+        1.0,
+        0.9999998807907104,
+        1.0
+      ],
+      "children": [
+        {
+          "file_id": 0,
+          "path_id": "3756780092453750275"
+        }
+      ],
+      "parent": {
+        "file_id": 0,
+        "path_id": "2270866928648157845"
+      },
+      "name": "Bip001 L Finger31",
+      "path_components": [
+        "Avatar_Male_Sword_KaeyaCostumeDancer_Kanban",
+        "Bip001",
+        "Bip001 Pelvis",
+        "Bip001 Spine",
+        "Bip001 Spine1",
+        "Bip001 Spine2",
+        "Bip001 L Clavicle",
+        "Bip001 L UpperArm",
+        "Bip001 L Forearm",
+        "Bip001 L Hand",
+        "Bip001 L Finger3",
+        "Bip001 L Finger31"
+      ]
+    },
+    "2486541071177033570": {
+      "game_object": {
+        "file_id": 0,
+        "path_id": "9181246785760086993"
+      },
+      "local_rotation_xyzw": [
+        -0.0006391225033439696,
+        0.0006345251458697021,
+        0.012240744195878506,
+        0.9999247193336487
+      ],
+      "local_position": [
+        -0.1920304000377655,
+        4.38690176451928e-06,
+        2.47955313170678e-07
+      ],
+      "local_scale": [
+        0.9999985694885254,
+        1.0000015497207642,
+        1.000000238418579
+      ],
+      "children": [
+        {
+          "file_id": 0,
+          "path_id": "6476663331257313789"
+        }
+      ],
+      "parent": {
+        "file_id": 0,
+        "path_id": "5093036845173260654"
+      },
+      "name": "+AmiceB L B03",
+      "path_components": [
+        "Avatar_Male_Sword_KaeyaCostumeDancer_Kanban",
+        "Bip001",
+        "Bip001 Pelvis",
+        "Bip001 Spine",
+        "Bip001 Spine1",
+        "Bip001 Spine2",
+        "Bip001 L Clavicle",
+        "+AmiceB L B01",
+        "+AmiceB L B02",
+        "+AmiceB L B03"
+      ]
+    },
+    "2565376790515643330": {
+      "game_object": {
+        "file_id": 0,
+        "path_id": "938638203452816988"
+      },
+      "local_rotation_xyzw": [
+        -0.0,
+        -0.0,
+        -0.0,
+        1.0
+      ],
+      "local_position": [
+        0.0,
+        0.800000011920929,
+        0.0
+      ],
+      "local_scale": [
+        1.0,
+        1.0,
+        1.0
+      ],
+      "children": [],
+      "parent": {
+        "file_id": 0,
+        "path_id": "-1179132493587984741"
+      },
+      "name": "AttackCollider",
+      "path_components": [
+        "Avatar_Male_Sword_KaeyaCostumeDancer_Kanban",
+        "AttackCollider"
+      ]
+    },
+    "2582359698719180392": {
+      "game_object": {
+        "file_id": 0,
+        "path_id": "-6373988451755922280"
+      },
+      "local_rotation_xyzw": [
+        0.0,
+        0.0,
+        0.0,
+        1.0
+      ],
+      "local_position": [
+        -0.2540000081062317,
+        0.0,
+        0.0
+      ],
+      "local_scale": [
+        1.0,
+        1.0,
+        1.0
+      ],
+      "children": [],
+      "parent": {
+        "file_id": 0,
+        "path_id": "-6959342834792192360"
+      },
+      "name": "HitObject9",
+      "path_components": [
+        "Avatar_Male_Sword_KaeyaCostumeDancer_Kanban",
+        "Bip001",
+        "Bip001 Pelvis",
+        "Bip001 L Thigh",
+        "Bip001 L Calf",
+        "HitObject9"
+      ]
+    },
+    "2611406286140797446": {
+      "game_object": {
+        "file_id": 0,
+        "path_id": "5338968349018583269"
+      },
+      "local_rotation_xyzw": [
+        4.718467336414702e-15,
+        0.0,
+        -0.0,
+        1.0
+      ],
+      "local_position": [
+        -0.22669540345668793,
+        0.0,
+        0.0
+      ],
+      "local_scale": [
+        1.0,
+        0.9999999403953552,
+        0.9999999403953552
+      ],
+      "children": [],
+      "parent": {
+        "file_id": 0,
+        "path_id": "-710602615991358924"
+      },
+      "name": "Bip001 HeadNub",
+      "path_components": [
+        "Avatar_Male_Sword_KaeyaCostumeDancer_Kanban",
+        "Bip001",
+        "Bip001 Pelvis",
+        "Bip001 Spine",
+        "Bip001 Spine1",
+        "Bip001 Spine2",
+        "Bip001 Neck",
+        "Bip001 Head",
+        "Bip001 HeadNub"
+      ]
+    },
+    "2774441574153422664": {
+      "game_object": {
+        "file_id": 0,
+        "path_id": "4224137802906202102"
+      },
+      "local_rotation_xyzw": [
+        -0.9997559785842896,
+        -0.020512057468295097,
+        0.00810623075813055,
+        0.0012360208202153444
+      ],
+      "local_position": [
+        -0.1111174002289772,
+        0.004172801971435547,
+        -0.0016514586750417948
+      ],
+      "local_scale": [
+        1.0,
+        1.0,
+        1.0
+      ],
+      "children": [],
+      "parent": {
+        "file_id": 0,
+        "path_id": "5261518176734903792"
+      },
+      "name": "+UpperArmTwist R A02",
+      "path_components": [
+        "Avatar_Male_Sword_KaeyaCostumeDancer_Kanban",
+        "Bip001",
+        "Bip001 Pelvis",
+        "Bip001 Spine",
+        "Bip001 Spine1",
+        "Bip001 Spine2",
+        "Bip001 R Clavicle",
+        "Bip001 R UpperArm",
+        "+UpperArmTwist R A02"
+      ]
+    },
+    "2953068091880397439": {
+      "game_object": {
+        "file_id": 0,
+        "path_id": "1816968297390779925"
+      },
+      "local_rotation_xyzw": [
+        0.25981757044792175,
+        -0.5432279109954834,
+        0.07829520851373672,
+        0.7945238947868347
+      ],
+      "local_position": [
+        -0.14202088117599487,
+        -6.51925802230835e-08,
+        7.152557373046875e-07
+      ],
+      "local_scale": [
+        1.0,
+        1.0000001192092896,
+        1.0
+      ],
+      "children": [
+        {
+          "file_id": 0,
+          "path_id": "8567479288111214110"
+        },
+        {
+          "file_id": 0,
+          "path_id": "7293698030701236484"
+        },
+        {
+          "file_id": 0,
+          "path_id": "4616331154217304584"
+        }
+      ],
+      "parent": {
+        "file_id": 0,
+        "path_id": "7390949353485782593"
+      },
+      "name": "Bip001 L UpperArm",
+      "path_components": [
+        "Avatar_Male_Sword_KaeyaCostumeDancer_Kanban",
+        "Bip001",
+        "Bip001 Pelvis",
+        "Bip001 Spine",
+        "Bip001 Spine1",
+        "Bip001 Spine2",
+        "Bip001 L Clavicle",
+        "Bip001 L UpperArm"
+      ]
+    },
+    "2958481642635774733": {
+      "game_object": {
+        "file_id": 0,
+        "path_id": "-8978315702265959292"
+      },
+      "local_rotation_xyzw": [
+        -0.5019134283065796,
+        0.552687406539917,
+        0.5326477885246277,
+        0.39863014221191406
+      ],
+      "local_position": [
+        0.019992157816886902,
+        1.0430678129196167,
+        -3.417208790779114e-05
+      ],
+      "local_scale": [
+        0.9999999403953552,
+        0.9999999403953552,
+        1.0
+      ],
+      "children": [
+        {
+          "file_id": 0,
+          "path_id": "8125831165923973683"
+        },
+        {
+          "file_id": 0,
+          "path_id": "6427141473965969379"
+        },
+        {
+          "file_id": 0,
+          "path_id": "-4121035320888879255"
+        }
+      ],
+      "parent": {
+        "file_id": 0,
+        "path_id": "-1179132493587984741"
+      },
+      "name": "Bip001",
+      "path_components": [
+        "Avatar_Male_Sword_KaeyaCostumeDancer_Kanban",
+        "Bip001"
+      ]
+    },
+    "3137485308883367548": {
+      "game_object": {
+        "file_id": 0,
+        "path_id": "-8452985143037819561"
+      },
+      "local_rotation_xyzw": [
+        -0.0005261010956019163,
+        0.0012027391931042075,
+        0.021532567217946053,
+        0.9997673034667969
+      ],
+      "local_position": [
+        -0.19459876418113708,
+        1.5640258652638295e-06,
+        1.4305113893442467e-07
+      ],
+      "local_scale": [
+        0.9999980330467224,
+        1.0000019073486328,
+        1.0
+      ],
+      "children": [
+        {
+          "file_id": 0,
+          "path_id": "-2936957726015249088"
+        }
+      ],
+      "parent": {
+        "file_id": 0,
+        "path_id": "6138815176021582443"
+      },
+      "name": "+AmiceB L B13",
+      "path_components": [
+        "Avatar_Male_Sword_KaeyaCostumeDancer_Kanban",
+        "Bip001",
+        "Bip001 Pelvis",
+        "Bip001 Spine",
+        "Bip001 Spine1",
+        "Bip001 Spine2",
+        "+AmiceB L B11",
+        "+AmiceB L B12",
+        "+AmiceB L B13"
+      ]
+    },
+    "3187596552846109842": {
+      "game_object": {
+        "file_id": 0,
+        "path_id": "-6825979724884221625"
+      },
+      "local_rotation_xyzw": [
+        0.0,
+        0.0,
+        0.0,
+        1.0
+      ],
+      "local_position": [
+        -0.11129999905824661,
+        0.030400000512599945,
+        -0.004999999888241291
+      ],
+      "local_scale": [
+        1.0,
+        1.0,
+        1.0
+      ],
+      "children": [],
+      "parent": {
+        "file_id": 0,
+        "path_id": "7371043497204618129"
+      },
+      "name": "PRIVATE_Pendant",
+      "path_components": [
+        "Avatar_Male_Sword_KaeyaCostumeDancer_Kanban",
+        "Bip001",
+        "Bip001 Pelvis",
+        "Bip001 Spine",
+        "Bip001 Spine1",
+        "Bip001 Spine2",
+        "Bip001 R Clavicle",
+        "+AmiceS R B11",
+        "PRIVATE_Pendant"
+      ]
+    },
+    "3257411440212513065": {
+      "game_object": {
+        "file_id": 0,
+        "path_id": "-6628332095558584203"
+      },
+      "local_rotation_xyzw": [
+        1.1804257837866317e-07,
+        -1.5627606444468256e-06,
+        -1.5571723679386196e-06,
+        1.0
+      ],
+      "local_position": [
+        -0.0786338821053505,
+        1.182556161438697e-06,
+        2.1457671550706436e-07
+      ],
+      "local_scale": [
+        0.9999992251396179,
+        1.0000009536743164,
+        0.9999997615814209
+      ],
+      "children": [],
+      "parent": {
+        "file_id": 0,
+        "path_id": "4185667835552824989"
+      },
+      "name": "+AmiceS R C03",
+      "path_components": [
+        "Avatar_Male_Sword_KaeyaCostumeDancer_Kanban",
+        "Bip001",
+        "Bip001 Pelvis",
+        "Bip001 Spine",
+        "Bip001 Spine1",
+        "Bip001 Spine2",
+        "+AmiceS R C01",
+        "+AmiceS R C02",
+        "+AmiceS R C03"
+      ]
+    },
+    "3416374428992066582": {
+      "game_object": {
+        "file_id": 0,
+        "path_id": "3400393340770756494"
+      },
+      "local_rotation_xyzw": [
+        -0.017458003014326096,
+        0.014598739333450794,
+        -0.2729717195034027,
+        0.9617528915405273
+      ],
+      "local_position": [
+        -0.07856143265962601,
+        0.0013017660239711404,
+        0.03458051383495331
+      ],
+      "local_scale": [
+        1.0,
+        0.9999998807907104,
+        1.0000001192092896
+      ],
+      "children": [
+        {
+          "file_id": 0,
+          "path_id": "234505996655728355"
+        }
+      ],
+      "parent": {
+        "file_id": 0,
+        "path_id": "4792918373164804675"
+      },
+      "name": "Bip001 L Finger4",
+      "path_components": [
+        "Avatar_Male_Sword_KaeyaCostumeDancer_Kanban",
+        "Bip001",
+        "Bip001 Pelvis",
+        "Bip001 Spine",
+        "Bip001 Spine1",
+        "Bip001 Spine2",
+        "Bip001 L Clavicle",
+        "Bip001 L UpperArm",
+        "Bip001 L Forearm",
+        "Bip001 L Hand",
+        "Bip001 L Finger4"
+      ]
+    },
+    "3454085249677437084": {
+      "game_object": {
+        "file_id": 0,
+        "path_id": "-2242963688573782669"
+      },
+      "local_rotation_xyzw": [
+        0.02152641862630844,
+        0.022482896223664284,
+        -0.004887585528194904,
+        0.9995035529136658
+      ],
+      "local_position": [
+        -0.04022026062011719,
+        0.00032371521228924394,
+        0.0017502307891845703
+      ],
+      "local_scale": [
+        1.0,
+        1.0000001192092896,
+        1.0
+      ],
+      "children": [],
+      "parent": {
+        "file_id": 0,
+        "path_id": "5849290048534608604"
+      },
+      "name": "WeaponR",
+      "path_components": [
+        "Avatar_Male_Sword_KaeyaCostumeDancer_Kanban",
+        "Bip001",
+        "Bip001 Pelvis",
+        "Bip001 Spine",
+        "Bip001 Spine1",
+        "Bip001 Spine2",
+        "Bip001 R Clavicle",
+        "Bip001 R UpperArm",
+        "Bip001 R Forearm",
+        "Bip001 R Hand",
+        "WeaponR"
+      ]
+    },
+    "3597847304089346568": {
+      "game_object": {
+        "file_id": 0,
+        "path_id": "-5947039904894667558"
+      },
+      "local_rotation_xyzw": [
+        2.1855694143368964e-08,
+        0.0,
+        -0.0,
+        1.0
+      ],
+      "local_position": [
+        -0.0,
+        0.0,
+        0.0
+      ],
+      "local_scale": [
+        1.0,
+        1.0,
+        1.0
+      ],
+      "children": [],
+      "parent": {
+        "file_id": 0,
+        "path_id": "-1179132493587984741"
+      },
+      "name": "Face_Eye",
+      "path_components": [
+        "Avatar_Male_Sword_KaeyaCostumeDancer_Kanban",
+        "Face_Eye"
+      ]
+    },
+    "3613341805825202144": {
+      "game_object": {
+        "file_id": 0,
+        "path_id": "-6102210274086543731"
+      },
+      "local_rotation_xyzw": [
+        -0.7109384536743164,
+        -0.36961856484413147,
+        0.23479236662387848,
+        0.550291895866394
+      ],
+      "local_position": [
+        -0.1367695927619934,
+        -0.06201915442943573,
+        -0.0449400320649147
+      ],
+      "local_scale": [
+        0.9999985098838806,
+        1.00001859664917,
+        1.0000038146972656
+      ],
+      "children": [],
+      "parent": {
+        "file_id": 0,
+        "path_id": "3691802865376209078"
+      },
+      "name": "+CollarS R B01",
+      "path_components": [
+        "Avatar_Male_Sword_KaeyaCostumeDancer_Kanban",
+        "Bip001",
+        "Bip001 Pelvis",
+        "Bip001 Spine",
+        "Bip001 Spine1",
+        "Bip001 Spine2",
+        "Bip001 R Clavicle",
+        "+CollarS R B01"
+      ]
+    },
+    "3655811099167383697": {
+      "game_object": {
+        "file_id": 0,
+        "path_id": "8386124176251506620"
+      },
+      "local_rotation_xyzw": [
+        0.6956004500389099,
+        -0.695574939250946,
+        0.12710656225681305,
+        0.12712028622627258
+      ],
+      "local_position": [
+        -0.06896468997001648,
+        0.03794931620359421,
+        -0.01986939087510109
+      ],
+      "local_scale": [
+        0.9999836683273315,
+        1.0000054836273193,
+        0.9999834299087524
+      ],
+      "children": [
+        {
+          "file_id": 0,
+          "path_id": "-3951202848037201851"
+        }
+      ],
+      "parent": {
+        "file_id": 0,
+        "path_id": "-710602615991358924"
+      },
+      "name": "+EyeBone R A01",
+      "path_components": [
+        "Avatar_Male_Sword_KaeyaCostumeDancer_Kanban",
+        "Bip001",
+        "Bip001 Pelvis",
+        "Bip001 Spine",
+        "Bip001 Spine1",
+        "Bip001 Spine2",
+        "Bip001 Neck",
+        "Bip001 Head",
+        "+EyeBone R A01"
+      ]
+    },
+    "3691802865376209078": {
+      "game_object": {
+        "file_id": 0,
+        "path_id": "7679951432703823676"
+      },
+      "local_rotation_xyzw": [
+        0.6042069792747498,
+        0.05788874626159668,
+        0.792610764503479,
+        0.05788874998688698
+      ],
+      "local_position": [
+        -0.1580663025379181,
+        -0.019765764474868774,
+        -0.02754489704966545
+      ],
+      "local_scale": [
+        1.0000001192092896,
+        0.9999999403953552,
+        1.0
+      ],
+      "children": [
+        {
+          "file_id": 0,
+          "path_id": "7371043497204618129"
+        },
+        {
+          "file_id": 0,
+          "path_id": "-1060836243081856213"
+        },
+        {
+          "file_id": 0,
+          "path_id": "3613341805825202144"
+        },
+        {
+          "file_id": 0,
+          "path_id": "5261518176734903792"
+        }
+      ],
+      "parent": {
+        "file_id": 0,
+        "path_id": "-5371960529216644103"
+      },
+      "name": "Bip001 R Clavicle",
+      "path_components": [
+        "Avatar_Male_Sword_KaeyaCostumeDancer_Kanban",
+        "Bip001",
+        "Bip001 Pelvis",
+        "Bip001 Spine",
+        "Bip001 Spine1",
+        "Bip001 Spine2",
+        "Bip001 R Clavicle"
+      ]
+    },
+    "3756780092453750275": {
+      "game_object": {
+        "file_id": 0,
+        "path_id": "-3509223626940225743"
+      },
+      "local_rotation_xyzw": [
+        1.2996837028822483e-07,
+        1.1351684925386962e-08,
+        -0.39290449023246765,
+        0.919579267501831
+      ],
+      "local_position": [
+        -0.030572950839996338,
+        0.0,
+        2.486509054211439e-10
+      ],
+      "local_scale": [
+        1.0,
+        1.0000001192092896,
+        1.0
+      ],
+      "children": [
+        {
+          "file_id": 0,
+          "path_id": "-7198176367840456765"
+        }
+      ],
+      "parent": {
+        "file_id": 0,
+        "path_id": "2304328298029366160"
+      },
+      "name": "Bip001 L Finger32",
+      "path_components": [
+        "Avatar_Male_Sword_KaeyaCostumeDancer_Kanban",
+        "Bip001",
+        "Bip001 Pelvis",
+        "Bip001 Spine",
+        "Bip001 Spine1",
+        "Bip001 Spine2",
+        "Bip001 L Clavicle",
+        "Bip001 L UpperArm",
+        "Bip001 L Forearm",
+        "Bip001 L Hand",
+        "Bip001 L Finger3",
+        "Bip001 L Finger31",
+        "Bip001 L Finger32"
+      ]
+    },
+    "3875241085342078808": {
+      "game_object": {
+        "file_id": 0,
+        "path_id": "5116313526351927487"
+      },
+      "local_rotation_xyzw": [
+        -0.10487841814756393,
+        -0.675958514213562,
+        0.699326753616333,
+        -0.2074192315340042
+      ],
+      "local_position": [
+        -0.008283538743853569,
+        0.021663976833224297,
+        -0.073096863925457
+      ],
+      "local_scale": [
+        1.0000022649765015,
+        1.0000115633010864,
+        0.9999974966049194
+      ],
+      "children": [
+        {
+          "file_id": 0,
+          "path_id": "-1567213392422975860"
+        }
+      ],
+      "parent": {
+        "file_id": 0,
+        "path_id": "-710602615991358924"
+      },
+      "name": "+HairS R A01",
+      "path_components": [
+        "Avatar_Male_Sword_KaeyaCostumeDancer_Kanban",
+        "Bip001",
+        "Bip001 Pelvis",
+        "Bip001 Spine",
+        "Bip001 Spine1",
+        "Bip001 Spine2",
+        "Bip001 Neck",
+        "Bip001 Head",
+        "+HairS R A01"
+      ]
+    },
+    "3895240864472803752": {
+      "game_object": {
+        "file_id": 0,
+        "path_id": "2685637119788934262"
+      },
+      "local_rotation_xyzw": [
+        -1.44308353355882e-06,
+        7.152588636927248e-07,
+        -2.294777232236811e-06,
+        1.0
+      ],
+      "local_position": [
+        -0.07863189280033112,
+        1.983642505365424e-06,
+        -1.9550323315797868e-07
+      ],
+      "local_scale": [
+        1.0000003576278687,
+        0.999999463558197,
+        1.0000001192092896
+      ],
+      "children": [],
+      "parent": {
+        "file_id": 0,
+        "path_id": "-7831556403931015309"
+      },
+      "name": "+AmiceS L C03",
+      "path_components": [
+        "Avatar_Male_Sword_KaeyaCostumeDancer_Kanban",
+        "Bip001",
+        "Bip001 Pelvis",
+        "Bip001 Spine",
+        "Bip001 Spine1",
+        "Bip001 Spine2",
+        "+AmiceS L C01",
+        "+AmiceS L C02",
+        "+AmiceS L C03"
+      ]
+    },
+    "4031398686336029890": {
+      "game_object": {
+        "file_id": 0,
+        "path_id": "3664326000735447367"
+      },
+      "local_rotation_xyzw": [
+        2.1153766738279955e-07,
+        -5.41665059472507e-08,
+        -0.11329738795757294,
+        0.9935611486434937
+      ],
+      "local_position": [
+        -0.026350373402237892,
+        0.0,
+        1.132835247830144e-08
+      ],
+      "local_scale": [
+        0.9999998807907104,
+        0.9999998807907104,
+        0.9999999403953552
+      ],
+      "children": [
+        {
+          "file_id": 0,
+          "path_id": "-4377992635649185386"
+        }
+      ],
+      "parent": {
+        "file_id": 0,
+        "path_id": "1754501941992020043"
+      },
+      "name": "Bip001 L Finger12",
+      "path_components": [
+        "Avatar_Male_Sword_KaeyaCostumeDancer_Kanban",
+        "Bip001",
+        "Bip001 Pelvis",
+        "Bip001 Spine",
+        "Bip001 Spine1",
+        "Bip001 Spine2",
+        "Bip001 L Clavicle",
+        "Bip001 L UpperArm",
+        "Bip001 L Forearm",
+        "Bip001 L Hand",
+        "Bip001 L Finger1",
+        "Bip001 L Finger11",
+        "Bip001 L Finger12"
+      ]
+    },
+    "4087291621995186020": {
+      "game_object": {
+        "file_id": 0,
+        "path_id": "-517234076829208856"
+      },
+      "local_rotation_xyzw": [
+        -0.014683702029287815,
+        -0.014138814061880112,
+        0.26104673743247986,
+        -0.9651109576225281
+      ],
+      "local_position": [
+        -0.08702440559864044,
+        -0.0027484907768666744,
+        -0.017060179263353348
+      ],
+      "local_scale": [
+        0.9999998211860657,
+        1.0,
+        0.9999999403953552
+      ],
+      "children": [
+        {
+          "file_id": 0,
+          "path_id": "152700499781251172"
+        }
+      ],
+      "parent": {
+        "file_id": 0,
+        "path_id": "5849290048534608604"
+      },
+      "name": "Bip001 R Finger3",
+      "path_components": [
+        "Avatar_Male_Sword_KaeyaCostumeDancer_Kanban",
+        "Bip001",
+        "Bip001 Pelvis",
+        "Bip001 Spine",
+        "Bip001 Spine1",
+        "Bip001 Spine2",
+        "Bip001 R Clavicle",
+        "Bip001 R UpperArm",
+        "Bip001 R Forearm",
+        "Bip001 R Hand",
+        "Bip001 R Finger3"
+      ]
+    },
+    "4111184019120662995": {
+      "game_object": {
+        "file_id": 0,
+        "path_id": "-6566319241437308991"
+      },
+      "local_rotation_xyzw": [
+        0.009836084209382534,
+        0.005995685234665871,
+        0.20093923807144165,
+        -0.9795359969139099
+      ],
+      "local_position": [
+        -0.09045859426259995,
+        -0.004438402131199837,
+        0.005725562106817961
+      ],
+      "local_scale": [
+        0.9999998807907104,
+        0.9999998807907104,
+        1.0
+      ],
+      "children": [
+        {
+          "file_id": 0,
+          "path_id": "5263194361333402254"
+        }
+      ],
+      "parent": {
+        "file_id": 0,
+        "path_id": "5849290048534608604"
+      },
+      "name": "Bip001 R Finger2",
+      "path_components": [
+        "Avatar_Male_Sword_KaeyaCostumeDancer_Kanban",
+        "Bip001",
+        "Bip001 Pelvis",
+        "Bip001 Spine",
+        "Bip001 Spine1",
+        "Bip001 Spine2",
+        "Bip001 R Clavicle",
+        "Bip001 R UpperArm",
+        "Bip001 R Forearm",
+        "Bip001 R Hand",
+        "Bip001 R Finger2"
+      ]
+    },
+    "4162341875905858940": {
+      "game_object": {
+        "file_id": 0,
+        "path_id": "4037709338063441378"
+      },
+      "local_rotation_xyzw": [
+        -0.0,
+        -0.0,
+        -0.0,
+        1.0
+      ],
+      "local_position": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "local_scale": [
+        1.0,
+        1.0,
+        1.0
+      ],
+      "children": [
+        {
+          "file_id": 0,
+          "path_id": "-8861955673368917682"
+        },
+        {
+          "file_id": 0,
+          "path_id": "-1173473010530319892"
+        },
+        {
+          "file_id": 0,
+          "path_id": "-6150476073942129662"
+        }
+      ],
+      "parent": {
+        "file_id": 0,
+        "path_id": "-1179132493587984741"
+      },
+      "name": "Root",
+      "path_components": [
+        "Avatar_Male_Sword_KaeyaCostumeDancer_Kanban",
+        "Root"
+      ]
+    },
+    "4185667835552824989": {
+      "game_object": {
+        "file_id": 0,
+        "path_id": "2375136880756652375"
+      },
+      "local_rotation_xyzw": [
+        7.832195336732184e-08,
+        -2.25436437517601e-07,
+        0.0647418275475502,
+        0.9979020357131958
+      ],
+      "local_position": [
+        -0.09162978827953339,
+        1.4877318790240679e-06,
+        7.152556946721234e-08
+      ],
+      "local_scale": [
+        1.0000108480453491,
+        1.000004768371582,
+        1.0000028610229492
+      ],
+      "children": [
+        {
+          "file_id": 0,
+          "path_id": "3257411440212513065"
+        }
+      ],
+      "parent": {
+        "file_id": 0,
+        "path_id": "-3846538174027806596"
+      },
+      "name": "+AmiceS R C02",
+      "path_components": [
+        "Avatar_Male_Sword_KaeyaCostumeDancer_Kanban",
+        "Bip001",
+        "Bip001 Pelvis",
+        "Bip001 Spine",
+        "Bip001 Spine1",
+        "Bip001 Spine2",
+        "+AmiceS R C01",
+        "+AmiceS R C02"
+      ]
+    },
+    "4333026569144527954": {
+      "game_object": {
+        "file_id": 0,
+        "path_id": "-1969016558006399478"
+      },
+      "local_rotation_xyzw": [
+        -0.2133256047964096,
+        0.9769811630249023,
+        -8.14586819615215e-05,
+        -1.353944116999628e-05
+      ],
+      "local_position": [
+        -0.18514388799667358,
+        0.0793236494064331,
+        -0.13775388896465302
+      ],
+      "local_scale": [
+        0.9999998807907104,
+        1.0000035762786865,
+        0.9999993443489075
+      ],
+      "children": [
+        {
+          "file_id": 0,
+          "path_id": "819363303011661118"
+        }
+      ],
+      "parent": {
+        "file_id": 0,
+        "path_id": "-5371960529216644103"
+      },
+      "name": "+AmiceS R A11",
+      "path_components": [
+        "Avatar_Male_Sword_KaeyaCostumeDancer_Kanban",
+        "Bip001",
+        "Bip001 Pelvis",
+        "Bip001 Spine",
+        "Bip001 Spine1",
+        "Bip001 Spine2",
+        "+AmiceS R A11"
+      ]
+    },
+    "4421989792111562817": {
+      "game_object": {
+        "file_id": 0,
+        "path_id": "2187713726874276448"
+      },
+      "local_rotation_xyzw": [
+        -2.3671624660437374e-07,
+        -4.053288371608232e-09,
+        0.3928869664669037,
+        -0.9195868372917175
+      ],
+      "local_position": [
+        -0.030572909861803055,
+        0.0,
+        -1.4719491403525353e-08
+      ],
+      "local_scale": [
+        0.9999999403953552,
+        0.9999999403953552,
+        1.0
+      ],
+      "children": [
+        {
+          "file_id": 0,
+          "path_id": "-683114280303683806"
+        }
+      ],
+      "parent": {
+        "file_id": 0,
+        "path_id": "152700499781251172"
+      },
+      "name": "Bip001 R Finger32",
+      "path_components": [
+        "Avatar_Male_Sword_KaeyaCostumeDancer_Kanban",
+        "Bip001",
+        "Bip001 Pelvis",
+        "Bip001 Spine",
+        "Bip001 Spine1",
+        "Bip001 Spine2",
+        "Bip001 R Clavicle",
+        "Bip001 R UpperArm",
+        "Bip001 R Forearm",
+        "Bip001 R Hand",
+        "Bip001 R Finger3",
+        "Bip001 R Finger31",
+        "Bip001 R Finger32"
+      ]
+    },
+    "4582985296766326538": {
+      "game_object": {
+        "file_id": 0,
+        "path_id": "2701909445534533092"
+      },
+      "local_rotation_xyzw": [
+        2.1855694143368964e-08,
+        0.0,
+        -0.0,
+        1.0
+      ],
+      "local_position": [
+        -0.0,
+        0.0,
+        0.0
+      ],
+      "local_scale": [
+        1.0,
+        1.0,
+        1.0
+      ],
+      "children": [],
+      "parent": {
+        "file_id": 0,
+        "path_id": "-1179132493587984741"
+      },
+      "name": "Face",
+      "path_components": [
+        "Avatar_Male_Sword_KaeyaCostumeDancer_Kanban",
+        "Face"
+      ]
+    },
+    "4616331154217304584": {
+      "game_object": {
+        "file_id": 0,
+        "path_id": "4361865303474193443"
+      },
+      "local_rotation_xyzw": [
+        -0.014487175270915031,
+        -0.002060472732409835,
+        0.14079198241233826,
+        0.9899311065673828
+      ],
+      "local_position": [
+        -0.22607745230197906,
+        5.513429073289444e-07,
+        2.9802322387695312e-08
+      ],
+      "local_scale": [
+        1.000000238418579,
+        1.0000001192092896,
+        0.9999999403953552
+      ],
+      "children": [
+        {
+          "file_id": 0,
+          "path_id": "4792918373164804675"
+        },
+        {
+          "file_id": 0,
+          "path_id": "552167184242854037"
+        }
+      ],
+      "parent": {
+        "file_id": 0,
+        "path_id": "2953068091880397439"
+      },
+      "name": "Bip001 L Forearm",
+      "path_components": [
+        "Avatar_Male_Sword_KaeyaCostumeDancer_Kanban",
+        "Bip001",
+        "Bip001 Pelvis",
+        "Bip001 Spine",
+        "Bip001 Spine1",
+        "Bip001 Spine2",
+        "Bip001 L Clavicle",
+        "Bip001 L UpperArm",
+        "Bip001 L Forearm"
+      ]
+    },
+    "4785190342843364382": {
+      "game_object": {
+        "file_id": 0,
+        "path_id": "-7626883253543406908"
+      },
+      "local_rotation_xyzw": [
+        0.0,
+        0.0,
+        1.0,
+        -2.980232594040899e-08
+      ],
+      "local_position": [
+        -0.02821204997599125,
+        -7.629394360719743e-08,
+        2.38418573772492e-09
+      ],
+      "local_scale": [
+        -0.9999999403953552,
+        -1.0,
+        -1.0
+      ],
+      "children": [],
+      "parent": {
+        "file_id": 0,
+        "path_id": "1959752994422947683"
+      },
+      "name": "Bip001 R Finger2Nub",
+      "path_components": [
+        "Avatar_Male_Sword_KaeyaCostumeDancer_Kanban",
+        "Bip001",
+        "Bip001 Pelvis",
+        "Bip001 Spine",
+        "Bip001 Spine1",
+        "Bip001 Spine2",
+        "Bip001 R Clavicle",
+        "Bip001 R UpperArm",
+        "Bip001 R Forearm",
+        "Bip001 R Hand",
+        "Bip001 R Finger2",
+        "Bip001 R Finger21",
+        "Bip001 R Finger22",
+        "Bip001 R Finger2Nub"
+      ]
+    },
+    "4792918373164804675": {
+      "game_object": {
+        "file_id": 0,
+        "path_id": "-6619401167496204413"
+      },
+      "local_rotation_xyzw": [
+        0.7246382832527161,
+        0.03913775831460953,
+        0.04879980534315109,
+        -0.6862843632698059
+      ],
+      "local_position": [
+        -0.23070068657398224,
+        1.0011716788937974e-08,
+        0.0002819397777784616
+      ],
+      "local_scale": [
+        0.9999999403953552,
+        1.0,
+        1.0
+      ],
+      "children": [
+        {
+          "file_id": 0,
+          "path_id": "-1021351061392567678"
+        },
+        {
+          "file_id": 0,
+          "path_id": "-2370716365919906006"
+        },
+        {
+          "file_id": 0,
+          "path_id": "2270866928648157845"
+        },
+        {
+          "file_id": 0,
+          "path_id": "3416374428992066582"
+        },
+        {
+          "file_id": 0,
+          "path_id": "-2185448345762486725"
+        },
+        {
+          "file_id": 0,
+          "path_id": "-8367985649931303105"
+        },
+        {
+          "file_id": 0,
+          "path_id": "-7184044898277881270"
+        }
+      ],
+      "parent": {
+        "file_id": 0,
+        "path_id": "4616331154217304584"
+      },
+      "name": "Bip001 L Hand",
+      "path_components": [
+        "Avatar_Male_Sword_KaeyaCostumeDancer_Kanban",
+        "Bip001",
+        "Bip001 Pelvis",
+        "Bip001 Spine",
+        "Bip001 Spine1",
+        "Bip001 Spine2",
+        "Bip001 L Clavicle",
+        "Bip001 L UpperArm",
+        "Bip001 L Forearm",
+        "Bip001 L Hand"
+      ]
+    },
+    "5093036845173260654": {
+      "game_object": {
+        "file_id": 0,
+        "path_id": "-4293208952582962397"
+      },
+      "local_rotation_xyzw": [
+        0.017370333895087242,
+        -0.000989611609838903,
+        0.05193188413977623,
+        0.9984990954399109
+      ],
+      "local_position": [
+        -0.1879344880580902,
+        -3.8146970382513246e-07,
+        -1.4877318790240679e-06
+      ],
+      "local_scale": [
+        1.000002384185791,
+        0.9999977350234985,
+        0.9999995827674866
+      ],
+      "children": [
+        {
+          "file_id": 0,
+          "path_id": "2486541071177033570"
+        }
+      ],
+      "parent": {
+        "file_id": 0,
+        "path_id": "8569579622222438116"
+      },
+      "name": "+AmiceB L B02",
+      "path_components": [
+        "Avatar_Male_Sword_KaeyaCostumeDancer_Kanban",
+        "Bip001",
+        "Bip001 Pelvis",
+        "Bip001 Spine",
+        "Bip001 Spine1",
+        "Bip001 Spine2",
+        "Bip001 L Clavicle",
+        "+AmiceB L B01",
+        "+AmiceB L B02"
+      ]
+    },
+    "5261518176734903792": {
+      "game_object": {
+        "file_id": 0,
+        "path_id": "4708947675254933477"
+      },
+      "local_rotation_xyzw": [
+        -0.09950097650289536,
+        0.5044565796852112,
+        -0.01590629480779171,
+        0.8575372695922852
+      ],
+      "local_position": [
+        -0.14202101528644562,
+        -5.401671643312511e-08,
+        -5.140900611877441e-07
+      ],
+      "local_scale": [
+        1.0,
+        1.000000238418579,
+        1.0
+      ],
+      "children": [
+        {
+          "file_id": 0,
+          "path_id": "6137942460192773560"
+        },
+        {
+          "file_id": 0,
+          "path_id": "2774441574153422664"
+        },
+        {
+          "file_id": 0,
+          "path_id": "-2614342014661523084"
+        }
+      ],
+      "parent": {
+        "file_id": 0,
+        "path_id": "3691802865376209078"
+      },
+      "name": "Bip001 R UpperArm",
+      "path_components": [
+        "Avatar_Male_Sword_KaeyaCostumeDancer_Kanban",
+        "Bip001",
+        "Bip001 Pelvis",
+        "Bip001 Spine",
+        "Bip001 Spine1",
+        "Bip001 Spine2",
+        "Bip001 R Clavicle",
+        "Bip001 R UpperArm"
+      ]
+    },
+    "5263194361333402254": {
+      "game_object": {
+        "file_id": 0,
+        "path_id": "-8636630965748260949"
+      },
+      "local_rotation_xyzw": [
+        -2.0671200218203012e-07,
+        -3.295051342888655e-08,
+        0.48371174931526184,
+        -0.8752273917198181
+      ],
+      "local_position": [
+        -0.03918512538075447,
+        0.0,
+        2.174111557451397e-09
+      ],
+      "local_scale": [
+        1.0,
+        1.0,
+        1.0
+      ],
+      "children": [
+        {
+          "file_id": 0,
+          "path_id": "1959752994422947683"
+        }
+      ],
+      "parent": {
+        "file_id": 0,
+        "path_id": "4111184019120662995"
+      },
+      "name": "Bip001 R Finger21",
+      "path_components": [
+        "Avatar_Male_Sword_KaeyaCostumeDancer_Kanban",
+        "Bip001",
+        "Bip001 Pelvis",
+        "Bip001 Spine",
+        "Bip001 Spine1",
+        "Bip001 Spine2",
+        "Bip001 R Clavicle",
+        "Bip001 R UpperArm",
+        "Bip001 R Forearm",
+        "Bip001 R Hand",
+        "Bip001 R Finger2",
+        "Bip001 R Finger21"
+      ]
+    },
+    "5282687593750871872": {
+      "game_object": {
+        "file_id": 0,
+        "path_id": "6523073002596090047"
+      },
+      "local_rotation_xyzw": [
+        0.0019340706057846546,
+        -0.006923449691385031,
+        -0.2637312114238739,
+        0.9645694494247437
+      ],
+      "local_position": [
+        -0.034888532012701035,
+        0.0,
+        1.907348590179936e-08
+      ],
+      "local_scale": [
+        1.0,
+        1.0,
+        1.0
+      ],
+      "children": [
+        {
+          "file_id": 0,
+          "path_id": "1078767815827299317"
+        }
+      ],
+      "parent": {
+        "file_id": 0,
+        "path_id": "-2185448345762486725"
+      },
+      "name": "DMZ L 02",
+      "path_components": [
+        "Avatar_Male_Sword_KaeyaCostumeDancer_Kanban",
+        "Bip001",
+        "Bip001 Pelvis",
+        "Bip001 Spine",
+        "Bip001 Spine1",
+        "Bip001 Spine2",
+        "Bip001 L Clavicle",
+        "Bip001 L UpperArm",
+        "Bip001 L Forearm",
+        "Bip001 L Hand",
+        "DMZ L 01",
+        "DMZ L 02"
+      ]
+    },
+    "5672899438990791010": {
+      "game_object": {
+        "file_id": 0,
+        "path_id": "4813135248298790507"
+      },
+      "local_rotation_xyzw": [
+        1.1301580826739155e-07,
+        2.948422661575023e-08,
+        -0.48372402787208557,
+        0.8752205967903137
+      ],
+      "local_position": [
+        -0.03918511047959328,
+        1.192093463942001e-07,
+        -1.4915076951282913e-09
+      ],
+      "local_scale": [
+        1.0000001192092896,
+        0.9999999403953552,
+        1.0
+      ],
+      "children": [
+        {
+          "file_id": 0,
+          "path_id": "-2720979688412476157"
+        }
+      ],
+      "parent": {
+        "file_id": 0,
+        "path_id": "-2370716365919906006"
+      },
+      "name": "Bip001 L Finger21",
+      "path_components": [
+        "Avatar_Male_Sword_KaeyaCostumeDancer_Kanban",
+        "Bip001",
+        "Bip001 Pelvis",
+        "Bip001 Spine",
+        "Bip001 Spine1",
+        "Bip001 Spine2",
+        "Bip001 L Clavicle",
+        "Bip001 L UpperArm",
+        "Bip001 L Forearm",
+        "Bip001 L Hand",
+        "Bip001 L Finger2",
+        "Bip001 L Finger21"
+      ]
+    },
+    "5741079162104622896": {
+      "game_object": {
+        "file_id": 0,
+        "path_id": "4888417139084045753"
+      },
+      "local_rotation_xyzw": [
+        0.688229501247406,
+        -0.7254931330680847,
+        2.2077826145050494e-07,
+        2.696889964681759e-07
+      ],
+      "local_position": [
+        -0.008973540738224983,
+        0.07878609746694565,
+        6.098417770772357e-07
+      ],
+      "local_scale": [
+        1.0,
+        1.0,
+        1.0
+      ],
+      "children": [],
+      "parent": {
+        "file_id": 0,
+        "path_id": "-710602615991358924"
+      },
+      "name": "+ToothBone U A01",
+      "path_components": [
+        "Avatar_Male_Sword_KaeyaCostumeDancer_Kanban",
+        "Bip001",
+        "Bip001 Pelvis",
+        "Bip001 Spine",
+        "Bip001 Spine1",
+        "Bip001 Spine2",
+        "Bip001 Neck",
+        "Bip001 Head",
+        "+ToothBone U A01"
+      ]
+    },
+    "5775039874353247305": {
+      "game_object": {
+        "file_id": 0,
+        "path_id": "-3369969128115888199"
+      },
+      "local_rotation_xyzw": [
+        0.0,
+        -0.0,
+        1.0,
+        6.123234262925839e-17
+      ],
+      "local_position": [
+        -0.0303836427628994,
+        0.0,
+        3.814697180359872e-08
+      ],
+      "local_scale": [
+        -1.0,
+        -1.0,
+        -0.9999999403953552
+      ],
+      "children": [],
+      "parent": {
+        "file_id": 0,
+        "path_id": "1986741195799458062"
+      },
+      "name": "Bip001 R Finger0Nub",
+      "path_components": [
+        "Avatar_Male_Sword_KaeyaCostumeDancer_Kanban",
+        "Bip001",
+        "Bip001 Pelvis",
+        "Bip001 Spine",
+        "Bip001 Spine1",
+        "Bip001 Spine2",
+        "Bip001 R Clavicle",
+        "Bip001 R UpperArm",
+        "Bip001 R Forearm",
+        "Bip001 R Hand",
+        "DMZ R 01",
+        "DMZ R 02",
+        "DMZ R 03",
+        "Bip001 R Finger0Nub"
+      ]
+    },
+    "5782375033098683180": {
+      "game_object": {
+        "file_id": 0,
+        "path_id": "5637716004820186299"
+      },
+      "local_rotation_xyzw": [
+        -0.051141317933797836,
+        -0.0015238737687468529,
+        0.058756064623594284,
+        0.9969604015350342
+      ],
+      "local_position": [
+        -0.08854639530181885,
+        -8.895302016753703e-05,
+        -2.3283064365386963e-10
+      ],
+      "local_scale": [
+        1.0,
+        1.0,
+        1.0
+      ],
+      "children": [
+        {
+          "file_id": 0,
+          "path_id": "-5371960529216644103"
+        },
+        {
+          "file_id": 0,
+          "path_id": "122775704184976082"
+        }
+      ],
+      "parent": {
+        "file_id": 0,
+        "path_id": "6944201047763824249"
+      },
+      "name": "Bip001 Spine1",
+      "path_components": [
+        "Avatar_Male_Sword_KaeyaCostumeDancer_Kanban",
+        "Bip001",
+        "Bip001 Pelvis",
+        "Bip001 Spine",
+        "Bip001 Spine1"
+      ]
+    },
+    "5849290048534608604": {
+      "game_object": {
+        "file_id": 0,
+        "path_id": "-2466856754930459240"
+      },
+      "local_rotation_xyzw": [
+        0.6802186369895935,
+        0.034574709832668304,
+        -0.08224570006132126,
+        0.7275595664978027
+      ],
+      "local_position": [
+        -0.2307007908821106,
+        -5.587935447692871e-09,
+        -0.0002363491803407669
+      ],
+      "local_scale": [
+        1.0,
+        1.0,
+        1.0000001192092896
+      ],
+      "children": [
+        {
+          "file_id": 0,
+          "path_id": "-1168113475151164883"
+        },
+        {
+          "file_id": 0,
+          "path_id": "4111184019120662995"
+        },
+        {
+          "file_id": 0,
+          "path_id": "4087291621995186020"
+        },
+        {
+          "file_id": 0,
+          "path_id": "9163499151873170541"
+        },
+        {
+          "file_id": 0,
+          "path_id": "-6638414074612158923"
+        },
+        {
+          "file_id": 0,
+          "path_id": "3454085249677437084"
+        },
+        {
+          "file_id": 0,
+          "path_id": "-7990208186810785249"
+        }
+      ],
+      "parent": {
+        "file_id": 0,
+        "path_id": "-2614342014661523084"
+      },
+      "name": "Bip001 R Hand",
+      "path_components": [
+        "Avatar_Male_Sword_KaeyaCostumeDancer_Kanban",
+        "Bip001",
+        "Bip001 Pelvis",
+        "Bip001 Spine",
+        "Bip001 Spine1",
+        "Bip001 Spine2",
+        "Bip001 R Clavicle",
+        "Bip001 R UpperArm",
+        "Bip001 R Forearm",
+        "Bip001 R Hand"
+      ]
+    },
+    "5964545309504708435": {
+      "game_object": {
+        "file_id": 0,
+        "path_id": "7488479475040531132"
+      },
+      "local_rotation_xyzw": [
+        2.1855694143368964e-08,
+        0.0,
+        -0.0,
+        1.0
+      ],
+      "local_position": [
+        -0.0,
+        0.0,
+        0.0
+      ],
+      "local_scale": [
+        1.0,
+        1.0,
+        1.0
+      ],
+      "children": [],
+      "parent": {
+        "file_id": 0,
+        "path_id": "-1179132493587984741"
+      },
+      "name": "Brow",
+      "path_components": [
+        "Avatar_Male_Sword_KaeyaCostumeDancer_Kanban",
+        "Brow"
+      ]
+    },
+    "6137942460192773560": {
+      "game_object": {
+        "file_id": 0,
+        "path_id": "-1326367716663133836"
+      },
+      "local_rotation_xyzw": [
+        -0.9997957348823547,
+        0.018755042925477028,
+        -0.007449683733284473,
+        0.001105084316805005
+      ],
+      "local_position": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "local_scale": [
+        1.0000101327896118,
+        1.0,
+        0.9999899864196777
+      ],
+      "children": [],
+      "parent": {
+        "file_id": 0,
+        "path_id": "5261518176734903792"
+      },
+      "name": "+UpperArmTwist R A01",
+      "path_components": [
+        "Avatar_Male_Sword_KaeyaCostumeDancer_Kanban",
+        "Bip001",
+        "Bip001 Pelvis",
+        "Bip001 Spine",
+        "Bip001 Spine1",
+        "Bip001 Spine2",
+        "Bip001 R Clavicle",
+        "Bip001 R UpperArm",
+        "+UpperArmTwist R A01"
+      ]
+    },
+    "6138815176021582443": {
+      "game_object": {
+        "file_id": 0,
+        "path_id": "-7539170957360776143"
+      },
+      "local_rotation_xyzw": [
+        0.025977788493037224,
+        -0.0019715996459126472,
+        0.010510576888918877,
+        0.9996052980422974
+      ],
+      "local_position": [
+        -0.18848945200443268,
+        3.829956040135585e-05,
+        -0.0001228713954333216
+      ],
+      "local_scale": [
+        1.0000009536743164,
+        0.9999991059303284,
+        1.0
+      ],
+      "children": [
+        {
+          "file_id": 0,
+          "path_id": "3137485308883367548"
+        }
+      ],
+      "parent": {
+        "file_id": 0,
+        "path_id": "-7998226029406787665"
+      },
+      "name": "+AmiceB L B12",
+      "path_components": [
+        "Avatar_Male_Sword_KaeyaCostumeDancer_Kanban",
+        "Bip001",
+        "Bip001 Pelvis",
+        "Bip001 Spine",
+        "Bip001 Spine1",
+        "Bip001 Spine2",
+        "+AmiceB L B11",
+        "+AmiceB L B12"
+      ]
+    },
+    "6187068310098934595": {
+      "game_object": {
+        "file_id": 0,
+        "path_id": "-6785578683298174296"
+      },
+      "local_rotation_xyzw": [
+        -0.05586642771959305,
+        0.9957370758056641,
+        0.07219347357749939,
+        0.013219044543802738
+      ],
+      "local_position": [
+        -0.16596831381320953,
+        0.09324256330728531,
+        0.07168274372816086
+      ],
+      "local_scale": [
+        1.0000029802322388,
+        0.9999993443489075,
+        1.000002384185791
+      ],
+      "children": [
+        {
+          "file_id": 0,
+          "path_id": "8523797333475485807"
+        }
+      ],
+      "parent": {
+        "file_id": 0,
+        "path_id": "-5371960529216644103"
+      },
+      "name": "+AmiceF L B01",
+      "path_components": [
+        "Avatar_Male_Sword_KaeyaCostumeDancer_Kanban",
+        "Bip001",
+        "Bip001 Pelvis",
+        "Bip001 Spine",
+        "Bip001 Spine1",
+        "Bip001 Spine2",
+        "+AmiceF L B01"
+      ]
+    },
+    "6372545794480245851": {
+      "game_object": {
+        "file_id": 0,
+        "path_id": "-7562287529265713520"
+      },
+      "local_rotation_xyzw": [
+        -1.5179335832726792e-07,
+        -2.77683476213042e-08,
+        0.37228137254714966,
+        -0.9281198978424072
+      ],
+      "local_position": [
+        -0.03756856918334961,
+        1.192093321833454e-07,
+        -1.4579928375724194e-09
+      ],
+      "local_scale": [
+        0.9999999403953552,
+        1.0,
+        1.0
+      ],
+      "children": [
+        {
+          "file_id": 0,
+          "path_id": "-3554915242260329177"
+        }
+      ],
+      "parent": {
+        "file_id": 0,
+        "path_id": "-1168113475151164883"
+      },
+      "name": "Bip001 R Finger11",
+      "path_components": [
+        "Avatar_Male_Sword_KaeyaCostumeDancer_Kanban",
+        "Bip001",
+        "Bip001 Pelvis",
+        "Bip001 Spine",
+        "Bip001 Spine1",
+        "Bip001 Spine2",
+        "Bip001 R Clavicle",
+        "Bip001 R UpperArm",
+        "Bip001 R Forearm",
+        "Bip001 R Hand",
+        "Bip001 R Finger1",
+        "Bip001 R Finger11"
+      ]
+    },
+    "6427141473965969379": {
+      "game_object": {
+        "file_id": 0,
+        "path_id": "-4273580062053087445"
+      },
+      "local_rotation_xyzw": [
+        0.0,
+        0.0,
+        -0.7071062922477722,
+        0.7071072459220886
+      ],
+      "local_position": [
+        -0.0,
+        0.0,
+        -1.052139163017273
+      ],
+      "local_scale": [
+        1.0,
+        1.0,
+        1.0
+      ],
+      "children": [],
+      "parent": {
+        "file_id": 0,
+        "path_id": "2958481642635774733"
+      },
+      "name": "Bip001 Footsteps",
+      "path_components": [
+        "Avatar_Male_Sword_KaeyaCostumeDancer_Kanban",
+        "Bip001",
+        "Bip001 Footsteps"
+      ]
+    },
+    "6476663331257313789": {
+      "game_object": {
+        "file_id": 0,
+        "path_id": "6022096418439046438"
+      },
+      "local_rotation_xyzw": [
+        -0.008161600679159164,
+        0.003284880192950368,
+        0.0013901139609515667,
+        0.9999603629112244
+      ],
+      "local_position": [
+        -0.1967235505580902,
+        -9.91821252682712e-07,
+        -2.0980834847250662e-07
+      ],
+      "local_scale": [
+        0.9999990463256836,
+        1.0000008344650269,
+        1.0000001192092896
+      ],
+      "children": [],
+      "parent": {
+        "file_id": 0,
+        "path_id": "2486541071177033570"
+      },
+      "name": "+AmiceB L B04",
+      "path_components": [
+        "Avatar_Male_Sword_KaeyaCostumeDancer_Kanban",
+        "Bip001",
+        "Bip001 Pelvis",
+        "Bip001 Spine",
+        "Bip001 Spine1",
+        "Bip001 Spine2",
+        "Bip001 L Clavicle",
+        "+AmiceB L B01",
+        "+AmiceB L B02",
+        "+AmiceB L B03",
+        "+AmiceB L B04"
+      ]
+    },
+    "6944201047763824249": {
+      "game_object": {
+        "file_id": 0,
+        "path_id": "1418721599532747805"
+      },
+      "local_rotation_xyzw": [
+        0.058522917330265045,
+        -0.006658942438662052,
+        -0.00842678640037775,
+        0.9982283115386963
+      ],
+      "local_position": [
+        -0.10141469538211823,
+        0.024579044431447983,
+        7.078052277620372e-08
+      ],
+      "local_scale": [
+        1.0,
+        1.0,
+        0.9999999403953552
+      ],
+      "children": [
+        {
+          "file_id": 0,
+          "path_id": "5782375033098683180"
+        }
+      ],
+      "parent": {
+        "file_id": 0,
+        "path_id": "-4121035320888879255"
+      },
+      "name": "Bip001 Spine",
+      "path_components": [
+        "Avatar_Male_Sword_KaeyaCostumeDancer_Kanban",
+        "Bip001",
+        "Bip001 Pelvis",
+        "Bip001 Spine"
+      ]
+    },
+    "7293698030701236484": {
+      "game_object": {
+        "file_id": 0,
+        "path_id": "-6149078154026351692"
+      },
+      "local_rotation_xyzw": [
+        -0.9997063875198364,
+        -0.02127956785261631,
+        -0.007954605855047703,
+        0.008430278860032558
+      ],
+      "local_position": [
+        -0.11108741164207458,
+        0.004171104170382023,
+        0.0016129683936014771
+      ],
+      "local_scale": [
+        1.0,
+        1.0,
+        1.0
+      ],
+      "children": [],
+      "parent": {
+        "file_id": 0,
+        "path_id": "2953068091880397439"
+      },
+      "name": "+UpperArmTwist L A02",
+      "path_components": [
+        "Avatar_Male_Sword_KaeyaCostumeDancer_Kanban",
+        "Bip001",
+        "Bip001 Pelvis",
+        "Bip001 Spine",
+        "Bip001 Spine1",
+        "Bip001 Spine2",
+        "Bip001 L Clavicle",
+        "Bip001 L UpperArm",
+        "+UpperArmTwist L A02"
+      ]
+    },
+    "7371043497204618129": {
+      "game_object": {
+        "file_id": 0,
+        "path_id": "5382801636219192081"
+      },
+      "local_rotation_xyzw": [
+        -0.12394925206899643,
+        0.578891932964325,
+        -0.12008369714021683,
+        0.7969319820404053
+      ],
+      "local_position": [
+        -0.10085031390190125,
+        0.03769025579094887,
+        -0.06835174560546875
+      ],
+      "local_scale": [
+        1.000004768371582,
+        1.0000118017196655,
+        1.0000102519989014
+      ],
+      "children": [
+        {
+          "file_id": 0,
+          "path_id": "-3781444612048009658"
+        },
+        {
+          "file_id": 0,
+          "path_id": "3187596552846109842"
+        }
+      ],
+      "parent": {
+        "file_id": 0,
+        "path_id": "3691802865376209078"
+      },
+      "name": "+AmiceS R B11",
+      "path_components": [
+        "Avatar_Male_Sword_KaeyaCostumeDancer_Kanban",
+        "Bip001",
+        "Bip001 Pelvis",
+        "Bip001 Spine",
+        "Bip001 Spine1",
+        "Bip001 Spine2",
+        "Bip001 R Clavicle",
+        "+AmiceS R B11"
+      ]
+    },
+    "7390949353485782593": {
+      "game_object": {
+        "file_id": 0,
+        "path_id": "-3345653222453498943"
+      },
+      "local_rotation_xyzw": [
+        0.6462686657905579,
+        0.06088303029537201,
+        -0.7582370042800903,
+        -0.060882993042469025
+      ],
+      "local_position": [
+        -0.1580663025379181,
+        -0.01976591721177101,
+        0.02754477970302105
+      ],
+      "local_scale": [
+        1.0000001192092896,
+        1.0,
+        1.0
+      ],
+      "children": [
+        {
+          "file_id": 0,
+          "path_id": "8569579622222438116"
+        },
+        {
+          "file_id": 0,
+          "path_id": "2953068091880397439"
+        }
+      ],
+      "parent": {
+        "file_id": 0,
+        "path_id": "-5371960529216644103"
+      },
+      "name": "Bip001 L Clavicle",
+      "path_components": [
+        "Avatar_Male_Sword_KaeyaCostumeDancer_Kanban",
+        "Bip001",
+        "Bip001 Pelvis",
+        "Bip001 Spine",
+        "Bip001 Spine1",
+        "Bip001 Spine2",
+        "Bip001 L Clavicle"
+      ]
+    },
+    "7894334786515178627": {
+      "game_object": {
+        "file_id": 0,
+        "path_id": "2794353178936671105"
+      },
+      "local_rotation_xyzw": [
+        1.047969977463481e-08,
+        1.1175868230850483e-08,
+        0.7071012258529663,
+        -0.7071124315261841
+      ],
+      "local_position": [
+        -0.09252916276454926,
+        0.13630461692810059,
+        -0.0020160831045359373
+      ],
+      "local_scale": [
+        1.0,
+        1.0,
+        1.0
+      ],
+      "children": [
+        {
+          "file_id": 0,
+          "path_id": "-6443187756352627355"
+        }
+      ],
+      "parent": {
+        "file_id": 0,
+        "path_id": "-8956839080033403645"
+      },
+      "name": "Bip001 R Toe0",
+      "path_components": [
+        "Avatar_Male_Sword_KaeyaCostumeDancer_Kanban",
+        "Bip001",
+        "Bip001 Pelvis",
+        "Bip001 R Thigh",
+        "Bip001 R Calf",
+        "Bip001 R Foot",
+        "Bip001 R Toe0"
+      ]
+    },
+    "8125831165923973683": {
+      "game_object": {
+        "file_id": 0,
+        "path_id": "-4679935524457928597"
+      },
+      "local_rotation_xyzw": [
+        0.5019261837005615,
+        0.49957337975502014,
+        -0.498295396566391,
+        0.5001981854438782
+      ],
+      "local_position": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "local_scale": [
+        1.0000309944152832,
+        0.9999691247940063,
+        1.0
+      ],
+      "children": [],
+      "parent": {
+        "file_id": 0,
+        "path_id": "2958481642635774733"
+      },
+      "name": "+PelvisTwist CF A01",
+      "path_components": [
+        "Avatar_Male_Sword_KaeyaCostumeDancer_Kanban",
+        "Bip001",
+        "+PelvisTwist CF A01"
+      ]
+    },
+    "8291766068579765300": {
+      "game_object": {
+        "file_id": 0,
+        "path_id": "9041102620360766611"
+      },
+      "local_rotation_xyzw": [
+        2.1855694143368964e-08,
+        0.0,
+        -0.0,
+        1.0
+      ],
+      "local_position": [
+        -0.0,
+        0.0,
+        0.0
+      ],
+      "local_scale": [
+        1.0,
+        1.0,
+        1.0
+      ],
+      "children": [],
+      "parent": {
+        "file_id": 0,
+        "path_id": "-1179132493587984741"
+      },
+      "name": "EffectMesh",
+      "path_components": [
+        "Avatar_Male_Sword_KaeyaCostumeDancer_Kanban",
+        "EffectMesh"
+      ]
+    },
+    "8404129890049566196": {
+      "game_object": {
+        "file_id": 0,
+        "path_id": "2878537988991764346"
+      },
+      "local_rotation_xyzw": [
+        -8.449914901120792e-08,
+        0.056638993322849274,
+        -0.018485572189092636,
+        0.998223602771759
+      ],
+      "local_position": [
+        -0.4349653124809265,
+        -2.9649523725083782e-08,
+        -1.2962968476415426e-08
+      ],
+      "local_scale": [
+        1.0,
+        1.0000001192092896,
+        1.0
+      ],
+      "children": [
+        {
+          "file_id": 0,
+          "path_id": "-3161925583607766888"
+        }
+      ],
+      "parent": {
+        "file_id": 0,
+        "path_id": "-6959342834792192360"
+      },
+      "name": "Bip001 L Foot",
+      "path_components": [
+        "Avatar_Male_Sword_KaeyaCostumeDancer_Kanban",
+        "Bip001",
+        "Bip001 Pelvis",
+        "Bip001 L Thigh",
+        "Bip001 L Calf",
+        "Bip001 L Foot"
+      ]
+    },
+    "8422936019587075148": {
+      "game_object": {
+        "file_id": 0,
+        "path_id": "-2514879946859450197"
+      },
+      "local_rotation_xyzw": [
+        1.4901161193847656e-08,
+        -7.450580152834618e-09,
+        2.9802322387695312e-08,
+        1.0
+      ],
+      "local_position": [
+        -0.030383605509996414,
+        0.0,
+        -3.814697180359872e-08
+      ],
+      "local_scale": [
+        1.0,
+        1.0,
+        1.0
+      ],
+      "children": [],
+      "parent": {
+        "file_id": 0,
+        "path_id": "1078767815827299317"
+      },
+      "name": "Bip001 L Finger0Nub",
+      "path_components": [
+        "Avatar_Male_Sword_KaeyaCostumeDancer_Kanban",
+        "Bip001",
+        "Bip001 Pelvis",
+        "Bip001 Spine",
+        "Bip001 Spine1",
+        "Bip001 Spine2",
+        "Bip001 L Clavicle",
+        "Bip001 L UpperArm",
+        "Bip001 L Forearm",
+        "Bip001 L Hand",
+        "DMZ L 01",
+        "DMZ L 02",
+        "DMZ L 03",
+        "Bip001 L Finger0Nub"
+      ]
+    },
+    "8523797333475485807": {
+      "game_object": {
+        "file_id": 0,
+        "path_id": "2469418152784409239"
+      },
+      "local_rotation_xyzw": [
+        9.473128415038445e-08,
+        -4.973005047759216e-07,
+        0.022480735555291176,
+        0.9997472763061523
+      ],
+      "local_position": [
+        -0.13492797315120697,
+        -3.0517577442878974e-07,
+        -7.152556946721234e-08
+      ],
+      "local_scale": [
+        1.0000017881393433,
+        1.0000040531158447,
+        1.0000039339065552
+      ],
+      "children": [
+        {
+          "file_id": 0,
+          "path_id": "-6930388867064314161"
+        }
+      ],
+      "parent": {
+        "file_id": 0,
+        "path_id": "6187068310098934595"
+      },
+      "name": "+AmiceF L B02",
+      "path_components": [
+        "Avatar_Male_Sword_KaeyaCostumeDancer_Kanban",
+        "Bip001",
+        "Bip001 Pelvis",
+        "Bip001 Spine",
+        "Bip001 Spine1",
+        "Bip001 Spine2",
+        "+AmiceF L B01",
+        "+AmiceF L B02"
+      ]
+    },
+    "8567479288111214110": {
+      "game_object": {
+        "file_id": 0,
+        "path_id": "-8835850967538276323"
+      },
+      "local_rotation_xyzw": [
+        0.999789834022522,
+        -0.0187235027551651,
+        -0.007546622771769762,
+        0.0035708944778889418
+      ],
+      "local_position": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "local_scale": [
+        1.0,
+        1.0,
+        1.0
+      ],
+      "children": [],
+      "parent": {
+        "file_id": 0,
+        "path_id": "2953068091880397439"
+      },
+      "name": "+UpperArmTwist L A01",
+      "path_components": [
+        "Avatar_Male_Sword_KaeyaCostumeDancer_Kanban",
+        "Bip001",
+        "Bip001 Pelvis",
+        "Bip001 Spine",
+        "Bip001 Spine1",
+        "Bip001 Spine2",
+        "Bip001 L Clavicle",
+        "Bip001 L UpperArm",
+        "+UpperArmTwist L A01"
+      ]
+    },
+    "8569579622222438116": {
+      "game_object": {
+        "file_id": 0,
+        "path_id": "-1132517242427532401"
+      },
+      "local_rotation_xyzw": [
+        0.2789776027202606,
+        -0.4990125000476837,
+        -0.08508478105068207,
+        0.8160383701324463
+      ],
+      "local_position": [
+        -0.08216926455497742,
+        0.05025138705968857,
+        0.08930770307779312
+      ],
+      "local_scale": [
+        0.9999971389770508,
+        1.0000028610229492,
+        1.0000009536743164
+      ],
+      "children": [
+        {
+          "file_id": 0,
+          "path_id": "5093036845173260654"
+        }
+      ],
+      "parent": {
+        "file_id": 0,
+        "path_id": "7390949353485782593"
+      },
+      "name": "+AmiceB L B01",
+      "path_components": [
+        "Avatar_Male_Sword_KaeyaCostumeDancer_Kanban",
+        "Bip001",
+        "Bip001 Pelvis",
+        "Bip001 Spine",
+        "Bip001 Spine1",
+        "Bip001 Spine2",
+        "Bip001 L Clavicle",
+        "+AmiceB L B01"
+      ]
+    },
+    "8658543882582481769": {
+      "game_object": {
+        "file_id": 0,
+        "path_id": "1082578900627421308"
+      },
+      "local_rotation_xyzw": [
+        -5.551116446614763e-17,
+        3.725290742551124e-09,
+        1.0,
+        -1.4901162970204496e-08
+      ],
+      "local_position": [
+        -0.02393844537436962,
+        -7.629394360719743e-08,
+        9.53674295089968e-09
+      ],
+      "local_scale": [
+        -0.9999999403953552,
+        -0.9999998807907104,
+        -0.9999998807907104
+      ],
+      "children": [],
+      "parent": {
+        "file_id": 0,
+        "path_id": "-3554915242260329177"
+      },
+      "name": "Bip001 R Finger1Nub",
+      "path_components": [
+        "Avatar_Male_Sword_KaeyaCostumeDancer_Kanban",
+        "Bip001",
+        "Bip001 Pelvis",
+        "Bip001 Spine",
+        "Bip001 Spine1",
+        "Bip001 Spine2",
+        "Bip001 R Clavicle",
+        "Bip001 R UpperArm",
+        "Bip001 R Forearm",
+        "Bip001 R Hand",
+        "Bip001 R Finger1",
+        "Bip001 R Finger11",
+        "Bip001 R Finger12",
+        "Bip001 R Finger1Nub"
+      ]
+    },
+    "8659949023366926375": {
+      "game_object": {
+        "file_id": 0,
+        "path_id": "-8188845349000651081"
+      },
+      "local_rotation_xyzw": [
+        -0.07145346701145172,
+        0.9678442478179932,
+        0.23831550776958466,
+        0.03711606562137604
+      ],
+      "local_position": [
+        -0.16871200501918793,
+        0.054409388452768326,
+        0.14875443279743195
+      ],
+      "local_scale": [
+        1.0000007152557373,
+        0.9999936819076538,
+        1.0000065565109253
+      ],
+      "children": [
+        {
+          "file_id": 0,
+          "path_id": "-7831556403931015309"
+        }
+      ],
+      "parent": {
+        "file_id": 0,
+        "path_id": "-5371960529216644103"
+      },
+      "name": "+AmiceS L C01",
+      "path_components": [
+        "Avatar_Male_Sword_KaeyaCostumeDancer_Kanban",
+        "Bip001",
+        "Bip001 Pelvis",
+        "Bip001 Spine",
+        "Bip001 Spine1",
+        "Bip001 Spine2",
+        "+AmiceS L C01"
+      ]
+    },
+    "8746388705638818526": {
+      "game_object": {
+        "file_id": 0,
+        "path_id": "-6199389632443702971"
+      },
+      "local_rotation_xyzw": [
+        0.11273061484098434,
+        -0.028700008988380432,
+        -0.09920357912778854,
+        0.9882442951202393
+      ],
+      "local_position": [
+        -0.18804052472114563,
+        -0.01762298122048378,
+        -4.6566128730773926e-09
+      ],
+      "local_scale": [
+        1.0,
+        0.9999999403953552,
+        1.0
+      ],
+      "children": [
+        {
+          "file_id": 0,
+          "path_id": "-710602615991358924"
+        }
+      ],
+      "parent": {
+        "file_id": 0,
+        "path_id": "-5371960529216644103"
+      },
+      "name": "Bip001 Neck",
+      "path_components": [
+        "Avatar_Male_Sword_KaeyaCostumeDancer_Kanban",
+        "Bip001",
+        "Bip001 Pelvis",
+        "Bip001 Spine",
+        "Bip001 Spine1",
+        "Bip001 Spine2",
+        "Bip001 Neck"
+      ]
+    },
+    "8846009400531518007": {
+      "game_object": {
+        "file_id": 0,
+        "path_id": "8732958321684388590"
+      },
+      "local_rotation_xyzw": [
+        0.0,
+        0.0,
+        0.0,
+        1.0
+      ],
+      "local_position": [
+        -0.2540000081062317,
+        0.0,
+        0.0
+      ],
+      "local_scale": [
+        1.0,
+        1.0,
+        1.0
+      ],
+      "children": [],
+      "parent": {
+        "file_id": 0,
+        "path_id": "-3737593065289244685"
+      },
+      "name": "HitObject4",
+      "path_components": [
+        "Avatar_Male_Sword_KaeyaCostumeDancer_Kanban",
+        "Bip001",
+        "Bip001 Pelvis",
+        "Bip001 R Thigh",
+        "Bip001 R Calf",
+        "HitObject4"
+      ]
+    },
+    "8953412961191574988": {
+      "game_object": {
+        "file_id": 0,
+        "path_id": "4982146721320834167"
+      },
+      "local_rotation_xyzw": [
+        2.9282981373057737e-08,
+        -2.455888292729469e-08,
+        0.053019680082798004,
+        0.9985935091972351
+      ],
+      "local_position": [
+        -0.08348014950752258,
+        2.250671286674333e-06,
+        1.9073485191256623e-07
+      ],
+      "local_scale": [
+        1.0000046491622925,
+        0.9999995231628418,
+        0.9999989867210388
+      ],
+      "children": [],
+      "parent": {
+        "file_id": 0,
+        "path_id": "-3781444612048009658"
+      },
+      "name": "+AmiceS R B13",
+      "path_components": [
+        "Avatar_Male_Sword_KaeyaCostumeDancer_Kanban",
+        "Bip001",
+        "Bip001 Pelvis",
+        "Bip001 Spine",
+        "Bip001 Spine1",
+        "Bip001 Spine2",
+        "Bip001 R Clavicle",
+        "+AmiceS R B11",
+        "+AmiceS R B12",
+        "+AmiceS R B13"
+      ]
+    },
+    "9163499151873170541": {
+      "game_object": {
+        "file_id": 0,
+        "path_id": "5767539733756631147"
+      },
+      "local_rotation_xyzw": [
+        -0.019527310505509377,
+        0.012240853160619736,
+        0.2899923026561737,
+        -0.9567514657974243
+      ],
+      "local_position": [
+        -0.07856154441833496,
+        0.0013017661403864622,
+        -0.03458049148321152
+      ],
+      "local_scale": [
+        1.0,
+        0.9999998807907104,
+        1.0
+      ],
+      "children": [
+        {
+          "file_id": 0,
+          "path_id": "987406354024313467"
+        }
+      ],
+      "parent": {
+        "file_id": 0,
+        "path_id": "5849290048534608604"
+      },
+      "name": "Bip001 R Finger4",
+      "path_components": [
+        "Avatar_Male_Sword_KaeyaCostumeDancer_Kanban",
+        "Bip001",
+        "Bip001 Pelvis",
+        "Bip001 Spine",
+        "Bip001 Spine1",
+        "Bip001 Spine2",
+        "Bip001 R Clavicle",
+        "Bip001 R UpperArm",
+        "Bip001 R Forearm",
+        "Bip001 R Hand",
+        "Bip001 R Finger4"
+      ]
+    },
+    "9202173233208468425": {
+      "game_object": {
+        "file_id": 0,
+        "path_id": "-6520484336493806562"
+      },
+      "local_rotation_xyzw": [
+        -0.0750575065612793,
+        0.7031151652336121,
+        0.7031222581863403,
+        0.07493023574352264
+      ],
+      "local_position": [
+        -0.005677871406078339,
+        0.019210929051041603,
+        0.15451344847679138
+      ],
+      "local_scale": [
+        1.000002145767212,
+        1.0000053644180298,
+        1.0
+      ],
+      "children": [],
+      "parent": {
+        "file_id": 0,
+        "path_id": "-4121035320888879255"
+      },
+      "name": "+VisionPelvisS L A01",
+      "path_components": [
+        "Avatar_Male_Sword_KaeyaCostumeDancer_Kanban",
+        "Bip001",
+        "Bip001 Pelvis",
+        "+VisionPelvisS L A01"
+      ]
+    }
+  },
+  "renderers": [
+    {
+      "game_object": {
+        "file_id": 0,
+        "path_id": "9041102620360766611"
+      },
+      "header_flags_hex": "010100010001000100000000000001000000000100000000",
+      "lightmap_scale_offset": [
+        1.0,
+        1.0,
+        0.0,
+        0.0
+      ],
+      "dynamic_lightmap_scale_offset": [
+        1.0,
+        1.0,
+        0.0,
+        0.0
+      ],
+      "view_distance_ratio": 1.0,
+      "shader_lod_distance_ratio": 1.0,
+      "materials": [
+        {
+          "file_id": 1,
+          "path_id": "2229495150828588393"
+        }
+      ],
+      "static_batch": [
+        0,
+        0
+      ],
+      "static_batch_root": {
+        "file_id": 0,
+        "path_id": "0"
+      },
+      "material_layers": 1,
+      "probe_anchor": {
+        "file_id": 0,
+        "path_id": "0"
+      },
+      "probe_volume": {
+        "file_id": 0,
+        "path_id": "0"
+      },
+      "sorting": [
+        0,
+        0,
+        0
+      ],
+      "use_highest_mip": 0,
+      "quality": 0,
+      "update_when_offscreen": 0,
+      "skin_normals": 1,
+      "mesh": {
+        "file_id": 2,
+        "path_id": "-5839209172939756552"
+      },
+      "bones": [
+        {
+          "file_id": 0,
+          "path_id": "4333026569144527954"
+        },
+        {
+          "file_id": 0,
+          "path_id": "819363303011661118"
+        },
+        {
+          "file_id": 0,
+          "path_id": "8125831165923973683"
+        },
+        {
+          "file_id": 0,
+          "path_id": "8567479288111214110"
+        },
+        {
+          "file_id": 0,
+          "path_id": "7293698030701236484"
+        },
+        {
+          "file_id": 0,
+          "path_id": "6137942460192773560"
+        },
+        {
+          "file_id": 0,
+          "path_id": "2774441574153422664"
+        },
+        {
+          "file_id": 0,
+          "path_id": "7390949353485782593"
+        },
+        {
+          "file_id": 0,
+          "path_id": "553032455123377504"
+        },
+        {
+          "file_id": 0,
+          "path_id": "3691802865376209078"
+        },
+        {
+          "file_id": 0,
+          "path_id": "-1863019779665556425"
+        },
+        {
+          "file_id": 0,
+          "path_id": "6944201047763824249"
+        },
+        {
+          "file_id": 0,
+          "path_id": "5782375033098683180"
+        },
+        {
+          "file_id": 0,
+          "path_id": "-5371960529216644103"
+        }
+      ],
+      "blend_shape_weights": [],
+      "root_bone": {
+        "file_id": 0,
+        "path_id": "6944201047763824249"
+      },
+      "aabb": [
+        -0.11169645190238953,
+        -0.010470569133758545,
+        0.000360637903213501,
+        0.431021124124527,
+        0.19881883263587952,
+        0.2812415063381195
+      ],
+      "dirty_aabb": 0,
+      "uninterpreted_trailer_hex": "000000000000000000000000000000000000803f00000000",
+      "id": "-7870280292557761156",
+      "name": "EffectMesh",
+      "type_hash": "d74087651cccc56b59dcdac73be06d71",
+      "raw_sha256": "97afd68ac025e6187f80e8015a0c0c16121bbc013d87d775de2faa40b171a267",
+      "mesh_ref": "cab-f973626bb0dd282a0af55ec2c774a451:-5839209172939756552",
+      "material_refs": [
+        "cab-aaa3de6fd3a7cb70814c4c21d76eee6a:2229495150828588393"
+      ],
+      "bone_names": [
+        "+AmiceS R A11",
+        "+AmiceS R A12",
+        "+PelvisTwist CF A01",
+        "+UpperArmTwist L A01",
+        "+UpperArmTwist L A02",
+        "+UpperArmTwist R A01",
+        "+UpperArmTwist R A02",
+        "Bip001 L Clavicle",
+        "Bip001 L Thigh",
+        "Bip001 R Clavicle",
+        "Bip001 R Thigh",
+        "Bip001 Spine",
+        "Bip001 Spine1",
+        "Bip001 Spine2"
+      ],
+      "bone_paths": [
+        [
+          "Avatar_Male_Sword_KaeyaCostumeDancer_Kanban",
+          "Bip001",
+          "Bip001 Pelvis",
+          "Bip001 Spine",
+          "Bip001 Spine1",
+          "Bip001 Spine2",
+          "+AmiceS R A11"
+        ],
+        [
+          "Avatar_Male_Sword_KaeyaCostumeDancer_Kanban",
+          "Bip001",
+          "Bip001 Pelvis",
+          "Bip001 Spine",
+          "Bip001 Spine1",
+          "Bip001 Spine2",
+          "+AmiceS R A11",
+          "+AmiceS R A12"
+        ],
+        [
+          "Avatar_Male_Sword_KaeyaCostumeDancer_Kanban",
+          "Bip001",
+          "+PelvisTwist CF A01"
+        ],
+        [
+          "Avatar_Male_Sword_KaeyaCostumeDancer_Kanban",
+          "Bip001",
+          "Bip001 Pelvis",
+          "Bip001 Spine",
+          "Bip001 Spine1",
+          "Bip001 Spine2",
+          "Bip001 L Clavicle",
+          "Bip001 L UpperArm",
+          "+UpperArmTwist L A01"
+        ],
+        [
+          "Avatar_Male_Sword_KaeyaCostumeDancer_Kanban",
+          "Bip001",
+          "Bip001 Pelvis",
+          "Bip001 Spine",
+          "Bip001 Spine1",
+          "Bip001 Spine2",
+          "Bip001 L Clavicle",
+          "Bip001 L UpperArm",
+          "+UpperArmTwist L A02"
+        ],
+        [
+          "Avatar_Male_Sword_KaeyaCostumeDancer_Kanban",
+          "Bip001",
+          "Bip001 Pelvis",
+          "Bip001 Spine",
+          "Bip001 Spine1",
+          "Bip001 Spine2",
+          "Bip001 R Clavicle",
+          "Bip001 R UpperArm",
+          "+UpperArmTwist R A01"
+        ],
+        [
+          "Avatar_Male_Sword_KaeyaCostumeDancer_Kanban",
+          "Bip001",
+          "Bip001 Pelvis",
+          "Bip001 Spine",
+          "Bip001 Spine1",
+          "Bip001 Spine2",
+          "Bip001 R Clavicle",
+          "Bip001 R UpperArm",
+          "+UpperArmTwist R A02"
+        ],
+        [
+          "Avatar_Male_Sword_KaeyaCostumeDancer_Kanban",
+          "Bip001",
+          "Bip001 Pelvis",
+          "Bip001 Spine",
+          "Bip001 Spine1",
+          "Bip001 Spine2",
+          "Bip001 L Clavicle"
+        ],
+        [
+          "Avatar_Male_Sword_KaeyaCostumeDancer_Kanban",
+          "Bip001",
+          "Bip001 Pelvis",
+          "Bip001 L Thigh"
+        ],
+        [
+          "Avatar_Male_Sword_KaeyaCostumeDancer_Kanban",
+          "Bip001",
+          "Bip001 Pelvis",
+          "Bip001 Spine",
+          "Bip001 Spine1",
+          "Bip001 Spine2",
+          "Bip001 R Clavicle"
+        ],
+        [
+          "Avatar_Male_Sword_KaeyaCostumeDancer_Kanban",
+          "Bip001",
+          "Bip001 Pelvis",
+          "Bip001 R Thigh"
+        ],
+        [
+          "Avatar_Male_Sword_KaeyaCostumeDancer_Kanban",
+          "Bip001",
+          "Bip001 Pelvis",
+          "Bip001 Spine"
+        ],
+        [
+          "Avatar_Male_Sword_KaeyaCostumeDancer_Kanban",
+          "Bip001",
+          "Bip001 Pelvis",
+          "Bip001 Spine",
+          "Bip001 Spine1"
+        ],
+        [
+          "Avatar_Male_Sword_KaeyaCostumeDancer_Kanban",
+          "Bip001",
+          "Bip001 Pelvis",
+          "Bip001 Spine",
+          "Bip001 Spine1",
+          "Bip001 Spine2"
+        ]
+      ]
+    },
+    {
+      "game_object": {
+        "file_id": 0,
+        "path_id": "2701909445534533092"
+      },
+      "header_flags_hex": "010100010001000100000000000001000000000100000000",
+      "lightmap_scale_offset": [
+        1.0,
+        1.0,
+        0.0,
+        0.0
+      ],
+      "dynamic_lightmap_scale_offset": [
+        1.0,
+        1.0,
+        0.0,
+        0.0
+      ],
+      "view_distance_ratio": 16.0,
+      "shader_lod_distance_ratio": 1.0,
+      "materials": [
+        {
+          "file_id": 4,
+          "path_id": "4430642093502195239"
+        }
+      ],
+      "static_batch": [
+        0,
+        0
+      ],
+      "static_batch_root": {
+        "file_id": 0,
+        "path_id": "0"
+      },
+      "material_layers": 1,
+      "probe_anchor": {
+        "file_id": 0,
+        "path_id": "0"
+      },
+      "probe_volume": {
+        "file_id": 0,
+        "path_id": "0"
+      },
+      "sorting": [
+        0,
+        0,
+        0
+      ],
+      "use_highest_mip": 0,
+      "quality": 0,
+      "update_when_offscreen": 0,
+      "skin_normals": 1,
+      "mesh": {
+        "file_id": 2,
+        "path_id": "5421526410658066040"
+      },
+      "bones": [
+        {
+          "file_id": 0,
+          "path_id": "-2996088346415529931"
+        },
+        {
+          "file_id": 0,
+          "path_id": "5741079162104622896"
+        },
+        {
+          "file_id": 0,
+          "path_id": "-710602615991358924"
+        }
+      ],
+      "blend_shape_weights": [],
+      "root_bone": {
+        "file_id": 0,
+        "path_id": "-710602615991358924"
+      },
+      "aabb": [
+        -0.07873199880123138,
+        0.04505500942468643,
+        -9.98377799987793e-07,
+        0.10731850564479828,
+        0.07250596582889557,
+        0.08335167169570923
+      ],
+      "dirty_aabb": 0,
+      "uninterpreted_trailer_hex": "000000000000000000000000000000000000803f01000000",
+      "id": "-3036417627280442566",
+      "name": "Face",
+      "type_hash": "d74087651cccc56b59dcdac73be06d71",
+      "raw_sha256": "be086ef0757109eb92def2c4cc8e31dd8826cc720d586a1a3ce5ca3c5f79aa81",
+      "mesh_ref": "cab-f973626bb0dd282a0af55ec2c774a451:5421526410658066040",
+      "material_refs": [
+        "cab-9942a5d1be693294b173a463bbfd8029:4430642093502195239"
+      ],
+      "bone_names": [
+        "+ToothBone D A01",
+        "+ToothBone U A01",
+        "Bip001 Head"
+      ],
+      "bone_paths": [
+        [
+          "Avatar_Male_Sword_KaeyaCostumeDancer_Kanban",
+          "Bip001",
+          "Bip001 Pelvis",
+          "Bip001 Spine",
+          "Bip001 Spine1",
+          "Bip001 Spine2",
+          "Bip001 Neck",
+          "Bip001 Head",
+          "+ToothBone D A01"
+        ],
+        [
+          "Avatar_Male_Sword_KaeyaCostumeDancer_Kanban",
+          "Bip001",
+          "Bip001 Pelvis",
+          "Bip001 Spine",
+          "Bip001 Spine1",
+          "Bip001 Spine2",
+          "Bip001 Neck",
+          "Bip001 Head",
+          "+ToothBone U A01"
+        ],
+        [
+          "Avatar_Male_Sword_KaeyaCostumeDancer_Kanban",
+          "Bip001",
+          "Bip001 Pelvis",
+          "Bip001 Spine",
+          "Bip001 Spine1",
+          "Bip001 Spine2",
+          "Bip001 Neck",
+          "Bip001 Head"
+        ]
+      ]
+    },
+    {
+      "game_object": {
+        "file_id": 0,
+        "path_id": "3638925709471557512"
+      },
+      "header_flags_hex": "010100010001000100000000000001000000000100000000",
+      "lightmap_scale_offset": [
+        1.0,
+        1.0,
+        0.0,
+        0.0
+      ],
+      "dynamic_lightmap_scale_offset": [
+        1.0,
+        1.0,
+        0.0,
+        0.0
+      ],
+      "view_distance_ratio": 16.0,
+      "shader_lod_distance_ratio": 1.0,
+      "materials": [
+        {
+          "file_id": 5,
+          "path_id": "5549645015113339631"
+        },
+        {
+          "file_id": 6,
+          "path_id": "-7675637888933940264"
+        },
+        {
+          "file_id": 7,
+          "path_id": "-8027224070026782849"
+        }
+      ],
+      "static_batch": [
+        0,
+        0
+      ],
+      "static_batch_root": {
+        "file_id": 0,
+        "path_id": "0"
+      },
+      "material_layers": 1,
+      "probe_anchor": {
+        "file_id": 0,
+        "path_id": "0"
+      },
+      "probe_volume": {
+        "file_id": 0,
+        "path_id": "0"
+      },
+      "sorting": [
+        0,
+        0,
+        0
+      ],
+      "use_highest_mip": 0,
+      "quality": 0,
+      "update_when_offscreen": 0,
+      "skin_normals": 1,
+      "mesh": {
+        "file_id": 2,
+        "path_id": "-4963496352896959583"
+      },
+      "bones": [
+        {
+          "file_id": 0,
+          "path_id": "8569579622222438116"
+        },
+        {
+          "file_id": 0,
+          "path_id": "5093036845173260654"
+        },
+        {
+          "file_id": 0,
+          "path_id": "2486541071177033570"
+        },
+        {
+          "file_id": 0,
+          "path_id": "6476663331257313789"
+        },
+        {
+          "file_id": 0,
+          "path_id": "-7998226029406787665"
+        },
+        {
+          "file_id": 0,
+          "path_id": "6138815176021582443"
+        },
+        {
+          "file_id": 0,
+          "path_id": "3137485308883367548"
+        },
+        {
+          "file_id": 0,
+          "path_id": "-2936957726015249088"
+        },
+        {
+          "file_id": 0,
+          "path_id": "-4513651018809629697"
+        },
+        {
+          "file_id": 0,
+          "path_id": "6187068310098934595"
+        },
+        {
+          "file_id": 0,
+          "path_id": "8523797333475485807"
+        },
+        {
+          "file_id": 0,
+          "path_id": "-6930388867064314161"
+        },
+        {
+          "file_id": 0,
+          "path_id": "4333026569144527954"
+        },
+        {
+          "file_id": 0,
+          "path_id": "819363303011661118"
+        },
+        {
+          "file_id": 0,
+          "path_id": "7371043497204618129"
+        },
+        {
+          "file_id": 0,
+          "path_id": "-4647373060774328436"
+        },
+        {
+          "file_id": 0,
+          "path_id": "-3951202848037201851"
+        },
+        {
+          "file_id": 0,
+          "path_id": "3875241085342078808"
+        },
+        {
+          "file_id": 0,
+          "path_id": "-1567213392422975860"
+        },
+        {
+          "file_id": 0,
+          "path_id": "8125831165923973683"
+        },
+        {
+          "file_id": 0,
+          "path_id": "8567479288111214110"
+        },
+        {
+          "file_id": 0,
+          "path_id": "7293698030701236484"
+        },
+        {
+          "file_id": 0,
+          "path_id": "6137942460192773560"
+        },
+        {
+          "file_id": 0,
+          "path_id": "2774441574153422664"
+        },
+        {
+          "file_id": 0,
+          "path_id": "-710602615991358924"
+        },
+        {
+          "file_id": 0,
+          "path_id": "-6959342834792192360"
+        },
+        {
+          "file_id": 0,
+          "path_id": "7390949353485782593"
+        },
+        {
+          "file_id": 0,
+          "path_id": "-1021351061392567678"
+        },
+        {
+          "file_id": 0,
+          "path_id": "1754501941992020043"
+        },
+        {
+          "file_id": 0,
+          "path_id": "4031398686336029890"
+        },
+        {
+          "file_id": 0,
+          "path_id": "-2370716365919906006"
+        },
+        {
+          "file_id": 0,
+          "path_id": "5672899438990791010"
+        },
+        {
+          "file_id": 0,
+          "path_id": "-2720979688412476157"
+        },
+        {
+          "file_id": 0,
+          "path_id": "2270866928648157845"
+        },
+        {
+          "file_id": 0,
+          "path_id": "2304328298029366160"
+        },
+        {
+          "file_id": 0,
+          "path_id": "3756780092453750275"
+        },
+        {
+          "file_id": 0,
+          "path_id": "3416374428992066582"
+        },
+        {
+          "file_id": 0,
+          "path_id": "234505996655728355"
+        },
+        {
+          "file_id": 0,
+          "path_id": "-5413557043372285693"
+        },
+        {
+          "file_id": 0,
+          "path_id": "8404129890049566196"
+        },
+        {
+          "file_id": 0,
+          "path_id": "4616331154217304584"
+        },
+        {
+          "file_id": 0,
+          "path_id": "4792918373164804675"
+        },
+        {
+          "file_id": 0,
+          "path_id": "553032455123377504"
+        },
+        {
+          "file_id": 0,
+          "path_id": "-3161925583607766888"
+        },
+        {
+          "file_id": 0,
+          "path_id": "8746388705638818526"
+        },
+        {
+          "file_id": 0,
+          "path_id": "-3737593065289244685"
+        },
+        {
+          "file_id": 0,
+          "path_id": "3691802865376209078"
+        },
+        {
+          "file_id": 0,
+          "path_id": "-1168113475151164883"
+        },
+        {
+          "file_id": 0,
+          "path_id": "6372545794480245851"
+        },
+        {
+          "file_id": 0,
+          "path_id": "-3554915242260329177"
+        },
+        {
+          "file_id": 0,
+          "path_id": "4111184019120662995"
+        },
+        {
+          "file_id": 0,
+          "path_id": "5263194361333402254"
+        },
+        {
+          "file_id": 0,
+          "path_id": "1959752994422947683"
+        },
+        {
+          "file_id": 0,
+          "path_id": "4087291621995186020"
+        },
+        {
+          "file_id": 0,
+          "path_id": "152700499781251172"
+        },
+        {
+          "file_id": 0,
+          "path_id": "4421989792111562817"
+        },
+        {
+          "file_id": 0,
+          "path_id": "9163499151873170541"
+        },
+        {
+          "file_id": 0,
+          "path_id": "987406354024313467"
+        },
+        {
+          "file_id": 0,
+          "path_id": "-1526298625528557102"
+        },
+        {
+          "file_id": 0,
+          "path_id": "-8956839080033403645"
+        },
+        {
+          "file_id": 0,
+          "path_id": "-2614342014661523084"
+        },
+        {
+          "file_id": 0,
+          "path_id": "5849290048534608604"
+        },
+        {
+          "file_id": 0,
+          "path_id": "-1863019779665556425"
+        },
+        {
+          "file_id": 0,
+          "path_id": "7894334786515178627"
+        },
+        {
+          "file_id": 0,
+          "path_id": "6944201047763824249"
+        },
+        {
+          "file_id": 0,
+          "path_id": "5782375033098683180"
+        },
+        {
+          "file_id": 0,
+          "path_id": "-5371960529216644103"
+        },
+        {
+          "file_id": 0,
+          "path_id": "-2185448345762486725"
+        },
+        {
+          "file_id": 0,
+          "path_id": "5282687593750871872"
+        },
+        {
+          "file_id": 0,
+          "path_id": "1078767815827299317"
+        },
+        {
+          "file_id": 0,
+          "path_id": "-6638414074612158923"
+        },
+        {
+          "file_id": 0,
+          "path_id": "-3468892312782523528"
+        },
+        {
+          "file_id": 0,
+          "path_id": "1986741195799458062"
+        }
+      ],
+      "blend_shape_weights": [],
+      "root_bone": {
+        "file_id": 0,
+        "path_id": "6944201047763824249"
+      },
+      "aabb": [
+        0.21139201521873474,
+        -0.05153168737888336,
+        8.344650268554688e-07,
+        0.9486207962036133,
+        0.2939826250076294,
+        0.5271084308624268
+      ],
+      "dirty_aabb": 0,
+      "uninterpreted_trailer_hex": "000000000000000000000000000000000000803f01000000",
+      "id": "-1172183136402470655",
+      "name": "Body",
+      "type_hash": "d74087651cccc56b59dcdac73be06d71",
+      "raw_sha256": "6c3de85bf2fa2a52f7b0b3d47a95545ebe7b57d8e3ec1d9aad5f0db854b89e78",
+      "mesh_ref": "cab-f973626bb0dd282a0af55ec2c774a451:-4963496352896959583",
+      "material_refs": [
+        "cab-1ab066a79df31662afc4ca49633135bd:5549645015113339631",
+        "cab-7d871fade1525e17cd3f03decbdc54a5:-7675637888933940264",
+        "cab-89d35b44add50db29392964c70ed4001:-8027224070026782849"
+      ],
+      "bone_names": [
+        "+AmiceB L B01",
+        "+AmiceB L B02",
+        "+AmiceB L B03",
+        "+AmiceB L B04",
+        "+AmiceB L B11",
+        "+AmiceB L B12",
+        "+AmiceB L B13",
+        "+AmiceB L B14",
+        "+AmiceB L B15",
+        "+AmiceF L B01",
+        "+AmiceF L B02",
+        "+AmiceF L B03",
+        "+AmiceS R A11",
+        "+AmiceS R A12",
+        "+AmiceS R B11",
+        "+EyeBone L A02",
+        "+EyeBone R A02",
+        "+HairS R A01",
+        "+HairS R A02",
+        "+PelvisTwist CF A01",
+        "+UpperArmTwist L A01",
+        "+UpperArmTwist L A02",
+        "+UpperArmTwist R A01",
+        "+UpperArmTwist R A02",
+        "Bip001 Head",
+        "Bip001 L Calf",
+        "Bip001 L Clavicle",
+        "Bip001 L Finger1",
+        "Bip001 L Finger11",
+        "Bip001 L Finger12",
+        "Bip001 L Finger2",
+        "Bip001 L Finger21",
+        "Bip001 L Finger22",
+        "Bip001 L Finger3",
+        "Bip001 L Finger31",
+        "Bip001 L Finger32",
+        "Bip001 L Finger4",
+        "Bip001 L Finger41",
+        "Bip001 L Finger42",
+        "Bip001 L Foot",
+        "Bip001 L Forearm",
+        "Bip001 L Hand",
+        "Bip001 L Thigh",
+        "Bip001 L Toe0",
+        "Bip001 Neck",
+        "Bip001 R Calf",
+        "Bip001 R Clavicle",
+        "Bip001 R Finger1",
+        "Bip001 R Finger11",
+        "Bip001 R Finger12",
+        "Bip001 R Finger2",
+        "Bip001 R Finger21",
+        "Bip001 R Finger22",
+        "Bip001 R Finger3",
+        "Bip001 R Finger31",
+        "Bip001 R Finger32",
+        "Bip001 R Finger4",
+        "Bip001 R Finger41",
+        "Bip001 R Finger42",
+        "Bip001 R Foot",
+        "Bip001 R Forearm",
+        "Bip001 R Hand",
+        "Bip001 R Thigh",
+        "Bip001 R Toe0",
+        "Bip001 Spine",
+        "Bip001 Spine1",
+        "Bip001 Spine2",
+        "DMZ L 01",
+        "DMZ L 02",
+        "DMZ L 03",
+        "DMZ R 01",
+        "DMZ R 02",
+        "DMZ R 03"
+      ],
+      "bone_paths": [
+        [
+          "Avatar_Male_Sword_KaeyaCostumeDancer_Kanban",
+          "Bip001",
+          "Bip001 Pelvis",
+          "Bip001 Spine",
+          "Bip001 Spine1",
+          "Bip001 Spine2",
+          "Bip001 L Clavicle",
+          "+AmiceB L B01"
+        ],
+        [
+          "Avatar_Male_Sword_KaeyaCostumeDancer_Kanban",
+          "Bip001",
+          "Bip001 Pelvis",
+          "Bip001 Spine",
+          "Bip001 Spine1",
+          "Bip001 Spine2",
+          "Bip001 L Clavicle",
+          "+AmiceB L B01",
+          "+AmiceB L B02"
+        ],
+        [
+          "Avatar_Male_Sword_KaeyaCostumeDancer_Kanban",
+          "Bip001",
+          "Bip001 Pelvis",
+          "Bip001 Spine",
+          "Bip001 Spine1",
+          "Bip001 Spine2",
+          "Bip001 L Clavicle",
+          "+AmiceB L B01",
+          "+AmiceB L B02",
+          "+AmiceB L B03"
+        ],
+        [
+          "Avatar_Male_Sword_KaeyaCostumeDancer_Kanban",
+          "Bip001",
+          "Bip001 Pelvis",
+          "Bip001 Spine",
+          "Bip001 Spine1",
+          "Bip001 Spine2",
+          "Bip001 L Clavicle",
+          "+AmiceB L B01",
+          "+AmiceB L B02",
+          "+AmiceB L B03",
+          "+AmiceB L B04"
+        ],
+        [
+          "Avatar_Male_Sword_KaeyaCostumeDancer_Kanban",
+          "Bip001",
+          "Bip001 Pelvis",
+          "Bip001 Spine",
+          "Bip001 Spine1",
+          "Bip001 Spine2",
+          "+AmiceB L B11"
+        ],
+        [
+          "Avatar_Male_Sword_KaeyaCostumeDancer_Kanban",
+          "Bip001",
+          "Bip001 Pelvis",
+          "Bip001 Spine",
+          "Bip001 Spine1",
+          "Bip001 Spine2",
+          "+AmiceB L B11",
+          "+AmiceB L B12"
+        ],
+        [
+          "Avatar_Male_Sword_KaeyaCostumeDancer_Kanban",
+          "Bip001",
+          "Bip001 Pelvis",
+          "Bip001 Spine",
+          "Bip001 Spine1",
+          "Bip001 Spine2",
+          "+AmiceB L B11",
+          "+AmiceB L B12",
+          "+AmiceB L B13"
+        ],
+        [
+          "Avatar_Male_Sword_KaeyaCostumeDancer_Kanban",
+          "Bip001",
+          "Bip001 Pelvis",
+          "Bip001 Spine",
+          "Bip001 Spine1",
+          "Bip001 Spine2",
+          "+AmiceB L B11",
+          "+AmiceB L B12",
+          "+AmiceB L B13",
+          "+AmiceB L B14"
+        ],
+        [
+          "Avatar_Male_Sword_KaeyaCostumeDancer_Kanban",
+          "Bip001",
+          "Bip001 Pelvis",
+          "Bip001 Spine",
+          "Bip001 Spine1",
+          "Bip001 Spine2",
+          "+AmiceB L B11",
+          "+AmiceB L B12",
+          "+AmiceB L B13",
+          "+AmiceB L B14",
+          "+AmiceB L B15"
+        ],
+        [
+          "Avatar_Male_Sword_KaeyaCostumeDancer_Kanban",
+          "Bip001",
+          "Bip001 Pelvis",
+          "Bip001 Spine",
+          "Bip001 Spine1",
+          "Bip001 Spine2",
+          "+AmiceF L B01"
+        ],
+        [
+          "Avatar_Male_Sword_KaeyaCostumeDancer_Kanban",
+          "Bip001",
+          "Bip001 Pelvis",
+          "Bip001 Spine",
+          "Bip001 Spine1",
+          "Bip001 Spine2",
+          "+AmiceF L B01",
+          "+AmiceF L B02"
+        ],
+        [
+          "Avatar_Male_Sword_KaeyaCostumeDancer_Kanban",
+          "Bip001",
+          "Bip001 Pelvis",
+          "Bip001 Spine",
+          "Bip001 Spine1",
+          "Bip001 Spine2",
+          "+AmiceF L B01",
+          "+AmiceF L B02",
+          "+AmiceF L B03"
+        ],
+        [
+          "Avatar_Male_Sword_KaeyaCostumeDancer_Kanban",
+          "Bip001",
+          "Bip001 Pelvis",
+          "Bip001 Spine",
+          "Bip001 Spine1",
+          "Bip001 Spine2",
+          "+AmiceS R A11"
+        ],
+        [
+          "Avatar_Male_Sword_KaeyaCostumeDancer_Kanban",
+          "Bip001",
+          "Bip001 Pelvis",
+          "Bip001 Spine",
+          "Bip001 Spine1",
+          "Bip001 Spine2",
+          "+AmiceS R A11",
+          "+AmiceS R A12"
+        ],
+        [
+          "Avatar_Male_Sword_KaeyaCostumeDancer_Kanban",
+          "Bip001",
+          "Bip001 Pelvis",
+          "Bip001 Spine",
+          "Bip001 Spine1",
+          "Bip001 Spine2",
+          "Bip001 R Clavicle",
+          "+AmiceS R B11"
+        ],
+        [
+          "Avatar_Male_Sword_KaeyaCostumeDancer_Kanban",
+          "Bip001",
+          "Bip001 Pelvis",
+          "Bip001 Spine",
+          "Bip001 Spine1",
+          "Bip001 Spine2",
+          "Bip001 Neck",
+          "Bip001 Head",
+          "+EyeBone L A01",
+          "+EyeBone L A02"
+        ],
+        [
+          "Avatar_Male_Sword_KaeyaCostumeDancer_Kanban",
+          "Bip001",
+          "Bip001 Pelvis",
+          "Bip001 Spine",
+          "Bip001 Spine1",
+          "Bip001 Spine2",
+          "Bip001 Neck",
+          "Bip001 Head",
+          "+EyeBone R A01",
+          "+EyeBone R A02"
+        ],
+        [
+          "Avatar_Male_Sword_KaeyaCostumeDancer_Kanban",
+          "Bip001",
+          "Bip001 Pelvis",
+          "Bip001 Spine",
+          "Bip001 Spine1",
+          "Bip001 Spine2",
+          "Bip001 Neck",
+          "Bip001 Head",
+          "+HairS R A01"
+        ],
+        [
+          "Avatar_Male_Sword_KaeyaCostumeDancer_Kanban",
+          "Bip001",
+          "Bip001 Pelvis",
+          "Bip001 Spine",
+          "Bip001 Spine1",
+          "Bip001 Spine2",
+          "Bip001 Neck",
+          "Bip001 Head",
+          "+HairS R A01",
+          "+HairS R A02"
+        ],
+        [
+          "Avatar_Male_Sword_KaeyaCostumeDancer_Kanban",
+          "Bip001",
+          "+PelvisTwist CF A01"
+        ],
+        [
+          "Avatar_Male_Sword_KaeyaCostumeDancer_Kanban",
+          "Bip001",
+          "Bip001 Pelvis",
+          "Bip001 Spine",
+          "Bip001 Spine1",
+          "Bip001 Spine2",
+          "Bip001 L Clavicle",
+          "Bip001 L UpperArm",
+          "+UpperArmTwist L A01"
+        ],
+        [
+          "Avatar_Male_Sword_KaeyaCostumeDancer_Kanban",
+          "Bip001",
+          "Bip001 Pelvis",
+          "Bip001 Spine",
+          "Bip001 Spine1",
+          "Bip001 Spine2",
+          "Bip001 L Clavicle",
+          "Bip001 L UpperArm",
+          "+UpperArmTwist L A02"
+        ],
+        [
+          "Avatar_Male_Sword_KaeyaCostumeDancer_Kanban",
+          "Bip001",
+          "Bip001 Pelvis",
+          "Bip001 Spine",
+          "Bip001 Spine1",
+          "Bip001 Spine2",
+          "Bip001 R Clavicle",
+          "Bip001 R UpperArm",
+          "+UpperArmTwist R A01"
+        ],
+        [
+          "Avatar_Male_Sword_KaeyaCostumeDancer_Kanban",
+          "Bip001",
+          "Bip001 Pelvis",
+          "Bip001 Spine",
+          "Bip001 Spine1",
+          "Bip001 Spine2",
+          "Bip001 R Clavicle",
+          "Bip001 R UpperArm",
+          "+UpperArmTwist R A02"
+        ],
+        [
+          "Avatar_Male_Sword_KaeyaCostumeDancer_Kanban",
+          "Bip001",
+          "Bip001 Pelvis",
+          "Bip001 Spine",
+          "Bip001 Spine1",
+          "Bip001 Spine2",
+          "Bip001 Neck",
+          "Bip001 Head"
+        ],
+        [
+          "Avatar_Male_Sword_KaeyaCostumeDancer_Kanban",
+          "Bip001",
+          "Bip001 Pelvis",
+          "Bip001 L Thigh",
+          "Bip001 L Calf"
+        ],
+        [
+          "Avatar_Male_Sword_KaeyaCostumeDancer_Kanban",
+          "Bip001",
+          "Bip001 Pelvis",
+          "Bip001 Spine",
+          "Bip001 Spine1",
+          "Bip001 Spine2",
+          "Bip001 L Clavicle"
+        ],
+        [
+          "Avatar_Male_Sword_KaeyaCostumeDancer_Kanban",
+          "Bip001",
+          "Bip001 Pelvis",
+          "Bip001 Spine",
+          "Bip001 Spine1",
+          "Bip001 Spine2",
+          "Bip001 L Clavicle",
+          "Bip001 L UpperArm",
+          "Bip001 L Forearm",
+          "Bip001 L Hand",
+          "Bip001 L Finger1"
+        ],
+        [
+          "Avatar_Male_Sword_KaeyaCostumeDancer_Kanban",
+          "Bip001",
+          "Bip001 Pelvis",
+          "Bip001 Spine",
+          "Bip001 Spine1",
+          "Bip001 Spine2",
+          "Bip001 L Clavicle",
+          "Bip001 L UpperArm",
+          "Bip001 L Forearm",
+          "Bip001 L Hand",
+          "Bip001 L Finger1",
+          "Bip001 L Finger11"
+        ],
+        [
+          "Avatar_Male_Sword_KaeyaCostumeDancer_Kanban",
+          "Bip001",
+          "Bip001 Pelvis",
+          "Bip001 Spine",
+          "Bip001 Spine1",
+          "Bip001 Spine2",
+          "Bip001 L Clavicle",
+          "Bip001 L UpperArm",
+          "Bip001 L Forearm",
+          "Bip001 L Hand",
+          "Bip001 L Finger1",
+          "Bip001 L Finger11",
+          "Bip001 L Finger12"
+        ],
+        [
+          "Avatar_Male_Sword_KaeyaCostumeDancer_Kanban",
+          "Bip001",
+          "Bip001 Pelvis",
+          "Bip001 Spine",
+          "Bip001 Spine1",
+          "Bip001 Spine2",
+          "Bip001 L Clavicle",
+          "Bip001 L UpperArm",
+          "Bip001 L Forearm",
+          "Bip001 L Hand",
+          "Bip001 L Finger2"
+        ],
+        [
+          "Avatar_Male_Sword_KaeyaCostumeDancer_Kanban",
+          "Bip001",
+          "Bip001 Pelvis",
+          "Bip001 Spine",
+          "Bip001 Spine1",
+          "Bip001 Spine2",
+          "Bip001 L Clavicle",
+          "Bip001 L UpperArm",
+          "Bip001 L Forearm",
+          "Bip001 L Hand",
+          "Bip001 L Finger2",
+          "Bip001 L Finger21"
+        ],
+        [
+          "Avatar_Male_Sword_KaeyaCostumeDancer_Kanban",
+          "Bip001",
+          "Bip001 Pelvis",
+          "Bip001 Spine",
+          "Bip001 Spine1",
+          "Bip001 Spine2",
+          "Bip001 L Clavicle",
+          "Bip001 L UpperArm",
+          "Bip001 L Forearm",
+          "Bip001 L Hand",
+          "Bip001 L Finger2",
+          "Bip001 L Finger21",
+          "Bip001 L Finger22"
+        ],
+        [
+          "Avatar_Male_Sword_KaeyaCostumeDancer_Kanban",
+          "Bip001",
+          "Bip001 Pelvis",
+          "Bip001 Spine",
+          "Bip001 Spine1",
+          "Bip001 Spine2",
+          "Bip001 L Clavicle",
+          "Bip001 L UpperArm",
+          "Bip001 L Forearm",
+          "Bip001 L Hand",
+          "Bip001 L Finger3"
+        ],
+        [
+          "Avatar_Male_Sword_KaeyaCostumeDancer_Kanban",
+          "Bip001",
+          "Bip001 Pelvis",
+          "Bip001 Spine",
+          "Bip001 Spine1",
+          "Bip001 Spine2",
+          "Bip001 L Clavicle",
+          "Bip001 L UpperArm",
+          "Bip001 L Forearm",
+          "Bip001 L Hand",
+          "Bip001 L Finger3",
+          "Bip001 L Finger31"
+        ],
+        [
+          "Avatar_Male_Sword_KaeyaCostumeDancer_Kanban",
+          "Bip001",
+          "Bip001 Pelvis",
+          "Bip001 Spine",
+          "Bip001 Spine1",
+          "Bip001 Spine2",
+          "Bip001 L Clavicle",
+          "Bip001 L UpperArm",
+          "Bip001 L Forearm",
+          "Bip001 L Hand",
+          "Bip001 L Finger3",
+          "Bip001 L Finger31",
+          "Bip001 L Finger32"
+        ],
+        [
+          "Avatar_Male_Sword_KaeyaCostumeDancer_Kanban",
+          "Bip001",
+          "Bip001 Pelvis",
+          "Bip001 Spine",
+          "Bip001 Spine1",
+          "Bip001 Spine2",
+          "Bip001 L Clavicle",
+          "Bip001 L UpperArm",
+          "Bip001 L Forearm",
+          "Bip001 L Hand",
+          "Bip001 L Finger4"
+        ],
+        [
+          "Avatar_Male_Sword_KaeyaCostumeDancer_Kanban",
+          "Bip001",
+          "Bip001 Pelvis",
+          "Bip001 Spine",
+          "Bip001 Spine1",
+          "Bip001 Spine2",
+          "Bip001 L Clavicle",
+          "Bip001 L UpperArm",
+          "Bip001 L Forearm",
+          "Bip001 L Hand",
+          "Bip001 L Finger4",
+          "Bip001 L Finger41"
+        ],
+        [
+          "Avatar_Male_Sword_KaeyaCostumeDancer_Kanban",
+          "Bip001",
+          "Bip001 Pelvis",
+          "Bip001 Spine",
+          "Bip001 Spine1",
+          "Bip001 Spine2",
+          "Bip001 L Clavicle",
+          "Bip001 L UpperArm",
+          "Bip001 L Forearm",
+          "Bip001 L Hand",
+          "Bip001 L Finger4",
+          "Bip001 L Finger41",
+          "Bip001 L Finger42"
+        ],
+        [
+          "Avatar_Male_Sword_KaeyaCostumeDancer_Kanban",
+          "Bip001",
+          "Bip001 Pelvis",
+          "Bip001 L Thigh",
+          "Bip001 L Calf",
+          "Bip001 L Foot"
+        ],
+        [
+          "Avatar_Male_Sword_KaeyaCostumeDancer_Kanban",
+          "Bip001",
+          "Bip001 Pelvis",
+          "Bip001 Spine",
+          "Bip001 Spine1",
+          "Bip001 Spine2",
+          "Bip001 L Clavicle",
+          "Bip001 L UpperArm",
+          "Bip001 L Forearm"
+        ],
+        [
+          "Avatar_Male_Sword_KaeyaCostumeDancer_Kanban",
+          "Bip001",
+          "Bip001 Pelvis",
+          "Bip001 Spine",
+          "Bip001 Spine1",
+          "Bip001 Spine2",
+          "Bip001 L Clavicle",
+          "Bip001 L UpperArm",
+          "Bip001 L Forearm",
+          "Bip001 L Hand"
+        ],
+        [
+          "Avatar_Male_Sword_KaeyaCostumeDancer_Kanban",
+          "Bip001",
+          "Bip001 Pelvis",
+          "Bip001 L Thigh"
+        ],
+        [
+          "Avatar_Male_Sword_KaeyaCostumeDancer_Kanban",
+          "Bip001",
+          "Bip001 Pelvis",
+          "Bip001 L Thigh",
+          "Bip001 L Calf",
+          "Bip001 L Foot",
+          "Bip001 L Toe0"
+        ],
+        [
+          "Avatar_Male_Sword_KaeyaCostumeDancer_Kanban",
+          "Bip001",
+          "Bip001 Pelvis",
+          "Bip001 Spine",
+          "Bip001 Spine1",
+          "Bip001 Spine2",
+          "Bip001 Neck"
+        ],
+        [
+          "Avatar_Male_Sword_KaeyaCostumeDancer_Kanban",
+          "Bip001",
+          "Bip001 Pelvis",
+          "Bip001 R Thigh",
+          "Bip001 R Calf"
+        ],
+        [
+          "Avatar_Male_Sword_KaeyaCostumeDancer_Kanban",
+          "Bip001",
+          "Bip001 Pelvis",
+          "Bip001 Spine",
+          "Bip001 Spine1",
+          "Bip001 Spine2",
+          "Bip001 R Clavicle"
+        ],
+        [
+          "Avatar_Male_Sword_KaeyaCostumeDancer_Kanban",
+          "Bip001",
+          "Bip001 Pelvis",
+          "Bip001 Spine",
+          "Bip001 Spine1",
+          "Bip001 Spine2",
+          "Bip001 R Clavicle",
+          "Bip001 R UpperArm",
+          "Bip001 R Forearm",
+          "Bip001 R Hand",
+          "Bip001 R Finger1"
+        ],
+        [
+          "Avatar_Male_Sword_KaeyaCostumeDancer_Kanban",
+          "Bip001",
+          "Bip001 Pelvis",
+          "Bip001 Spine",
+          "Bip001 Spine1",
+          "Bip001 Spine2",
+          "Bip001 R Clavicle",
+          "Bip001 R UpperArm",
+          "Bip001 R Forearm",
+          "Bip001 R Hand",
+          "Bip001 R Finger1",
+          "Bip001 R Finger11"
+        ],
+        [
+          "Avatar_Male_Sword_KaeyaCostumeDancer_Kanban",
+          "Bip001",
+          "Bip001 Pelvis",
+          "Bip001 Spine",
+          "Bip001 Spine1",
+          "Bip001 Spine2",
+          "Bip001 R Clavicle",
+          "Bip001 R UpperArm",
+          "Bip001 R Forearm",
+          "Bip001 R Hand",
+          "Bip001 R Finger1",
+          "Bip001 R Finger11",
+          "Bip001 R Finger12"
+        ],
+        [
+          "Avatar_Male_Sword_KaeyaCostumeDancer_Kanban",
+          "Bip001",
+          "Bip001 Pelvis",
+          "Bip001 Spine",
+          "Bip001 Spine1",
+          "Bip001 Spine2",
+          "Bip001 R Clavicle",
+          "Bip001 R UpperArm",
+          "Bip001 R Forearm",
+          "Bip001 R Hand",
+          "Bip001 R Finger2"
+        ],
+        [
+          "Avatar_Male_Sword_KaeyaCostumeDancer_Kanban",
+          "Bip001",
+          "Bip001 Pelvis",
+          "Bip001 Spine",
+          "Bip001 Spine1",
+          "Bip001 Spine2",
+          "Bip001 R Clavicle",
+          "Bip001 R UpperArm",
+          "Bip001 R Forearm",
+          "Bip001 R Hand",
+          "Bip001 R Finger2",
+          "Bip001 R Finger21"
+        ],
+        [
+          "Avatar_Male_Sword_KaeyaCostumeDancer_Kanban",
+          "Bip001",
+          "Bip001 Pelvis",
+          "Bip001 Spine",
+          "Bip001 Spine1",
+          "Bip001 Spine2",
+          "Bip001 R Clavicle",
+          "Bip001 R UpperArm",
+          "Bip001 R Forearm",
+          "Bip001 R Hand",
+          "Bip001 R Finger2",
+          "Bip001 R Finger21",
+          "Bip001 R Finger22"
+        ],
+        [
+          "Avatar_Male_Sword_KaeyaCostumeDancer_Kanban",
+          "Bip001",
+          "Bip001 Pelvis",
+          "Bip001 Spine",
+          "Bip001 Spine1",
+          "Bip001 Spine2",
+          "Bip001 R Clavicle",
+          "Bip001 R UpperArm",
+          "Bip001 R Forearm",
+          "Bip001 R Hand",
+          "Bip001 R Finger3"
+        ],
+        [
+          "Avatar_Male_Sword_KaeyaCostumeDancer_Kanban",
+          "Bip001",
+          "Bip001 Pelvis",
+          "Bip001 Spine",
+          "Bip001 Spine1",
+          "Bip001 Spine2",
+          "Bip001 R Clavicle",
+          "Bip001 R UpperArm",
+          "Bip001 R Forearm",
+          "Bip001 R Hand",
+          "Bip001 R Finger3",
+          "Bip001 R Finger31"
+        ],
+        [
+          "Avatar_Male_Sword_KaeyaCostumeDancer_Kanban",
+          "Bip001",
+          "Bip001 Pelvis",
+          "Bip001 Spine",
+          "Bip001 Spine1",
+          "Bip001 Spine2",
+          "Bip001 R Clavicle",
+          "Bip001 R UpperArm",
+          "Bip001 R Forearm",
+          "Bip001 R Hand",
+          "Bip001 R Finger3",
+          "Bip001 R Finger31",
+          "Bip001 R Finger32"
+        ],
+        [
+          "Avatar_Male_Sword_KaeyaCostumeDancer_Kanban",
+          "Bip001",
+          "Bip001 Pelvis",
+          "Bip001 Spine",
+          "Bip001 Spine1",
+          "Bip001 Spine2",
+          "Bip001 R Clavicle",
+          "Bip001 R UpperArm",
+          "Bip001 R Forearm",
+          "Bip001 R Hand",
+          "Bip001 R Finger4"
+        ],
+        [
+          "Avatar_Male_Sword_KaeyaCostumeDancer_Kanban",
+          "Bip001",
+          "Bip001 Pelvis",
+          "Bip001 Spine",
+          "Bip001 Spine1",
+          "Bip001 Spine2",
+          "Bip001 R Clavicle",
+          "Bip001 R UpperArm",
+          "Bip001 R Forearm",
+          "Bip001 R Hand",
+          "Bip001 R Finger4",
+          "Bip001 R Finger41"
+        ],
+        [
+          "Avatar_Male_Sword_KaeyaCostumeDancer_Kanban",
+          "Bip001",
+          "Bip001 Pelvis",
+          "Bip001 Spine",
+          "Bip001 Spine1",
+          "Bip001 Spine2",
+          "Bip001 R Clavicle",
+          "Bip001 R UpperArm",
+          "Bip001 R Forearm",
+          "Bip001 R Hand",
+          "Bip001 R Finger4",
+          "Bip001 R Finger41",
+          "Bip001 R Finger42"
+        ],
+        [
+          "Avatar_Male_Sword_KaeyaCostumeDancer_Kanban",
+          "Bip001",
+          "Bip001 Pelvis",
+          "Bip001 R Thigh",
+          "Bip001 R Calf",
+          "Bip001 R Foot"
+        ],
+        [
+          "Avatar_Male_Sword_KaeyaCostumeDancer_Kanban",
+          "Bip001",
+          "Bip001 Pelvis",
+          "Bip001 Spine",
+          "Bip001 Spine1",
+          "Bip001 Spine2",
+          "Bip001 R Clavicle",
+          "Bip001 R UpperArm",
+          "Bip001 R Forearm"
+        ],
+        [
+          "Avatar_Male_Sword_KaeyaCostumeDancer_Kanban",
+          "Bip001",
+          "Bip001 Pelvis",
+          "Bip001 Spine",
+          "Bip001 Spine1",
+          "Bip001 Spine2",
+          "Bip001 R Clavicle",
+          "Bip001 R UpperArm",
+          "Bip001 R Forearm",
+          "Bip001 R Hand"
+        ],
+        [
+          "Avatar_Male_Sword_KaeyaCostumeDancer_Kanban",
+          "Bip001",
+          "Bip001 Pelvis",
+          "Bip001 R Thigh"
+        ],
+        [
+          "Avatar_Male_Sword_KaeyaCostumeDancer_Kanban",
+          "Bip001",
+          "Bip001 Pelvis",
+          "Bip001 R Thigh",
+          "Bip001 R Calf",
+          "Bip001 R Foot",
+          "Bip001 R Toe0"
+        ],
+        [
+          "Avatar_Male_Sword_KaeyaCostumeDancer_Kanban",
+          "Bip001",
+          "Bip001 Pelvis",
+          "Bip001 Spine"
+        ],
+        [
+          "Avatar_Male_Sword_KaeyaCostumeDancer_Kanban",
+          "Bip001",
+          "Bip001 Pelvis",
+          "Bip001 Spine",
+          "Bip001 Spine1"
+        ],
+        [
+          "Avatar_Male_Sword_KaeyaCostumeDancer_Kanban",
+          "Bip001",
+          "Bip001 Pelvis",
+          "Bip001 Spine",
+          "Bip001 Spine1",
+          "Bip001 Spine2"
+        ],
+        [
+          "Avatar_Male_Sword_KaeyaCostumeDancer_Kanban",
+          "Bip001",
+          "Bip001 Pelvis",
+          "Bip001 Spine",
+          "Bip001 Spine1",
+          "Bip001 Spine2",
+          "Bip001 L Clavicle",
+          "Bip001 L UpperArm",
+          "Bip001 L Forearm",
+          "Bip001 L Hand",
+          "DMZ L 01"
+        ],
+        [
+          "Avatar_Male_Sword_KaeyaCostumeDancer_Kanban",
+          "Bip001",
+          "Bip001 Pelvis",
+          "Bip001 Spine",
+          "Bip001 Spine1",
+          "Bip001 Spine2",
+          "Bip001 L Clavicle",
+          "Bip001 L UpperArm",
+          "Bip001 L Forearm",
+          "Bip001 L Hand",
+          "DMZ L 01",
+          "DMZ L 02"
+        ],
+        [
+          "Avatar_Male_Sword_KaeyaCostumeDancer_Kanban",
+          "Bip001",
+          "Bip001 Pelvis",
+          "Bip001 Spine",
+          "Bip001 Spine1",
+          "Bip001 Spine2",
+          "Bip001 L Clavicle",
+          "Bip001 L UpperArm",
+          "Bip001 L Forearm",
+          "Bip001 L Hand",
+          "DMZ L 01",
+          "DMZ L 02",
+          "DMZ L 03"
+        ],
+        [
+          "Avatar_Male_Sword_KaeyaCostumeDancer_Kanban",
+          "Bip001",
+          "Bip001 Pelvis",
+          "Bip001 Spine",
+          "Bip001 Spine1",
+          "Bip001 Spine2",
+          "Bip001 R Clavicle",
+          "Bip001 R UpperArm",
+          "Bip001 R Forearm",
+          "Bip001 R Hand",
+          "DMZ R 01"
+        ],
+        [
+          "Avatar_Male_Sword_KaeyaCostumeDancer_Kanban",
+          "Bip001",
+          "Bip001 Pelvis",
+          "Bip001 Spine",
+          "Bip001 Spine1",
+          "Bip001 Spine2",
+          "Bip001 R Clavicle",
+          "Bip001 R UpperArm",
+          "Bip001 R Forearm",
+          "Bip001 R Hand",
+          "DMZ R 01",
+          "DMZ R 02"
+        ],
+        [
+          "Avatar_Male_Sword_KaeyaCostumeDancer_Kanban",
+          "Bip001",
+          "Bip001 Pelvis",
+          "Bip001 Spine",
+          "Bip001 Spine1",
+          "Bip001 Spine2",
+          "Bip001 R Clavicle",
+          "Bip001 R UpperArm",
+          "Bip001 R Forearm",
+          "Bip001 R Hand",
+          "DMZ R 01",
+          "DMZ R 02",
+          "DMZ R 03"
+        ]
+      ]
+    },
+    {
+      "game_object": {
+        "file_id": 0,
+        "path_id": "-4539666390541823525"
+      },
+      "header_flags_hex": "010100010001000100000000000001000000000100000000",
+      "lightmap_scale_offset": [
+        1.0,
+        1.0,
+        0.0,
+        0.0
+      ],
+      "dynamic_lightmap_scale_offset": [
+        1.0,
+        1.0,
+        0.0,
+        0.0
+      ],
+      "view_distance_ratio": 1.0,
+      "shader_lod_distance_ratio": 1.0,
+      "materials": [
+        {
+          "file_id": 4,
+          "path_id": "4430642093502195239"
+        }
+      ],
+      "static_batch": [
+        0,
+        0
+      ],
+      "static_batch_root": {
+        "file_id": 0,
+        "path_id": "0"
+      },
+      "material_layers": 1,
+      "probe_anchor": {
+        "file_id": 0,
+        "path_id": "0"
+      },
+      "probe_volume": {
+        "file_id": 0,
+        "path_id": "0"
+      },
+      "sorting": [
+        0,
+        0,
+        0
+      ],
+      "use_highest_mip": 0,
+      "quality": 0,
+      "update_when_offscreen": 0,
+      "skin_normals": 1,
+      "mesh": {
+        "file_id": 2,
+        "path_id": "4686660952888001010"
+      },
+      "bones": [
+        {
+          "file_id": 0,
+          "path_id": "-4647373060774328436"
+        },
+        {
+          "file_id": 0,
+          "path_id": "-3951202848037201851"
+        }
+      ],
+      "blend_shape_weights": [],
+      "root_bone": {
+        "file_id": 0,
+        "path_id": "-3951202848037201851"
+      },
+      "aabb": [
+        -0.002399937016889453,
+        0.007303750142455101,
+        -0.03664858639240265,
+        0.008739608339965343,
+        0.01135306991636753,
+        0.0436478927731514
+      ],
+      "dirty_aabb": 0,
+      "uninterpreted_trailer_hex": "000000000000000000000000000000000000803f00000000",
+      "id": "5059610813882339413",
+      "name": "EyeStar",
+      "type_hash": "d74087651cccc56b59dcdac73be06d71",
+      "raw_sha256": "77afa883dade9c30fd1afed5ec25814bdc7c7b3da31c35e837d14727bb0ef391",
+      "mesh_ref": "cab-f973626bb0dd282a0af55ec2c774a451:4686660952888001010",
+      "material_refs": [
+        "cab-9942a5d1be693294b173a463bbfd8029:4430642093502195239"
+      ],
+      "bone_names": [
+        "+EyeBone L A02",
+        "+EyeBone R A02"
+      ],
+      "bone_paths": [
+        [
+          "Avatar_Male_Sword_KaeyaCostumeDancer_Kanban",
+          "Bip001",
+          "Bip001 Pelvis",
+          "Bip001 Spine",
+          "Bip001 Spine1",
+          "Bip001 Spine2",
+          "Bip001 Neck",
+          "Bip001 Head",
+          "+EyeBone L A01",
+          "+EyeBone L A02"
+        ],
+        [
+          "Avatar_Male_Sword_KaeyaCostumeDancer_Kanban",
+          "Bip001",
+          "Bip001 Pelvis",
+          "Bip001 Spine",
+          "Bip001 Spine1",
+          "Bip001 Spine2",
+          "Bip001 Neck",
+          "Bip001 Head",
+          "+EyeBone R A01",
+          "+EyeBone R A02"
+        ]
+      ]
+    },
+    {
+      "game_object": {
+        "file_id": 0,
+        "path_id": "-5947039904894667558"
+      },
+      "header_flags_hex": "010100010001000100000000000001000000000100000000",
+      "lightmap_scale_offset": [
+        1.0,
+        1.0,
+        0.0,
+        0.0
+      ],
+      "dynamic_lightmap_scale_offset": [
+        1.0,
+        1.0,
+        0.0,
+        0.0
+      ],
+      "view_distance_ratio": 16.0,
+      "shader_lod_distance_ratio": 1.0,
+      "materials": [
+        {
+          "file_id": 4,
+          "path_id": "4430642093502195239"
+        }
+      ],
+      "static_batch": [
+        0,
+        0
+      ],
+      "static_batch_root": {
+        "file_id": 0,
+        "path_id": "0"
+      },
+      "material_layers": 1,
+      "probe_anchor": {
+        "file_id": 0,
+        "path_id": "0"
+      },
+      "probe_volume": {
+        "file_id": 0,
+        "path_id": "0"
+      },
+      "sorting": [
+        0,
+        0,
+        0
+      ],
+      "use_highest_mip": 0,
+      "quality": 0,
+      "update_when_offscreen": 0,
+      "skin_normals": 1,
+      "mesh": {
+        "file_id": 2,
+        "path_id": "-8764726157164123400"
+      },
+      "bones": [
+        {
+          "file_id": 0,
+          "path_id": "-710602615991358924"
+        }
+      ],
+      "blend_shape_weights": [],
+      "root_bone": {
+        "file_id": 0,
+        "path_id": "-710602615991358924"
+      },
+      "aabb": [
+        -0.06561809033155441,
+        0.07198066264390945,
+        -8.791685104370117e-07,
+        0.0548514649271965,
+        0.03589392453432083,
+        0.07601118832826614
+      ],
+      "dirty_aabb": 0,
+      "uninterpreted_trailer_hex": "000000000000000000000000000000000000803f01000000",
+      "id": "6065365942083182655",
+      "name": "Face_Eye",
+      "type_hash": "d74087651cccc56b59dcdac73be06d71",
+      "raw_sha256": "a341c372a000de608dbcfd6264923e3d838d7262769da712f78065b1e16303a7",
+      "mesh_ref": "cab-f973626bb0dd282a0af55ec2c774a451:-8764726157164123400",
+      "material_refs": [
+        "cab-9942a5d1be693294b173a463bbfd8029:4430642093502195239"
+      ],
+      "bone_names": [
+        "Bip001 Head"
+      ],
+      "bone_paths": [
+        [
+          "Avatar_Male_Sword_KaeyaCostumeDancer_Kanban",
+          "Bip001",
+          "Bip001 Pelvis",
+          "Bip001 Spine",
+          "Bip001 Spine1",
+          "Bip001 Spine2",
+          "Bip001 Neck",
+          "Bip001 Head"
+        ]
+      ]
+    },
+    {
+      "game_object": {
+        "file_id": 0,
+        "path_id": "7488479475040531132"
+      },
+      "header_flags_hex": "010100010001000100000000000001000000000100000000",
+      "lightmap_scale_offset": [
+        1.0,
+        1.0,
+        0.0,
+        0.0
+      ],
+      "dynamic_lightmap_scale_offset": [
+        1.0,
+        1.0,
+        0.0,
+        0.0
+      ],
+      "view_distance_ratio": 16.0,
+      "shader_lod_distance_ratio": 1.0,
+      "materials": [
+        {
+          "file_id": 4,
+          "path_id": "4430642093502195239"
+        }
+      ],
+      "static_batch": [
+        0,
+        0
+      ],
+      "static_batch_root": {
+        "file_id": 0,
+        "path_id": "0"
+      },
+      "material_layers": 1,
+      "probe_anchor": {
+        "file_id": 0,
+        "path_id": "0"
+      },
+      "probe_volume": {
+        "file_id": 0,
+        "path_id": "0"
+      },
+      "sorting": [
+        0,
+        0,
+        0
+      ],
+      "use_highest_mip": 0,
+      "quality": 0,
+      "update_when_offscreen": 0,
+      "skin_normals": 1,
+      "mesh": {
+        "file_id": 2,
+        "path_id": "1947175479968787649"
+      },
+      "bones": [
+        {
+          "file_id": 0,
+          "path_id": "-710602615991358924"
+        }
+      ],
+      "blend_shape_weights": [],
+      "root_bone": {
+        "file_id": 0,
+        "path_id": "-710602615991358924"
+      },
+      "aabb": [
+        -0.09023826569318771,
+        0.0920083299279213,
+        0.03182268142700195,
+        0.022062480449676514,
+        0.014355935156345367,
+        0.027935639023780823
+      ],
+      "dirty_aabb": 0,
+      "uninterpreted_trailer_hex": "000000000000000000000000000000000000803f01000000",
+      "id": "6199102334724943215",
+      "name": "Brow",
+      "type_hash": "d74087651cccc56b59dcdac73be06d71",
+      "raw_sha256": "4444bd26a2586207a1549613d178d50256e77e9d4633db873d08395a90a2e905",
+      "mesh_ref": "cab-f973626bb0dd282a0af55ec2c774a451:1947175479968787649",
+      "material_refs": [
+        "cab-9942a5d1be693294b173a463bbfd8029:4430642093502195239"
+      ],
+      "bone_names": [
+        "Bip001 Head"
+      ],
+      "bone_paths": [
+        [
+          "Avatar_Male_Sword_KaeyaCostumeDancer_Kanban",
+          "Bip001",
+          "Bip001 Pelvis",
+          "Bip001 Spine",
+          "Bip001 Spine1",
+          "Bip001 Spine2",
+          "Bip001 Neck",
+          "Bip001 Head"
+        ]
+      ]
+    }
+  ],
+  "static_mesh_filters": [],
+  "lod_mesh_groups": [],
+  "new_runtime_test_performed": false
+}

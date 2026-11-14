@@ -1,0 +1,32 @@
+{
+  "kind": "character",
+  "id": "kokomi",
+  "name_zh": "珊瑚宫心海",
+  "game_draw_targets": [],
+  "face_texture_example": [],
+  "example_mod": null,
+  "bone_mapping": null,
+  "full_skeleton_extracted": false,
+  "validation": {
+    "scope": "Native installed assets; no new draw capture or gameplay acceptance",
+    "new_runtime_test_performed_by_export": false,
+    "all_actions_lighting_and_lods_verified": false
+  },
+  "native_profiles": {
+    "kokomi": "native/profiles/kokomi.json"
+  },
+  "roster_entries": [
+    {
+      "id": 10000054,
+      "internal_name": "Kokomi",
+      "name_zh": "珊瑚宫心海",
+      "use_type": "AVATAR_FORMAL",
+      "body_type": "BODY_GIRL",
+      "weapon_type": "WEAPON_CATALYST",
+      "prefab_path_hash": "2664275921557009217"
+    }
+  ],
+  "official_mesh_extracted": true,
+  "prefab_skeletons_extracted": true,
+  "draw_hash_status": "not_captured_on_target"
+}

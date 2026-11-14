@@ -1,0 +1,32 @@
+{
+  "kind": "character",
+  "id": "zhongli",
+  "name_zh": "钟离",
+  "game_draw_targets": [],
+  "face_texture_example": [],
+  "example_mod": null,
+  "bone_mapping": null,
+  "full_skeleton_extracted": false,
+  "validation": {
+    "scope": "Native installed assets; no new draw capture or gameplay acceptance",
+    "new_runtime_test_performed_by_export": false,
+    "all_actions_lighting_and_lods_verified": false
+  },
+  "native_profiles": {
+    "zhongli": "native/profiles/zhongli.json"
+  },
+  "roster_entries": [
+    {
+      "id": 10000030,
+      "internal_name": "Zhongli",
+      "name_zh": "钟离",
+      "use_type": "AVATAR_FORMAL",
+      "body_type": "BODY_MALE",
+      "weapon_type": "WEAPON_POLE",
+      "prefab_path_hash": "8170503405782232892"
+    }
+  ],
+  "official_mesh_extracted": true,
+  "prefab_skeletons_extracted": true,
+  "draw_hash_status": "not_captured_on_target"
+}

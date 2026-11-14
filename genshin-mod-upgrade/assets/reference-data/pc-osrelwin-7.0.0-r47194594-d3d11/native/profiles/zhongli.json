@@ -1,0 +1,76 @@
+{
+  "kind": "native_profile",
+  "id": "zhongli",
+  "internal_name": "Zhongli",
+  "prefabs": [
+    {
+      "name": "Avatar_Male_Pole_Zhongli_Remote",
+      "path": "native/prefabs/21e402ee19bd390e520a651c9c60ddfd5f269d46331cf64eb62f19ad5a2160e6.json",
+      "source_cab": "cab-adbf56e6d95916d6ec6ef5352307119d",
+      "variant_suffix": "_Remote",
+      "transform_count": 183,
+      "renderer_count": 6,
+      "internal_name": "Zhongli"
+    },
+    {
+      "name": "Avatar_Male_Pole_Zhongli_Kanban",
+      "path": "native/prefabs/2cadfdf541979b3d0550020cb8dee9bb1b25858ea7653a57b7c15e61b77d08c3.json",
+      "source_cab": "cab-3cd5fdc58dc39c445ee60631125b4ba0",
+      "variant_suffix": "_Kanban",
+      "transform_count": 152,
+      "renderer_count": 6,
+      "internal_name": "Zhongli"
+    },
+    {
+      "name": "Avatar_Male_Pole_Zhongli_Manekin",
+      "path": "native/prefabs/3b34784cdd6e1f3e28bd44a37b80e7a2015edb2abc95679b1ea4e745ca71c8e7.json",
+      "source_cab": "cab-4ed1b35e622528a62df0930bf49a3754",
+      "variant_suffix": "_Manekin",
+      "transform_count": 152,
+      "renderer_count": 6,
+      "internal_name": "Zhongli"
+    },
+    {
+      "name": "Avatar_Male_Pole_Zhongli_Edit",
+      "path": "native/prefabs/607dc13b19257275349656a2c088b2ca706fad6aa5e226c7d486c7cba8de5beb.json",
+      "source_cab": "cab-316c6b13bc31cc28876878a6ec6329a6",
+      "variant_suffix": "_Edit",
+      "transform_count": 183,
+      "renderer_count": 6,
+      "internal_name": "Zhongli"
+    },
+    {
+      "name": "Avatar_Male_Pole_Zhongli_Kanban_Edit",
+      "path": "native/prefabs/8423da50eac239580726bf49ab5e290b20675d93d878f99325d68b11e159ceb4.json",
+      "source_cab": "cab-db3d17a592ab7f14b0de5a07e448ba14",
+      "variant_suffix": "_Kanban_Edit",
+      "transform_count": 152,
+      "renderer_count": 6,
+      "internal_name": "Zhongli"
+    },
+    {
+      "name": "Avatar_Male_Pole_Zhongli",
+      "path": "native/prefabs/c87b6481f747c2cb52b296fc54b4111e78fbe44d5fd375edb947a3f6b6e22152.json",
+      "source_cab": "cab-ca1f0929e14737420fe3a96720f4fee8",
+      "variant_suffix": "",
+      "transform_count": 183,
+      "renderer_count": 6,
+      "internal_name": "Zhongli"
+    }
+  ],
+  "roster_entries": [
+    {
+      "id": 10000030,
+      "internal_name": "Zhongli",
+      "name_zh": "钟离",
+      "use_type": "AVATAR_FORMAL",
+      "body_type": "BODY_MALE",
+      "weapon_type": "WEAPON_POLE",
+      "prefab_path_hash": "8170503405782232892"
+    }
+  ],
+  "costume": null,
+  "evidence_level": "installed_pc_asset_extraction",
+  "new_runtime_test_performed": false,
+  "character_id": "zhongli"
+}

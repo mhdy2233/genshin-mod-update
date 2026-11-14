@@ -1,0 +1,135 @@
+{
+  "kind": "libraries",
+  "versions": {
+    "gimi": "8.9.2",
+    "xxmi_dll": "1.2.3",
+    "orfix": "0.9.19"
+  },
+  "files": {
+    "FixDash.ini": "libraries/FixDash.ini",
+    "HealthBar.ini": "libraries/HealthBar.ini",
+    "Help.ini": "libraries/Help.ini",
+    "Includes.ini": "libraries/Includes.ini",
+    "Mouse.ini": "libraries/Mouse.ini",
+    "ORFix.ini": "libraries/ORFix.ini",
+    "ORFixAPI.ini": "libraries/ORFixAPI.ini",
+    "Offset.ini": "libraries/Offset.ini",
+    "Region.ini": "libraries/Region.ini",
+    "Shaders/Mouse.hlsl": "libraries/Shaders/Mouse.hlsl",
+    "TexFx/ChangeLog.md": "libraries/TexFx/ChangeLog.md",
+    "TexFx/Config.ini": "libraries/TexFx/Config.ini",
+    "TexFx/DISABLED_Includes.ini": "libraries/TexFx/DISABLED_Includes.ini",
+    "TexFx/DISABLED_Keybindings.ini": "libraries/TexFx/DISABLED_Keybindings.ini",
+    "TexFx/LICENSE": "libraries/TexFx/LICENSE",
+    "TexFx/Main.ini": "libraries/TexFx/Main.ini",
+    "TexFx/README.md": "libraries/TexFx/README.md",
+    "TexFx/hic_sunt_dracones/DebugShaderOutput.hlsl": "libraries/TexFx/hic_sunt_dracones/DebugShaderOutput.hlsl",
+    "TexFx/hic_sunt_dracones/DiffusePixelShaderRegex.ini": "libraries/TexFx/hic_sunt_dracones/DiffusePixelShaderRegex.ini",
+    "TexFx/hic_sunt_dracones/LegacyCommands.ini": "libraries/TexFx/hic_sunt_dracones/LegacyCommands.ini",
+    "TexFx/hic_sunt_dracones/OutlinePixelShaderRegex.ini": "libraries/TexFx/hic_sunt_dracones/OutlinePixelShaderRegex.ini",
+    "TexFx/hic_sunt_dracones/TransparencyAnchors.ini": "libraries/TexFx/hic_sunt_dracones/TransparencyAnchors.ini",
+    "TexFx/hic_sunt_dracones/TransparencyDriver.ini": "libraries/TexFx/hic_sunt_dracones/TransparencyDriver.ini",
+    "Tracking.ini": "libraries/Tracking.ini",
+    "GIMI-main.ini": "libraries/GIMI-main.ini",
+    "VERSION.txt": "libraries/VERSION.txt"
+  },
+  "texture_filter_declarations": [
+    {
+      "hash": "8b5fc47d",
+      "filter_index": 730037.1,
+      "section": "TextureOverrideGaming",
+      "path": "libraries/ORFix.ini",
+      "declaration_line": 446,
+      "evidence_level": "library_declaration"
+    },
+    {
+      "hash": "e9786a5f",
+      "filter_index": 730037.0,
+      "section": "TextureOverrideAether",
+      "path": "libraries/ORFix.ini",
+      "declaration_line": 456,
+      "evidence_level": "library_declaration"
+    },
+    {
+      "hash": "846ff19c",
+      "filter_index": 730037.0,
+      "section": "TextureOverrideLumine",
+      "path": "libraries/ORFix.ini",
+      "declaration_line": 466,
+      "evidence_level": "library_declaration"
+    },
+    {
+      "hash": "46d6aa04",
+      "filter_index": 218.69,
+      "section": "TextureOverride Dive Action Icon",
+      "path": "libraries/Tracking.ini",
+      "declaration_line": 82,
+      "evidence_level": "library_declaration"
+    },
+    {
+      "hash": "45cbdd97",
+      "filter_index": 219.69,
+      "section": "TextureOverride Swim Sprint Icon",
+      "path": "libraries/Tracking.ini",
+      "declaration_line": 85,
+      "evidence_level": "library_declaration"
+    },
+    {
+      "hash": "d53e4aec",
+      "filter_index": 301.69,
+      "section": "TextureOverride Jump Up Icon",
+      "path": "libraries/Tracking.ini",
+      "declaration_line": 88,
+      "evidence_level": "library_declaration"
+    },
+    {
+      "hash": "85e1715d",
+      "filter_index": 302.69,
+      "section": "TextureOverride Drop Down Icon",
+      "path": "libraries/Tracking.ini",
+      "declaration_line": 91,
+      "evidence_level": "library_declaration"
+    },
+    {
+      "hash": "e7cd02f4",
+      "filter_index": 8888.69,
+      "section": "TextureOverride Elemental Status Icons",
+      "path": "libraries/Tracking.ini",
+      "declaration_line": 94,
+      "evidence_level": "library_declaration"
+    },
+    {
+      "hash": "95da9342",
+      "filter_index": 200.69,
+      "section": "TextureOverride Water Trails",
+      "path": "libraries/Tracking.ini",
+      "declaration_line": 118,
+      "evidence_level": "library_declaration"
+    },
+    {
+      "hash": "cb888b02",
+      "filter_index": 111.69,
+      "section": "TextureOverride Water Drop",
+      "path": "libraries/Tracking.ini",
+      "declaration_line": 124,
+      "evidence_level": "library_declaration"
+    },
+    {
+      "hash": "7c273609",
+      "filter_index": 112.69,
+      "section": "TextureOverride Water Clump",
+      "path": "libraries/Tracking.ini",
+      "declaration_line": 133,
+      "evidence_level": "library_declaration"
+    },
+    {
+      "hash": "ea3da7ec",
+      "filter_index": 8765.69,
+      "section": "TextureOverride Rain Drop",
+      "path": "libraries/Tracking.ini",
+      "declaration_line": 145,
+      "evidence_level": "library_declaration"
+    }
+  ],
+  "semantics": "Installed source snapshot; library header game-version notes do not identify the running game."
+}

@@ -1,0 +1,115 @@
+{
+  "kind": "character",
+  "id": "qin",
+  "name_zh": "琴",
+  "game_draw_targets": [],
+  "face_texture_example": [],
+  "example_mod": null,
+  "bone_mapping": null,
+  "full_skeleton_extracted": false,
+  "validation": {
+    "scope": "Native installed assets; no new draw capture or gameplay acceptance",
+    "new_runtime_test_performed_by_export": false,
+    "all_actions_lighting_and_lods_verified": false
+  },
+  "native_profiles": {
+    "qin": "native/profiles/qin.json",
+    "qincostumesea": "native/profiles/qincostumesea.json",
+    "qincostumewic": "native/profiles/qincostumewic.json"
+  },
+  "roster_entries": [
+    {
+      "id": 10000003,
+      "internal_name": "Qin",
+      "name_zh": "琴",
+      "use_type": "AVATAR_FORMAL",
+      "body_type": "BODY_LADY",
+      "weapon_type": "WEAPON_SWORD_ONE_HAND",
+      "prefab_path_hash": "13935204035113909269"
+    },
+    {
+      "id": 11000017,
+      "internal_name": "Qin",
+      "name_zh": null,
+      "use_type": "AVATAR_TEST",
+      "body_type": "BODY_MALE",
+      "weapon_type": "WEAPON_SWORD_ONE_HAND",
+      "prefab_path_hash": "12351887785892816232"
+    },
+    {
+      "id": 11000018,
+      "internal_name": "Qin",
+      "name_zh": null,
+      "use_type": "AVATAR_TEST",
+      "body_type": "BODY_LADY",
+      "weapon_type": "WEAPON_SWORD_ONE_HAND",
+      "prefab_path_hash": "2446468245816638972"
+    },
+    {
+      "id": 11000019,
+      "internal_name": "Qin",
+      "name_zh": null,
+      "use_type": "AVATAR_TEST",
+      "body_type": "BODY_GIRL",
+      "weapon_type": "WEAPON_SWORD_ONE_HAND",
+      "prefab_path_hash": "16838407322167935899"
+    },
+    {
+      "id": 11000026,
+      "internal_name": "Qin",
+      "name_zh": null,
+      "use_type": "AVATAR_TEST",
+      "body_type": "BODY_LOLI",
+      "weapon_type": "WEAPON_CATALYST",
+      "prefab_path_hash": "14399153612482037297"
+    },
+    {
+      "id": 11000030,
+      "internal_name": "Qin",
+      "name_zh": null,
+      "use_type": "AVATAR_TEST",
+      "body_type": "BODY_GIRL",
+      "weapon_type": "WEAPON_CLAYMORE",
+      "prefab_path_hash": "2911588603482996501"
+    },
+    {
+      "id": 11000043,
+      "internal_name": "Qin",
+      "name_zh": null,
+      "use_type": "AVATAR_TEST",
+      "body_type": "BODY_LOLI",
+      "weapon_type": "WEAPON_CLAYMORE",
+      "prefab_path_hash": "2158780668257401139"
+    },
+    {
+      "id": 11000044,
+      "internal_name": "Qin",
+      "name_zh": null,
+      "use_type": "AVATAR_TEST",
+      "body_type": "BODY_LOLI",
+      "weapon_type": "WEAPON_SWORD_ONE_HAND",
+      "prefab_path_hash": "10130943242702942987"
+    },
+    {
+      "id": 11000045,
+      "internal_name": "Qin",
+      "name_zh": null,
+      "use_type": "AVATAR_TEST",
+      "body_type": "BODY_LOLI",
+      "weapon_type": "WEAPON_BOW",
+      "prefab_path_hash": "5642519971327181554"
+    },
+    {
+      "id": 11000046,
+      "internal_name": "Qin",
+      "name_zh": null,
+      "use_type": "AVATAR_TEST",
+      "body_type": "BODY_LADY",
+      "weapon_type": "WEAPON_CLAYMORE",
+      "prefab_path_hash": "3472386516744834407"
+    }
+  ],
+  "official_mesh_extracted": true,
+  "prefab_skeletons_extracted": true,
+  "draw_hash_status": "not_captured_on_target"
+}

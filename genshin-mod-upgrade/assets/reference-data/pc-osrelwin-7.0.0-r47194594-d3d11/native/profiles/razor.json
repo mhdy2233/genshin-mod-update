@@ -1,0 +1,85 @@
+{
+  "kind": "native_profile",
+  "id": "razor",
+  "internal_name": "Razor",
+  "prefabs": [
+    {
+      "name": "Avatar_Boy_Claymore_Razor_Kanban",
+      "path": "native/prefabs/272be825766564ac0308bccaf53803a00ef9cd12898ba546d1dcdfb0d7447750.json",
+      "source_cab": "cab-c996a5634652dfced7719d92a91ffbe8",
+      "variant_suffix": "_Kanban",
+      "transform_count": 167,
+      "renderer_count": 6,
+      "internal_name": "Razor"
+    },
+    {
+      "name": "Avatar_Boy_Claymore_Razor_Manekin",
+      "path": "native/prefabs/43d010e14ed664ab95dc223136658a2e7742a52df04358ffddf4f4f604fc6cbe.json",
+      "source_cab": "cab-b1e9d791fc00ae14a8cd9ced8e88b04f",
+      "variant_suffix": "_Manekin",
+      "transform_count": 167,
+      "renderer_count": 6,
+      "internal_name": "Razor"
+    },
+    {
+      "name": "Avatar_Boy_Claymore_Razor_Kanban_Edit",
+      "path": "native/prefabs/5310a7a202b5623868d6af2874c8b26a3b08766210b62d9b01d2a544dbaeb808.json",
+      "source_cab": "cab-3f3d3d39a624651f879fcfe0f6bf15cc",
+      "variant_suffix": "_Kanban_Edit",
+      "transform_count": 167,
+      "renderer_count": 6,
+      "internal_name": "Razor"
+    },
+    {
+      "name": "Avatar_Boy_Claymore_Razor_Edit",
+      "path": "native/prefabs/6b20ca2a8d9299be424d0bdbf25ea9fdbce3be61d280f059b4e5a093d3674f9a.json",
+      "source_cab": "cab-3626ccc0b90b2bbef8ff92ce588a0f9d",
+      "variant_suffix": "_Edit",
+      "transform_count": 198,
+      "renderer_count": 6,
+      "internal_name": "Razor"
+    },
+    {
+      "name": "Avatar_Boy_Claymore_Razor_Remote",
+      "path": "native/prefabs/8acc938db72c3848ab3811925a694d36696947bbd71e11c5b066a4012fbb8ef7.json",
+      "source_cab": "cab-e1f1cba4c1a1610506ff91f56a622e07",
+      "variant_suffix": "_Remote",
+      "transform_count": 198,
+      "renderer_count": 6,
+      "internal_name": "Razor"
+    },
+    {
+      "name": "Avatar_Boy_Claymore_Razor",
+      "path": "native/prefabs/b5fa4e0f886832f1a9e3c3f23da12b71135f9a9995a0f1b756d6766a87504fc9.json",
+      "source_cab": "cab-bfbf0dcefa368d7501e92a1921616ff9",
+      "variant_suffix": "",
+      "transform_count": 198,
+      "renderer_count": 6,
+      "internal_name": "Razor"
+    }
+  ],
+  "roster_entries": [
+    {
+      "id": 10000020,
+      "internal_name": "Razor",
+      "name_zh": "雷泽",
+      "use_type": "AVATAR_FORMAL",
+      "body_type": "BODY_BOY",
+      "weapon_type": "WEAPON_CLAYMORE",
+      "prefab_path_hash": "15824928098564055600"
+    },
+    {
+      "id": 11000025,
+      "internal_name": "Razor",
+      "name_zh": null,
+      "use_type": "AVATAR_TEST",
+      "body_type": "BODY_BOY",
+      "weapon_type": "WEAPON_BOW",
+      "prefab_path_hash": "17013115156038872770"
+    }
+  ],
+  "costume": null,
+  "evidence_level": "installed_pc_asset_extraction",
+  "new_runtime_test_performed": false,
+  "character_id": "razor"
+}

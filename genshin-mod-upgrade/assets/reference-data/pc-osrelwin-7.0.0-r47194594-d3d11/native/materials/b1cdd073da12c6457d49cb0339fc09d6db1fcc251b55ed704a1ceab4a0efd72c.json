@@ -1,0 +1,152 @@
+{
+  "kind": "native_material",
+  "id": "cab-aaa3de6fd3a7cb70814c4c21d76eee6a:2229495150828588393",
+  "source_cab": "cab-aaa3de6fd3a7cb70814c4c21d76eee6a",
+  "path_id": "2229495150828588393",
+  "class_id": 21,
+  "raw_bytes": 696,
+  "raw_sha256": "4ff0f43000f9639c1c3e2a870f93af596d184466302153d894f38f4ad173283a",
+  "type_hash": "e1ee5b1091ac21b95baed1351f8fb1c2",
+  "source_object_offset": 4304,
+  "material": {
+    "name": "Avatar_Default_Mat",
+    "shader": {
+      "file_id": 1,
+      "path_id": "6110142139804366865"
+    },
+    "keywords": "EMISSION_TYPE_NONE",
+    "lightmap_flags": 4,
+    "instancing_flags_hex": "01000000",
+    "render_queue": -1,
+    "tags": [],
+    "disabled_passes": [],
+    "textures": [
+      {
+        "property": "_MainTex",
+        "pointer": {
+          "file_id": 0,
+          "path_id": "0"
+        },
+        "scale": [
+          1.0,
+          1.0
+        ],
+        "offset": [
+          0.0,
+          0.0
+        ],
+        "max_mip_level": 0,
+        "texture_ref": null
+      }
+    ],
+    "floats": [
+      [
+        "Emission_Type",
+        0.0
+      ],
+      [
+        "_BumpScale",
+        1.0
+      ],
+      [
+        "_Cutoff",
+        0.5
+      ],
+      [
+        "_DetailNormalMapScale",
+        1.0
+      ],
+      [
+        "_DstBlend",
+        0.0
+      ],
+      [
+        "_ElementViewEleID",
+        0.0
+      ],
+      [
+        "_EmissionStrength",
+        10.0
+      ],
+      [
+        "_GlossMapScale",
+        1.0
+      ],
+      [
+        "_Glossiness",
+        0.5
+      ],
+      [
+        "_GlossyReflections",
+        1.0
+      ],
+      [
+        "_MaterialShadowBias",
+        0.0
+      ],
+      [
+        "_Metallic",
+        0.0
+      ],
+      [
+        "_Mode",
+        0.0
+      ],
+      [
+        "_OcclusionStrength",
+        1.0
+      ],
+      [
+        "_Parallax",
+        0.019999999552965164
+      ],
+      [
+        "_SmoothnessTextureChannel",
+        0.0
+      ],
+      [
+        "_SpecularHighlights",
+        1.0
+      ],
+      [
+        "_SrcBlend",
+        1.0
+      ],
+      [
+        "_UVSec",
+        0.0
+      ],
+      [
+        "_ZWrite",
+        1.0
+      ],
+      [
+        "_enableVertexColor",
+        0.0
+      ]
+    ],
+    "colors": [
+      [
+        "_Color",
+        [
+          1.0,
+          1.0,
+          1.0,
+          1.0
+        ]
+      ],
+      [
+        "_EmissionColor",
+        [
+          0.0,
+          0.0,
+          0.0,
+          1.0
+        ]
+      ]
+    ],
+    "shader_ref": "cab-783ad71f5aafcd33714dee5664e5e08e:6110142139804366865"
+  },
+  "name": "Avatar_Default_Mat",
+  "parsed": true
+}

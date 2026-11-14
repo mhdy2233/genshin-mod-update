@@ -1,0 +1,76 @@
+{
+  "kind": "native_profile",
+  "id": "heizo",
+  "internal_name": "Heizo",
+  "prefabs": [
+    {
+      "name": "Avatar_Boy_Catalyst_Heizo_Remote",
+      "path": "native/prefabs/20308eda7124f1dfa4fea58ee5b2c7f3ce367dd82c8ec2638f72574f53323afa.json",
+      "source_cab": "cab-d5cfdf4ba87e19518eb3bd9d8820d80e",
+      "variant_suffix": "_Remote",
+      "transform_count": 200,
+      "renderer_count": 7,
+      "internal_name": "Heizo"
+    },
+    {
+      "name": "Avatar_Boy_Catalyst_Heizo",
+      "path": "native/prefabs/588e8e9c2515a615f0d230b40e5be5e31c42ddeb88f35ad1669ac02b87e8a2ac.json",
+      "source_cab": "cab-488f09b8caf9fca5df44a6c5d61142fb",
+      "variant_suffix": "",
+      "transform_count": 200,
+      "renderer_count": 7,
+      "internal_name": "Heizo"
+    },
+    {
+      "name": "Avatar_Boy_Catalyst_Heizo_Edit",
+      "path": "native/prefabs/5f726cda6b959e383d6f1dbc6752831f3fa7cf6faa53ca6803a3d7c0ff771ca0.json",
+      "source_cab": "cab-7763e012e59a8480604c04356b973c7c",
+      "variant_suffix": "_Edit",
+      "transform_count": 200,
+      "renderer_count": 7,
+      "internal_name": "Heizo"
+    },
+    {
+      "name": "Avatar_Boy_Catalyst_Heizo_Kanban",
+      "path": "native/prefabs/a2468c9c8d93033b29256c54f6a6ce970acfb68880288b4c8f36f9cb8837849b.json",
+      "source_cab": "cab-fe4c38f88e737aee5a4b248484c81d2c",
+      "variant_suffix": "_Kanban",
+      "transform_count": 169,
+      "renderer_count": 7,
+      "internal_name": "Heizo"
+    },
+    {
+      "name": "Avatar_Boy_Catalyst_Heizo_Manekin",
+      "path": "native/prefabs/ac1109c024022021b20d5e5461d38e5b772011df2fd1b7774701a1c6095d785d.json",
+      "source_cab": "cab-036086c4cb2a44bb78cd83fb36f66b15",
+      "variant_suffix": "_Manekin",
+      "transform_count": 169,
+      "renderer_count": 7,
+      "internal_name": "Heizo"
+    },
+    {
+      "name": "Avatar_Boy_Catalyst_Heizo_Kanban_Edit",
+      "path": "native/prefabs/f4f3371c8f5a41707ec8558354a8255ae7e19fc8d44ae51a7ff2e5cd3892e2b9.json",
+      "source_cab": "cab-4775ffe3495c3a0cc27b97032023fdc2",
+      "variant_suffix": "_Kanban_Edit",
+      "transform_count": 169,
+      "renderer_count": 7,
+      "internal_name": "Heizo"
+    }
+  ],
+  "roster_entries": [
+    {
+      "id": 10000059,
+      "internal_name": "Heizo",
+      "name_zh": "鹿野院平藏",
+      "use_type": "AVATAR_FORMAL",
+      "body_type": "BODY_BOY",
+      "weapon_type": "WEAPON_CATALYST",
+      "prefab_path_hash": "4834365797049899229"
+    }
+  ],
+  "costume": null,
+  "evidence_level": "installed_pc_asset_extraction",
+  "new_runtime_test_performed": false,
+  "character_id": "heizo"
+}

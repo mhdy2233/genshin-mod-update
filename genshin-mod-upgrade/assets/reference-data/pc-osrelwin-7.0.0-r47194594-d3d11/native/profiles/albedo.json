@@ -1,0 +1,76 @@
+{
+  "kind": "native_profile",
+  "id": "albedo",
+  "internal_name": "Albedo",
+  "prefabs": [
+    {
+      "name": "Avatar_Boy_Sword_Albedo_Remote",
+      "path": "native/prefabs/0d01e5290fb44303a018cd5da0fc83ec94f3b4a9ff488a529f5ea34ef84b8f44.json",
+      "source_cab": "cab-803ba95143a401b712719f01085541e6",
+      "variant_suffix": "_Remote",
+      "transform_count": 169,
+      "renderer_count": 6,
+      "internal_name": "Albedo"
+    },
+    {
+      "name": "Avatar_Boy_Sword_Albedo_Edit",
+      "path": "native/prefabs/17476ea518871dec8b79dad1b88442944e41babbf8d837f1746f74fd4a972276.json",
+      "source_cab": "cab-c39a2adbb3a47cd4eb5e8f29680e4ce3",
+      "variant_suffix": "_Edit",
+      "transform_count": 169,
+      "renderer_count": 6,
+      "internal_name": "Albedo"
+    },
+    {
+      "name": "Avatar_Boy_Sword_Albedo_Kanban",
+      "path": "native/prefabs/3cda3f8ab26d019950b7c99a86e2c89e310ff9e72e6a06b1b8a1c42c4475d5fe.json",
+      "source_cab": "cab-c8f65631ec4ebf6cc192ec57fa7d39c1",
+      "variant_suffix": "_Kanban",
+      "transform_count": 138,
+      "renderer_count": 6,
+      "internal_name": "Albedo"
+    },
+    {
+      "name": "Avatar_Boy_Sword_Albedo",
+      "path": "native/prefabs/9a980af6939b312214704b2ecff5f9d64bbf6fec6231fe8c37ffa29da751f247.json",
+      "source_cab": "cab-5d05559d1fdebedaac82d7dd2083551a",
+      "variant_suffix": "",
+      "transform_count": 169,
+      "renderer_count": 6,
+      "internal_name": "Albedo"
+    },
+    {
+      "name": "Avatar_Boy_Sword_Albedo_Kanban_Edit",
+      "path": "native/prefabs/a7d7e4529a8c37a0a2f1e5d1ab3e0ebe80b85ce3b286dfe98269e837ab092862.json",
+      "source_cab": "cab-ba4dd0757b370f4bf4b44339d6f61706",
+      "variant_suffix": "_Kanban_Edit",
+      "transform_count": 138,
+      "renderer_count": 6,
+      "internal_name": "Albedo"
+    },
+    {
+      "name": "Avatar_Boy_Sword_Albedo_Manekin",
+      "path": "native/prefabs/c82b122136ea2645508cf3edcfd27572932f144c38128f244c7e2ee04bdb261a.json",
+      "source_cab": "cab-9571c5a7f65b6c8060fdb2164320d3ad",
+      "variant_suffix": "_Manekin",
+      "transform_count": 138,
+      "renderer_count": 6,
+      "internal_name": "Albedo"
+    }
+  ],
+  "roster_entries": [
+    {
+      "id": 10000038,
+      "internal_name": "Albedo",
+      "name_zh": "阿贝多",
+      "use_type": "AVATAR_FORMAL",
+      "body_type": "BODY_BOY",
+      "weapon_type": "WEAPON_SWORD_ONE_HAND",
+      "prefab_path_hash": "6495195405184888099"
+    }
+  ],
+  "costume": null,
+  "evidence_level": "installed_pc_asset_extraction",
+  "new_runtime_test_performed": false,
+  "character_id": "albedo"
+}

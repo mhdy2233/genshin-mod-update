@@ -1,0 +1,33 @@
+{
+  "kind": "character",
+  "id": "ganyu",
+  "name_zh": "甘雨",
+  "game_draw_targets": [],
+  "face_texture_example": [],
+  "example_mod": null,
+  "bone_mapping": null,
+  "full_skeleton_extracted": false,
+  "validation": {
+    "scope": "Native installed assets; no new draw capture or gameplay acceptance",
+    "new_runtime_test_performed_by_export": false,
+    "all_actions_lighting_and_lods_verified": false
+  },
+  "native_profiles": {
+    "ganyu": "native/profiles/ganyu.json",
+    "ganyucostumeyu": "native/profiles/ganyucostumeyu.json"
+  },
+  "roster_entries": [
+    {
+      "id": 10000037,
+      "internal_name": "Ganyu",
+      "name_zh": "甘雨",
+      "use_type": "AVATAR_FORMAL",
+      "body_type": "BODY_GIRL",
+      "weapon_type": "WEAPON_BOW",
+      "prefab_path_hash": "9990650498504315076"
+    }
+  ],
+  "official_mesh_extracted": true,
+  "prefab_skeletons_extracted": true,
+  "draw_hash_status": "not_captured_on_target"
+}

@@ -1,0 +1,532 @@
+{
+  "kind": "native_mesh",
+  "id": "cab-3b3a76b0cd2e267b52b1dc9be7fe4a31:-2584785206449595710",
+  "source_cab": "cab-3b3a76b0cd2e267b52b1dc9be7fe4a31",
+  "path_id": "-2584785206449595710",
+  "class_id": 43,
+  "raw_bytes": 4088,
+  "raw_sha256": "0747cb1f075ea72dab5908a7b57b146fe013610234d03e1a2e94cce9310be0d0",
+  "type_hash": "7cda0f2e6742c9b0f2a194edde97cbe2",
+  "source_object_offset": 1955200,
+  "layout": {
+    "name": "Gauze_LOD3",
+    "submeshes": [
+      {
+        "first_byte": 0,
+        "index_count": 108,
+        "topology": 0,
+        "base_vertex": 0,
+        "first_vertex": 0,
+        "vertex_count": 32,
+        "aabb": [
+          -1.862645149230957e-08,
+          1.3967697620391846,
+          0.12033771723508835,
+          0.09077152609825134,
+          0.05837059020996094,
+          0.061739109456539154
+        ],
+        "first_index": 0
+      }
+    ],
+    "blend_shapes": {
+      "vertices": {
+        "count": 0,
+        "offset": 72,
+        "bytes": 0,
+        "stride": 40
+      },
+      "frames": [],
+      "channels": [],
+      "full_weights": []
+    },
+    "bindposes": {
+      "count": 8,
+      "offset": 88,
+      "bytes": 512,
+      "stride": 64
+    },
+    "bone_hashes": {
+      "count": 8,
+      "offset": 604,
+      "bytes": 32,
+      "stride": 4
+    },
+    "root_bone_hash": 4053967270,
+    "flags": {
+      "compression": 0,
+      "readable": 0,
+      "keep_vertices": 1,
+      "keep_indices": 1
+    },
+    "packed_skin_uv": 0,
+    "index_format": 0,
+    "indices": {
+      "count": 216,
+      "offset": 656,
+      "bytes": 216,
+      "stride": 1
+    },
+    "skin": {
+      "count": 32,
+      "offset": 876,
+      "bytes": 1024,
+      "stride": 32
+    },
+    "current_channels": 159,
+    "vertex_count": 32,
+    "channels": [
+      {
+        "index": 0,
+        "stream": 0,
+        "offset": 0,
+        "format": 0,
+        "dimension": 3,
+        "format_name": "float32",
+        "component_bytes": 4
+      },
+      {
+        "index": 1,
+        "stream": 0,
+        "offset": 12,
+        "format": 0,
+        "dimension": 3,
+        "format_name": "float32",
+        "component_bytes": 4
+      },
+      {
+        "index": 2,
+        "stream": 1,
+        "offset": 0,
+        "format": 2,
+        "dimension": 4,
+        "format_name": "color_unorm8",
+        "component_bytes": 1
+      },
+      {
+        "index": 3,
+        "stream": 1,
+        "offset": 4,
+        "format": 0,
+        "dimension": 2,
+        "format_name": "float32",
+        "component_bytes": 4
+      },
+      {
+        "index": 4,
+        "stream": 1,
+        "offset": 12,
+        "format": 0,
+        "dimension": 2,
+        "format_name": "float32",
+        "component_bytes": 4
+      },
+      {
+        "index": 5,
+        "stream": 0,
+        "offset": 0,
+        "format": 0,
+        "dimension": 0
+      },
+      {
+        "index": 6,
+        "stream": 0,
+        "offset": 0,
+        "format": 0,
+        "dimension": 0
+      },
+      {
+        "index": 7,
+        "stream": 0,
+        "offset": 24,
+        "format": 0,
+        "dimension": 4,
+        "format_name": "float32",
+        "component_bytes": 4
+      }
+    ],
+    "vertex_data": {
+      "count": 1920,
+      "offset": 1948,
+      "bytes": 1920,
+      "stride": 1
+    },
+    "vertex_streams": [
+      {
+        "stream": 0,
+        "stride": 40,
+        "bytes": 1280,
+        "offset_in_vertex_data": 0,
+        "offset_in_raw_mesh": 1948,
+        "channel_indices": [
+          0,
+          1,
+          7
+        ]
+      },
+      {
+        "stream": 1,
+        "stride": 20,
+        "bytes": 640,
+        "offset_in_vertex_data": 1280,
+        "offset_in_raw_mesh": 3228,
+        "channel_indices": [
+          2,
+          3,
+          4
+        ]
+      }
+    ],
+    "compressed": {
+      "vertices": {
+        "offset": 3868,
+        "bytes": 20,
+        "count": 0,
+        "bits": 0,
+        "range_start": [
+          0.0,
+          0.0
+        ],
+        "data": {
+          "count": 0,
+          "offset": 3884,
+          "bytes": 0,
+          "stride": 1
+        }
+      },
+      "uv": {
+        "offset": 3888,
+        "bytes": 20,
+        "count": 0,
+        "bits": 0,
+        "range_start": [
+          0.0,
+          0.0
+        ],
+        "data": {
+          "count": 0,
+          "offset": 3904,
+          "bytes": 0,
+          "stride": 1
+        }
+      },
+      "normals": {
+        "offset": 3908,
+        "bytes": 20,
+        "count": 0,
+        "bits": 0,
+        "range_start": [
+          0.0,
+          0.0
+        ],
+        "data": {
+          "count": 0,
+          "offset": 3924,
+          "bytes": 0,
+          "stride": 1
+        }
+      },
+      "tangents": {
+        "offset": 3928,
+        "bytes": 20,
+        "count": 0,
+        "bits": 0,
+        "range_start": [
+          0.0,
+          0.0
+        ],
+        "data": {
+          "count": 0,
+          "offset": 3944,
+          "bytes": 0,
+          "stride": 1
+        }
+      },
+      "weights": {
+        "offset": 3948,
+        "bytes": 12,
+        "count": 0,
+        "bits": 0,
+        "range_start": null,
+        "data": {
+          "count": 0,
+          "offset": 3956,
+          "bytes": 0,
+          "stride": 1
+        }
+      },
+      "normal_signs": {
+        "offset": 3960,
+        "bytes": 12,
+        "count": 0,
+        "bits": 0,
+        "range_start": null,
+        "data": {
+          "count": 0,
+          "offset": 3968,
+          "bytes": 0,
+          "stride": 1
+        }
+      },
+      "tangent_signs": {
+        "offset": 3972,
+        "bytes": 12,
+        "count": 0,
+        "bits": 0,
+        "range_start": null,
+        "data": {
+          "count": 0,
+          "offset": 3980,
+          "bytes": 0,
+          "stride": 1
+        }
+      },
+      "float_colors": {
+        "offset": 3984,
+        "bytes": 20,
+        "count": 0,
+        "bits": 0,
+        "range_start": [
+          0.0,
+          0.0
+        ],
+        "data": {
+          "count": 0,
+          "offset": 4000,
+          "bytes": 0,
+          "stride": 1
+        }
+      },
+      "bone_indices": {
+        "offset": 4004,
+        "bytes": 12,
+        "count": 0,
+        "bits": 0,
+        "range_start": null,
+        "data": {
+          "count": 0,
+          "offset": 4012,
+          "bytes": 0,
+          "stride": 1
+        }
+      },
+      "triangles": {
+        "offset": 4016,
+        "bytes": 12,
+        "count": 0,
+        "bits": 0,
+        "range_start": null,
+        "data": {
+          "count": 0,
+          "offset": 4024,
+          "bytes": 0,
+          "stride": 1
+        }
+      }
+    },
+    "compressed_uv_info": 0,
+    "aabb": [
+      -1.862645149230957e-08,
+      1.3967697620391846,
+      0.12033771723508835,
+      0.09077152609825134,
+      0.05837059020996094,
+      0.061739109456539154
+    ],
+    "usage_flags": 0,
+    "baked_convex": {
+      "count": 0,
+      "offset": 4064,
+      "bytes": 0,
+      "stride": 1
+    },
+    "baked_triangle": {
+      "count": 0,
+      "offset": 4068,
+      "bytes": 0,
+      "stride": 1
+    },
+    "metrics": [
+      1.7191274166107178,
+      1.0
+    ],
+    "metrics_dirty": 0,
+    "close_dynamic_compression": 0,
+    "is_streaming": 0,
+    "bindpose_matrices_row_major": [
+      [
+        0.24599924683570862,
+        -0.04510147124528885,
+        -0.9682188034057617,
+        0.17361953854560852,
+        0.04503953829407692,
+        0.9983693957328796,
+        -0.03506258502602577,
+        -1.328857660293579,
+        0.9682226777076721,
+        -0.034982796758413315,
+        0.247629776597023,
+        0.06691119819879532,
+        0.0,
+        0.0,
+        0.0,
+        1.0
+      ],
+      [
+        0.24756167829036713,
+        -0.12909354269504547,
+        -0.9602314829826355,
+        0.3499417304992676,
+        0.08167481422424316,
+        0.9903369545936584,
+        -0.11208397150039673,
+        -1.3027851581573486,
+        0.9654232263565063,
+        -0.05067908763885498,
+        0.2557135820388794,
+        0.08717423677444458,
+        0.0,
+        0.0,
+        0.0,
+        1.0
+      ],
+      [
+        -0.24599876999855042,
+        -0.04510054364800453,
+        -0.9682193398475647,
+        0.1736181676387787,
+        -0.0450388602912426,
+        0.9983696937561035,
+        -0.0350617878139019,
+        -1.3288588523864746,
+        0.9682223200798035,
+        0.0349823459982872,
+        -0.24762901663780212,
+        -0.0669107437133789,
+        0.0,
+        0.0,
+        0.0,
+        1.0
+      ],
+      [
+        -0.24382749199867249,
+        -0.13298995792865753,
+        -0.9606558680534363,
+        0.35499075055122375,
+        -0.09197830408811569,
+        0.9892596006393433,
+        -0.11360438168048859,
+        -1.3004803657531738,
+        0.965445876121521,
+        0.06065961346030235,
+        -0.2534407079219818,
+        -0.1001603975892067,
+        0.0,
+        0.0,
+        0.0,
+        1.0
+      ],
+      [
+        0.9183092713356018,
+        0.35405611991882324,
+        0.17706583440303802,
+        -0.49550992250442505,
+        0.2818036675453186,
+        -0.27054110169410706,
+        -0.9205400943756104,
+        0.41513267159461975,
+        -0.2780191898345947,
+        0.8952383995056152,
+        -0.34821468591690063,
+        -1.295592188835144,
+        0.0,
+        0.0,
+        0.0,
+        1.0
+      ],
+      [
+        5.576073931479186e-07,
+        -0.9953383207321167,
+        -0.09644544124603271,
+        1.4572136402130127,
+        1.6706625274309772e-06,
+        -0.09644544124603271,
+        0.9953382611274719,
+        0.12216147035360336,
+        -1.0,
+        -7.161359008023283e-07,
+        1.6090957615233492e-06,
+        1.1158202823935426e-06,
+        0.0,
+        0.0,
+        0.0,
+        1.0
+      ],
+      [
+        -0.9183098673820496,
+        0.35405653715133667,
+        0.1770632416009903,
+        -0.4955102503299713,
+        -0.2818011939525604,
+        -0.2705409526824951,
+        -0.9205409288406372,
+        0.4151325523853302,
+        -0.27802059054374695,
+        -0.8952382802963257,
+        0.34821391105651855,
+        1.2955924272537231,
+        0.0,
+        0.0,
+        0.0,
+        1.0
+      ],
+      [
+        -6.152479272714118e-07,
+        -0.9596478343009949,
+        0.2812044024467468,
+        1.2121877670288086,
+        1.4610770904255332e-06,
+        0.2812044322490692,
+        0.9596478939056396,
+        -0.4269489347934723,
+        -1.0,
+        1.0012829534389311e-06,
+        1.2291091024962952e-06,
+        -1.3598618124888162e-06,
+        0.0,
+        0.0,
+        0.0,
+        1.0
+      ]
+    ],
+    "bone_name_hashes": [
+      1129221316,
+      165557338,
+      2627642663,
+      1362178085,
+      1904050826,
+      1261640880,
+      1209676753,
+      4053967270
+    ],
+    "index_summary": {
+      "count": 108,
+      "minimum": 0,
+      "maximum": 31,
+      "element_bytes": 2
+    },
+    "weighted_bone_indices": [
+      0,
+      1,
+      2,
+      3,
+      4,
+      5,
+      6,
+      7
+    ]
+  },
+  "name": "Gauze_LOD3",
+  "raw_binary": "native/mesh-data/0747cb1f075ea72dab5908a7b57b146fe013610234d03e1a2e94cce9310be0d0.bin",
+  "parsed": true
+}

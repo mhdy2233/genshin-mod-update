@@ -1,0 +1,732 @@
+{
+  "kind": "native_material",
+  "id": "cab-3307f4feae6ad1602fb323705bc9ca2f:-8928310605507485581",
+  "source_cab": "cab-3307f4feae6ad1602fb323705bc9ca2f",
+  "path_id": "-8928310605507485581",
+  "class_id": 21,
+  "raw_bytes": 4012,
+  "raw_sha256": "a9834035eb665919e5a3797ca84383ad1352e6ed6e436e1861f4afcb87470899",
+  "type_hash": "e1ee5b1091ac21b95baed1351f8fb1c2",
+  "source_object_offset": 4096,
+  "material": {
+    "name": "SkillObj_Mavuika_Glass_Eff_Mat",
+    "shader": {
+      "file_id": 1,
+      "path_id": "-3141903487219728005"
+    },
+    "keywords": "ENABLE_CHARACTER_GLASSSPECULAR_ON ENABLE_FLOW_TEX_ON",
+    "lightmap_flags": 4,
+    "instancing_flags_hex": "01000000",
+    "render_queue": 3009,
+    "tags": [],
+    "disabled_passes": [],
+    "textures": [
+      {
+        "property": "_GlassSpecularTex",
+        "pointer": {
+          "file_id": 2,
+          "path_id": "4813568364655092612"
+        },
+        "scale": [
+          1.0499999523162842,
+          1.0
+        ],
+        "offset": [
+          -0.800000011920929,
+          0.0
+        ],
+        "max_mip_level": 0,
+        "texture_ref": "cab-f3faf0b6171660a89ef2599c4cf29d74:4813568364655092612"
+      },
+      {
+        "property": "_MainTex",
+        "pointer": {
+          "file_id": 3,
+          "path_id": "938098847716068711"
+        },
+        "scale": [
+          1.0,
+          1.0
+        ],
+        "offset": [
+          0.0,
+          0.0
+        ],
+        "max_mip_level": 0,
+        "texture_ref": "cab-b68389418e8fb269aed95696cd7b9ff5:938098847716068711"
+      },
+      {
+        "property": "_ShaderLerpCharAvatarDie_DissolveNoise",
+        "pointer": {
+          "file_id": 0,
+          "path_id": "0"
+        },
+        "scale": [
+          1.0,
+          1.0
+        ],
+        "offset": [
+          0.0,
+          0.0
+        ],
+        "max_mip_level": 0,
+        "texture_ref": null
+      },
+      {
+        "property": "_ShaderLerpCharFrozen_CubeMap",
+        "pointer": {
+          "file_id": 0,
+          "path_id": "0"
+        },
+        "scale": [
+          1.0,
+          1.0
+        ],
+        "offset": [
+          0.0,
+          0.0
+        ],
+        "max_mip_level": 0,
+        "texture_ref": null
+      },
+      {
+        "property": "_ShaderLerpCharFrozen_IceBumpTex",
+        "pointer": {
+          "file_id": 0,
+          "path_id": "0"
+        },
+        "scale": [
+          1.0,
+          1.0
+        ],
+        "offset": [
+          0.0,
+          0.0
+        ],
+        "max_mip_level": 0,
+        "texture_ref": null
+      },
+      {
+        "property": "_ShaderLerpCharFrozen_TillingNormal",
+        "pointer": {
+          "file_id": 0,
+          "path_id": "0"
+        },
+        "scale": [
+          1.0,
+          1.0
+        ],
+        "offset": [
+          0.0,
+          0.0
+        ],
+        "max_mip_level": 0,
+        "texture_ref": null
+      },
+      {
+        "property": "_ShaderLerpCharFrozen_TriplanarTex",
+        "pointer": {
+          "file_id": 0,
+          "path_id": "0"
+        },
+        "scale": [
+          1.0,
+          1.0
+        ],
+        "offset": [
+          0.0,
+          0.0
+        ],
+        "max_mip_level": 0,
+        "texture_ref": null
+      },
+      {
+        "property": "_WeaponDissolveTex",
+        "pointer": {
+          "file_id": 0,
+          "path_id": "0"
+        },
+        "scale": [
+          1.0,
+          1.0
+        ],
+        "offset": [
+          0.0,
+          0.0
+        ],
+        "max_mip_level": 0,
+        "texture_ref": null
+      },
+      {
+        "property": "_WeaponPatternTex",
+        "pointer": {
+          "file_id": 0,
+          "path_id": "0"
+        },
+        "scale": [
+          2.0,
+          2.0
+        ],
+        "offset": [
+          0.0,
+          0.0
+        ],
+        "max_mip_level": 0,
+        "texture_ref": null
+      }
+    ],
+    "floats": [
+      [
+        "UseGlassSpecularToggle",
+        1.0
+      ],
+      [
+        "UseScanEmissionAddToggle",
+        1.0
+      ],
+      [
+        "_AlphaBottomOffset",
+        -1.3200000524520874
+      ],
+      [
+        "_AlphaBottomRange",
+        3.0
+      ],
+      [
+        "_AlphaOffset",
+        -1.3200000524520874
+      ],
+      [
+        "_AlphaRange",
+        3.0
+      ],
+      [
+        "_BlendOP",
+        0.0
+      ],
+      [
+        "_BottomAlphaToggle",
+        0.0
+      ],
+      [
+        "_BumpScale",
+        1.0
+      ],
+      [
+        "_ColorGradientOffset",
+        -2.0
+      ],
+      [
+        "_ColorGradientRange",
+        3.0
+      ],
+      [
+        "_Cull",
+        2.0
+      ],
+      [
+        "_Cutoff",
+        0.5
+      ],
+      [
+        "_DepthFade",
+        1.0
+      ],
+      [
+        "_DepthThresh",
+        1.0
+      ],
+      [
+        "_DetailBrightness",
+        0.3499999940395355
+      ],
+      [
+        "_DetailNormalMapScale",
+        1.0
+      ],
+      [
+        "_DetailSpeed",
+        1.0
+      ],
+      [
+        "_DissolveDirection_Toggle",
+        0.0
+      ],
+      [
+        "_DitherAlpha",
+        1.0
+      ],
+      [
+        "_DstBlend",
+        0.0
+      ],
+      [
+        "_DstBlendMode",
+        10.0
+      ],
+      [
+        "_Dx11ShaderPsScore",
+        85.0
+      ],
+      [
+        "_Dx11ShaderScore",
+        -1.0
+      ],
+      [
+        "_Dx11ShaderVsScore",
+        31.0
+      ],
+      [
+        "_ElementViewEleID",
+        0.0
+      ],
+      [
+        "_EmissionADDWarpSoft",
+        1.0
+      ],
+      [
+        "_EmissionNoiseScale",
+        0.0
+      ],
+      [
+        "_EmissionScaler",
+        3.0
+      ],
+      [
+        "_Emission_ADD_Scale",
+        100.0
+      ],
+      [
+        "_Emission_ADD_USpeed",
+        0.009999999776482582
+      ],
+      [
+        "_Emission_ADD_VSpeed",
+        0.029999999329447746
+      ],
+      [
+        "_Emission_Noise_Uspeed",
+        0.0
+      ],
+      [
+        "_Emission_Noise_Vspeed",
+        0.0
+      ],
+      [
+        "_GlassSpecularDetailLength",
+        0.4000000059604645
+      ],
+      [
+        "_GlassSpecularDetailLengthRange",
+        0.40400001406669617
+      ],
+      [
+        "_GlassSpecularDetailOffset",
+        0.8199999928474426
+      ],
+      [
+        "_GlassSpecularOffset",
+        2.0
+      ],
+      [
+        "_GlassSpecularSmooth",
+        0.5
+      ],
+      [
+        "_GlassThickness",
+        5.570000171661377
+      ],
+      [
+        "_GlassThicknessScale",
+        3.490000009536743
+      ],
+      [
+        "_GlassTiling",
+        1.600000023841858
+      ],
+      [
+        "_GlassTilingFar",
+        35.0
+      ],
+      [
+        "_GlassTilingNear",
+        35.0
+      ],
+      [
+        "_GlasspecularDistance",
+        1.0
+      ],
+      [
+        "_GlasspecularLength",
+        0.3889999985694885
+      ],
+      [
+        "_GlasspecularLengthRange",
+        0.31200000643730164
+      ],
+      [
+        "_GlossMapScale",
+        1.0
+      ],
+      [
+        "_Glossiness",
+        0.5
+      ],
+      [
+        "_GlossyReflections",
+        1.0
+      ],
+      [
+        "_MHYZBias",
+        0.0
+      ],
+      [
+        "_MainColorScaler",
+        2.5
+      ],
+      [
+        "_Metallic",
+        0.0
+      ],
+      [
+        "_Mode",
+        0.0
+      ],
+      [
+        "_Normal01_U_Speed",
+        0.0
+      ],
+      [
+        "_Normal01_VSpeed",
+        0.0
+      ],
+      [
+        "_Normal02_U_Speed",
+        0.0
+      ],
+      [
+        "_Normal02_V_Speed",
+        0.0
+      ],
+      [
+        "_OcclusionStrength",
+        1.0
+      ],
+      [
+        "_Opacity",
+        1.0
+      ],
+      [
+        "_Parallax",
+        0.019999999552965164
+      ],
+      [
+        "_Pattern_Speed",
+        3.7100000381469727
+      ],
+      [
+        "_PolygonOffsetFactor",
+        0.0
+      ],
+      [
+        "_PolygonOffsetUnit",
+        0.0
+      ],
+      [
+        "_ReflectionBrightness",
+        0.0
+      ],
+      [
+        "_ReflectionIntensity",
+        0.6000000238418579
+      ],
+      [
+        "_SHADER_LERP_MATERIAL_ID",
+        0.0
+      ],
+      [
+        "_SOFTPARTICLES",
+        0.0
+      ],
+      [
+        "_ScanColorScaler",
+        0.0
+      ],
+      [
+        "_ScanDirection_Switch",
+        1.0
+      ],
+      [
+        "_ScanSpeed",
+        0.5
+      ],
+      [
+        "_ShaderLerpCharAvatarDie_DissolveColorScaler",
+        1.0
+      ],
+      [
+        "_ShaderLerpCharAvatarDie_DissolveEdgeWidth",
+        1.100000023841858
+      ],
+      [
+        "_ShaderLerpCharAvatarDie_DissolveValue",
+        0.0
+      ],
+      [
+        "_ShaderLerpCharDissolve_Value",
+        0.029620449990034103
+      ],
+      [
+        "_ShaderLerpCharFrozen_FrozenIntensity",
+        0.8999999761581421
+      ],
+      [
+        "_ShadowStrength",
+        0.0
+      ],
+      [
+        "_SmoothnessTextureChannel",
+        0.0
+      ],
+      [
+        "_SpecularHighlights",
+        1.0
+      ],
+      [
+        "_SprayOffset",
+        -2.0
+      ],
+      [
+        "_SprayRange",
+        3.0
+      ],
+      [
+        "_SrcBlend",
+        1.0
+      ],
+      [
+        "_SrcBlendMode",
+        5.0
+      ],
+      [
+        "_UVSec",
+        0.0
+      ],
+      [
+        "_Use1",
+        0.0
+      ],
+      [
+        "_UseCharacterGlassSpecular",
+        1.0
+      ],
+      [
+        "_UseGlassSpecular",
+        1.0
+      ],
+      [
+        "_UsingDitherAlpha",
+        0.0
+      ],
+      [
+        "_WaterFall01_Speed",
+        0.5799999833106995
+      ],
+      [
+        "_Waterfall01Brightness",
+        0.699999988079071
+      ],
+      [
+        "_Waterfall02Brightness",
+        0.4000000059604645
+      ],
+      [
+        "_Waterfall02_Speed",
+        0.6000000238418579
+      ],
+      [
+        "_WeaponDissolveValue",
+        1.0
+      ],
+      [
+        "_ZWrite",
+        1.0
+      ],
+      [
+        "_Ztest",
+        4.0
+      ],
+      [
+        "_Zwrite",
+        1.0
+      ]
+    ],
+    "colors": [
+      [
+        "_BottomColor",
+        [
+          0.7647058963775635,
+          0.7647058963775635,
+          0.7647058963775635,
+          0.0
+        ]
+      ],
+      [
+        "_Color",
+        [
+          0.8588235974311829,
+          0.40000003576278687,
+          0.10588236153125763,
+          1.0
+        ]
+      ],
+      [
+        "_DayColor",
+        [
+          1.0,
+          1.0,
+          1.0,
+          0.0
+        ]
+      ],
+      [
+        "_DistortionIntensity",
+        [
+          1.0,
+          1.0,
+          1.0,
+          0.0
+        ]
+      ],
+      [
+        "_EmissionColor",
+        [
+          0.0,
+          0.0,
+          0.0,
+          1.0
+        ]
+      ],
+      [
+        "_Emission_ADD_Color",
+        [
+          0.20588237047195435,
+          0.20588237047195435,
+          0.20588237047195435,
+          0.0
+        ]
+      ],
+      [
+        "_GlassSpecularColor",
+        [
+          0.529411792755127,
+          0.2055094987154007,
+          0.1596020758152008,
+          0.0
+        ]
+      ],
+      [
+        "_GlassSpecularDetailColor",
+        [
+          0.4852941036224365,
+          0.2711937725543976,
+          0.2711937725543976,
+          0.0
+        ]
+      ],
+      [
+        "_GlassThicknessColor",
+        [
+          0.5220588445663452,
+          0.15725292265415192,
+          0.023031998425722122,
+          0.0
+        ]
+      ],
+      [
+        "_MainColor",
+        [
+          0.8897058963775635,
+          0.42915233969688416,
+          0.13083912432193756,
+          1.0
+        ]
+      ],
+      [
+        "_ReflectionColor_Dark",
+        [
+          0.07058820873498917,
+          0.22745096683502197,
+          0.1568627655506134,
+          0.0
+        ]
+      ],
+      [
+        "_ReflectionColor_Light",
+        [
+          0.8666666746139526,
+          0.9411764740943909,
+          0.9294118285179138,
+          0.0
+        ]
+      ],
+      [
+        "_ScanColor",
+        [
+          0.8980392217636108,
+          0.8980392217636108,
+          0.8980392217636108,
+          1.0
+        ]
+      ],
+      [
+        "_ShaderLerpCharAvatarDie_DeathTintColor",
+        [
+          1.0,
+          1.0,
+          1.0,
+          1.0
+        ]
+      ],
+      [
+        "_ShaderLerpCharAvatarDie_DissolveColor",
+        [
+          0.43382346630096436,
+          1.0,
+          0.9297161102294922,
+          1.0
+        ]
+      ],
+      [
+        "_ShaderLerpCharDissolve_Color",
+        [
+          0.5,
+          1.0,
+          1.0,
+          1.0
+        ]
+      ],
+      [
+        "_TopColor",
+        [
+          0.0,
+          1.0,
+          0.58620685338974,
+          0.0
+        ]
+      ],
+      [
+        "_WeaponPatternColor",
+        [
+          0.0,
+          0.0,
+          0.0,
+          0.0
+        ]
+      ]
+    ],
+    "shader_ref": "cab-2327c0107283e259906def3174bfb123:-3141903487219728005"
+  },
+  "name": "SkillObj_Mavuika_Glass_Eff_Mat",
+  "parsed": true
+}

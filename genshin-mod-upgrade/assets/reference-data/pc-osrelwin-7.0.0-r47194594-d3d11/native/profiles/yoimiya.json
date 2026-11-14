@@ -1,0 +1,76 @@
+{
+  "kind": "native_profile",
+  "id": "yoimiya",
+  "internal_name": "Yoimiya",
+  "prefabs": [
+    {
+      "name": "Avatar_Girl_Bow_Yoimiya_Remote",
+      "path": "native/prefabs/08c4986042c1298b92bd974d35dac5ef921a8ac8709a7a07bb1ba93262c73738.json",
+      "source_cab": "cab-d2579407dee2f0b242edcbcd108c0104",
+      "variant_suffix": "_Remote",
+      "transform_count": 210,
+      "renderer_count": 6,
+      "internal_name": "Yoimiya"
+    },
+    {
+      "name": "Avatar_Girl_Bow_Yoimiya_Kanban",
+      "path": "native/prefabs/6fa7bd4ccd67279011eebfdc1cc59007e95a4c062d912b6a99fefcdd5b1e3eb2.json",
+      "source_cab": "cab-dea565591d7a4307d43d7a3ca090ccc2",
+      "variant_suffix": "_Kanban",
+      "transform_count": 179,
+      "renderer_count": 6,
+      "internal_name": "Yoimiya"
+    },
+    {
+      "name": "Avatar_Girl_Bow_Yoimiya_Manekin",
+      "path": "native/prefabs/731fc135ea525a6cd6c0faa80c71eb89b607ef63d55e1d95155d669f77c30058.json",
+      "source_cab": "cab-0483cbf33772afb39346f1565ef9974c",
+      "variant_suffix": "_Manekin",
+      "transform_count": 179,
+      "renderer_count": 6,
+      "internal_name": "Yoimiya"
+    },
+    {
+      "name": "Avatar_Girl_Bow_Yoimiya_Kanban_Edit",
+      "path": "native/prefabs/835d0fc33f0e0fbb189e2eb606d0a560d630d0f717a5ce1ee8061aa1d657fcb1.json",
+      "source_cab": "cab-862e928978da3d58184842c04ede729d",
+      "variant_suffix": "_Kanban_Edit",
+      "transform_count": 179,
+      "renderer_count": 6,
+      "internal_name": "Yoimiya"
+    },
+    {
+      "name": "Avatar_Girl_Bow_Yoimiya",
+      "path": "native/prefabs/e1f784ea23009624716b139a9cd3056d9a02476848518a9f392d4bc4555f0320.json",
+      "source_cab": "cab-8d1d0bba73113eccd88ce08042f1d22a",
+      "variant_suffix": "",
+      "transform_count": 210,
+      "renderer_count": 6,
+      "internal_name": "Yoimiya"
+    },
+    {
+      "name": "Avatar_Girl_Bow_Yoimiya_Edit",
+      "path": "native/prefabs/e888676f0b96926dea28dc9d3a67ff4f0fd4c54cabf0e494307385f42ab16980.json",
+      "source_cab": "cab-eee0e26dc0842252b8b61f4359b1cfa6",
+      "variant_suffix": "_Edit",
+      "transform_count": 210,
+      "renderer_count": 6,
+      "internal_name": "Yoimiya"
+    }
+  ],
+  "roster_entries": [
+    {
+      "id": 10000049,
+      "internal_name": "Yoimiya",
+      "name_zh": "宵宫",
+      "use_type": "AVATAR_FORMAL",
+      "body_type": "BODY_GIRL",
+      "weapon_type": "WEAPON_BOW",
+      "prefab_path_hash": "15556354688631607757"
+    }
+  ],
+  "costume": null,
+  "evidence_level": "installed_pc_asset_extraction",
+  "new_runtime_test_performed": false,
+  "character_id": "yoimiya"
+}

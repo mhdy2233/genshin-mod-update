@@ -1,0 +1,32 @@
+{
+  "kind": "character",
+  "id": "kinich",
+  "name_zh": "基尼奇",
+  "game_draw_targets": [],
+  "face_texture_example": [],
+  "example_mod": null,
+  "bone_mapping": null,
+  "full_skeleton_extracted": false,
+  "validation": {
+    "scope": "Native installed assets; no new draw capture or gameplay acceptance",
+    "new_runtime_test_performed_by_export": false,
+    "all_actions_lighting_and_lods_verified": false
+  },
+  "native_profiles": {
+    "kinich": "native/profiles/kinich.json"
+  },
+  "roster_entries": [
+    {
+      "id": 10000101,
+      "internal_name": "Kinich",
+      "name_zh": "基尼奇",
+      "use_type": "AVATAR_FORMAL",
+      "body_type": "BODY_BOY",
+      "weapon_type": "WEAPON_CLAYMORE",
+      "prefab_path_hash": "9535233256479970399"
+    }
+  ],
+  "official_mesh_extracted": true,
+  "prefab_skeletons_extracted": true,
+  "draw_hash_status": "not_captured_on_target"
+}

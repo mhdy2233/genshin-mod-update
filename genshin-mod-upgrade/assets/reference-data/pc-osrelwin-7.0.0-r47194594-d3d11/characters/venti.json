@@ -1,0 +1,228 @@
+{
+  "kind": "character",
+  "id": "venti",
+  "name_zh": "温迪",
+  "game_draw_targets": [
+    {
+      "object": "body",
+      "evidence_level": "accepted_mod_configuration",
+      "parts": [
+        {
+          "part": "head",
+          "section": "TextureOverrideVentiHead",
+          "match_first_index": 0,
+          "material_binding_kind": "no_normal_map_nnfix",
+          "texture_assignments": {
+            "ps-t0": "ResourceVentiHeadDiffuse",
+            "ps-t1": "ResourceVentiHeadLightMap"
+          },
+          "commands_after_bindings": [
+            "CommandList\\global\\ORFix\\NNFix"
+          ]
+        },
+        {
+          "part": "body",
+          "section": "TextureOverrideVentiBody",
+          "match_first_index": 7419,
+          "material_binding_kind": "no_normal_map_nnfix",
+          "texture_assignments": {
+            "ps-t0": "ResourceVentiBodyDiffuse",
+            "ps-t1": "ResourceVentiBodyLightMap"
+          },
+          "commands_after_bindings": [
+            "CommandList\\global\\ORFix\\NNFix"
+          ]
+        }
+      ],
+      "position_hash": "09a91a5c",
+      "blend_hash": "a6823bb3",
+      "texcoord_hash": "6568ac68",
+      "index_buffer_hash": "1afcf31d",
+      "vertex_limit_raise_hash": "0d36f587"
+    }
+  ],
+  "face_texture_example": [],
+  "example_mod": {
+    "name": "VentiArchon-7.0",
+    "ini": "examples/venti/Venti.ini",
+    "ini_sha256": "a0e946d28d854bc5df63acfc2e08cbf10e365dcba750632949505799118fd012",
+    "resources": [
+      {
+        "section": "ResourceVentiPosition",
+        "filename": "VentiPosition.buf",
+        "bytes": 1768440,
+        "sha256": "04999b37ac9631656aaa97dffb058b83b049f521ce3d69cf253efbabee2ba139",
+        "buffer": {
+          "stride": 40,
+          "element_count": 44211,
+          "trailing_bytes": 0
+        }
+      },
+      {
+        "section": "ResourceVentiBlend",
+        "filename": "VentiBlend.buf",
+        "bytes": 1414752,
+        "sha256": "6a9848d1450b0aefc118947e3ce5dc4eacce801b236bad31a7ccd20492a55ae4",
+        "buffer": {
+          "stride": 32,
+          "element_count": 44211,
+          "trailing_bytes": 0
+        }
+      },
+      {
+        "section": "ResourceVentiTexcoord",
+        "filename": "VentiTexcoord.buf",
+        "bytes": 530532,
+        "sha256": "d56156b2856ffe38dc9de2ac4f3f19513f6ce287b71525f5e0c3ce86d9948468",
+        "buffer": {
+          "stride": 12,
+          "element_count": 44211,
+          "trailing_bytes": 0
+        }
+      },
+      {
+        "section": "ResourceVentiHeadIB",
+        "filename": "VentiHead.ib",
+        "bytes": 14838,
+        "sha256": "8bc5b7ccbb3935042601fa66fbffc076fe6a10f15c275e9c6409a0718bd6afc0",
+        "indices": {
+          "format": "DXGI_FORMAT_R16_UINT",
+          "count": 7419,
+          "trailing_bytes": 0,
+          "minimum": 0,
+          "maximum": 2155
+        }
+      },
+      {
+        "section": "ResourceVentiBodyIB",
+        "filename": "VentiBody.ib",
+        "bytes": 421716,
+        "sha256": "3376f2e9b3ae9af8de572703e23dc4538a0c3c2a56a8b36b5f7347c35fa889a5",
+        "indices": {
+          "format": "DXGI_FORMAT_R16_UINT",
+          "count": 210858,
+          "trailing_bytes": 0,
+          "minimum": 2156,
+          "maximum": 44210
+        }
+      },
+      {
+        "section": "ResourceVentiHeadDiffuse",
+        "filename": "VentiHeadDiffuse.dds",
+        "bytes": 1048724,
+        "sha256": "889798844a685f4fa33468dad883d84633a34b90e8fda806409324f8ab1f7073",
+        "image_header": {
+          "type": "DDS",
+          "width": 1024,
+          "height": 1024,
+          "mip_count_declared": 1,
+          "fourcc": "DX10",
+          "rgb_bit_count": 0,
+          "dxgi_format": 99
+        }
+      },
+      {
+        "section": "ResourceVentiHeadLightMap",
+        "filename": "VentiHeadLightMap.dds",
+        "bytes": 1048724,
+        "sha256": "7b64121e50bb745cc294f319fd5a981d53c086d3189e8e202a2d900dd52ffcf4",
+        "image_header": {
+          "type": "DDS",
+          "width": 1024,
+          "height": 1024,
+          "mip_count_declared": 1,
+          "fourcc": "DX10",
+          "rgb_bit_count": 0,
+          "dxgi_format": 98
+        }
+      },
+      {
+        "section": "ResourceVentiHeadShadowRamp",
+        "filename": "VentiHeadShadowRamp.jpg",
+        "bytes": 2514,
+        "sha256": "b1e15b8a217d678c60232042b7e41a068a40ebb52c830b2d2a76df0a9f170b87"
+      },
+      {
+        "section": "ResourceVentiBodyDiffuse",
+        "filename": "VentiBodyDiffuse.dds",
+        "bytes": 5592580,
+        "sha256": "873a4d8117991c008fa1f8e2e576e7088e52d264996b79288afd3e9deb09d00b",
+        "image_header": {
+          "type": "DDS",
+          "width": 2048,
+          "height": 2048,
+          "mip_count_declared": 12,
+          "fourcc": "DX10",
+          "rgb_bit_count": 0,
+          "dxgi_format": 99
+        }
+      },
+      {
+        "section": "ResourceVentiBodyLightMap",
+        "filename": "VentiBodyLightMap.dds",
+        "bytes": 1398276,
+        "sha256": "51dcc0c1ac33c308ae5b04610875f46ee5ac55aa12583cf4b9b5cffb45e19fc8",
+        "image_header": {
+          "type": "DDS",
+          "width": 1024,
+          "height": 1024,
+          "mip_count_declared": 11,
+          "fourcc": "DX10",
+          "rgb_bit_count": 0,
+          "dxgi_format": 98
+        }
+      },
+      {
+        "section": "ResourceVentiBodyMetalMap",
+        "filename": "VentiBodyMetalMap.dds",
+        "bytes": 65684,
+        "sha256": "fb18338ed9ef023814d01efa519971f35a7e607acfc362cda0196b2da6fb66ed",
+        "image_header": {
+          "type": "DDS",
+          "width": 256,
+          "height": 256,
+          "mip_count_declared": 1,
+          "fourcc": "DX10",
+          "rgb_bit_count": 0,
+          "dxgi_format": 99
+        }
+      },
+      {
+        "section": "ResourceVentiBodyShadowRamp",
+        "filename": "VentiBodyShadowRamp.jpg",
+        "bytes": 2706,
+        "sha256": "a65d074da9c19d0398ad210bdf09a03662574bf13526b5f96d13c34a01e9c64f"
+      }
+    ],
+    "asset_bytes_included": false,
+    "geometry_counts_are": "MOD-specific counts, NOT official game mesh counts"
+  },
+  "official_mesh_extracted": true,
+  "full_skeleton_extracted": false,
+  "bone_mapping": "mappings/venti-archon-known-source.json",
+  "validation": {
+    "scope": "This named MOD on the recorded PC 7.0 setup; not all outfits or animations",
+    "source": "backups/venti-archon-repair-20261108/repair-verification.json",
+    "new_runtime_test_performed_by_export": false,
+    "user_quote": null,
+    "geometry_result": "User reports bones look correct; screenshot shows intact geometry.",
+    "material_result": "Screenshot inspected after F10: dark hair, natural skin, gold ornaments and blue-white clothing/wings are restored; geometry remains intact.",
+    "all_actions_lighting_and_lods_verified": false
+  },
+  "native_profiles": {
+    "venti": "native/profiles/venti.json"
+  },
+  "roster_entries": [
+    {
+      "id": 10000022,
+      "internal_name": "Venti",
+      "name_zh": "温迪",
+      "use_type": "AVATAR_FORMAL",
+      "body_type": "BODY_BOY",
+      "weapon_type": "WEAPON_BOW",
+      "prefab_path_hash": "10480814800038770762"
+    }
+  ],
+  "prefab_skeletons_extracted": true,
+  "draw_hash_status": "accepted_mod_configuration"
+}

@@ -1,0 +1,76 @@
+{
+  "kind": "native_profile",
+  "id": "beidou",
+  "internal_name": "Beidou",
+  "prefabs": [
+    {
+      "name": "Avatar_Lady_Claymore_Beidou_Edit",
+      "path": "native/prefabs/40cfa29609704f4f3e28a5674ad651c6fdef5ddfe29f75ff27e9a8d45f6a824d.json",
+      "source_cab": "cab-a7dc21d0a3877d8481c63a96c1174cd6",
+      "variant_suffix": "_Edit",
+      "transform_count": 213,
+      "renderer_count": 6,
+      "internal_name": "Beidou"
+    },
+    {
+      "name": "Avatar_Lady_Claymore_Beidou_Kanban",
+      "path": "native/prefabs/73377a3447fed090fc0520ed538c74c2df8bc6d0708cd75cf25dcb61601edc49.json",
+      "source_cab": "cab-569c95ceb4d243558a112c414550fdf9",
+      "variant_suffix": "_Kanban",
+      "transform_count": 182,
+      "renderer_count": 6,
+      "internal_name": "Beidou"
+    },
+    {
+      "name": "Avatar_Lady_Claymore_Beidou",
+      "path": "native/prefabs/97a9ea75e646294b4352f75298541446db00c1d6c734eb85d32cf3fe589f59f1.json",
+      "source_cab": "cab-3b27dd61044a3e535f4078ed3b384e95",
+      "variant_suffix": "",
+      "transform_count": 213,
+      "renderer_count": 6,
+      "internal_name": "Beidou"
+    },
+    {
+      "name": "Avatar_Lady_Claymore_Beidou_Remote",
+      "path": "native/prefabs/b70665d4978a0de1c7d32dfeaf8faed37cba72f95d1e8e91e72704534bb8707c.json",
+      "source_cab": "cab-25577f1a098f26df4784cc3120efa3a6",
+      "variant_suffix": "_Remote",
+      "transform_count": 213,
+      "renderer_count": 6,
+      "internal_name": "Beidou"
+    },
+    {
+      "name": "Avatar_Lady_Claymore_Beidou_Manekin",
+      "path": "native/prefabs/b9a8853bc009d7cde217b57d5b68829da8446a3e751b1830de934748c52e1368.json",
+      "source_cab": "cab-8e1d57930793d8f30c6d44912df02c24",
+      "variant_suffix": "_Manekin",
+      "transform_count": 182,
+      "renderer_count": 6,
+      "internal_name": "Beidou"
+    },
+    {
+      "name": "Avatar_Lady_Claymore_Beidou_Kanban_Edit",
+      "path": "native/prefabs/da175cc134842a3ec7aee4945d60d9b9ea49d1d2927c546ded82d63c237a43a9.json",
+      "source_cab": "cab-90fefc10c49640fe6179e50e4176c417",
+      "variant_suffix": "_Kanban_Edit",
+      "transform_count": 182,
+      "renderer_count": 6,
+      "internal_name": "Beidou"
+    }
+  ],
+  "roster_entries": [
+    {
+      "id": 10000024,
+      "internal_name": "Beidou",
+      "name_zh": "北斗",
+      "use_type": "AVATAR_FORMAL",
+      "body_type": "BODY_LADY",
+      "weapon_type": "WEAPON_CLAYMORE",
+      "prefab_path_hash": "14730165390245343380"
+    }
+  ],
+  "costume": null,
+  "evidence_level": "installed_pc_asset_extraction",
+  "new_runtime_test_performed": false,
+  "character_id": "beidou"
+}

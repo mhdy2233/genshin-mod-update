@@ -1,0 +1,360 @@
+{
+  "kind": "native_material",
+  "id": "cab-94b5d6deb7ad29d39e504c22e0edc227:-8329059750770892306",
+  "source_cab": "cab-94b5d6deb7ad29d39e504c22e0edc227",
+  "path_id": "-8329059750770892306",
+  "class_id": 21,
+  "raw_bytes": 1628,
+  "raw_sha256": "b324fec2cd8497072611e19f90ea85db9d7b958d067be4c5b1afbcf836bacc58",
+  "type_hash": "e1ee5b1091ac21b95baed1351f8fb1c2",
+  "source_object_offset": 4096,
+  "material": {
+    "name": "SkillObj_Neuvillette_Wing_Hair_Mat",
+    "shader": {
+      "file_id": 1,
+      "path_id": "8721262973060810334"
+    },
+    "keywords": "_USEDISSOLVE_ON",
+    "lightmap_flags": 4,
+    "instancing_flags_hex": "00000000",
+    "render_queue": 3010,
+    "tags": [
+      [
+        "AllowDistortionVectors",
+        "False"
+      ]
+    ],
+    "disabled_passes": [],
+    "textures": [
+      {
+        "property": "_DissolveTex",
+        "pointer": {
+          "file_id": 2,
+          "path_id": "-615429205556440902"
+        },
+        "scale": [
+          2.0,
+          0.0
+        ],
+        "offset": [
+          0.0,
+          0.0
+        ],
+        "max_mip_level": 0,
+        "texture_ref": "cab-def7729b7a0e4c1424ae7a679c29b8a9:-615429205556440902"
+      },
+      {
+        "property": "_MainTex",
+        "pointer": {
+          "file_id": 3,
+          "path_id": "-4189956998220499190"
+        },
+        "scale": [
+          1.0,
+          1.0
+        ],
+        "offset": [
+          0.0,
+          0.0
+        ],
+        "max_mip_level": 0,
+        "texture_ref": "cab-bf2354fa0ec2157649428c276a1bad14:-4189956998220499190"
+      },
+      {
+        "property": "_NoiseTex",
+        "pointer": {
+          "file_id": 4,
+          "path_id": "-1074531796840440386"
+        },
+        "scale": [
+          2.0,
+          2.0
+        ],
+        "offset": [
+          0.0,
+          0.0
+        ],
+        "max_mip_level": 0,
+        "texture_ref": "cab-d0749142af158f500fda6be45dbe8524:-1074531796840440386"
+      },
+      {
+        "property": "_NoiseTex02",
+        "pointer": {
+          "file_id": 4,
+          "path_id": "-1074531796840440386"
+        },
+        "scale": [
+          4.0,
+          4.0
+        ],
+        "offset": [
+          0.0,
+          0.0
+        ],
+        "max_mip_level": 0,
+        "texture_ref": "cab-d0749142af158f500fda6be45dbe8524:-1074531796840440386"
+      },
+      {
+        "property": "_NoiseTex03",
+        "pointer": {
+          "file_id": 0,
+          "path_id": "0"
+        },
+        "scale": [
+          1.0,
+          1.0
+        ],
+        "offset": [
+          0.0,
+          0.0
+        ],
+        "max_mip_level": 0,
+        "texture_ref": null
+      },
+      {
+        "property": "_PatternTexInUV2",
+        "pointer": {
+          "file_id": 5,
+          "path_id": "7592875065740236911"
+        },
+        "scale": [
+          1.0,
+          1.0
+        ],
+        "offset": [
+          0.0,
+          0.0
+        ],
+        "max_mip_level": 0,
+        "texture_ref": "cab-38fce2d07d41530a23f101f66582d772:7592875065740236911"
+      }
+    ],
+    "floats": [
+      [
+        "SkipMotionVelocity",
+        0.0
+      ],
+      [
+        "_Alpha",
+        1.0
+      ],
+      [
+        "_BlendOP",
+        0.0
+      ],
+      [
+        "_Cull",
+        0.0
+      ],
+      [
+        "_DissolveTex_ClampU",
+        0.0
+      ],
+      [
+        "_DissolveTex_ClampV",
+        0.0
+      ],
+      [
+        "_DissolveTex_FlipU",
+        0.0
+      ],
+      [
+        "_DissolveTex_FlipV",
+        0.0
+      ],
+      [
+        "_DissolveTex_SwapUV",
+        0.0
+      ],
+      [
+        "_DissolveValue",
+        0.49000000953674316
+      ],
+      [
+        "_DissoveDirectionUvMode",
+        0.0
+      ],
+      [
+        "_DstBlendMode",
+        10.0
+      ],
+      [
+        "_EdgeWidth",
+        0.05000000074505806
+      ],
+      [
+        "_EnableDissoveDirection",
+        1.0
+      ],
+      [
+        "_EnableFlipDirection",
+        1.0
+      ],
+      [
+        "_FresnelPower",
+        1.0
+      ],
+      [
+        "_FresnelScale",
+        0.0
+      ],
+      [
+        "_InvAutoExposure",
+        0.0
+      ],
+      [
+        "_MHYZBias",
+        0.0
+      ],
+      [
+        "_MotionVectorsAlphaCutoff",
+        0.10000000149011612
+      ],
+      [
+        "_NoisOffset",
+        0.0
+      ],
+      [
+        "_Noise02Multiplier",
+        1.0
+      ],
+      [
+        "_NoiseMultiplier",
+        1.0
+      ],
+      [
+        "_NoiseTex02_U_Speed",
+        1.0
+      ],
+      [
+        "_NoiseTex02_V_Speed",
+        1.0
+      ],
+      [
+        "_NoiseTex03_U_Speed",
+        1.0
+      ],
+      [
+        "_NoiseTex03_V_Speed",
+        1.0
+      ],
+      [
+        "_NoiseTx_U_Speed",
+        0.5
+      ],
+      [
+        "_NoiseTx_V_Speed",
+        0.5
+      ],
+      [
+        "_Opacity",
+        0.0
+      ],
+      [
+        "_PolygonOffsetFactor",
+        0.0
+      ],
+      [
+        "_PolygonOffsetUnit",
+        0.0
+      ],
+      [
+        "_SkipTaa",
+        1.0
+      ],
+      [
+        "_SrcBlendMode",
+        5.0
+      ],
+      [
+        "_UseDissolve",
+        1.0
+      ],
+      [
+        "_UseHardEdge",
+        1.0
+      ],
+      [
+        "_ZwriteToggle",
+        0.0
+      ]
+    ],
+    "colors": [
+      [
+        "_DayColor",
+        [
+          1.0,
+          1.0,
+          1.0,
+          1.0
+        ]
+      ],
+      [
+        "_DissolveChannelSwitch",
+        [
+          1.0,
+          0.0,
+          0.0,
+          0.0
+        ]
+      ],
+      [
+        "_EyeColor",
+        [
+          0.31617647409439087,
+          0.6321501731872559,
+          1.0,
+          0.0
+        ]
+      ],
+      [
+        "_FresnelColor",
+        [
+          0.8617643117904663,
+          1.8174327611923218,
+          2.930001735687256,
+          1.0
+        ]
+      ],
+      [
+        "_HardEdgeColor",
+        [
+          1.6911766529083252,
+          3.2200801372528076,
+          4.999999523162842,
+          0.0
+        ]
+      ],
+      [
+        "_MainColor",
+        [
+          1.0,
+          1.0,
+          1.0,
+          0.0
+        ]
+      ],
+      [
+        "_Noise03Color",
+        [
+          0.0,
+          0.0,
+          0.0,
+          1.0
+        ]
+      ],
+      [
+        "_PatternColor",
+        [
+          1.2941176891326904,
+          2.5444164276123047,
+          4.0,
+          0.0
+        ]
+      ]
+    ],
+    "shader_ref": "cab-c660465c23e0fe84bd86c353a780c6a6:8721262973060810334"
+  },
+  "name": "SkillObj_Neuvillette_Wing_Hair_Mat",
+  "parsed": true
+}

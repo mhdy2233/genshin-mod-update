@@ -1,0 +1,502 @@
+{
+  "kind": "native_material",
+  "id": "cab-f2be1749433b60ecf9d2e8325f9af387:-8534593794324247607",
+  "source_cab": "cab-f2be1749433b60ecf9d2e8325f9af387",
+  "path_id": "-8534593794324247607",
+  "class_id": 21,
+  "raw_bytes": 2260,
+  "raw_sha256": "4bfabe4f29b0607e82ae3f7532b819e7c95139fd82dc17b0ac86402241a18141",
+  "type_hash": "e1ee5b1091ac21b95baed1351f8fb1c2",
+  "source_object_offset": 4096,
+  "material": {
+    "name": "SkillObj_Cyno_Jackal_BurstArmB_Eff",
+    "shader": {
+      "file_id": 1,
+      "path_id": "2853587891874243506"
+    },
+    "keywords": "",
+    "lightmap_flags": 4,
+    "instancing_flags_hex": "01000000",
+    "render_queue": -1,
+    "tags": [],
+    "disabled_passes": [],
+    "textures": [
+      {
+        "property": "_BurstArmB_DissloveTex",
+        "pointer": {
+          "file_id": 2,
+          "path_id": "-1322392132202401382"
+        },
+        "scale": [
+          1.0,
+          1.0
+        ],
+        "offset": [
+          0.0,
+          0.0
+        ],
+        "max_mip_level": 0,
+        "texture_ref": "cab-b20b1e93c03f6e5a5ef5ddf75d0ce5b7:-1322392132202401382"
+      },
+      {
+        "property": "_ClothEyesMask",
+        "pointer": {
+          "file_id": 3,
+          "path_id": "-164094732314067098"
+        },
+        "scale": [
+          1.0,
+          1.0
+        ],
+        "offset": [
+          0.0,
+          0.0
+        ],
+        "max_mip_level": 0,
+        "texture_ref": "cab-6b2198a303e6a5328c9de7ce4978dbf6:-164094732314067098"
+      },
+      {
+        "property": "_ClothEyesPatter",
+        "pointer": {
+          "file_id": 4,
+          "path_id": "6626482103133789322"
+        },
+        "scale": [
+          1.0,
+          1.0
+        ],
+        "offset": [
+          0.0,
+          0.0
+        ],
+        "max_mip_level": 0,
+        "texture_ref": "cab-3ee6eaabf16b6ae8177eefd2e95fb2b2:6626482103133789322"
+      },
+      {
+        "property": "_MainTex",
+        "pointer": {
+          "file_id": 5,
+          "path_id": "4998924971482107844"
+        },
+        "scale": [
+          1.0,
+          1.0
+        ],
+        "offset": [
+          0.0,
+          0.0
+        ],
+        "max_mip_level": 0,
+        "texture_ref": "cab-df41fe7ae8251a71179dba039176a5fa:4998924971482107844"
+      },
+      {
+        "property": "_NoiseTex",
+        "pointer": {
+          "file_id": 6,
+          "path_id": "-9151591525885060806"
+        },
+        "scale": [
+          3.0,
+          1.0
+        ],
+        "offset": [
+          0.0,
+          0.0
+        ],
+        "max_mip_level": 0,
+        "texture_ref": "cab-e971d948ecd28c28fcdbf74a7f2698e5:-9151591525885060806"
+      },
+      {
+        "property": "_PattenDisslove",
+        "pointer": {
+          "file_id": 7,
+          "path_id": "-3160689227234930886"
+        },
+        "scale": [
+          3.0,
+          15.0
+        ],
+        "offset": [
+          0.0,
+          0.0
+        ],
+        "max_mip_level": 0,
+        "texture_ref": "cab-aeba4c474955e35e5cad5f2fad8459d3:-3160689227234930886"
+      },
+      {
+        "property": "_VerTex",
+        "pointer": {
+          "file_id": 8,
+          "path_id": "4700847989025800442"
+        },
+        "scale": [
+          1.0,
+          1.0
+        ],
+        "offset": [
+          0.0,
+          0.0
+        ],
+        "max_mip_level": 0,
+        "texture_ref": "cab-ef224f747b67c9c3307f5c94cd20efdd:4700847989025800442"
+      }
+    ],
+    "floats": [
+      [
+        "_BlendOP",
+        0.0
+      ],
+      [
+        "_BumpScale",
+        1.0
+      ],
+      [
+        "_BurstArmB_DissloveAni",
+        -0.10000000149011612
+      ],
+      [
+        "_BurstArmB_FireAni",
+        0.0
+      ],
+      [
+        "_BurstArm_AlphaEdge",
+        3.0
+      ],
+      [
+        "_BurstArm_FireEdge",
+        2.0
+      ],
+      [
+        "_Clip",
+        0.5
+      ],
+      [
+        "_ClothBright",
+        1.149999976158142
+      ],
+      [
+        "_Cloth_U_Speed",
+        0.0
+      ],
+      [
+        "_Cloth_V_Speed",
+        0.009999999776482582
+      ],
+      [
+        "_Cull",
+        0.0
+      ],
+      [
+        "_Cutoff",
+        0.5
+      ],
+      [
+        "_DetailNormalMapScale",
+        1.0
+      ],
+      [
+        "_DissloveFadeEage",
+        0.25
+      ],
+      [
+        "_DissloveFadeVale",
+        1.0
+      ],
+      [
+        "_DitherAlpha",
+        1.0
+      ],
+      [
+        "_DstBlend",
+        0.0
+      ],
+      [
+        "_DstBlendMode",
+        10.0
+      ],
+      [
+        "_ElementViewEleID",
+        0.0
+      ],
+      [
+        "_EyesBright",
+        3.0
+      ],
+      [
+        "_Eyes_U_Speed",
+        0.0
+      ],
+      [
+        "_Eyes_V_Speed",
+        0.029999999329447746
+      ],
+      [
+        "_FrenselCloth",
+        0.0
+      ],
+      [
+        "_FresnelPower",
+        3.0
+      ],
+      [
+        "_FresnelScale",
+        2.0
+      ],
+      [
+        "_GlossMapScale",
+        1.0
+      ],
+      [
+        "_Glossiness",
+        0.5
+      ],
+      [
+        "_GlossyReflections",
+        1.0
+      ],
+      [
+        "_MHYZBias",
+        0.0
+      ],
+      [
+        "_Metallic",
+        0.0
+      ],
+      [
+        "_Mode",
+        0.0
+      ],
+      [
+        "_NoiseMultiplier",
+        0.009999999776482582
+      ],
+      [
+        "_Noise_U_Speed",
+        0.0
+      ],
+      [
+        "_Noise_V_Speed",
+        0.10000000149011612
+      ],
+      [
+        "_OcclusionStrength",
+        1.0
+      ],
+      [
+        "_Parallax",
+        0.019999999552965164
+      ],
+      [
+        "_PattenDisslove_Uspeed",
+        -0.800000011920929
+      ],
+      [
+        "_PattenDisslove_Vspeed",
+        0.0
+      ],
+      [
+        "_PolygonOffsetFactor",
+        0.0
+      ],
+      [
+        "_PolygonOffsetUnit",
+        0.0
+      ],
+      [
+        "_SmoothnessTextureChannel",
+        0.0
+      ],
+      [
+        "_SpecularHighlights",
+        1.0
+      ],
+      [
+        "_SrcBlend",
+        1.0
+      ],
+      [
+        "_SrcBlendMode",
+        5.0
+      ],
+      [
+        "_TextureBiasWhenDithering",
+        -1.0
+      ],
+      [
+        "_UVSec",
+        0.0
+      ],
+      [
+        "_UsingDitherAlpha",
+        0.0
+      ],
+      [
+        "_VertexMutiply",
+        0.15000000596046448
+      ],
+      [
+        "_VertexU_Speed",
+        0.3499999940395355
+      ],
+      [
+        "_VertexV_Speed",
+        0.0
+      ],
+      [
+        "_ZWrite",
+        1.0
+      ],
+      [
+        "_Ztest",
+        4.0
+      ],
+      [
+        "_Zwrite",
+        1.0
+      ],
+      [
+        "_alphaFresnel_Bias",
+        0.0
+      ],
+      [
+        "_alphaFresnel_Power",
+        0.0
+      ],
+      [
+        "_alphaFresnel_Scale",
+        3.0
+      ]
+    ],
+    "colors": [
+      [
+        "_BackColor",
+        [
+          0.26946359872817993,
+          0.22253449261188507,
+          0.36029401421546936,
+          0.0
+        ]
+      ],
+      [
+        "_BurstArmB_DarkColor",
+        [
+          0.5,
+          0.5,
+          0.5,
+          0.0
+        ]
+      ],
+      [
+        "_BurstArm_FireColor",
+        [
+          1.0990490913391113,
+          0.7352938652038574,
+          4.0,
+          0.0
+        ]
+      ],
+      [
+        "_ClothColor",
+        [
+          1.2573529481887817,
+          1.2573529481887817,
+          1.2573529481887817,
+          0.0
+        ]
+      ],
+      [
+        "_ClothUVtile",
+        [
+          1.0,
+          1.0,
+          0.0,
+          0.0
+        ]
+      ],
+      [
+        "_Color",
+        [
+          1.0,
+          1.0,
+          1.0,
+          1.0
+        ]
+      ],
+      [
+        "_DissloveColor",
+        [
+          0.5853951573371887,
+          0.2647057771682739,
+          3.0,
+          0.0
+        ]
+      ],
+      [
+        "_EmissionColor",
+        [
+          0.0,
+          0.0,
+          0.0,
+          1.0
+        ]
+      ],
+      [
+        "_EyeColor",
+        [
+          4.0,
+          3.156187057495117,
+          0.9411758780479431,
+          0.0
+        ]
+      ],
+      [
+        "_EyesColor",
+        [
+          1.0,
+          1.0,
+          1.0,
+          1.0
+        ]
+      ],
+      [
+        "_EyesUVtile",
+        [
+          3.0,
+          2.0,
+          0.0,
+          0.0
+        ]
+      ],
+      [
+        "_FresnelColor",
+        [
+          0.6374236345291138,
+          0.5220582485198975,
+          1.0,
+          1.0
+        ]
+      ],
+      [
+        "_MainColor",
+        [
+          1.0,
+          1.0,
+          1.0,
+          1.0
+        ]
+      ],
+      [
+        "_NoiseUVtile",
+        [
+          3.0,
+          5.0,
+          0.0,
+          0.0
+        ]
+      ]
+    ],
+    "shader_ref": "cab-aa9ff832b2d80d341973e8034bec2e9a:2853587891874243506"
+  },
+  "name": "SkillObj_Cyno_Jackal_BurstArmB_Eff",
+  "parsed": true
+}

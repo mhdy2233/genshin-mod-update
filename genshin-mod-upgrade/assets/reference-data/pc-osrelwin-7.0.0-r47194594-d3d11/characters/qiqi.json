@@ -1,0 +1,32 @@
+{
+  "kind": "character",
+  "id": "qiqi",
+  "name_zh": "七七",
+  "game_draw_targets": [],
+  "face_texture_example": [],
+  "example_mod": null,
+  "bone_mapping": null,
+  "full_skeleton_extracted": false,
+  "validation": {
+    "scope": "Native installed assets; no new draw capture or gameplay acceptance",
+    "new_runtime_test_performed_by_export": false,
+    "all_actions_lighting_and_lods_verified": false
+  },
+  "native_profiles": {
+    "qiqi": "native/profiles/qiqi.json"
+  },
+  "roster_entries": [
+    {
+      "id": 10000035,
+      "internal_name": "Qiqi",
+      "name_zh": "七七",
+      "use_type": "AVATAR_FORMAL",
+      "body_type": "BODY_LOLI",
+      "weapon_type": "WEAPON_SWORD_ONE_HAND",
+      "prefab_path_hash": "10130943242702942987"
+    }
+  ],
+  "official_mesh_extracted": true,
+  "prefab_skeletons_extracted": true,
+  "draw_hash_status": "not_captured_on_target"
+}

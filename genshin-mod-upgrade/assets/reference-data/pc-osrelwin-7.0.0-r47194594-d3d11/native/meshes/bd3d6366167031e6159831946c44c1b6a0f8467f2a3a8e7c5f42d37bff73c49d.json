@@ -1,0 +1,432 @@
+{
+  "kind": "native_mesh",
+  "id": "cab-c6c436f515b54c6d759c23c1a79a1705:-1460834958913435646",
+  "source_cab": "cab-c6c436f515b54c6d759c23c1a79a1705",
+  "path_id": "-1460834958913435646",
+  "class_id": 43,
+  "raw_bytes": 9448,
+  "raw_sha256": "e38524259a0cd21bafbe50df16aa54e7ab132bb398c8856b20000a520d10d178",
+  "type_hash": "7cda0f2e6742c9b0f2a194edde97cbe2",
+  "source_object_offset": 3620072,
+  "layout": {
+    "name": "SkillObj_Mavuika_Glass_Model_LOD3",
+    "submeshes": [
+      {
+        "first_byte": 0,
+        "index_count": 186,
+        "topology": 0,
+        "base_vertex": 0,
+        "first_vertex": 0,
+        "vertex_count": 92,
+        "aabb": [
+          -5.7678669691085815e-05,
+          1.5988587141036987,
+          0.0686083659529686,
+          0.08414033055305481,
+          0.02841973304748535,
+          0.07007641345262527
+        ],
+        "first_index": 0
+      }
+    ],
+    "blend_shapes": {
+      "vertices": {
+        "count": 0,
+        "offset": 96,
+        "bytes": 0,
+        "stride": 40
+      },
+      "frames": [],
+      "channels": [],
+      "full_weights": []
+    },
+    "bindposes": {
+      "count": 3,
+      "offset": 112,
+      "bytes": 192,
+      "stride": 64
+    },
+    "bone_hashes": {
+      "count": 3,
+      "offset": 308,
+      "bytes": 12,
+      "stride": 4
+    },
+    "root_bone_hash": 2638750969,
+    "flags": {
+      "compression": 0,
+      "readable": 0,
+      "keep_vertices": 1,
+      "keep_indices": 1
+    },
+    "packed_skin_uv": 0,
+    "index_format": 0,
+    "indices": {
+      "count": 372,
+      "offset": 340,
+      "bytes": 372,
+      "stride": 1
+    },
+    "skin": {
+      "count": 92,
+      "offset": 716,
+      "bytes": 2944,
+      "stride": 32
+    },
+    "current_channels": 159,
+    "vertex_count": 92,
+    "channels": [
+      {
+        "index": 0,
+        "stream": 0,
+        "offset": 0,
+        "format": 0,
+        "dimension": 3,
+        "format_name": "float32",
+        "component_bytes": 4
+      },
+      {
+        "index": 1,
+        "stream": 0,
+        "offset": 12,
+        "format": 0,
+        "dimension": 3,
+        "format_name": "float32",
+        "component_bytes": 4
+      },
+      {
+        "index": 2,
+        "stream": 1,
+        "offset": 0,
+        "format": 2,
+        "dimension": 4,
+        "format_name": "color_unorm8",
+        "component_bytes": 1
+      },
+      {
+        "index": 3,
+        "stream": 1,
+        "offset": 4,
+        "format": 0,
+        "dimension": 2,
+        "format_name": "float32",
+        "component_bytes": 4
+      },
+      {
+        "index": 4,
+        "stream": 1,
+        "offset": 12,
+        "format": 0,
+        "dimension": 2,
+        "format_name": "float32",
+        "component_bytes": 4
+      },
+      {
+        "index": 5,
+        "stream": 0,
+        "offset": 0,
+        "format": 0,
+        "dimension": 0
+      },
+      {
+        "index": 6,
+        "stream": 0,
+        "offset": 0,
+        "format": 0,
+        "dimension": 0
+      },
+      {
+        "index": 7,
+        "stream": 0,
+        "offset": 24,
+        "format": 0,
+        "dimension": 4,
+        "format_name": "float32",
+        "component_bytes": 4
+      }
+    ],
+    "vertex_data": {
+      "count": 5520,
+      "offset": 3708,
+      "bytes": 5520,
+      "stride": 1
+    },
+    "vertex_streams": [
+      {
+        "stream": 0,
+        "stride": 40,
+        "bytes": 3680,
+        "offset_in_vertex_data": 0,
+        "offset_in_raw_mesh": 3708,
+        "channel_indices": [
+          0,
+          1,
+          7
+        ]
+      },
+      {
+        "stream": 1,
+        "stride": 20,
+        "bytes": 1840,
+        "offset_in_vertex_data": 3680,
+        "offset_in_raw_mesh": 7388,
+        "channel_indices": [
+          2,
+          3,
+          4
+        ]
+      }
+    ],
+    "compressed": {
+      "vertices": {
+        "offset": 9228,
+        "bytes": 20,
+        "count": 0,
+        "bits": 0,
+        "range_start": [
+          0.0,
+          0.0
+        ],
+        "data": {
+          "count": 0,
+          "offset": 9244,
+          "bytes": 0,
+          "stride": 1
+        }
+      },
+      "uv": {
+        "offset": 9248,
+        "bytes": 20,
+        "count": 0,
+        "bits": 0,
+        "range_start": [
+          0.0,
+          0.0
+        ],
+        "data": {
+          "count": 0,
+          "offset": 9264,
+          "bytes": 0,
+          "stride": 1
+        }
+      },
+      "normals": {
+        "offset": 9268,
+        "bytes": 20,
+        "count": 0,
+        "bits": 0,
+        "range_start": [
+          0.0,
+          0.0
+        ],
+        "data": {
+          "count": 0,
+          "offset": 9284,
+          "bytes": 0,
+          "stride": 1
+        }
+      },
+      "tangents": {
+        "offset": 9288,
+        "bytes": 20,
+        "count": 0,
+        "bits": 0,
+        "range_start": [
+          0.0,
+          0.0
+        ],
+        "data": {
+          "count": 0,
+          "offset": 9304,
+          "bytes": 0,
+          "stride": 1
+        }
+      },
+      "weights": {
+        "offset": 9308,
+        "bytes": 12,
+        "count": 0,
+        "bits": 0,
+        "range_start": null,
+        "data": {
+          "count": 0,
+          "offset": 9316,
+          "bytes": 0,
+          "stride": 1
+        }
+      },
+      "normal_signs": {
+        "offset": 9320,
+        "bytes": 12,
+        "count": 0,
+        "bits": 0,
+        "range_start": null,
+        "data": {
+          "count": 0,
+          "offset": 9328,
+          "bytes": 0,
+          "stride": 1
+        }
+      },
+      "tangent_signs": {
+        "offset": 9332,
+        "bytes": 12,
+        "count": 0,
+        "bits": 0,
+        "range_start": null,
+        "data": {
+          "count": 0,
+          "offset": 9340,
+          "bytes": 0,
+          "stride": 1
+        }
+      },
+      "float_colors": {
+        "offset": 9344,
+        "bytes": 20,
+        "count": 0,
+        "bits": 0,
+        "range_start": [
+          0.0,
+          0.0
+        ],
+        "data": {
+          "count": 0,
+          "offset": 9360,
+          "bytes": 0,
+          "stride": 1
+        }
+      },
+      "bone_indices": {
+        "offset": 9364,
+        "bytes": 12,
+        "count": 0,
+        "bits": 0,
+        "range_start": null,
+        "data": {
+          "count": 0,
+          "offset": 9372,
+          "bytes": 0,
+          "stride": 1
+        }
+      },
+      "triangles": {
+        "offset": 9376,
+        "bytes": 12,
+        "count": 0,
+        "bits": 0,
+        "range_start": null,
+        "data": {
+          "count": 0,
+          "offset": 9384,
+          "bytes": 0,
+          "stride": 1
+        }
+      }
+    },
+    "compressed_uv_info": 0,
+    "aabb": [
+      -5.7678669691085815e-05,
+      1.5988587141036987,
+      0.0686083659529686,
+      0.08414033055305481,
+      0.02841973304748535,
+      0.07007641345262527
+    ],
+    "usage_flags": 0,
+    "baked_convex": {
+      "count": 0,
+      "offset": 9424,
+      "bytes": 0,
+      "stride": 1
+    },
+    "baked_triangle": {
+      "count": 0,
+      "offset": 9428,
+      "bytes": 0,
+      "stride": 1
+    },
+    "metrics": [
+      1.0,
+      1.0
+    ],
+    "metrics_dirty": 0,
+    "close_dynamic_compression": 0,
+    "is_streaming": 0,
+    "bindpose_matrices_row_major": [
+      [
+        -1.1920930376163597e-07,
+        -0.41079628467559814,
+        0.9117270708084106,
+        0.5278018116950989,
+        2.0779005183158006e-07,
+        0.9117274284362793,
+        0.4107964336872101,
+        -1.4963594675064087,
+        -1.0,
+        2.384185791015625e-07,
+        -2.3326862219619215e-08,
+        -4.6040918277867604e-07,
+        0.0,
+        0.0,
+        0.0,
+        1.0
+      ],
+      [
+        0.10202783346176147,
+        -0.41167232394218445,
+        0.9056024551391602,
+        0.5737438201904297,
+        -0.9697753190994263,
+        -0.24399195611476898,
+        -0.001657071872614324,
+        0.3163175582885742,
+        0.22164201736450195,
+        -0.8780624866485596,
+        -0.4241238832473755,
+        1.4576001167297363,
+        0.0,
+        0.0,
+        0.0,
+        1.0
+      ],
+      [
+        -0.10202860087156296,
+        -0.4116721451282501,
+        0.9056024551391602,
+        0.5737435221672058,
+        0.9697756767272949,
+        -0.24399185180664062,
+        -0.0016561360098421574,
+        0.31631702184677124,
+        0.22164152562618256,
+        0.8780628442764282,
+        0.4241240322589874,
+        -1.4576008319854736,
+        0.0,
+        0.0,
+        0.0,
+        1.0
+      ]
+    ],
+    "bone_name_hashes": [
+      2638750969,
+      2451365791,
+      1305278076
+    ],
+    "index_summary": {
+      "count": 186,
+      "minimum": 0,
+      "maximum": 91,
+      "element_bytes": 2
+    },
+    "weighted_bone_indices": [
+      0,
+      1,
+      2
+    ]
+  },
+  "name": "SkillObj_Mavuika_Glass_Model_LOD3",
+  "raw_binary": "native/mesh-data/e38524259a0cd21bafbe50df16aa54e7ab132bb398c8856b20000a520d10d178.bin",
+  "parsed": true
+}

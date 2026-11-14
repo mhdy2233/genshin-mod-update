@@ -1,0 +1,462 @@
+{
+  "kind": "native_material",
+  "id": "cab-b4249bb7f5fb3f28a845beb2780aa4a2:7753845084189027578",
+  "source_cab": "cab-b4249bb7f5fb3f28a845beb2780aa4a2",
+  "path_id": "7753845084189027578",
+  "class_id": 21,
+  "raw_bytes": 2228,
+  "raw_sha256": "6262e759bae3661f737b9b70ef055fa056d78254f607f9fc428916599c86d746",
+  "type_hash": "e1ee5b1091ac21b95baed1351f8fb1c2",
+  "source_object_offset": 4512,
+  "material": {
+    "name": "SkillObj_Chasca_FlyCannon_Eff_01",
+    "shader": {
+      "file_id": 6,
+      "path_id": "8994619119122294110"
+    },
+    "keywords": "EMISSION_TYPE_NORMAL ENABLE_MASK_TEX_ON",
+    "lightmap_flags": 4,
+    "instancing_flags_hex": "01000000",
+    "render_queue": -1,
+    "tags": [
+      [
+        "AllowDistortionVectors",
+        "False"
+      ]
+    ],
+    "disabled_passes": [],
+    "textures": [
+      {
+        "property": "_BaseTex",
+        "pointer": {
+          "file_id": 3,
+          "path_id": "7427986637080989535"
+        },
+        "scale": [
+          1.0,
+          1.0
+        ],
+        "offset": [
+          0.004999999888241291,
+          -0.0010000000474974513
+        ],
+        "max_mip_level": 0,
+        "texture_ref": "cab-7acd197178f1e26579a10c02cd0314ba:7427986637080989535"
+      },
+      {
+        "property": "_ColorMatcapTex",
+        "pointer": {
+          "file_id": 2,
+          "path_id": "6779761229944857744"
+        },
+        "scale": [
+          1.0,
+          1.0
+        ],
+        "offset": [
+          -0.23000000417232513,
+          0.05999999865889549
+        ],
+        "max_mip_level": 0,
+        "texture_ref": "cab-6b6e6e2b84affabed811c850f610ca86:6779761229944857744"
+      },
+      {
+        "property": "_DissloveGrandient",
+        "pointer": {
+          "file_id": 0,
+          "path_id": "0"
+        },
+        "scale": [
+          1.0,
+          1.0
+        ],
+        "offset": [
+          0.0,
+          0.0
+        ],
+        "max_mip_level": 0,
+        "texture_ref": null
+      },
+      {
+        "property": "_DissloveTex",
+        "pointer": {
+          "file_id": 3,
+          "path_id": "7427986637080989535"
+        },
+        "scale": [
+          1.0,
+          1.0
+        ],
+        "offset": [
+          0.0,
+          0.0
+        ],
+        "max_mip_level": 0,
+        "texture_ref": "cab-7acd197178f1e26579a10c02cd0314ba:7427986637080989535"
+      },
+      {
+        "property": "_MatcapTex",
+        "pointer": {
+          "file_id": 1,
+          "path_id": "6027383415524641802"
+        },
+        "scale": [
+          1.0,
+          1.0
+        ],
+        "offset": [
+          0.0,
+          0.0
+        ],
+        "max_mip_level": 0,
+        "texture_ref": "cab-4c77cc773c0822da8c79094e5cbd93d0:6027383415524641802"
+      },
+      {
+        "property": "_NoiseTex",
+        "pointer": {
+          "file_id": 5,
+          "path_id": "9035430996087896557"
+        },
+        "scale": [
+          1.0,
+          1.0
+        ],
+        "offset": [
+          0.0,
+          0.0
+        ],
+        "max_mip_level": 0,
+        "texture_ref": "cab-8debed630d6fc8be835793d7713056cc:9035430996087896557"
+      },
+      {
+        "property": "_Screentex",
+        "pointer": {
+          "file_id": 4,
+          "path_id": "-4072282809843629453"
+        },
+        "scale": [
+          1.0,
+          1.0
+        ],
+        "offset": [
+          0.0,
+          0.0
+        ],
+        "max_mip_level": 0,
+        "texture_ref": "cab-85d786ad9dcbd0f82a6b9ad65743a311:-4072282809843629453"
+      },
+      {
+        "property": "_VerTex",
+        "pointer": {
+          "file_id": 0,
+          "path_id": "0"
+        },
+        "scale": [
+          1.0,
+          1.0
+        ],
+        "offset": [
+          0.0,
+          0.0
+        ],
+        "max_mip_level": 0,
+        "texture_ref": null
+      },
+      {
+        "property": "_Vertex_Mask",
+        "pointer": {
+          "file_id": 0,
+          "path_id": "0"
+        },
+        "scale": [
+          1.0,
+          1.0
+        ],
+        "offset": [
+          0.0,
+          0.0
+        ],
+        "max_mip_level": 0,
+        "texture_ref": null
+      },
+      {
+        "property": "_texcoord",
+        "pointer": {
+          "file_id": 0,
+          "path_id": "0"
+        },
+        "scale": [
+          1.0,
+          1.0
+        ],
+        "offset": [
+          0.0,
+          0.0
+        ],
+        "max_mip_level": 0,
+        "texture_ref": null
+      }
+    ],
+    "floats": [
+      [
+        "_AlphaEdge",
+        1.0
+      ],
+      [
+        "_Alphaness",
+        5.0
+      ],
+      [
+        "_BaseTex_AlphaChannelSwitch",
+        3.0
+      ],
+      [
+        "_BaseTex_ColorChannelSwitch",
+        1.0
+      ],
+      [
+        "_BlendOP",
+        0.0
+      ],
+      [
+        "_Brightness",
+        30.0
+      ],
+      [
+        "_ColorTex_Uspeed",
+        0.0
+      ],
+      [
+        "_ColorTex_Vspeed",
+        0.0
+      ],
+      [
+        "_Cull",
+        2.0
+      ],
+      [
+        "_DepthFade",
+        1.0
+      ],
+      [
+        "_DepthThresh",
+        1.0
+      ],
+      [
+        "_DissloveGrandient_AlphaEdge",
+        0.0
+      ],
+      [
+        "_DissloveGrandient_ChannelSwitch",
+        0.0
+      ],
+      [
+        "_DissloveTex_ChannelSwitch",
+        1.0
+      ],
+      [
+        "_DissloveTex_Uspeed",
+        0.0
+      ],
+      [
+        "_DissloveTex_Vspeed",
+        0.0
+      ],
+      [
+        "_DstBlendMode",
+        10.0
+      ],
+      [
+        "_EffectedByFog",
+        0.0
+      ],
+      [
+        "_MHYZBias",
+        -0.0005000000237487257
+      ],
+      [
+        "_Matcap_ChannelSwitch",
+        1.0
+      ],
+      [
+        "_Matcap_Size",
+        0.0
+      ],
+      [
+        "_MotionVectorsAlphaCutoff",
+        0.10000000149011612
+      ],
+      [
+        "_NoiseOnColorTex_Brightness",
+        0.5
+      ],
+      [
+        "_NoiseOnDissloveTex_Brightness",
+        0.0
+      ],
+      [
+        "_NoiseOnMatcap_Brightness",
+        0.0
+      ],
+      [
+        "_NoiseOnScreentex_Brightness",
+        1.0
+      ],
+      [
+        "_NoiseTex_ChannelSwich",
+        1.0
+      ],
+      [
+        "_NoiseTex_Utile",
+        1.0
+      ],
+      [
+        "_NoiseTex_Vtile",
+        5.0
+      ],
+      [
+        "_Noise_Offset",
+        0.0
+      ],
+      [
+        "_Noisetex_Uspeed",
+        0.10000000149011612
+      ],
+      [
+        "_Noisetex_Vspeed",
+        0.0
+      ],
+      [
+        "_PolygonOffsetFactor",
+        0.0
+      ],
+      [
+        "_PolygonOffsetUnit",
+        0.0
+      ],
+      [
+        "_SOFTPARTICLES",
+        0.0
+      ],
+      [
+        "_ScreenColorLerp_FresenelPower",
+        0.0
+      ],
+      [
+        "_ScreenColorLerp_FresenelScale",
+        0.0
+      ],
+      [
+        "_Screentex_UTile",
+        3.0
+      ],
+      [
+        "_Screentex_Uspeed",
+        0.10000000149011612
+      ],
+      [
+        "_Screentex_VTile",
+        3.0
+      ],
+      [
+        "_Screentex_Vspeed",
+        0.0
+      ],
+      [
+        "_SrcBlendMode",
+        5.0
+      ],
+      [
+        "_VertexBrightness",
+        0.0
+      ],
+      [
+        "_VertexMask_ChannelSwitch",
+        0.0
+      ],
+      [
+        "_Vertex_ChannelSwitch",
+        0.0
+      ],
+      [
+        "_Vertex_Uspeed",
+        0.0
+      ],
+      [
+        "_Vertex_Vspeed",
+        0.0
+      ],
+      [
+        "_VetexAlpha_Enum",
+        0.0
+      ],
+      [
+        "_Ztest",
+        4.0
+      ],
+      [
+        "_Zwrite",
+        0.0
+      ]
+    ],
+    "colors": [
+      [
+        "_Color",
+        [
+          0.375,
+          1.0,
+          0.9482759237289429,
+          0.7089999914169312
+        ]
+      ],
+      [
+        "_DayColor",
+        [
+          1.0,
+          1.0,
+          1.0,
+          1.0
+        ]
+      ],
+      [
+        "_Matcap_Color",
+        [
+          3.000000476837158,
+          3.000000476837158,
+          3.000000476837158,
+          1.0
+        ]
+      ],
+      [
+        "_MeshEmissionColor",
+        [
+          0.0,
+          0.0,
+          0.0,
+          0.0
+        ]
+      ],
+      [
+        "_ScreenColor_Dark",
+        [
+          1.529411792755127,
+          2.0,
+          1.8831642866134644,
+          1.0
+        ]
+      ],
+      [
+        "_ScreenColor_Light",
+        [
+          3.529411554336548,
+          9.999999046325684,
+          9.196755409240723,
+          1.0
+        ]
+      ]
+    ],
+    "shader_ref": "cab-bb330040fa5d76e5b02e7244fd49017f:8994619119122294110"
+  },
+  "name": "SkillObj_Chasca_FlyCannon_Eff_01",
+  "parsed": true
+}

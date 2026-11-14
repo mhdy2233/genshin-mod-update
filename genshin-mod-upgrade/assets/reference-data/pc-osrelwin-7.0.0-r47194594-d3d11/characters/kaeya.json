@@ -1,0 +1,33 @@
+{
+  "kind": "character",
+  "id": "kaeya",
+  "name_zh": "凯亚",
+  "game_draw_targets": [],
+  "face_texture_example": [],
+  "example_mod": null,
+  "bone_mapping": null,
+  "full_skeleton_extracted": false,
+  "validation": {
+    "scope": "Native installed assets; no new draw capture or gameplay acceptance",
+    "new_runtime_test_performed_by_export": false,
+    "all_actions_lighting_and_lods_verified": false
+  },
+  "native_profiles": {
+    "kaeya": "native/profiles/kaeya.json",
+    "kaeyacostumedancer": "native/profiles/kaeyacostumedancer.json"
+  },
+  "roster_entries": [
+    {
+      "id": 10000015,
+      "internal_name": "Kaeya",
+      "name_zh": "凯亚",
+      "use_type": "AVATAR_FORMAL",
+      "body_type": "BODY_MALE",
+      "weapon_type": "WEAPON_SWORD_ONE_HAND",
+      "prefab_path_hash": "7210632883186618156"
+    }
+  ],
+  "official_mesh_extracted": true,
+  "prefab_skeletons_extracted": true,
+  "draw_hash_status": "not_captured_on_target"
+}

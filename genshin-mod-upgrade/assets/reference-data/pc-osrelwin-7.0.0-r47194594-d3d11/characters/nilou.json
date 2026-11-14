@@ -1,0 +1,33 @@
+{
+  "kind": "character",
+  "id": "nilou",
+  "name_zh": "妮露",
+  "game_draw_targets": [],
+  "face_texture_example": [],
+  "example_mod": null,
+  "bone_mapping": null,
+  "full_skeleton_extracted": false,
+  "validation": {
+    "scope": "Native installed assets; no new draw capture or gameplay acceptance",
+    "new_runtime_test_performed_by_export": false,
+    "all_actions_lighting_and_lods_verified": false
+  },
+  "native_profiles": {
+    "nilou": "native/profiles/nilou.json",
+    "niloucostumefairy": "native/profiles/niloucostumefairy.json"
+  },
+  "roster_entries": [
+    {
+      "id": 10000070,
+      "internal_name": "Nilou",
+      "name_zh": "妮露",
+      "use_type": "AVATAR_FORMAL",
+      "body_type": "BODY_GIRL",
+      "weapon_type": "WEAPON_SWORD_ONE_HAND",
+      "prefab_path_hash": "12955744555451638420"
+    }
+  ],
+  "official_mesh_extracted": true,
+  "prefab_skeletons_extracted": true,
+  "draw_hash_status": "not_captured_on_target"
+}

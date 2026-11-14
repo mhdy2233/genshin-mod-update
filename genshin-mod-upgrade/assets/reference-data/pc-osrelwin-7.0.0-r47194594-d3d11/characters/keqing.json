@@ -1,0 +1,344 @@
+{
+  "kind": "character",
+  "id": "keqing",
+  "name_zh": "刻晴",
+  "game_draw_targets": [
+    {
+      "object": "body",
+      "evidence_level": "accepted_mod_configuration",
+      "parts": [
+        {
+          "part": "head",
+          "section": "TextureOverrideKeqingHead",
+          "match_first_index": 0,
+          "material_binding_kind": "no_normal_map_nnfix",
+          "texture_assignments": {
+            "ps-t0": "ResourceKeqingHeadDiffuse",
+            "ps-t1": "ResourceKeqingHeadLightMap"
+          },
+          "commands_after_bindings": [
+            "CommandList\\global\\ORFix\\NNFix"
+          ]
+        },
+        {
+          "part": "body",
+          "section": "TextureOverrideKeqingBody",
+          "match_first_index": 10824,
+          "material_binding_kind": "no_normal_map_nnfix",
+          "texture_assignments": {
+            "ps-t0": "ResourceKeqingBodyDiffuse",
+            "ps-t1": "ResourceKeqingBodyLightMap"
+          },
+          "commands_after_bindings": [
+            "CommandList\\global\\ORFix\\NNFix"
+          ]
+        },
+        {
+          "part": "dress",
+          "section": "TextureOverrideKeqingDress",
+          "match_first_index": 48216,
+          "material_binding_kind": "no_normal_map_nnfix",
+          "texture_assignments": {
+            "ps-t0": "ResourceKeqingDressDiffuse",
+            "ps-t1": "ResourceKeqingDressLightMap"
+          },
+          "commands_after_bindings": [
+            "CommandList\\global\\ORFix\\NNFix"
+          ]
+        }
+      ],
+      "position_hash": "3aaf3e94",
+      "blend_hash": "0bf8e621",
+      "texcoord_hash": "723848fe",
+      "index_buffer_hash": "cbf1894b",
+      "vertex_limit_raise_hash": "ccc33b79"
+    }
+  ],
+  "face_texture_example": [
+    {
+      "section": "TextureOverrideKeqingFaceHeadDiffuse",
+      "texture_hash": "d8c9c399",
+      "assignments": [
+        "this = ResourceKeqingFaceHeadDiffuse"
+      ]
+    }
+  ],
+  "example_mod": {
+    "name": "KeqingSilverWolf-7.0.0",
+    "ini": "examples/keqing/Keqing.ini",
+    "ini_sha256": "b21ad950ba417f3c9dc719b3c04ad0d64fc420e6c7bf228f4730afc2b0be0920",
+    "resources": [
+      {
+        "section": "ResourceKeqingPosition",
+        "filename": "KeqingPosition.buf",
+        "bytes": 825040,
+        "sha256": "9e47cf12c082589191fea51d4c9e53ddb531c3cfee7e9330fbd0baa74324a49c",
+        "buffer": {
+          "stride": 40,
+          "element_count": 20626,
+          "trailing_bytes": 0
+        }
+      },
+      {
+        "section": "ResourceKeqingBlend",
+        "filename": "KeqingBlend.buf",
+        "bytes": 660032,
+        "sha256": "cf492850402fd673c05d9f5690727d19007bc813727c35c4132e92582345e007",
+        "buffer": {
+          "stride": 32,
+          "element_count": 20626,
+          "trailing_bytes": 0
+        }
+      },
+      {
+        "section": "ResourceKeqingTexcoord",
+        "filename": "KeqingTexcoord.buf",
+        "bytes": 412520,
+        "sha256": "44b9d4ddcb32eeba3a0f0365bf8d8e7fef212ec064f92b32e5179c85f81f5331",
+        "buffer": {
+          "stride": 20,
+          "element_count": 20626,
+          "trailing_bytes": 0
+        }
+      },
+      {
+        "section": "ResourceKeqingHeadIB",
+        "filename": "KeqingHead.ib",
+        "bytes": 23304,
+        "sha256": "b0f1e04da5a185333c88d7d66188400cc82db318f9fbb01f46f4916f92126ddd",
+        "indices": {
+          "format": "DXGI_FORMAT_R16_UINT",
+          "count": 11652,
+          "trailing_bytes": 0,
+          "minimum": 0,
+          "maximum": 3606
+        }
+      },
+      {
+        "section": "ResourceKeqingBodyIB",
+        "filename": "KeqingBody.ib",
+        "bytes": 104556,
+        "sha256": "4623bf07e1685daa76cd0b91cf3055e88d806e9e2566466f37c25984f299039d",
+        "indices": {
+          "format": "DXGI_FORMAT_R16_UINT",
+          "count": 52278,
+          "trailing_bytes": 0,
+          "minimum": 3607,
+          "maximum": 20523
+        }
+      },
+      {
+        "section": "ResourceKeqingDressIB",
+        "filename": "KeqingDress.ib",
+        "bytes": 816,
+        "sha256": "3f4e52e531eccf9082ef6091b23bc7791e4d0b9225d070709d1a1eda63fb0e6a",
+        "indices": {
+          "format": "DXGI_FORMAT_R16_UINT",
+          "count": 408,
+          "trailing_bytes": 0,
+          "minimum": 20524,
+          "maximum": 20625
+        }
+      },
+      {
+        "section": "ResourceKeqingHeadDiffuse",
+        "filename": "KeqingHeadDiffuse.dds",
+        "bytes": 5592580,
+        "sha256": "e3746aeadedee4622d69a8e5b0d8c8aa016334814d890b08bd586c5b7370a9aa",
+        "image_header": {
+          "type": "DDS",
+          "width": 2048,
+          "height": 2048,
+          "mip_count_declared": 12,
+          "fourcc": "DX10",
+          "rgb_bit_count": 0,
+          "dxgi_format": 99
+        }
+      },
+      {
+        "section": "ResourceKeqingHeadLightMap",
+        "filename": "KeqingHeadLightMap.dds",
+        "bytes": 5592580,
+        "sha256": "8cbdbcecfcb44562abf1564a4eef04fee87cd5974e31b6459ba6e6655a30486b",
+        "image_header": {
+          "type": "DDS",
+          "width": 2048,
+          "height": 2048,
+          "mip_count_declared": 12,
+          "fourcc": "DX10",
+          "rgb_bit_count": 0,
+          "dxgi_format": 98
+        }
+      },
+      {
+        "section": "ResourceKeqingHeadMetalMap",
+        "filename": "KeqingHeadMetalMap.dds",
+        "bytes": 65684,
+        "sha256": "fb18338ed9ef023814d01efa519971f35a7e607acfc362cda0196b2da6fb66ed",
+        "image_header": {
+          "type": "DDS",
+          "width": 256,
+          "height": 256,
+          "mip_count_declared": 1,
+          "fourcc": "DX10",
+          "rgb_bit_count": 0,
+          "dxgi_format": 99
+        }
+      },
+      {
+        "section": "ResourceKeqingHeadShadowRamp",
+        "filename": "KeqingHeadShadowRamp.jpg",
+        "bytes": 2664,
+        "sha256": "b9d9dd2b0ee79d86241921d5440791a8ad20b48c47f4e899a82ac53ee75e84ae"
+      },
+      {
+        "section": "ResourceKeqingBodyDiffuse",
+        "filename": "KeqingBodyDiffuse.dds",
+        "bytes": 5592580,
+        "sha256": "f67cb88387353d64b04c8ada2bbc2f51436ccb4a658d61a820054069774da579",
+        "image_header": {
+          "type": "DDS",
+          "width": 2048,
+          "height": 2048,
+          "mip_count_declared": 12,
+          "fourcc": "DX10",
+          "rgb_bit_count": 0,
+          "dxgi_format": 99
+        }
+      },
+      {
+        "section": "ResourceKeqingBodyLightMap",
+        "filename": "KeqingBodyLightMap.dds",
+        "bytes": 5592580,
+        "sha256": "b3a3e66aa6cff670be88533b9d1a864be5c2772219f05b26f6d3e627a5cbb0c9",
+        "image_header": {
+          "type": "DDS",
+          "width": 2048,
+          "height": 2048,
+          "mip_count_declared": 12,
+          "fourcc": "DX10",
+          "rgb_bit_count": 0,
+          "dxgi_format": 98
+        }
+      },
+      {
+        "section": "ResourceKeqingBodyMetalMap",
+        "filename": "KeqingBodyMetalMap.dds",
+        "bytes": 65684,
+        "sha256": "fb18338ed9ef023814d01efa519971f35a7e607acfc362cda0196b2da6fb66ed",
+        "image_header": {
+          "type": "DDS",
+          "width": 256,
+          "height": 256,
+          "mip_count_declared": 1,
+          "fourcc": "DX10",
+          "rgb_bit_count": 0,
+          "dxgi_format": 99
+        }
+      },
+      {
+        "section": "ResourceKeqingBodyShadowRamp",
+        "filename": "KeqingBodyShadowRamp.jpg",
+        "bytes": 2821,
+        "sha256": "c5ff9e02509f572a80ab677555b4b5b2294ecaf6415425f67e902b409597bfcc"
+      },
+      {
+        "section": "ResourceKeqingDressDiffuse",
+        "filename": "KeqingDressDiffuse.dds",
+        "bytes": 5592580,
+        "sha256": "33f1448398adf27fb373c1ed8d5fe67182652c20ed283c7eda0a4cf748088fa2",
+        "image_header": {
+          "type": "DDS",
+          "width": 2048,
+          "height": 2048,
+          "mip_count_declared": 12,
+          "fourcc": "DX10",
+          "rgb_bit_count": 0,
+          "dxgi_format": 99
+        }
+      },
+      {
+        "section": "ResourceKeqingDressLightMap",
+        "filename": "KeqingDressLightMap.dds",
+        "bytes": 5592580,
+        "sha256": "b3a3e66aa6cff670be88533b9d1a864be5c2772219f05b26f6d3e627a5cbb0c9",
+        "image_header": {
+          "type": "DDS",
+          "width": 2048,
+          "height": 2048,
+          "mip_count_declared": 12,
+          "fourcc": "DX10",
+          "rgb_bit_count": 0,
+          "dxgi_format": 98
+        }
+      },
+      {
+        "section": "ResourceKeqingDressMetalMap",
+        "filename": "KeqingDressMetalMap.dds",
+        "bytes": 65684,
+        "sha256": "fb18338ed9ef023814d01efa519971f35a7e607acfc362cda0196b2da6fb66ed",
+        "image_header": {
+          "type": "DDS",
+          "width": 256,
+          "height": 256,
+          "mip_count_declared": 1,
+          "fourcc": "DX10",
+          "rgb_bit_count": 0,
+          "dxgi_format": 99
+        }
+      },
+      {
+        "section": "ResourceKeqingDressShadowRamp",
+        "filename": "KeqingDressShadowRamp.jpg",
+        "bytes": 2821,
+        "sha256": "c5ff9e02509f572a80ab677555b4b5b2294ecaf6415425f67e902b409597bfcc"
+      },
+      {
+        "section": "ResourceKeqingFaceHeadDiffuse",
+        "filename": "KeqingFaceHeadDiffuse.dds",
+        "bytes": 1048724,
+        "sha256": "0b9ac75d973b1e4cc00fbb8a07b1a24414408c09c171ba5da0306bf394fbca7a",
+        "image_header": {
+          "type": "DDS",
+          "width": 1024,
+          "height": 1024,
+          "mip_count_declared": 1,
+          "fourcc": "DX10",
+          "rgb_bit_count": 0,
+          "dxgi_format": 99
+        }
+      }
+    ],
+    "asset_bytes_included": false,
+    "geometry_counts_are": "MOD-specific counts, NOT official game mesh counts"
+  },
+  "official_mesh_extracted": true,
+  "full_skeleton_extracted": false,
+  "bone_mapping": null,
+  "validation": {
+    "scope": "This named MOD on the recorded PC 7.0 setup; not all outfits or animations",
+    "source": "backups/keqing-silverwolf-7.0.0-20261109/user-acceptance.json",
+    "new_runtime_test_performed_by_export": false,
+    "user_quote": "我看着没有问题",
+    "geometry_result": null,
+    "material_result": null,
+    "all_actions_lighting_and_lods_verified": false
+  },
+  "native_profiles": {
+    "keqing": "native/profiles/keqing.json",
+    "keqingcostumefeather": "native/profiles/keqingcostumefeather.json"
+  },
+  "roster_entries": [
+    {
+      "id": 10000042,
+      "internal_name": "Keqing",
+      "name_zh": "刻晴",
+      "use_type": "AVATAR_FORMAL",
+      "body_type": "BODY_GIRL",
+      "weapon_type": "WEAPON_SWORD_ONE_HAND",
+      "prefab_path_hash": "18272230101258254626"
+    }
+  ],
+  "prefab_skeletons_extracted": true,
+  "draw_hash_status": "accepted_mod_configuration"
+}

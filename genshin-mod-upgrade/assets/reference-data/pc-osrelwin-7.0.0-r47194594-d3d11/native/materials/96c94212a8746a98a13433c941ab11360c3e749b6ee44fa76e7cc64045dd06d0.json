@@ -1,0 +1,906 @@
+{
+  "kind": "native_material",
+  "id": "cab-0d68377ad270ea8e17c5604267a68a0e:7328313743876225372",
+  "source_cab": "cab-0d68377ad270ea8e17c5604267a68a0e",
+  "path_id": "7328313743876225372",
+  "class_id": 21,
+  "raw_bytes": 4580,
+  "raw_sha256": "83ba8d88eb0f3580ced6cdd7fe9fe8130874595444a75e8fccded2999abf77a4",
+  "type_hash": "e1ee5b1091ac21b95baed1351f8fb1c2",
+  "source_object_offset": 4504,
+  "material": {
+    "name": "Avatar_Boy_Pole_Xiao_Mat_Hair",
+    "shader": {
+      "file_id": 6,
+      "path_id": "-1604419709875016573"
+    },
+    "keywords": "SHADOW_RAMP_ON TOON_LIGHTMAP_ON TOON_SPECULAR_ON",
+    "lightmap_flags": 4,
+    "instancing_flags_hex": "01000000",
+    "render_queue": -1,
+    "tags": [],
+    "disabled_passes": [],
+    "textures": [
+      {
+        "property": "_AnimTextureQ",
+        "pointer": {
+          "file_id": 0,
+          "path_id": "0"
+        },
+        "scale": [
+          1.0,
+          1.0
+        ],
+        "offset": [
+          0.0,
+          0.0
+        ],
+        "max_mip_level": 0,
+        "texture_ref": null
+      },
+      {
+        "property": "_AnimTextureT",
+        "pointer": {
+          "file_id": 0,
+          "path_id": "0"
+        },
+        "scale": [
+          1.0,
+          1.0
+        ],
+        "offset": [
+          0.0,
+          0.0
+        ],
+        "max_mip_level": 0,
+        "texture_ref": null
+      },
+      {
+        "property": "_FaceMapTex",
+        "pointer": {
+          "file_id": 0,
+          "path_id": "0"
+        },
+        "scale": [
+          1.0,
+          1.0
+        ],
+        "offset": [
+          0.0,
+          0.0
+        ],
+        "max_mip_level": 0,
+        "texture_ref": null
+      },
+      {
+        "property": "_LightMapTex",
+        "pointer": {
+          "file_id": 4,
+          "path_id": "4258974025767402821"
+        },
+        "scale": [
+          1.0,
+          1.0
+        ],
+        "offset": [
+          0.0,
+          0.0
+        ],
+        "max_mip_level": 0,
+        "texture_ref": "cab-bbe7fed49f00eb5ed4e2bee9fbcc7cc3:4258974025767402821"
+      },
+      {
+        "property": "_MTMap",
+        "pointer": {
+          "file_id": 5,
+          "path_id": "-867313356815120306"
+        },
+        "scale": [
+          1.0,
+          1.0
+        ],
+        "offset": [
+          0.0,
+          0.0
+        ],
+        "max_mip_level": 0,
+        "texture_ref": "cab-dae61c745dc68f437987786c32397fc7:-867313356815120306"
+      },
+      {
+        "property": "_MainTex",
+        "pointer": {
+          "file_id": 3,
+          "path_id": "6535283165076728967"
+        },
+        "scale": [
+          1.0,
+          1.0
+        ],
+        "offset": [
+          0.0,
+          0.0
+        ],
+        "max_mip_level": 0,
+        "texture_ref": "cab-55902c2e90536ec94cbc1f3d2b27be75:6535283165076728967"
+      },
+      {
+        "property": "_MaskTexture",
+        "pointer": {
+          "file_id": 2,
+          "path_id": "-4333185213215451837"
+        },
+        "scale": [
+          1.5,
+          1.0
+        ],
+        "offset": [
+          0.0,
+          0.0
+        ],
+        "max_mip_level": 0,
+        "texture_ref": "cab-39eec375de322a3e5d5dc930a4ffb1e4:-4333185213215451837"
+      },
+      {
+        "property": "_MaterialMasksTex",
+        "pointer": {
+          "file_id": 0,
+          "path_id": "0"
+        },
+        "scale": [
+          1.0,
+          1.0
+        ],
+        "offset": [
+          0.0,
+          0.0
+        ],
+        "max_mip_level": 0,
+        "texture_ref": null
+      },
+      {
+        "property": "_PackedShadowRampTex",
+        "pointer": {
+          "file_id": 1,
+          "path_id": "8041826513342240366"
+        },
+        "scale": [
+          1.0,
+          1.0
+        ],
+        "offset": [
+          0.0,
+          0.0
+        ],
+        "max_mip_level": 0,
+        "texture_ref": "cab-2915db82a90e45f8bda28d66053f3315:8041826513342240366"
+      }
+    ],
+    "floats": [
+      [
+        "_ASEHeader",
+        0.0
+      ],
+      [
+        "_AmbientPointColorDensity",
+        0.5
+      ],
+      [
+        "_AmbientPointFlatness",
+        1.0
+      ],
+      [
+        "_AmbientPointRange",
+        0.8500000238418579
+      ],
+      [
+        "_AmbientPointSoftness",
+        0.30000001192092896
+      ],
+      [
+        "_AmbientPointStrength",
+        0.10000000149011612
+      ],
+      [
+        "_AmbientPointUtility",
+        0.0
+      ],
+      [
+        "_AmbientPointYOffset",
+        0.3700000047683716
+      ],
+      [
+        "_AnimBoneOffset",
+        0.0
+      ],
+      [
+        "_AnimFPS",
+        15.0
+      ],
+      [
+        "_CharacterAmbientSensorColorOn",
+        0.0
+      ],
+      [
+        "_CharacterAmbientSensorForceShadowOn",
+        0.0
+      ],
+      [
+        "_CharacterAmbientSensorOn",
+        0.0
+      ],
+      [
+        "_CharacterAmbientSensorShadowOn",
+        0.0
+      ],
+      [
+        "_ClipPlaneWorld",
+        1.0
+      ],
+      [
+        "_CullMode",
+        2.0
+      ],
+      [
+        "_DitherAlpha",
+        1.0
+      ],
+      [
+        "_DrawBackFace",
+        0.0
+      ],
+      [
+        "_ElementViewEleID",
+        0.0
+      ],
+      [
+        "_EmissionScaler",
+        4.0
+      ],
+      [
+        "_EmissionScaler1",
+        1.0
+      ],
+      [
+        "_EmissionScaler2",
+        1.0
+      ],
+      [
+        "_EmissionScaler3",
+        1.0
+      ],
+      [
+        "_EmissionScaler4",
+        1.0
+      ],
+      [
+        "_EmissionScaler5",
+        1.0
+      ],
+      [
+        "_EmissionStrengthLerp",
+        0.0
+      ],
+      [
+        "_FaceBlushStrength",
+        0.0
+      ],
+      [
+        "_FaceMapRotateOffset",
+        0.0
+      ],
+      [
+        "_FaceMapSoftness",
+        9.999999974752427e-07
+      ],
+      [
+        "_HitColorFresnelPower",
+        1.5
+      ],
+      [
+        "_HitColorScaler",
+        8.0
+      ],
+      [
+        "_InstanceData",
+        0.0
+      ],
+      [
+        "_LightArea",
+        0.5
+      ],
+      [
+        "_MTMapBrightness",
+        10.0
+      ],
+      [
+        "_MTMapTileScale",
+        1.0
+      ],
+      [
+        "_MTShininess",
+        41.5
+      ],
+      [
+        "_MTSpecularAttenInShadow",
+        0.11900000274181366
+      ],
+      [
+        "_MTSpecularScale",
+        16.600000381469727
+      ],
+      [
+        "_MainTexAlphaCutoff",
+        0.5
+      ],
+      [
+        "_MainTexAlphaUse",
+        2.0
+      ],
+      [
+        "_MainTexColoring",
+        0.0
+      ],
+      [
+        "_MaskBrightness",
+        1.5
+      ],
+      [
+        "_MaxOutlineZOffset",
+        1.0
+      ],
+      [
+        "_MetalMaterial",
+        0.0
+      ],
+      [
+        "_OutlinePolygonOffsetFactor",
+        0.0
+      ],
+      [
+        "_OutlinePolygonOffsetUnit",
+        0.0
+      ],
+      [
+        "_OutlineType",
+        2.0
+      ],
+      [
+        "_OutlineWidth",
+        0.029999999329447746
+      ],
+      [
+        "_PolygonOffsetFactor",
+        0.0
+      ],
+      [
+        "_PolygonOffsetUnit",
+        0.0
+      ],
+      [
+        "_Scale",
+        0.009999999776482582
+      ],
+      [
+        "_ShadowRampWidth",
+        1.0
+      ],
+      [
+        "_ShadowTransitionRange",
+        0.011300000362098217
+      ],
+      [
+        "_ShadowTransitionRange2",
+        0.009999999776482582
+      ],
+      [
+        "_ShadowTransitionRange3",
+        0.009999999776482582
+      ],
+      [
+        "_ShadowTransitionRange4",
+        0.009999999776482582
+      ],
+      [
+        "_ShadowTransitionRange5",
+        0.009999999776482582
+      ],
+      [
+        "_ShadowTransitionSoftness",
+        0.5
+      ],
+      [
+        "_ShadowTransitionSoftness2",
+        0.5
+      ],
+      [
+        "_ShadowTransitionSoftness3",
+        0.5
+      ],
+      [
+        "_ShadowTransitionSoftness4",
+        0.5
+      ],
+      [
+        "_ShadowTransitionSoftness5",
+        0.5
+      ],
+      [
+        "_Shininess",
+        10.0
+      ],
+      [
+        "_Shininess2",
+        10.0
+      ],
+      [
+        "_Shininess3",
+        10.0
+      ],
+      [
+        "_Shininess4",
+        10.0
+      ],
+      [
+        "_Shininess5",
+        10.0
+      ],
+      [
+        "_SpecMulti",
+        0.17100000381469727
+      ],
+      [
+        "_SpecMulti2",
+        0.10000000149011612
+      ],
+      [
+        "_SpecMulti3",
+        0.10000000149011612
+      ],
+      [
+        "_SpecMulti4",
+        0.10000000149011612
+      ],
+      [
+        "_SpecMulti5",
+        0.10000000149011612
+      ],
+      [
+        "_TessEdgeLength",
+        10.0
+      ],
+      [
+        "_TessOutlineZOffset",
+        0.0
+      ],
+      [
+        "_TessPidStart",
+        0.0
+      ],
+      [
+        "_TessStrength",
+        1.0
+      ],
+      [
+        "_TessType",
+        0.0
+      ],
+      [
+        "_TessellationCheckInflectionOn",
+        1.0
+      ],
+      [
+        "_TessellationOn",
+        0.0
+      ],
+      [
+        "_TextureBiasWhenDithering",
+        -1.0
+      ],
+      [
+        "_UseAmbientPoint",
+        0.0
+      ],
+      [
+        "_UseBackFaceUV2",
+        0.0
+      ],
+      [
+        "_UseClipPlane",
+        0.0
+      ],
+      [
+        "_UseCoolShadowColorOrTex",
+        1.0
+      ],
+      [
+        "_UseFaceMapNew",
+        0.0
+      ],
+      [
+        "_UseLightMapColorAO",
+        1.0
+      ],
+      [
+        "_UseMaterial2",
+        1.0
+      ],
+      [
+        "_UseMaterial3",
+        0.0
+      ],
+      [
+        "_UseMaterial4",
+        0.0
+      ],
+      [
+        "_UseMaterial5",
+        0.0
+      ],
+      [
+        "_UseShadowRamp",
+        1.0
+      ],
+      [
+        "_UseShadowTransition",
+        0.0
+      ],
+      [
+        "_UseToonLightMap",
+        1.0
+      ],
+      [
+        "_UseToonSpecular",
+        1.0
+      ],
+      [
+        "_UseVertexColorAO",
+        1.0
+      ],
+      [
+        "_UseVertexRampWidth",
+        1.0
+      ],
+      [
+        "_UsingDitherAlpha",
+        0.0
+      ],
+      [
+        "_UtilityDisplay1",
+        0.0
+      ],
+      [
+        "_UtilityDisplay2",
+        0.0
+      ]
+    ],
+    "colors": [
+      [
+        "_ClipPlane",
+        [
+          0.0,
+          0.0,
+          0.0,
+          0.0
+        ]
+      ],
+      [
+        "_Color",
+        [
+          1.0,
+          1.0,
+          1.0,
+          1.0
+        ]
+      ],
+      [
+        "_Color2",
+        [
+          1.0,
+          1.0,
+          1.0,
+          1.0
+        ]
+      ],
+      [
+        "_Color3",
+        [
+          1.0,
+          1.0,
+          1.0,
+          1.0
+        ]
+      ],
+      [
+        "_Color4",
+        [
+          1.0,
+          1.0,
+          1.0,
+          1.0
+        ]
+      ],
+      [
+        "_Color5",
+        [
+          1.0,
+          1.0,
+          1.0,
+          1.0
+        ]
+      ],
+      [
+        "_CoolShadowMultColor",
+        [
+          0.7025843262672424,
+          0.7272401452064514,
+          0.845588207244873,
+          1.0
+        ]
+      ],
+      [
+        "_CoolShadowMultColor2",
+        [
+          0.36364617943763733,
+          0.3641301691532135,
+          0.43382352590560913,
+          1.0
+        ]
+      ],
+      [
+        "_CoolShadowMultColor3",
+        [
+          0.8999999761581421,
+          0.699999988079071,
+          0.75,
+          1.0
+        ]
+      ],
+      [
+        "_CoolShadowMultColor4",
+        [
+          0.8999999761581421,
+          0.699999988079071,
+          0.75,
+          1.0
+        ]
+      ],
+      [
+        "_CoolShadowMultColor5",
+        [
+          0.8999999761581421,
+          0.699999988079071,
+          0.75,
+          1.0
+        ]
+      ],
+      [
+        "_ElementRimColor",
+        [
+          0.0,
+          0.0,
+          0.0,
+          0.0
+        ]
+      ],
+      [
+        "_EmissionColor_MHY",
+        [
+          1.0,
+          1.0,
+          1.0,
+          1.0
+        ]
+      ],
+      [
+        "_FaceBlushColor",
+        [
+          1.0,
+          0.800000011920929,
+          0.699999988079071,
+          1.0
+        ]
+      ],
+      [
+        "_FirstShadowMultColor",
+        [
+          0.7025843262672424,
+          0.7804968357086182,
+          0.845588207244873,
+          1.0
+        ]
+      ],
+      [
+        "_FirstShadowMultColor2",
+        [
+          0.5882893800735474,
+          0.6838235259056091,
+          0.6284795999526978,
+          1.0
+        ]
+      ],
+      [
+        "_FirstShadowMultColor3",
+        [
+          0.8999999761581421,
+          0.699999988079071,
+          0.75,
+          1.0
+        ]
+      ],
+      [
+        "_FirstShadowMultColor4",
+        [
+          0.8999999761581421,
+          0.699999988079071,
+          0.75,
+          1.0
+        ]
+      ],
+      [
+        "_FirstShadowMultColor5",
+        [
+          0.8999999761581421,
+          0.699999988079071,
+          0.75,
+          1.0
+        ]
+      ],
+      [
+        "_HitColor",
+        [
+          0.0,
+          0.0,
+          0.0,
+          0.0
+        ]
+      ],
+      [
+        "_MTMapDarkColor",
+        [
+          0.5882352590560913,
+          0.4683808386325836,
+          0.37629756331443787,
+          0.0
+        ]
+      ],
+      [
+        "_MTMapLightColor",
+        [
+          1.0,
+          0.9558823704719543,
+          0.8897058963775635,
+          1.0
+        ]
+      ],
+      [
+        "_MTShadowMultiColor",
+        [
+          0.9338235259056091,
+          1.0,
+          0.997261643409729,
+          0.800000011920929
+        ]
+      ],
+      [
+        "_MTSpecularColor",
+        [
+          0.724442183971405,
+          0.6838235259056091,
+          0.75,
+          1.0
+        ]
+      ],
+      [
+        "_MainTexTintColor",
+        [
+          1.0,
+          1.0,
+          1.0,
+          1.0
+        ]
+      ],
+      [
+        "_MaskColor",
+        [
+          0.0,
+          0.7553752064704895,
+          0.8235294222831726,
+          1.0
+        ]
+      ],
+      [
+        "_MaskTex_Speed",
+        [
+          0.019999999552965164,
+          0.5,
+          0.0,
+          0.0
+        ]
+      ],
+      [
+        "_OutlineColor",
+        [
+          0.0795847624540329,
+          0.16911762952804565,
+          0.13074642419815063,
+          1.0
+        ]
+      ],
+      [
+        "_OutlineColor2",
+        [
+          0.0,
+          0.0,
+          0.0,
+          1.0
+        ]
+      ],
+      [
+        "_OutlineColor3",
+        [
+          0.0,
+          0.0,
+          0.0,
+          1.0
+        ]
+      ],
+      [
+        "_OutlineColor4",
+        [
+          0.0,
+          0.0,
+          0.0,
+          1.0
+        ]
+      ],
+      [
+        "_OutlineColor5",
+        [
+          0.0,
+          0.0,
+          0.0,
+          1.0
+        ]
+      ],
+      [
+        "_OutlineWidthAdjustScales",
+        [
+          0.10499999672174454,
+          0.24500000476837158,
+          0.6000000238418579,
+          0.0
+        ]
+      ],
+      [
+        "_OutlineWidthAdjustZs",
+        [
+          0.009999999776482582,
+          2.0,
+          6.0,
+          0.0
+        ]
+      ],
+      [
+        "_SingleColorOutputColor",
+        [
+          1.0,
+          1.0,
+          1.0,
+          1.0
+        ]
+      ],
+      [
+        "_SpecularColor",
+        [
+          1.0,
+          1.0,
+          1.0,
+          1.0
+        ]
+      ]
+    ],
+    "shader_ref": "cab-f295b192a14aa670e81739674792d4f4:-1604419709875016573"
+  },
+  "name": "Avatar_Boy_Pole_Xiao_Mat_Hair",
+  "parsed": true
+}

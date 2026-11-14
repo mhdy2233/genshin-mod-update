@@ -1,0 +1,8096 @@
+{
+  "kind": "native_prefab",
+  "id": "cab-0112b79d0746398c661f687f5dbb0039",
+  "source_cab": "cab-0112b79d0746398c661f687f5dbb0039",
+  "prefab_name": "Avatar_Boy_Sword_Bennett_Manekin",
+  "profile": "bennett",
+  "internal_name": "Bennett",
+  "body_token": "Boy",
+  "weapon_token": "Sword",
+  "variant_suffix": "_Manekin",
+  "root_transform_id": "-8559843475943525825",
+  "transforms": {
+    "-8806205713397857138": {
+      "game_object": {
+        "file_id": 0,
+        "path_id": "-8495764982405465080"
+      },
+      "local_rotation_xyzw": [
+        0.08294651657342911,
+        0.6066580414772034,
+        -0.0764259621500969,
+        0.7869212627410889
+      ],
+      "local_position": [
+        -0.3779999911785126,
+        -0.31700000166893005,
+        -0.08900000154972076
+      ],
+      "local_scale": [
+        1.0,
+        1.0000001192092896,
+        1.0000001192092896
+      ],
+      "children": [],
+      "parent": {
+        "file_id": 0,
+        "path_id": "-6011406833333530018"
+      },
+      "name": "PRIVATE_WeaponRootSword",
+      "path_components": [
+        "Avatar_Boy_Sword_Bennett_Manekin",
+        "Bip001",
+        "Bip001 Pelvis",
+        "Bip001 Spine",
+        "Bip001 Spine1",
+        "PRIVATE_WeaponRootSword"
+      ]
+    },
+    "-8726109374367428030": {
+      "game_object": {
+        "file_id": 0,
+        "path_id": "7166668424015955785"
+      },
+      "local_rotation_xyzw": [
+        3.7252898543727042e-09,
+        -1.7763570511584873e-15,
+        1.0,
+        6.123234924670329e-17
+      ],
+      "local_position": [
+        -0.07452709972858429,
+        0.0,
+        0.0
+      ],
+      "local_scale": [
+        -1.0,
+        -0.9999999403953552,
+        -1.0
+      ],
+      "children": [],
+      "parent": {
+        "file_id": 0,
+        "path_id": "4454658925253442913"
+      },
+      "name": "Bip001 L Toe0Nub",
+      "path_components": [
+        "Avatar_Boy_Sword_Bennett_Manekin",
+        "Bip001",
+        "Bip001 Pelvis",
+        "Bip001 L Thigh",
+        "Bip001 L Calf",
+        "Bip001 L Foot",
+        "Bip001 L Toe0",
+        "Bip001 L Toe0Nub"
+      ]
+    },
+    "-8707091138498733105": {
+      "game_object": {
+        "file_id": 0,
+        "path_id": "-1158152969863506521"
+      },
+      "local_rotation_xyzw": [
+        -0.04580092802643776,
+        0.4339694380760193,
+        0.8839161396026611,
+        0.16812223196029663
+      ],
+      "local_position": [
+        -0.033469390124082565,
+        -0.04199450463056564,
+        0.09882766753435135
+      ],
+      "local_scale": [
+        1.0000019073486328,
+        1.0000001192092896,
+        1.0000009536743164
+      ],
+      "children": [
+        {
+          "file_id": 0,
+          "path_id": "8219335733716972467"
+        }
+      ],
+      "parent": {
+        "file_id": 0,
+        "path_id": "2499155557660640495"
+      },
+      "name": "+HemB L D01",
+      "path_components": [
+        "Avatar_Boy_Sword_Bennett_Manekin",
+        "Bip001",
+        "Bip001 Pelvis",
+        "Bip001 Spine",
+        "+HemB L D01"
+      ]
+    },
+    "-8559843475943525825": {
+      "game_object": {
+        "file_id": 0,
+        "path_id": "5023761831682457886"
+      },
+      "local_rotation_xyzw": [
+        -0.0,
+        -0.0,
+        -0.0,
+        1.0
+      ],
+      "local_position": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "local_scale": [
+        1.0,
+        1.0,
+        1.0
+      ],
+      "children": [
+        {
+          "file_id": 0,
+          "path_id": "-6873985393293953553"
+        },
+        {
+          "file_id": 0,
+          "path_id": "-6011795993161205898"
+        },
+        {
+          "file_id": 0,
+          "path_id": "3612901040484115509"
+        },
+        {
+          "file_id": 0,
+          "path_id": "3184806644379538826"
+        },
+        {
+          "file_id": 0,
+          "path_id": "-7640066947551078044"
+        },
+        {
+          "file_id": 0,
+          "path_id": "4261349836143121929"
+        },
+        {
+          "file_id": 0,
+          "path_id": "7984784825173756986"
+        },
+        {
+          "file_id": 0,
+          "path_id": "-4220562065330787761"
+        },
+        {
+          "file_id": 0,
+          "path_id": "5398995517512974459"
+        },
+        {
+          "file_id": 0,
+          "path_id": "7027174918555971889"
+        },
+        {
+          "file_id": 0,
+          "path_id": "-3121043151945898167"
+        },
+        {
+          "file_id": 0,
+          "path_id": "3661927783108896119"
+        }
+      ],
+      "parent": {
+        "file_id": 0,
+        "path_id": "0"
+      },
+      "name": "Avatar_Boy_Sword_Bennett_Manekin",
+      "path_components": [
+        "Avatar_Boy_Sword_Bennett_Manekin"
+      ]
+    },
+    "-8453212068531391444": {
+      "game_object": {
+        "file_id": 0,
+        "path_id": "2209378117522587451"
+      },
+      "local_rotation_xyzw": [
+        -1.1175870007207322e-08,
+        7.147900049631062e-08,
+        -2.6477206205299808e-08,
+        1.0
+      ],
+      "local_position": [
+        -0.25400009751319885,
+        0.0,
+        0.0
+      ],
+      "local_scale": [
+        1.0,
+        1.0,
+        1.0
+      ],
+      "children": [],
+      "parent": {
+        "file_id": 0,
+        "path_id": "2864800307151002429"
+      },
+      "name": "HitObject4",
+      "path_components": [
+        "Avatar_Boy_Sword_Bennett_Manekin",
+        "Bip001",
+        "Bip001 Pelvis",
+        "Bip001 R Thigh",
+        "Bip001 R Calf",
+        "HitObject4"
+      ]
+    },
+    "-8283170638144593912": {
+      "game_object": {
+        "file_id": 0,
+        "path_id": "-5347801223405324788"
+      },
+      "local_rotation_xyzw": [
+        0.04580068588256836,
+        -0.4339708685874939,
+        0.8839156031608582,
+        0.16812165081501007
+      ],
+      "local_position": [
+        -0.03346923738718033,
+        -0.041994161903858185,
+        -0.09882819652557373
+      ],
+      "local_scale": [
+        1.0000261068344116,
+        1.000016689300537,
+        1.0000274181365967
+      ],
+      "children": [
+        {
+          "file_id": 0,
+          "path_id": "-162941205709914238"
+        }
+      ],
+      "parent": {
+        "file_id": 0,
+        "path_id": "2499155557660640495"
+      },
+      "name": "+HemB R D01",
+      "path_components": [
+        "Avatar_Boy_Sword_Bennett_Manekin",
+        "Bip001",
+        "Bip001 Pelvis",
+        "Bip001 Spine",
+        "+HemB R D01"
+      ]
+    },
+    "-8148604644075294638": {
+      "game_object": {
+        "file_id": 0,
+        "path_id": "4859215474403880006"
+      },
+      "local_rotation_xyzw": [
+        0.06365951895713806,
+        0.9793651103973389,
+        0.1536961793899536,
+        0.11475630104541779
+      ],
+      "local_position": [
+        4.470347292340193e-08,
+        1.4982397544827109e-07,
+        0.06590744853019714
+      ],
+      "local_scale": [
+        1.0,
+        0.9999999403953552,
+        1.0000001192092896
+      ],
+      "children": [
+        {
+          "file_id": 0,
+          "path_id": "1643980783992954909"
+        }
+      ],
+      "parent": {
+        "file_id": 0,
+        "path_id": "501781942223293643"
+      },
+      "name": "Bip001 L Thigh",
+      "path_components": [
+        "Avatar_Boy_Sword_Bennett_Manekin",
+        "Bip001",
+        "Bip001 Pelvis",
+        "Bip001 L Thigh"
+      ]
+    },
+    "-8101906021348057010": {
+      "game_object": {
+        "file_id": 0,
+        "path_id": "5638604944779707400"
+      },
+      "local_rotation_xyzw": [
+        0.667810320854187,
+        -0.21349959075450897,
+        0.07529481500387192,
+        0.7090684175491333
+      ],
+      "local_position": [
+        -0.025477446615695953,
+        0.010970992967486382,
+        -0.01930711790919304
+      ],
+      "local_scale": [
+        1.0000001192092896,
+        1.0000001192092896,
+        1.0
+      ],
+      "children": [
+        {
+          "file_id": 0,
+          "path_id": "6866229555337255639"
+        }
+      ],
+      "parent": {
+        "file_id": 0,
+        "path_id": "1113897474211714650"
+      },
+      "name": "Bip001 L Finger0",
+      "path_components": [
+        "Avatar_Boy_Sword_Bennett_Manekin",
+        "Bip001",
+        "Bip001 Pelvis",
+        "Bip001 Spine",
+        "Bip001 Spine1",
+        "Bip001 Spine2",
+        "Bip001 L Clavicle",
+        "Bip001 L UpperArm",
+        "Bip001 L Forearm",
+        "Bip001 L Hand",
+        "Bip001 L Finger0"
+      ]
+    },
+    "-7829439271442792347": {
+      "game_object": {
+        "file_id": 0,
+        "path_id": "6486601797528663383"
+      },
+      "local_rotation_xyzw": [
+        0.06020636856555939,
+        0.9977977275848389,
+        -0.010454379953444004,
+        0.0258015263825655
+      ],
+      "local_position": [
+        -4.470347292340193e-08,
+        -7.531818368988752e-08,
+        -0.06590744107961655
+      ],
+      "local_scale": [
+        0.9999999403953552,
+        0.9999998807907104,
+        1.0
+      ],
+      "children": [
+        {
+          "file_id": 0,
+          "path_id": "2864800307151002429"
+        }
+      ],
+      "parent": {
+        "file_id": 0,
+        "path_id": "501781942223293643"
+      },
+      "name": "Bip001 R Thigh",
+      "path_components": [
+        "Avatar_Boy_Sword_Bennett_Manekin",
+        "Bip001",
+        "Bip001 Pelvis",
+        "Bip001 R Thigh"
+      ]
+    },
+    "-7819500329113614183": {
+      "game_object": {
+        "file_id": 0,
+        "path_id": "-2026208188617522930"
+      },
+      "local_rotation_xyzw": [
+        -5.461256336047882e-09,
+        -5.587941664941809e-09,
+        0.7116575241088867,
+        -0.7025266289710999
+      ],
+      "local_position": [
+        -0.08710034936666489,
+        0.10461489856243134,
+        -0.0002679003227967769
+      ],
+      "local_scale": [
+        1.0000001192092896,
+        1.0,
+        1.0000001192092896
+      ],
+      "children": [
+        {
+          "file_id": 0,
+          "path_id": "-3302109312819423723"
+        }
+      ],
+      "parent": {
+        "file_id": 0,
+        "path_id": "1220058823794206578"
+      },
+      "name": "Bip001 R Toe0",
+      "path_components": [
+        "Avatar_Boy_Sword_Bennett_Manekin",
+        "Bip001",
+        "Bip001 Pelvis",
+        "Bip001 R Thigh",
+        "Bip001 R Calf",
+        "Bip001 R Foot",
+        "Bip001 R Toe0"
+      ]
+    },
+    "-7640066947551078044": {
+      "game_object": {
+        "file_id": 0,
+        "path_id": "3047598948476752558"
+      },
+      "local_rotation_xyzw": [
+        2.1855694143368964e-08,
+        0.0,
+        -0.0,
+        1.0
+      ],
+      "local_position": [
+        -0.0,
+        0.0,
+        0.0
+      ],
+      "local_scale": [
+        1.0,
+        1.0,
+        1.0
+      ],
+      "children": [],
+      "parent": {
+        "file_id": 0,
+        "path_id": "-8559843475943525825"
+      },
+      "name": "EyeStar",
+      "path_components": [
+        "Avatar_Boy_Sword_Bennett_Manekin",
+        "EyeStar"
+      ]
+    },
+    "-7424191892562843733": {
+      "game_object": {
+        "file_id": 0,
+        "path_id": "-4026466374983483988"
+      },
+      "local_rotation_xyzw": [
+        0.02047816663980484,
+        0.04170212522149086,
+        -0.19918714463710785,
+        0.9788596034049988
+      ],
+      "local_position": [
+        -0.08628206700086594,
+        0.0011197327403351665,
+        -0.006691251881420612
+      ],
+      "local_scale": [
+        1.0000001192092896,
+        0.9999998807907104,
+        0.9999998807907104
+      ],
+      "children": [
+        {
+          "file_id": 0,
+          "path_id": "-6373351890925588996"
+        }
+      ],
+      "parent": {
+        "file_id": 0,
+        "path_id": "1113897474211714650"
+      },
+      "name": "Bip001 L Finger2",
+      "path_components": [
+        "Avatar_Boy_Sword_Bennett_Manekin",
+        "Bip001",
+        "Bip001 Pelvis",
+        "Bip001 Spine",
+        "Bip001 Spine1",
+        "Bip001 Spine2",
+        "Bip001 L Clavicle",
+        "Bip001 L UpperArm",
+        "Bip001 L Forearm",
+        "Bip001 L Hand",
+        "Bip001 L Finger2"
+      ]
+    },
+    "-7057446219165782847": {
+      "game_object": {
+        "file_id": 0,
+        "path_id": "-2024587149965833894"
+      },
+      "local_rotation_xyzw": [
+        4.163971212278739e-08,
+        2.7226858545503774e-09,
+        -0.3015259802341461,
+        0.9534580111503601
+      ],
+      "local_position": [
+        -0.027675509452819824,
+        0.0,
+        -8.538540985369991e-10
+      ],
+      "local_scale": [
+        1.0,
+        0.9999999403953552,
+        1.0
+      ],
+      "children": [
+        {
+          "file_id": 0,
+          "path_id": "-702491285662330885"
+        }
+      ],
+      "parent": {
+        "file_id": 0,
+        "path_id": "5348095829431339845"
+      },
+      "name": "Bip001 L Finger11",
+      "path_components": [
+        "Avatar_Boy_Sword_Bennett_Manekin",
+        "Bip001",
+        "Bip001 Pelvis",
+        "Bip001 Spine",
+        "Bip001 Spine1",
+        "Bip001 Spine2",
+        "Bip001 L Clavicle",
+        "Bip001 L UpperArm",
+        "Bip001 L Forearm",
+        "Bip001 L Hand",
+        "Bip001 L Finger1",
+        "Bip001 L Finger11"
+      ]
+    },
+    "-6873985393293953553": {
+      "game_object": {
+        "file_id": 0,
+        "path_id": "-6176709545028801171"
+      },
+      "local_rotation_xyzw": [
+        -0.48617517948150635,
+        0.5563166737556458,
+        0.5423163771629333,
+        0.40004804730415344
+      ],
+      "local_position": [
+        0.029995841905474663,
+        0.8730087876319885,
+        0.04999731853604317
+      ],
+      "local_scale": [
+        0.9999999403953552,
+        0.9999999403953552,
+        1.0
+      ],
+      "children": [
+        {
+          "file_id": 0,
+          "path_id": "-6302734335021763009"
+        },
+        {
+          "file_id": 0,
+          "path_id": "9004256560956192213"
+        },
+        {
+          "file_id": 0,
+          "path_id": "501781942223293643"
+        }
+      ],
+      "parent": {
+        "file_id": 0,
+        "path_id": "-8559843475943525825"
+      },
+      "name": "Bip001",
+      "path_components": [
+        "Avatar_Boy_Sword_Bennett_Manekin",
+        "Bip001"
+      ]
+    },
+    "-6858750375673026147": {
+      "game_object": {
+        "file_id": 0,
+        "path_id": "3791562912011723300"
+      },
+      "local_rotation_xyzw": [
+        0.552276611328125,
+        0.7713397145271301,
+        -0.2658246159553528,
+        0.17135606706142426
+      ],
+      "local_position": [
+        -0.07022048532962799,
+        -0.027868757024407387,
+        0.027101516723632812
+      ],
+      "local_scale": [
+        1.0000327825546265,
+        0.9999848008155823,
+        1.000000238418579
+      ],
+      "children": [],
+      "parent": {
+        "file_id": 0,
+        "path_id": "-4074560846672148805"
+      },
+      "name": "+ArmLetsS R A12",
+      "path_components": [
+        "Avatar_Boy_Sword_Bennett_Manekin",
+        "Bip001",
+        "Bip001 Pelvis",
+        "Bip001 Spine",
+        "Bip001 Spine1",
+        "Bip001 Spine2",
+        "Bip001 R Clavicle",
+        "Bip001 R UpperArm",
+        "+UpperArmTwist R A01",
+        "+ArmLetsS R A12"
+      ]
+    },
+    "-6541439310756056192": {
+      "game_object": {
+        "file_id": 0,
+        "path_id": "-6691510080970096082"
+      },
+      "local_rotation_xyzw": [
+        -0.6675865054130554,
+        0.7445322275161743,
+        5.621058107863064e-08,
+        -5.040141459744518e-08
+      ],
+      "local_position": [
+        -0.013531493954360485,
+        0.0681321918964386,
+        6.103518330746738e-07
+      ],
+      "local_scale": [
+        1.0,
+        1.0,
+        1.0
+      ],
+      "children": [],
+      "parent": {
+        "file_id": 0,
+        "path_id": "1446139228375926439"
+      },
+      "name": "+ToothBone U A01",
+      "path_components": [
+        "Avatar_Boy_Sword_Bennett_Manekin",
+        "Bip001",
+        "Bip001 Pelvis",
+        "Bip001 Spine",
+        "Bip001 Spine1",
+        "Bip001 Spine2",
+        "Bip001 Neck",
+        "Bip001 Head",
+        "+ToothBone U A01"
+      ]
+    },
+    "-6373351890925588996": {
+      "game_object": {
+        "file_id": 0,
+        "path_id": "-3502312924328292295"
+      },
+      "local_rotation_xyzw": [
+        5.122828383719025e-08,
+        4.725037583419578e-10,
+        -0.31826820969581604,
+        0.9480007290840149
+      ],
+      "local_position": [
+        -0.030478529632091522,
+        0.0,
+        -1.3176379987100972e-09
+      ],
+      "local_scale": [
+        1.0,
+        1.0,
+        1.0
+      ],
+      "children": [
+        {
+          "file_id": 0,
+          "path_id": "2604980744686719340"
+        }
+      ],
+      "parent": {
+        "file_id": 0,
+        "path_id": "-7424191892562843733"
+      },
+      "name": "Bip001 L Finger21",
+      "path_components": [
+        "Avatar_Boy_Sword_Bennett_Manekin",
+        "Bip001",
+        "Bip001 Pelvis",
+        "Bip001 Spine",
+        "Bip001 Spine1",
+        "Bip001 Spine2",
+        "Bip001 L Clavicle",
+        "Bip001 L UpperArm",
+        "Bip001 L Forearm",
+        "Bip001 L Hand",
+        "Bip001 L Finger2",
+        "Bip001 L Finger21"
+      ]
+    },
+    "-6322702375650386740": {
+      "game_object": {
+        "file_id": 0,
+        "path_id": "5160370966957493397"
+      },
+      "local_rotation_xyzw": [
+        -0.018931901082396507,
+        0.004149013198912144,
+        -0.001147585455328226,
+        0.9998115301132202
+      ],
+      "local_position": [
+        -0.12454574555158615,
+        0.0,
+        2.193450825416221e-07
+      ],
+      "local_scale": [
+        1.0000005960464478,
+        1.000000238418579,
+        0.9999998211860657
+      ],
+      "children": [
+        {
+          "file_id": 0,
+          "path_id": "1763390336642151062"
+        }
+      ],
+      "parent": {
+        "file_id": 0,
+        "path_id": "8219335733716972467"
+      },
+      "name": "+HemB L D03",
+      "path_components": [
+        "Avatar_Boy_Sword_Bennett_Manekin",
+        "Bip001",
+        "Bip001 Pelvis",
+        "Bip001 Spine",
+        "+HemB L D01",
+        "+HemB L D02",
+        "+HemB L D03"
+      ]
+    },
+    "-6302734335021763009": {
+      "game_object": {
+        "file_id": 0,
+        "path_id": "4886591549012161897"
+      },
+      "local_rotation_xyzw": [
+        0.5071234107017517,
+        0.49277257919311523,
+        -0.492773175239563,
+        0.5071249008178711
+      ],
+      "local_position": [
+        -8.31174838822335e-05,
+        0.0,
+        0.0003819274716079235
+      ],
+      "local_scale": [
+        0.9998127222061157,
+        1.0001816749572754,
+        0.9999849796295166
+      ],
+      "children": [],
+      "parent": {
+        "file_id": 0,
+        "path_id": "-6873985393293953553"
+      },
+      "name": "+PelvisTwist CF A01",
+      "path_components": [
+        "Avatar_Boy_Sword_Bennett_Manekin",
+        "Bip001",
+        "+PelvisTwist CF A01"
+      ]
+    },
+    "-6011795993161205898": {
+      "game_object": {
+        "file_id": 0,
+        "path_id": "1631413885187984458"
+      },
+      "local_rotation_xyzw": [
+        2.1855694143368964e-08,
+        0.0,
+        -0.0,
+        1.0
+      ],
+      "local_position": [
+        -0.0,
+        0.0,
+        0.0
+      ],
+      "local_scale": [
+        1.0,
+        1.0,
+        1.0
+      ],
+      "children": [],
+      "parent": {
+        "file_id": 0,
+        "path_id": "-8559843475943525825"
+      },
+      "name": "Body",
+      "path_components": [
+        "Avatar_Boy_Sword_Bennett_Manekin",
+        "Body"
+      ]
+    },
+    "-6011406833333530018": {
+      "game_object": {
+        "file_id": 0,
+        "path_id": "-9003014521348574558"
+      },
+      "local_rotation_xyzw": [
+        -0.06019683554768562,
+        -0.06044868752360344,
+        0.028363605961203575,
+        0.9959506988525391
+      ],
+      "local_position": [
+        -0.0689990445971489,
+        -6.375497468980029e-05,
+        7.246853783726692e-09
+      ],
+      "local_scale": [
+        1.0,
+        1.0,
+        1.0
+      ],
+      "children": [
+        {
+          "file_id": 0,
+          "path_id": "6151371294294036483"
+        },
+        {
+          "file_id": 0,
+          "path_id": "-8806205713397857138"
+        }
+      ],
+      "parent": {
+        "file_id": 0,
+        "path_id": "2499155557660640495"
+      },
+      "name": "Bip001 Spine1",
+      "path_components": [
+        "Avatar_Boy_Sword_Bennett_Manekin",
+        "Bip001",
+        "Bip001 Pelvis",
+        "Bip001 Spine",
+        "Bip001 Spine1"
+      ]
+    },
+    "-5906724008976863364": {
+      "game_object": {
+        "file_id": 0,
+        "path_id": "853067509284476579"
+      },
+      "local_rotation_xyzw": [
+        -0.4819217026233673,
+        -0.39575788378715515,
+        -0.26671719551086426,
+        0.7348394989967346
+      ],
+      "local_position": [
+        -0.07370452582836151,
+        -0.009534385055303574,
+        -0.039586178958415985
+      ],
+      "local_scale": [
+        0.9999865293502808,
+        0.9999659061431885,
+        0.9999943375587463
+      ],
+      "children": [],
+      "parent": {
+        "file_id": 0,
+        "path_id": "5982970989646551694"
+      },
+      "name": "+ArmLetsS L A11",
+      "path_components": [
+        "Avatar_Boy_Sword_Bennett_Manekin",
+        "Bip001",
+        "Bip001 Pelvis",
+        "Bip001 Spine",
+        "Bip001 Spine1",
+        "Bip001 Spine2",
+        "Bip001 L Clavicle",
+        "Bip001 L UpperArm",
+        "+UpperArmTwist L A01",
+        "+ArmLetsS L A11"
+      ]
+    },
+    "-5742094109718328150": {
+      "game_object": {
+        "file_id": 0,
+        "path_id": "9166962366031945241"
+      },
+      "local_rotation_xyzw": [
+        -0.09274159371852875,
+        0.03379247710108757,
+        -0.06257923692464828,
+        0.9931469559669495
+      ],
+      "local_position": [
+        -0.11651969701051712,
+        0.024548720568418503,
+        0.003111720085144043
+      ],
+      "local_scale": [
+        1.0000001192092896,
+        1.000000238418579,
+        1.0
+      ],
+      "children": [],
+      "parent": {
+        "file_id": 0,
+        "path_id": "-2270344588733046164"
+      },
+      "name": "+VisionPelvisS R E02",
+      "path_components": [
+        "Avatar_Boy_Sword_Bennett_Manekin",
+        "Bip001",
+        "Bip001 Pelvis",
+        "+VisionPelvisS R E01",
+        "+VisionPelvisS R E02"
+      ]
+    },
+    "-5484488471719929572": {
+      "game_object": {
+        "file_id": 0,
+        "path_id": "-5378295180286875611"
+      },
+      "local_rotation_xyzw": [
+        0.0,
+        0.0,
+        0.0,
+        1.0
+      ],
+      "local_position": [
+        -0.07190000265836716,
+        0.024399999529123306,
+        0.0017999999690800905
+      ],
+      "local_scale": [
+        1.0,
+        1.0,
+        1.0
+      ],
+      "children": [],
+      "parent": {
+        "file_id": 0,
+        "path_id": "1604699526146023719"
+      },
+      "name": "PRIVATE_RHand",
+      "path_components": [
+        "Avatar_Boy_Sword_Bennett_Manekin",
+        "Bip001",
+        "Bip001 Pelvis",
+        "Bip001 Spine",
+        "Bip001 Spine1",
+        "Bip001 Spine2",
+        "Bip001 R Clavicle",
+        "Bip001 R UpperArm",
+        "Bip001 R Forearm",
+        "Bip001 R Hand",
+        "PRIVATE_RHand"
+      ]
+    },
+    "-5335372526396992666": {
+      "game_object": {
+        "file_id": 0,
+        "path_id": "-724366428727426575"
+      },
+      "local_rotation_xyzw": [
+        3.725290076417309e-09,
+        3.725290076417309e-09,
+        -4.470348358154297e-08,
+        1.0
+      ],
+      "local_position": [
+        -0.023051567375659943,
+        -7.629394360719743e-08,
+        -4.76837147544984e-09
+      ],
+      "local_scale": [
+        1.0,
+        1.0000001192092896,
+        1.0
+      ],
+      "children": [],
+      "parent": {
+        "file_id": 0,
+        "path_id": "-702491285662330885"
+      },
+      "name": "Bip001 L Finger1Nub",
+      "path_components": [
+        "Avatar_Boy_Sword_Bennett_Manekin",
+        "Bip001",
+        "Bip001 Pelvis",
+        "Bip001 Spine",
+        "Bip001 Spine1",
+        "Bip001 Spine2",
+        "Bip001 L Clavicle",
+        "Bip001 L UpperArm",
+        "Bip001 L Forearm",
+        "Bip001 L Hand",
+        "Bip001 L Finger1",
+        "Bip001 L Finger11",
+        "Bip001 L Finger12",
+        "Bip001 L Finger1Nub"
+      ]
+    },
+    "-5256330257207967991": {
+      "game_object": {
+        "file_id": 0,
+        "path_id": "8259955170281143515"
+      },
+      "local_rotation_xyzw": [
+        -1.1974050551089022e-07,
+        -4.157415522954011e-10,
+        0.31768104434013367,
+        -0.9481976628303528
+      ],
+      "local_position": [
+        -0.030478548258543015,
+        0.0,
+        3.2923042070365227e-09
+      ],
+      "local_scale": [
+        1.0,
+        1.0,
+        1.0000001192092896
+      ],
+      "children": [
+        {
+          "file_id": 0,
+          "path_id": "5705176513741453707"
+        }
+      ],
+      "parent": {
+        "file_id": 0,
+        "path_id": "3746478136517359807"
+      },
+      "name": "Bip001 R Finger21",
+      "path_components": [
+        "Avatar_Boy_Sword_Bennett_Manekin",
+        "Bip001",
+        "Bip001 Pelvis",
+        "Bip001 Spine",
+        "Bip001 Spine1",
+        "Bip001 Spine2",
+        "Bip001 R Clavicle",
+        "Bip001 R UpperArm",
+        "Bip001 R Forearm",
+        "Bip001 R Hand",
+        "Bip001 R Finger2",
+        "Bip001 R Finger21"
+      ]
+    },
+    "-5101443168556297347": {
+      "game_object": {
+        "file_id": 0,
+        "path_id": "8096270233059852940"
+      },
+      "local_rotation_xyzw": [
+        7.450579886381092e-08,
+        2.6193443858346654e-08,
+        -7.020570791382852e-08,
+        1.0
+      ],
+      "local_position": [
+        -0.254000186920166,
+        0.0,
+        0.0
+      ],
+      "local_scale": [
+        1.0,
+        1.0,
+        1.0
+      ],
+      "children": [],
+      "parent": {
+        "file_id": 0,
+        "path_id": "1643980783992954909"
+      },
+      "name": "HitObject9",
+      "path_components": [
+        "Avatar_Boy_Sword_Bennett_Manekin",
+        "Bip001",
+        "Bip001 Pelvis",
+        "Bip001 L Thigh",
+        "Bip001 L Calf",
+        "HitObject9"
+      ]
+    },
+    "-4858800696107289457": {
+      "game_object": {
+        "file_id": 0,
+        "path_id": "-5353408761263889190"
+      },
+      "local_rotation_xyzw": [
+        1.862645326866641e-08,
+        -7.450580596923828e-09,
+        2.980232594040899e-08,
+        1.0
+      ],
+      "local_position": [
+        -0.020949171856045723,
+        0.0,
+        -9.53674295089968e-09
+      ],
+      "local_scale": [
+        0.9999999403953552,
+        0.9999998807907104,
+        0.9999999403953552
+      ],
+      "children": [],
+      "parent": {
+        "file_id": 0,
+        "path_id": "8096651414164517572"
+      },
+      "name": "Bip001 L Finger4Nub",
+      "path_components": [
+        "Avatar_Boy_Sword_Bennett_Manekin",
+        "Bip001",
+        "Bip001 Pelvis",
+        "Bip001 Spine",
+        "Bip001 Spine1",
+        "Bip001 Spine2",
+        "Bip001 L Clavicle",
+        "Bip001 L UpperArm",
+        "Bip001 L Forearm",
+        "Bip001 L Hand",
+        "Bip001 L Finger4",
+        "Bip001 L Finger41",
+        "Bip001 L Finger42",
+        "Bip001 L Finger4Nub"
+      ]
+    },
+    "-4223563399451711257": {
+      "game_object": {
+        "file_id": 0,
+        "path_id": "-140590418506091730"
+      },
+      "local_rotation_xyzw": [
+        0.7071070671081543,
+        0.707106351852417,
+        0.00033406875445507467,
+        0.0003201338113285601
+      ],
+      "local_position": [
+        0.5,
+        0.8999999761581421,
+        -8.000000661922968e-08
+      ],
+      "local_scale": [
+        1.0,
+        1.0,
+        1.0
+      ],
+      "children": [],
+      "parent": {
+        "file_id": 0,
+        "path_id": "-4220562065330787761"
+      },
+      "name": "CatalystR",
+      "path_components": [
+        "Avatar_Boy_Sword_Bennett_Manekin",
+        "Root",
+        "CatalystR"
+      ]
+    },
+    "-4220562065330787761": {
+      "game_object": {
+        "file_id": 0,
+        "path_id": "6789816767724633673"
+      },
+      "local_rotation_xyzw": [
+        8.146034247147327e-08,
+        -0.0,
+        -0.0,
+        1.0
+      ],
+      "local_position": [
+        -0.0,
+        0.0,
+        0.0
+      ],
+      "local_scale": [
+        1.0,
+        1.0,
+        1.0
+      ],
+      "children": [
+        {
+          "file_id": 0,
+          "path_id": "-1762589885666554537"
+        },
+        {
+          "file_id": 0,
+          "path_id": "8161872983252590147"
+        },
+        {
+          "file_id": 0,
+          "path_id": "-4223563399451711257"
+        }
+      ],
+      "parent": {
+        "file_id": 0,
+        "path_id": "-8559843475943525825"
+      },
+      "name": "Root",
+      "path_components": [
+        "Avatar_Boy_Sword_Bennett_Manekin",
+        "Root"
+      ]
+    },
+    "-4074560846672148805": {
+      "game_object": {
+        "file_id": 0,
+        "path_id": "-2914426124503232566"
+      },
+      "local_rotation_xyzw": [
+        0.9993536472320557,
+        4.0186274418374524e-05,
+        -0.0074959006160497665,
+        -0.03515905141830444
+      ],
+      "local_position": [
+        0.0005693816929124296,
+        -3.0331610105349682e-05,
+        3.028869650734123e-05
+      ],
+      "local_scale": [
+        1.0000152587890625,
+        0.9999673366546631,
+        0.9999997615814209
+      ],
+      "children": [
+        {
+          "file_id": 0,
+          "path_id": "-3853970831504858155"
+        },
+        {
+          "file_id": 0,
+          "path_id": "-6858750375673026147"
+        }
+      ],
+      "parent": {
+        "file_id": 0,
+        "path_id": "-41369148023857182"
+      },
+      "name": "+UpperArmTwist R A01",
+      "path_components": [
+        "Avatar_Boy_Sword_Bennett_Manekin",
+        "Bip001",
+        "Bip001 Pelvis",
+        "Bip001 Spine",
+        "Bip001 Spine1",
+        "Bip001 Spine2",
+        "Bip001 R Clavicle",
+        "Bip001 R UpperArm",
+        "+UpperArmTwist R A01"
+      ]
+    },
+    "-3882420652728724769": {
+      "game_object": {
+        "file_id": 0,
+        "path_id": "-2094922273035845317"
+      },
+      "local_rotation_xyzw": [
+        0.007442310452461243,
+        0.0009240508079528809,
+        0.1231953576207161,
+        0.992354154586792
+      ],
+      "local_position": [
+        -0.19624930620193481,
+        4.619359401658585e-07,
+        8.195638656616211e-08
+      ],
+      "local_scale": [
+        1.0000001192092896,
+        1.0000001192092896,
+        1.0
+      ],
+      "children": [
+        {
+          "file_id": 0,
+          "path_id": "1113897474211714650"
+        },
+        {
+          "file_id": 0,
+          "path_id": "5127438947883167564"
+        }
+      ],
+      "parent": {
+        "file_id": 0,
+        "path_id": "-1970508884455079060"
+      },
+      "name": "Bip001 L Forearm",
+      "path_components": [
+        "Avatar_Boy_Sword_Bennett_Manekin",
+        "Bip001",
+        "Bip001 Pelvis",
+        "Bip001 Spine",
+        "Bip001 Spine1",
+        "Bip001 Spine2",
+        "Bip001 L Clavicle",
+        "Bip001 L UpperArm",
+        "Bip001 L Forearm"
+      ]
+    },
+    "-3853970831504858155": {
+      "game_object": {
+        "file_id": 0,
+        "path_id": "5355276993728546702"
+      },
+      "local_rotation_xyzw": [
+        0.4819221794605255,
+        0.3957603871822357,
+        -0.26672032475471497,
+        0.7348366975784302
+      ],
+      "local_position": [
+        -0.07370536774396896,
+        -0.009534232318401337,
+        0.03958740085363388
+      ],
+      "local_scale": [
+        1.000000238418579,
+        0.9999847412109375,
+        1.0000327825546265
+      ],
+      "children": [],
+      "parent": {
+        "file_id": 0,
+        "path_id": "-4074560846672148805"
+      },
+      "name": "+ArmLetsS R A11",
+      "path_components": [
+        "Avatar_Boy_Sword_Bennett_Manekin",
+        "Bip001",
+        "Bip001 Pelvis",
+        "Bip001 Spine",
+        "Bip001 Spine1",
+        "Bip001 Spine2",
+        "Bip001 R Clavicle",
+        "Bip001 R UpperArm",
+        "+UpperArmTwist R A01",
+        "+ArmLetsS R A11"
+      ]
+    },
+    "-3759765803075416196": {
+      "game_object": {
+        "file_id": 0,
+        "path_id": "787561252283019910"
+      },
+      "local_rotation_xyzw": [
+        -0.012600164860486984,
+        -0.008991840295493603,
+        -0.24757137894630432,
+        0.9687460064888
+      ],
+      "local_position": [
+        -0.08275984972715378,
+        0.002924442058429122,
+        0.01395029854029417
+      ],
+      "local_scale": [
+        1.0000001192092896,
+        1.0,
+        1.0000001192092896
+      ],
+      "children": [
+        {
+          "file_id": 0,
+          "path_id": "-9514667497596340"
+        }
+      ],
+      "parent": {
+        "file_id": 0,
+        "path_id": "1113897474211714650"
+      },
+      "name": "Bip001 L Finger3",
+      "path_components": [
+        "Avatar_Boy_Sword_Bennett_Manekin",
+        "Bip001",
+        "Bip001 Pelvis",
+        "Bip001 Spine",
+        "Bip001 Spine1",
+        "Bip001 Spine2",
+        "Bip001 L Clavicle",
+        "Bip001 L UpperArm",
+        "Bip001 L Forearm",
+        "Bip001 L Hand",
+        "Bip001 L Finger3"
+      ]
+    },
+    "-3590696146824616965": {
+      "game_object": {
+        "file_id": 0,
+        "path_id": "3755634513116174844"
+      },
+      "local_rotation_xyzw": [
+        -0.6577280759811401,
+        0.7532554864883423,
+        2.1368380487274408e-07,
+        1.299330136816934e-07
+      ],
+      "local_position": [
+        -0.006514434702694416,
+        0.06806875765323639,
+        6.103516057009983e-07
+      ],
+      "local_scale": [
+        1.0,
+        1.0,
+        1.0
+      ],
+      "children": [],
+      "parent": {
+        "file_id": 0,
+        "path_id": "1446139228375926439"
+      },
+      "name": "+ToothBone D A01",
+      "path_components": [
+        "Avatar_Boy_Sword_Bennett_Manekin",
+        "Bip001",
+        "Bip001 Pelvis",
+        "Bip001 Spine",
+        "Bip001 Spine1",
+        "Bip001 Spine2",
+        "Bip001 Neck",
+        "Bip001 Head",
+        "+ToothBone D A01"
+      ]
+    },
+    "-3356175933623662595": {
+      "game_object": {
+        "file_id": 0,
+        "path_id": "1372358919899081193"
+      },
+      "local_rotation_xyzw": [
+        -0.02246578224003315,
+        -0.012309453450143337,
+        0.2346651703119278,
+        -0.9717386960983276
+      ],
+      "local_position": [
+        -0.06966926902532578,
+        0.00594341941177845,
+        -0.02799230068922043
+      ],
+      "local_scale": [
+        1.000000238418579,
+        1.0,
+        1.0000001192092896
+      ],
+      "children": [
+        {
+          "file_id": 0,
+          "path_id": "5343366069437510370"
+        }
+      ],
+      "parent": {
+        "file_id": 0,
+        "path_id": "1604699526146023719"
+      },
+      "name": "Bip001 R Finger4",
+      "path_components": [
+        "Avatar_Boy_Sword_Bennett_Manekin",
+        "Bip001",
+        "Bip001 Pelvis",
+        "Bip001 Spine",
+        "Bip001 Spine1",
+        "Bip001 Spine2",
+        "Bip001 R Clavicle",
+        "Bip001 R UpperArm",
+        "Bip001 R Forearm",
+        "Bip001 R Hand",
+        "Bip001 R Finger4"
+      ]
+    },
+    "-3302109312819423723": {
+      "game_object": {
+        "file_id": 0,
+        "path_id": "1113127873471425849"
+      },
+      "local_rotation_xyzw": [
+        -3.0103585127524506e-31,
+        3.3893626337686803e-16,
+        8.881783138210068e-16,
+        1.0
+      ],
+      "local_position": [
+        -0.07452710717916489,
+        0.0,
+        4.76837147544984e-09
+      ],
+      "local_scale": [
+        1.0000001192092896,
+        1.0,
+        1.0000001192092896
+      ],
+      "children": [],
+      "parent": {
+        "file_id": 0,
+        "path_id": "-7819500329113614183"
+      },
+      "name": "Bip001 R Toe0Nub",
+      "path_components": [
+        "Avatar_Boy_Sword_Bennett_Manekin",
+        "Bip001",
+        "Bip001 Pelvis",
+        "Bip001 R Thigh",
+        "Bip001 R Calf",
+        "Bip001 R Foot",
+        "Bip001 R Toe0",
+        "Bip001 R Toe0Nub"
+      ]
+    },
+    "-3121043151945898167": {
+      "game_object": {
+        "file_id": 0,
+        "path_id": "2996125767384236470"
+      },
+      "local_rotation_xyzw": [
+        -0.0,
+        -0.0,
+        -0.0,
+        1.0
+      ],
+      "local_position": [
+        0.13199999928474426,
+        1.1740000247955322,
+        -0.16300000250339508
+      ],
+      "local_scale": [
+        1.0,
+        1.0,
+        1.0
+      ],
+      "children": [],
+      "parent": {
+        "file_id": 0,
+        "path_id": "-8559843475943525825"
+      },
+      "name": "FocusAnchor",
+      "path_components": [
+        "Avatar_Boy_Sword_Bennett_Manekin",
+        "FocusAnchor"
+      ]
+    },
+    "-2915328984333967099": {
+      "game_object": {
+        "file_id": 0,
+        "path_id": "6006779706291004721"
+      },
+      "local_rotation_xyzw": [
+        7.076169276842847e-05,
+        0.01285755354911089,
+        0.007824111729860306,
+        0.9998867511749268
+      ],
+      "local_position": [
+        -0.08484183996915817,
+        -9.536742595628311e-08,
+        5.7220457705398076e-08
+      ],
+      "local_scale": [
+        1.000000238418579,
+        1.000000238418579,
+        1.0000004768371582
+      ],
+      "children": [],
+      "parent": {
+        "file_id": 0,
+        "path_id": "4747495486532030315"
+      },
+      "name": "+LegBagB L A03",
+      "path_components": [
+        "Avatar_Boy_Sword_Bennett_Manekin",
+        "Bip001",
+        "Bip001 Pelvis",
+        "+LegBagB L A01",
+        "+LegBagB L A02",
+        "+LegBagB L A03"
+      ]
+    },
+    "-2894268580660382426": {
+      "game_object": {
+        "file_id": 0,
+        "path_id": "2637427745643112592"
+      },
+      "local_rotation_xyzw": [
+        -2.0824210878345184e-05,
+        1.0717703844420612e-05,
+        -2.6521806830714922e-06,
+        1.0
+      ],
+      "local_position": [
+        -0.134302020072937,
+        9.155273232863692e-07,
+        9.059905892172537e-08
+      ],
+      "local_scale": [
+        1.000001072883606,
+        1.0000064373016357,
+        0.9999995827674866
+      ],
+      "children": [],
+      "parent": {
+        "file_id": 0,
+        "path_id": "6000684801219392329"
+      },
+      "name": "+HemB R D05",
+      "path_components": [
+        "Avatar_Boy_Sword_Bennett_Manekin",
+        "Bip001",
+        "Bip001 Pelvis",
+        "Bip001 Spine",
+        "+HemB R D01",
+        "+HemB R D02",
+        "+HemB R D03",
+        "+HemB R D04",
+        "+HemB R D05"
+      ]
+    },
+    "-2861946087054180637": {
+      "game_object": {
+        "file_id": 0,
+        "path_id": "845632933939139633"
+      },
+      "local_rotation_xyzw": [
+        0.04663752391934395,
+        0.06966805458068848,
+        -0.1388789713382721,
+        0.986754298210144
+      ],
+      "local_position": [
+        -0.1876910775899887,
+        -0.0027089673094451427,
+        1.0477379852602553e-08
+      ],
+      "local_scale": [
+        1.0000001192092896,
+        1.0000001192092896,
+        1.0
+      ],
+      "children": [
+        {
+          "file_id": 0,
+          "path_id": "1446139228375926439"
+        }
+      ],
+      "parent": {
+        "file_id": 0,
+        "path_id": "6151371294294036483"
+      },
+      "name": "Bip001 Neck",
+      "path_components": [
+        "Avatar_Boy_Sword_Bennett_Manekin",
+        "Bip001",
+        "Bip001 Pelvis",
+        "Bip001 Spine",
+        "Bip001 Spine1",
+        "Bip001 Spine2",
+        "Bip001 Neck"
+      ]
+    },
+    "-2458516911778371183": {
+      "game_object": {
+        "file_id": 0,
+        "path_id": "-4139501412219009916"
+      },
+      "local_rotation_xyzw": [
+        3.5390254282674505e-08,
+        1.3224779138454323e-07,
+        -0.09230833500623703,
+        0.995730459690094
+      ],
+      "local_position": [
+        0.14299997687339783,
+        -0.044000044465065,
+        0.0
+      ],
+      "local_scale": [
+        1.0,
+        1.0,
+        1.0
+      ],
+      "children": [],
+      "parent": {
+        "file_id": 0,
+        "path_id": "6151371294294036483"
+      },
+      "name": "HitObject2",
+      "path_components": [
+        "Avatar_Boy_Sword_Bennett_Manekin",
+        "Bip001",
+        "Bip001 Pelvis",
+        "Bip001 Spine",
+        "Bip001 Spine1",
+        "Bip001 Spine2",
+        "HitObject2"
+      ]
+    },
+    "-2411050763387688201": {
+      "game_object": {
+        "file_id": 0,
+        "path_id": "3289854632987553191"
+      },
+      "local_rotation_xyzw": [
+        -0.6819816827774048,
+        0.710283100605011,
+        0.12093542516231537,
+        0.12559282779693604
+      ],
+      "local_position": [
+        -0.06828140467405319,
+        0.019780639559030533,
+        0.025482645258307457
+      ],
+      "local_scale": [
+        1.0001546144485474,
+        0.9998323321342468,
+        0.9999915361404419
+      ],
+      "children": [
+        {
+          "file_id": 0,
+          "path_id": "3992187600010992500"
+        }
+      ],
+      "parent": {
+        "file_id": 0,
+        "path_id": "1446139228375926439"
+      },
+      "name": "+EyeBone L A01",
+      "path_components": [
+        "Avatar_Boy_Sword_Bennett_Manekin",
+        "Bip001",
+        "Bip001 Pelvis",
+        "Bip001 Spine",
+        "Bip001 Spine1",
+        "Bip001 Spine2",
+        "Bip001 Neck",
+        "Bip001 Head",
+        "+EyeBone L A01"
+      ]
+    },
+    "-2332688505699128864": {
+      "game_object": {
+        "file_id": 0,
+        "path_id": "-5497780842877811223"
+      },
+      "local_rotation_xyzw": [
+        -0.6196051836013794,
+        0.22607438266277313,
+        0.06865869462490082,
+        0.7485090494155884
+      ],
+      "local_position": [
+        -0.025477446615695953,
+        0.010970992967486382,
+        0.01930711790919304
+      ],
+      "local_scale": [
+        1.0000001192092896,
+        1.0000001192092896,
+        1.0
+      ],
+      "children": [
+        {
+          "file_id": 0,
+          "path_id": "2904161446483003795"
+        }
+      ],
+      "parent": {
+        "file_id": 0,
+        "path_id": "1604699526146023719"
+      },
+      "name": "Bip001 R Finger0",
+      "path_components": [
+        "Avatar_Boy_Sword_Bennett_Manekin",
+        "Bip001",
+        "Bip001 Pelvis",
+        "Bip001 Spine",
+        "Bip001 Spine1",
+        "Bip001 Spine2",
+        "Bip001 R Clavicle",
+        "Bip001 R UpperArm",
+        "Bip001 R Forearm",
+        "Bip001 R Hand",
+        "Bip001 R Finger0"
+      ]
+    },
+    "-2270344588733046164": {
+      "game_object": {
+        "file_id": 0,
+        "path_id": "-4709855003277823083"
+      },
+      "local_rotation_xyzw": [
+        0.0917062908411026,
+        -0.6274604201316833,
+        0.7680261135101318,
+        0.08955034613609314
+      ],
+      "local_position": [
+        -0.04554664343595505,
+        -0.008409440517425537,
+        -0.15702451765537262
+      ],
+      "local_scale": [
+        1.0,
+        1.0,
+        1.0
+      ],
+      "children": [
+        {
+          "file_id": 0,
+          "path_id": "-5742094109718328150"
+        }
+      ],
+      "parent": {
+        "file_id": 0,
+        "path_id": "501781942223293643"
+      },
+      "name": "+VisionPelvisS R E01",
+      "path_components": [
+        "Avatar_Boy_Sword_Bennett_Manekin",
+        "Bip001",
+        "Bip001 Pelvis",
+        "+VisionPelvisS R E01"
+      ]
+    },
+    "-2140169815796298001": {
+      "game_object": {
+        "file_id": 0,
+        "path_id": "6794928866446418623"
+      },
+      "local_rotation_xyzw": [
+        -7.053908484522253e-05,
+        -0.012857550755143166,
+        0.007824115455150604,
+        0.9998867511749268
+      ],
+      "local_position": [
+        -0.0848415344953537,
+        -7.629394360719743e-08,
+        9.53674295089968e-09
+      ],
+      "local_scale": [
+        1.0,
+        1.0,
+        1.0
+      ],
+      "children": [],
+      "parent": {
+        "file_id": 0,
+        "path_id": "4524742438474785603"
+      },
+      "name": "+LegBagB R A03",
+      "path_components": [
+        "Avatar_Boy_Sword_Bennett_Manekin",
+        "Bip001",
+        "Bip001 Pelvis",
+        "+LegBagB R A01",
+        "+LegBagB R A02",
+        "+LegBagB R A03"
+      ]
+    },
+    "-2052198622994695185": {
+      "game_object": {
+        "file_id": 0,
+        "path_id": "4655920206506703942"
+      },
+      "local_rotation_xyzw": [
+        -3.907116763457452e-08,
+        1.598720986053636e-14,
+        0.10257962346076965,
+        -0.9947248697280884
+      ],
+      "local_position": [
+        -0.02527238056063652,
+        0.0,
+        -9.625898300669178e-09
+      ],
+      "local_scale": [
+        1.0,
+        0.9999999403953552,
+        0.9999999403953552
+      ],
+      "children": [
+        {
+          "file_id": 0,
+          "path_id": "5741305008695269478"
+        }
+      ],
+      "parent": {
+        "file_id": 0,
+        "path_id": "9118922857020067039"
+      },
+      "name": "Bip001 R Finger32",
+      "path_components": [
+        "Avatar_Boy_Sword_Bennett_Manekin",
+        "Bip001",
+        "Bip001 Pelvis",
+        "Bip001 Spine",
+        "Bip001 Spine1",
+        "Bip001 Spine2",
+        "Bip001 R Clavicle",
+        "Bip001 R UpperArm",
+        "Bip001 R Forearm",
+        "Bip001 R Hand",
+        "Bip001 R Finger3",
+        "Bip001 R Finger31",
+        "Bip001 R Finger32"
+      ]
+    },
+    "-1970508884455079060": {
+      "game_object": {
+        "file_id": 0,
+        "path_id": "8302748730673575282"
+      },
+      "local_rotation_xyzw": [
+        0.2197147011756897,
+        -0.3549906611442566,
+        0.020445410162210464,
+        0.9084542393684387
+      ],
+      "local_position": [
+        -0.09990827739238739,
+        -6.146728281919422e-08,
+        5.364418029785156e-07
+      ],
+      "local_scale": [
+        1.0,
+        1.0000001192092896,
+        1.0
+      ],
+      "children": [
+        {
+          "file_id": 0,
+          "path_id": "5982970989646551694"
+        },
+        {
+          "file_id": 0,
+          "path_id": "314513922316261739"
+        },
+        {
+          "file_id": 0,
+          "path_id": "-3882420652728724769"
+        }
+      ],
+      "parent": {
+        "file_id": 0,
+        "path_id": "6402512548331166216"
+      },
+      "name": "Bip001 L UpperArm",
+      "path_components": [
+        "Avatar_Boy_Sword_Bennett_Manekin",
+        "Bip001",
+        "Bip001 Pelvis",
+        "Bip001 Spine",
+        "Bip001 Spine1",
+        "Bip001 Spine2",
+        "Bip001 L Clavicle",
+        "Bip001 L UpperArm"
+      ]
+    },
+    "-1847440171478428887": {
+      "game_object": {
+        "file_id": 0,
+        "path_id": "-6971221590712499441"
+      },
+      "local_rotation_xyzw": [
+        1.1102230246251565e-16,
+        7.450580596923828e-09,
+        1.0,
+        1.4901161193847656e-08
+      ],
+      "local_position": [
+        -0.026811255142092705,
+        0.0,
+        -1.907348590179936e-08
+      ],
+      "local_scale": [
+        -1.0,
+        -1.0,
+        -0.9999998807907104
+      ],
+      "children": [],
+      "parent": {
+        "file_id": 0,
+        "path_id": "4394102055958252053"
+      },
+      "name": "Bip001 R Finger0Nub",
+      "path_components": [
+        "Avatar_Boy_Sword_Bennett_Manekin",
+        "Bip001",
+        "Bip001 Pelvis",
+        "Bip001 Spine",
+        "Bip001 Spine1",
+        "Bip001 Spine2",
+        "Bip001 R Clavicle",
+        "Bip001 R UpperArm",
+        "Bip001 R Forearm",
+        "Bip001 R Hand",
+        "Bip001 R Finger0",
+        "Bip001 R Finger01",
+        "Bip001 R Finger02",
+        "Bip001 R Finger0Nub"
+      ]
+    },
+    "-1762589885666554537": {
+      "game_object": {
+        "file_id": 0,
+        "path_id": "3027475268016414769"
+      },
+      "local_rotation_xyzw": [
+        0.0,
+        0.0,
+        0.0,
+        1.0
+      ],
+      "local_position": [
+        -0.0,
+        1.149999976158142,
+        -7.999999240837496e-08
+      ],
+      "local_scale": [
+        1.0,
+        1.0,
+        1.0
+      ],
+      "children": [],
+      "parent": {
+        "file_id": 0,
+        "path_id": "-4220562065330787761"
+      },
+      "name": "CameraLook",
+      "path_components": [
+        "Avatar_Boy_Sword_Bennett_Manekin",
+        "Root",
+        "CameraLook"
+      ]
+    },
+    "-1519767772721996149": {
+      "game_object": {
+        "file_id": 0,
+        "path_id": "-8090876054740590080"
+      },
+      "local_rotation_xyzw": [
+        0.0,
+        0.0,
+        0.0,
+        1.0
+      ],
+      "local_position": [
+        -0.051600001752376556,
+        0.023900000378489494,
+        -0.00139999995008111
+      ],
+      "local_scale": [
+        1.0,
+        1.0,
+        1.0
+      ],
+      "children": [],
+      "parent": {
+        "file_id": 0,
+        "path_id": "1261029971239503681"
+      },
+      "name": "PRIVATE_Pendant",
+      "path_components": [
+        "Avatar_Boy_Sword_Bennett_Manekin",
+        "Bip001",
+        "Bip001 Pelvis",
+        "+VisionPelvisS L E01",
+        "PRIVATE_Pendant"
+      ]
+    },
+    "-1270723439201228590": {
+      "game_object": {
+        "file_id": 0,
+        "path_id": "6467681642977546469"
+      },
+      "local_rotation_xyzw": [
+        0.999377965927124,
+        -0.00022138295753393322,
+        0.0027600761968642473,
+        -0.035158202052116394
+      ],
+      "local_position": [
+        -0.09577949345111847,
+        -8.896827785065398e-05,
+        0.0014739990001544356
+      ],
+      "local_scale": [
+        0.9999783039093018,
+        1.0000110864639282,
+        0.9999985694885254
+      ],
+      "children": [],
+      "parent": {
+        "file_id": 0,
+        "path_id": "-41369148023857182"
+      },
+      "name": "+UpperArmTwist R A02",
+      "path_components": [
+        "Avatar_Boy_Sword_Bennett_Manekin",
+        "Bip001",
+        "Bip001 Pelvis",
+        "Bip001 Spine",
+        "Bip001 Spine1",
+        "Bip001 Spine2",
+        "Bip001 R Clavicle",
+        "Bip001 R UpperArm",
+        "+UpperArmTwist R A02"
+      ]
+    },
+    "-702491285662330885": {
+      "game_object": {
+        "file_id": 0,
+        "path_id": "4407593779556035593"
+      },
+      "local_rotation_xyzw": [
+        -1.0025597418916732e-07,
+        4.0335237372346455e-08,
+        -0.13278035819530487,
+        0.9911455512046814
+      ],
+      "local_position": [
+        -0.02136152982711792,
+        1.1920928955078125e-07,
+        -1.8435606818911765e-08
+      ],
+      "local_scale": [
+        1.0000001192092896,
+        1.000000238418579,
+        1.0000001192092896
+      ],
+      "children": [
+        {
+          "file_id": 0,
+          "path_id": "-5335372526396992666"
+        }
+      ],
+      "parent": {
+        "file_id": 0,
+        "path_id": "-7057446219165782847"
+      },
+      "name": "Bip001 L Finger12",
+      "path_components": [
+        "Avatar_Boy_Sword_Bennett_Manekin",
+        "Bip001",
+        "Bip001 Pelvis",
+        "Bip001 Spine",
+        "Bip001 Spine1",
+        "Bip001 Spine2",
+        "Bip001 L Clavicle",
+        "Bip001 L UpperArm",
+        "Bip001 L Forearm",
+        "Bip001 L Hand",
+        "Bip001 L Finger1",
+        "Bip001 L Finger11",
+        "Bip001 L Finger12"
+      ]
+    },
+    "-543951801657885515": {
+      "game_object": {
+        "file_id": 0,
+        "path_id": "1147891113133805723"
+      },
+      "local_rotation_xyzw": [
+        7.450579886381092e-08,
+        2.6193443858346654e-08,
+        -7.020570791382852e-08,
+        1.0
+      ],
+      "local_position": [
+        0.0579998642206192,
+        0.0,
+        0.0
+      ],
+      "local_scale": [
+        1.0,
+        1.0,
+        1.0
+      ],
+      "children": [],
+      "parent": {
+        "file_id": 0,
+        "path_id": "1643980783992954909"
+      },
+      "name": "HitObject8",
+      "path_components": [
+        "Avatar_Boy_Sword_Bennett_Manekin",
+        "Bip001",
+        "Bip001 Pelvis",
+        "Bip001 L Thigh",
+        "Bip001 L Calf",
+        "HitObject8"
+      ]
+    },
+    "-459280597733180225": {
+      "game_object": {
+        "file_id": 0,
+        "path_id": "-7922952170099014575"
+      },
+      "local_rotation_xyzw": [
+        -1.2515992864337022e-07,
+        3.4032401341477225e-09,
+        0.3015260398387909,
+        -0.9534579515457153
+      ],
+      "local_position": [
+        -0.027675405144691467,
+        1.1920931797249068e-07,
+        6.346940750745489e-10
+      ],
+      "local_scale": [
+        0.9999999403953552,
+        0.9999999403953552,
+        1.0
+      ],
+      "children": [
+        {
+          "file_id": 0,
+          "path_id": "-428620553552314195"
+        }
+      ],
+      "parent": {
+        "file_id": 0,
+        "path_id": "1484378483802771797"
+      },
+      "name": "Bip001 R Finger11",
+      "path_components": [
+        "Avatar_Boy_Sword_Bennett_Manekin",
+        "Bip001",
+        "Bip001 Pelvis",
+        "Bip001 Spine",
+        "Bip001 Spine1",
+        "Bip001 Spine2",
+        "Bip001 R Clavicle",
+        "Bip001 R UpperArm",
+        "Bip001 R Forearm",
+        "Bip001 R Hand",
+        "Bip001 R Finger1",
+        "Bip001 R Finger11"
+      ]
+    },
+    "-428620553552314195": {
+      "game_object": {
+        "file_id": 0,
+        "path_id": "521460130426650699"
+      },
+      "local_rotation_xyzw": [
+        -2.0335649253411248e-07,
+        5.041815853701337e-08,
+        0.13278032839298248,
+        -0.9911455512046814
+      ],
+      "local_position": [
+        -0.021361542865633965,
+        0.0,
+        1.0490137647423126e-08
+      ],
+      "local_scale": [
+        1.0,
+        1.0000001192092896,
+        1.0
+      ],
+      "children": [
+        {
+          "file_id": 0,
+          "path_id": "267555227390062275"
+        }
+      ],
+      "parent": {
+        "file_id": 0,
+        "path_id": "-459280597733180225"
+      },
+      "name": "Bip001 R Finger12",
+      "path_components": [
+        "Avatar_Boy_Sword_Bennett_Manekin",
+        "Bip001",
+        "Bip001 Pelvis",
+        "Bip001 Spine",
+        "Bip001 Spine1",
+        "Bip001 Spine2",
+        "Bip001 R Clavicle",
+        "Bip001 R UpperArm",
+        "Bip001 R Forearm",
+        "Bip001 R Hand",
+        "Bip001 R Finger1",
+        "Bip001 R Finger11",
+        "Bip001 R Finger12"
+      ]
+    },
+    "-241062616154769351": {
+      "game_object": {
+        "file_id": 0,
+        "path_id": "-3803897639231960176"
+      },
+      "local_rotation_xyzw": [
+        -6.82023483022931e-06,
+        -1.5139781680773012e-05,
+        0.15325447916984558,
+        0.988186776638031
+      ],
+      "local_position": [
+        -0.20889998972415924,
+        -0.06543378531932831,
+        -3.147125084979052e-07
+      ],
+      "local_scale": [
+        0.9999955296516418,
+        1.0000178813934326,
+        0.9999849200248718
+      ],
+      "children": [],
+      "parent": {
+        "file_id": 0,
+        "path_id": "6151371294294036483"
+      },
+      "name": "+FlycloakRootB CB A01",
+      "path_components": [
+        "Avatar_Boy_Sword_Bennett_Manekin",
+        "Bip001",
+        "Bip001 Pelvis",
+        "Bip001 Spine",
+        "Bip001 Spine1",
+        "Bip001 Spine2",
+        "+FlycloakRootB CB A01"
+      ]
+    },
+    "-162941205709914238": {
+      "game_object": {
+        "file_id": 0,
+        "path_id": "2453205722127071130"
+      },
+      "local_rotation_xyzw": [
+        -0.03510897979140282,
+        -0.007211704272776842,
+        0.016303852200508118,
+        0.9992244839668274
+      ],
+      "local_position": [
+        -0.11503059417009354,
+        1.0299681889591739e-06,
+        1.4305113893442467e-07
+      ],
+      "local_scale": [
+        1.0000044107437134,
+        1.000005841255188,
+        1.0000067949295044
+      ],
+      "children": [
+        {
+          "file_id": 0,
+          "path_id": "8365423606587329842"
+        }
+      ],
+      "parent": {
+        "file_id": 0,
+        "path_id": "-8283170638144593912"
+      },
+      "name": "+HemB R D02",
+      "path_components": [
+        "Avatar_Boy_Sword_Bennett_Manekin",
+        "Bip001",
+        "Bip001 Pelvis",
+        "Bip001 Spine",
+        "+HemB R D01",
+        "+HemB R D02"
+      ]
+    },
+    "-82217645137483631": {
+      "game_object": {
+        "file_id": 0,
+        "path_id": "-4809722660555477736"
+      },
+      "local_rotation_xyzw": [
+        0.045260172337293625,
+        -0.009491772390902042,
+        0.9689797759056091,
+        0.24277503788471222
+      ],
+      "local_position": [
+        -0.19779059290885925,
+        -0.05168870836496353,
+        -0.02692670002579689
+      ],
+      "local_scale": [
+        1.0000041723251343,
+        1.000001311302185,
+        1.0000025033950806
+      ],
+      "children": [
+        {
+          "file_id": 0,
+          "path_id": "5388958097526454887"
+        }
+      ],
+      "parent": {
+        "file_id": 0,
+        "path_id": "6151371294294036483"
+      },
+      "name": "+AmiceB R B11",
+      "path_components": [
+        "Avatar_Boy_Sword_Bennett_Manekin",
+        "Bip001",
+        "Bip001 Pelvis",
+        "Bip001 Spine",
+        "Bip001 Spine1",
+        "Bip001 Spine2",
+        "+AmiceB R B11"
+      ]
+    },
+    "-41369148023857182": {
+      "game_object": {
+        "file_id": 0,
+        "path_id": "-9126090385493906981"
+      },
+      "local_rotation_xyzw": [
+        -0.14276419579982758,
+        0.30762746930122375,
+        0.0027584307827055454,
+        0.9407317042350769
+      ],
+      "local_position": [
+        -0.09990836679935455,
+        -1.6763806343078613e-08,
+        -6.668269065812638e-07
+      ],
+      "local_scale": [
+        1.0000001192092896,
+        1.000000238418579,
+        1.0000001192092896
+      ],
+      "children": [
+        {
+          "file_id": 0,
+          "path_id": "-4074560846672148805"
+        },
+        {
+          "file_id": 0,
+          "path_id": "-1270723439201228590"
+        },
+        {
+          "file_id": 0,
+          "path_id": "8238883995260326896"
+        }
+      ],
+      "parent": {
+        "file_id": 0,
+        "path_id": "1326807921867534843"
+      },
+      "name": "Bip001 R UpperArm",
+      "path_components": [
+        "Avatar_Boy_Sword_Bennett_Manekin",
+        "Bip001",
+        "Bip001 Pelvis",
+        "Bip001 Spine",
+        "Bip001 Spine1",
+        "Bip001 Spine2",
+        "Bip001 R Clavicle",
+        "Bip001 R UpperArm"
+      ]
+    },
+    "-9514667497596340": {
+      "game_object": {
+        "file_id": 0,
+        "path_id": "5851817164056002375"
+      },
+      "local_rotation_xyzw": [
+        8.395928574600475e-08,
+        -7.336381280254045e-09,
+        -0.3730718791484833,
+        0.9278024435043335
+      ],
+      "local_position": [
+        -0.03056531399488449,
+        -1.1920927533992653e-07,
+        -5.057287477683303e-09
+      ],
+      "local_scale": [
+        1.0,
+        1.0,
+        1.0
+      ],
+      "children": [
+        {
+          "file_id": 0,
+          "path_id": "8442044162291921802"
+        }
+      ],
+      "parent": {
+        "file_id": 0,
+        "path_id": "-3759765803075416196"
+      },
+      "name": "Bip001 L Finger31",
+      "path_components": [
+        "Avatar_Boy_Sword_Bennett_Manekin",
+        "Bip001",
+        "Bip001 Pelvis",
+        "Bip001 Spine",
+        "Bip001 Spine1",
+        "Bip001 Spine2",
+        "Bip001 L Clavicle",
+        "Bip001 L UpperArm",
+        "Bip001 L Forearm",
+        "Bip001 L Hand",
+        "Bip001 L Finger3",
+        "Bip001 L Finger31"
+      ]
+    },
+    "89228152523884806": {
+      "game_object": {
+        "file_id": 0,
+        "path_id": "-3506648363387365529"
+      },
+      "local_rotation_xyzw": [
+        0.09274136275053024,
+        -0.033792510628700256,
+        -0.06257938593626022,
+        0.9931470155715942
+      ],
+      "local_position": [
+        -0.11651984602212906,
+        0.024548949673771858,
+        -0.0031117915641516447
+      ],
+      "local_scale": [
+        1.0,
+        1.0000001192092896,
+        1.000000238418579
+      ],
+      "children": [],
+      "parent": {
+        "file_id": 0,
+        "path_id": "1261029971239503681"
+      },
+      "name": "+VisionPelvisS L E02",
+      "path_components": [
+        "Avatar_Boy_Sword_Bennett_Manekin",
+        "Bip001",
+        "Bip001 Pelvis",
+        "+VisionPelvisS L E01",
+        "+VisionPelvisS L E02"
+      ]
+    },
+    "229846236005910635": {
+      "game_object": {
+        "file_id": 0,
+        "path_id": "4920933039525715675"
+      },
+      "local_rotation_xyzw": [
+        0.02841082029044628,
+        -0.14731962978839874,
+        0.9753201007843018,
+        0.16198933124542236
+      ],
+      "local_position": [
+        -0.0698283389210701,
+        -0.11491632461547852,
+        -0.06518850475549698
+      ],
+      "local_scale": [
+        1.0,
+        0.9999999403953552,
+        1.0000001192092896
+      ],
+      "children": [
+        {
+          "file_id": 0,
+          "path_id": "4524742438474785603"
+        }
+      ],
+      "parent": {
+        "file_id": 0,
+        "path_id": "501781942223293643"
+      },
+      "name": "+LegBagB R A01",
+      "path_components": [
+        "Avatar_Boy_Sword_Bennett_Manekin",
+        "Bip001",
+        "Bip001 Pelvis",
+        "+LegBagB R A01"
+      ]
+    },
+    "267555227390062275": {
+      "game_object": {
+        "file_id": 0,
+        "path_id": "-6248458256916299307"
+      },
+      "local_rotation_xyzw": [
+        5.551115784870273e-17,
+        -3.725290298461914e-09,
+        1.0,
+        -1.4901162970204496e-08
+      ],
+      "local_position": [
+        -0.02305152826011181,
+        0.0,
+        -9.53674295089968e-09
+      ],
+      "local_scale": [
+        -0.9999999403953552,
+        -1.0,
+        -1.0
+      ],
+      "children": [],
+      "parent": {
+        "file_id": 0,
+        "path_id": "-428620553552314195"
+      },
+      "name": "Bip001 R Finger1Nub",
+      "path_components": [
+        "Avatar_Boy_Sword_Bennett_Manekin",
+        "Bip001",
+        "Bip001 Pelvis",
+        "Bip001 Spine",
+        "Bip001 Spine1",
+        "Bip001 Spine2",
+        "Bip001 R Clavicle",
+        "Bip001 R UpperArm",
+        "Bip001 R Forearm",
+        "Bip001 R Hand",
+        "Bip001 R Finger1",
+        "Bip001 R Finger11",
+        "Bip001 R Finger12",
+        "Bip001 R Finger1Nub"
+      ]
+    },
+    "314513922316261739": {
+      "game_object": {
+        "file_id": 0,
+        "path_id": "-84162388952613195"
+      },
+      "local_rotation_xyzw": [
+        0.999377965927124,
+        -0.00022132869344204664,
+        -0.0027684387750923634,
+        0.03515712544322014
+      ],
+      "local_position": [
+        -0.09577964246273041,
+        -8.978366531664506e-05,
+        -0.0014731597620993853
+      ],
+      "local_scale": [
+        1.0000591278076172,
+        0.9999681115150452,
+        1.0000298023223877
+      ],
+      "children": [],
+      "parent": {
+        "file_id": 0,
+        "path_id": "-1970508884455079060"
+      },
+      "name": "+UpperArmTwist L A02",
+      "path_components": [
+        "Avatar_Boy_Sword_Bennett_Manekin",
+        "Bip001",
+        "Bip001 Pelvis",
+        "Bip001 Spine",
+        "Bip001 Spine1",
+        "Bip001 Spine2",
+        "Bip001 L Clavicle",
+        "Bip001 L UpperArm",
+        "+UpperArmTwist L A02"
+      ]
+    },
+    "501781942223293643": {
+      "game_object": {
+        "file_id": 0,
+        "path_id": "4331686640961464200"
+      },
+      "local_rotation_xyzw": [
+        0.5,
+        -0.5,
+        -0.5,
+        -0.5
+      ],
+      "local_position": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "local_scale": [
+        1.0,
+        0.9999999403953552,
+        0.9999999403953552
+      ],
+      "children": [
+        {
+          "file_id": 0,
+          "path_id": "9124460297767310232"
+        },
+        {
+          "file_id": 0,
+          "path_id": "229846236005910635"
+        },
+        {
+          "file_id": 0,
+          "path_id": "1261029971239503681"
+        },
+        {
+          "file_id": 0,
+          "path_id": "-2270344588733046164"
+        },
+        {
+          "file_id": 0,
+          "path_id": "-8148604644075294638"
+        },
+        {
+          "file_id": 0,
+          "path_id": "-7829439271442792347"
+        },
+        {
+          "file_id": 0,
+          "path_id": "2499155557660640495"
+        }
+      ],
+      "parent": {
+        "file_id": 0,
+        "path_id": "-6873985393293953553"
+      },
+      "name": "Bip001 Pelvis",
+      "path_components": [
+        "Avatar_Boy_Sword_Bennett_Manekin",
+        "Bip001",
+        "Bip001 Pelvis"
+      ]
+    },
+    "738659608495711937": {
+      "game_object": {
+        "file_id": 0,
+        "path_id": "-5183690338628374379"
+      },
+      "local_rotation_xyzw": [
+        3.911554458113642e-08,
+        1.508742428768528e-07,
+        -0.09230831265449524,
+        0.9957305192947388
+      ],
+      "local_position": [
+        -0.09200005978345871,
+        0.004999963566660881,
+        0.0
+      ],
+      "local_scale": [
+        1.0,
+        1.0,
+        1.0
+      ],
+      "children": [],
+      "parent": {
+        "file_id": 0,
+        "path_id": "6151371294294036483"
+      },
+      "name": "HitObject3",
+      "path_components": [
+        "Avatar_Boy_Sword_Bennett_Manekin",
+        "Bip001",
+        "Bip001 Pelvis",
+        "Bip001 Spine",
+        "Bip001 Spine1",
+        "Bip001 Spine2",
+        "HitObject3"
+      ]
+    },
+    "1113897474211714650": {
+      "game_object": {
+        "file_id": 0,
+        "path_id": "-1674094810580771175"
+      },
+      "local_rotation_xyzw": [
+        0.6937370896339417,
+        0.053832508623600006,
+        0.08356159925460815,
+        -0.7133361101150513
+      ],
+      "local_position": [
+        -0.1917761117219925,
+        -1.3969836842875338e-08,
+        0.0002268180251121521
+      ],
+      "local_scale": [
+        1.0,
+        1.0,
+        1.0
+      ],
+      "children": [
+        {
+          "file_id": 0,
+          "path_id": "-8101906021348057010"
+        },
+        {
+          "file_id": 0,
+          "path_id": "5348095829431339845"
+        },
+        {
+          "file_id": 0,
+          "path_id": "-7424191892562843733"
+        },
+        {
+          "file_id": 0,
+          "path_id": "-3759765803075416196"
+        },
+        {
+          "file_id": 0,
+          "path_id": "4099822694157658734"
+        },
+        {
+          "file_id": 0,
+          "path_id": "7320115875941580389"
+        }
+      ],
+      "parent": {
+        "file_id": 0,
+        "path_id": "-3882420652728724769"
+      },
+      "name": "Bip001 L Hand",
+      "path_components": [
+        "Avatar_Boy_Sword_Bennett_Manekin",
+        "Bip001",
+        "Bip001 Pelvis",
+        "Bip001 Spine",
+        "Bip001 Spine1",
+        "Bip001 Spine2",
+        "Bip001 L Clavicle",
+        "Bip001 L UpperArm",
+        "Bip001 L Forearm",
+        "Bip001 L Hand"
+      ]
+    },
+    "1220058823794206578": {
+      "game_object": {
+        "file_id": 0,
+        "path_id": "-4901783511352763275"
+      },
+      "local_rotation_xyzw": [
+        0.024703532457351685,
+        -0.01298848818987608,
+        -0.08198539912700653,
+        0.9962426424026489
+      ],
+      "local_position": [
+        -0.37892940640449524,
+        -3.4458931708059026e-08,
+        -1.7695128917694092e-08
+      ],
+      "local_scale": [
+        0.9999999403953552,
+        1.0,
+        0.9999999403953552
+      ],
+      "children": [
+        {
+          "file_id": 0,
+          "path_id": "-7819500329113614183"
+        }
+      ],
+      "parent": {
+        "file_id": 0,
+        "path_id": "2864800307151002429"
+      },
+      "name": "Bip001 R Foot",
+      "path_components": [
+        "Avatar_Boy_Sword_Bennett_Manekin",
+        "Bip001",
+        "Bip001 Pelvis",
+        "Bip001 R Thigh",
+        "Bip001 R Calf",
+        "Bip001 R Foot"
+      ]
+    },
+    "1261029971239503681": {
+      "game_object": {
+        "file_id": 0,
+        "path_id": "-1439784371598288171"
+      },
+      "local_rotation_xyzw": [
+        -0.09170537441968918,
+        0.6274628043174744,
+        0.7680244445800781,
+        0.08954925090074539
+      ],
+      "local_position": [
+        -0.045546188950538635,
+        -0.008408567868173122,
+        0.15702472627162933
+      ],
+      "local_scale": [
+        1.0,
+        1.0,
+        0.9999998807907104
+      ],
+      "children": [
+        {
+          "file_id": 0,
+          "path_id": "89228152523884806"
+        },
+        {
+          "file_id": 0,
+          "path_id": "-1519767772721996149"
+        }
+      ],
+      "parent": {
+        "file_id": 0,
+        "path_id": "501781942223293643"
+      },
+      "name": "+VisionPelvisS L E01",
+      "path_components": [
+        "Avatar_Boy_Sword_Bennett_Manekin",
+        "Bip001",
+        "Bip001 Pelvis",
+        "+VisionPelvisS L E01"
+      ]
+    },
+    "1326807921867534843": {
+      "game_object": {
+        "file_id": 0,
+        "path_id": "-4075292133308899405"
+      },
+      "local_rotation_xyzw": [
+        0.5069417953491211,
+        0.023597244173288345,
+        0.8613340854644775,
+        0.023597249761223793
+      ],
+      "local_position": [
+        -0.17275893688201904,
+        -0.013782134279608727,
+        -0.03279099985957146
+      ],
+      "local_scale": [
+        1.0000001192092896,
+        1.0,
+        1.0000001192092896
+      ],
+      "children": [
+        {
+          "file_id": 0,
+          "path_id": "-41369148023857182"
+        }
+      ],
+      "parent": {
+        "file_id": 0,
+        "path_id": "6151371294294036483"
+      },
+      "name": "Bip001 R Clavicle",
+      "path_components": [
+        "Avatar_Boy_Sword_Bennett_Manekin",
+        "Bip001",
+        "Bip001 Pelvis",
+        "Bip001 Spine",
+        "Bip001 Spine1",
+        "Bip001 Spine2",
+        "Bip001 R Clavicle"
+      ]
+    },
+    "1353545745489627062": {
+      "game_object": {
+        "file_id": 0,
+        "path_id": "2735928563675300251"
+      },
+      "local_rotation_xyzw": [
+        -0.01095565501600504,
+        -0.004742597229778767,
+        0.026835402473807335,
+        0.9995685815811157
+      ],
+      "local_position": [
+        -0.166677325963974,
+        -7.629394360719743e-08,
+        4.1961669694501325e-07
+      ],
+      "local_scale": [
+        1.0000070333480835,
+        1.0000025033950806,
+        0.9999977946281433
+      ],
+      "children": [
+        {
+          "file_id": 0,
+          "path_id": "8829069367226882358"
+        }
+      ],
+      "parent": {
+        "file_id": 0,
+        "path_id": "9101879597718561375"
+      },
+      "name": "+SkirtB R B02",
+      "path_components": [
+        "Avatar_Boy_Sword_Bennett_Manekin",
+        "Bip001",
+        "Bip001 Pelvis",
+        "Bip001 Spine",
+        "+SkirtB R B01",
+        "+SkirtB R B02"
+      ]
+    },
+    "1446139228375926439": {
+      "game_object": {
+        "file_id": 0,
+        "path_id": "3478297766453280152"
+      },
+      "local_rotation_xyzw": [
+        0.0655730739235878,
+        -0.004948792047798634,
+        0.061051905155181885,
+        0.9959660768508911
+      ],
+      "local_position": [
+        -0.08717688173055649,
+        0.00811578519642353,
+        1.6298145055770874e-08
+      ],
+      "local_scale": [
+        1.0000001192092896,
+        1.0000001192092896,
+        1.0
+      ],
+      "children": [
+        {
+          "file_id": 0,
+          "path_id": "-2411050763387688201"
+        },
+        {
+          "file_id": 0,
+          "path_id": "4978750262298500020"
+        },
+        {
+          "file_id": 0,
+          "path_id": "-3590696146824616965"
+        },
+        {
+          "file_id": 0,
+          "path_id": "-6541439310756056192"
+        },
+        {
+          "file_id": 0,
+          "path_id": "6838265787748733242"
+        }
+      ],
+      "parent": {
+        "file_id": 0,
+        "path_id": "-2861946087054180637"
+      },
+      "name": "Bip001 Head",
+      "path_components": [
+        "Avatar_Boy_Sword_Bennett_Manekin",
+        "Bip001",
+        "Bip001 Pelvis",
+        "Bip001 Spine",
+        "Bip001 Spine1",
+        "Bip001 Spine2",
+        "Bip001 Neck",
+        "Bip001 Head"
+      ]
+    },
+    "1483561727830815526": {
+      "game_object": {
+        "file_id": 0,
+        "path_id": "6309087252613381306"
+      },
+      "local_rotation_xyzw": [
+        0.0,
+        -5.820766091346741e-11,
+        -0.0,
+        1.0
+      ],
+      "local_position": [
+        -0.024858569726347923,
+        0.0,
+        0.0
+      ],
+      "local_scale": [
+        1.0,
+        1.0,
+        1.0000001192092896
+      ],
+      "children": [],
+      "parent": {
+        "file_id": 0,
+        "path_id": "2604980744686719340"
+      },
+      "name": "Bip001 L Finger2Nub",
+      "path_components": [
+        "Avatar_Boy_Sword_Bennett_Manekin",
+        "Bip001",
+        "Bip001 Pelvis",
+        "Bip001 Spine",
+        "Bip001 Spine1",
+        "Bip001 Spine2",
+        "Bip001 L Clavicle",
+        "Bip001 L UpperArm",
+        "Bip001 L Forearm",
+        "Bip001 L Hand",
+        "Bip001 L Finger2",
+        "Bip001 L Finger21",
+        "Bip001 L Finger22",
+        "Bip001 L Finger2Nub"
+      ]
+    },
+    "1484378483802771797": {
+      "game_object": {
+        "file_id": 0,
+        "path_id": "3155407476135688346"
+      },
+      "local_rotation_xyzw": [
+        0.014391889795660973,
+        0.022892989218235016,
+        0.09404561668634415,
+        -0.9952006340026855
+      ],
+      "local_position": [
+        -0.08464675396680832,
+        0.004618646111339331,
+        0.026543347164988518
+      ],
+      "local_scale": [
+        1.0,
+        1.0000001192092896,
+        1.0
+      ],
+      "children": [
+        {
+          "file_id": 0,
+          "path_id": "-459280597733180225"
+        }
+      ],
+      "parent": {
+        "file_id": 0,
+        "path_id": "1604699526146023719"
+      },
+      "name": "Bip001 R Finger1",
+      "path_components": [
+        "Avatar_Boy_Sword_Bennett_Manekin",
+        "Bip001",
+        "Bip001 Pelvis",
+        "Bip001 Spine",
+        "Bip001 Spine1",
+        "Bip001 Spine2",
+        "Bip001 R Clavicle",
+        "Bip001 R UpperArm",
+        "Bip001 R Forearm",
+        "Bip001 R Hand",
+        "Bip001 R Finger1"
+      ]
+    },
+    "1566642746494957604": {
+      "game_object": {
+        "file_id": 0,
+        "path_id": "2271872941871800742"
+      },
+      "local_rotation_xyzw": [
+        0.001614346751011908,
+        -0.008198258467018604,
+        -0.15372638404369354,
+        0.9880781173706055
+      ],
+      "local_position": [
+        -0.033381614834070206,
+        0.0,
+        -1.907348590179936e-08
+      ],
+      "local_scale": [
+        0.9999999403953552,
+        1.0,
+        1.0
+      ],
+      "children": [
+        {
+          "file_id": 0,
+          "path_id": "5079327298018236617"
+        }
+      ],
+      "parent": {
+        "file_id": 0,
+        "path_id": "6866229555337255639"
+      },
+      "name": "Bip001 L Finger02",
+      "path_components": [
+        "Avatar_Boy_Sword_Bennett_Manekin",
+        "Bip001",
+        "Bip001 Pelvis",
+        "Bip001 Spine",
+        "Bip001 Spine1",
+        "Bip001 Spine2",
+        "Bip001 L Clavicle",
+        "Bip001 L UpperArm",
+        "Bip001 L Forearm",
+        "Bip001 L Hand",
+        "Bip001 L Finger0",
+        "Bip001 L Finger01",
+        "Bip001 L Finger02"
+      ]
+    },
+    "1604699526146023719": {
+      "game_object": {
+        "file_id": 0,
+        "path_id": "-4626132760954884404"
+      },
+      "local_rotation_xyzw": [
+        0.654278576374054,
+        0.03702808916568756,
+        -0.03654475137591362,
+        0.7544620633125305
+      ],
+      "local_position": [
+        -0.19177640974521637,
+        -8.265487849712372e-09,
+        -0.00019853562116622925
+      ],
+      "local_scale": [
+        1.0000001192092896,
+        1.0000001192092896,
+        1.0
+      ],
+      "children": [
+        {
+          "file_id": 0,
+          "path_id": "-2332688505699128864"
+        },
+        {
+          "file_id": 0,
+          "path_id": "1484378483802771797"
+        },
+        {
+          "file_id": 0,
+          "path_id": "3746478136517359807"
+        },
+        {
+          "file_id": 0,
+          "path_id": "4430169888790768767"
+        },
+        {
+          "file_id": 0,
+          "path_id": "-3356175933623662595"
+        },
+        {
+          "file_id": 0,
+          "path_id": "5147884774874429863"
+        },
+        {
+          "file_id": 0,
+          "path_id": "-5484488471719929572"
+        }
+      ],
+      "parent": {
+        "file_id": 0,
+        "path_id": "8238883995260326896"
+      },
+      "name": "Bip001 R Hand",
+      "path_components": [
+        "Avatar_Boy_Sword_Bennett_Manekin",
+        "Bip001",
+        "Bip001 Pelvis",
+        "Bip001 Spine",
+        "Bip001 Spine1",
+        "Bip001 Spine2",
+        "Bip001 R Clavicle",
+        "Bip001 R UpperArm",
+        "Bip001 R Forearm",
+        "Bip001 R Hand"
+      ]
+    },
+    "1624947518445832976": {
+      "game_object": {
+        "file_id": 0,
+        "path_id": "-2951692274092276647"
+      },
+      "local_rotation_xyzw": [
+        0.0015882207080721855,
+        -0.008524827659130096,
+        0.034728437662124634,
+        0.9993591904640198
+      ],
+      "local_position": [
+        -0.14832717180252075,
+        -1.716613724056515e-06,
+        3.9100646631595737e-07
+      ],
+      "local_scale": [
+        1.0000014305114746,
+        1.0000016689300537,
+        0.9999992847442627
+      ],
+      "children": [],
+      "parent": {
+        "file_id": 0,
+        "path_id": "4281513603214736759"
+      },
+      "name": "+SkirtB L B03",
+      "path_components": [
+        "Avatar_Boy_Sword_Bennett_Manekin",
+        "Bip001",
+        "Bip001 Pelvis",
+        "Bip001 Spine",
+        "+SkirtB L B01",
+        "+SkirtB L B02",
+        "+SkirtB L B03"
+      ]
+    },
+    "1643980783992954909": {
+      "game_object": {
+        "file_id": 0,
+        "path_id": "2052408381181452769"
+      },
+      "local_rotation_xyzw": [
+        -0.022119594737887383,
+        -0.0014819428324699402,
+        0.06682801246643066,
+        0.9975182414054871
+      ],
+      "local_position": [
+        -0.4165111184120178,
+        -7.078051567077637e-08,
+        -2.9802318834981634e-08
+      ],
+      "local_scale": [
+        1.0000001192092896,
+        1.0000001192092896,
+        1.0
+      ],
+      "children": [
+        {
+          "file_id": 0,
+          "path_id": "4609710568109737161"
+        },
+        {
+          "file_id": 0,
+          "path_id": "-5101443168556297347"
+        },
+        {
+          "file_id": 0,
+          "path_id": "-543951801657885515"
+        }
+      ],
+      "parent": {
+        "file_id": 0,
+        "path_id": "-8148604644075294638"
+      },
+      "name": "Bip001 L Calf",
+      "path_components": [
+        "Avatar_Boy_Sword_Bennett_Manekin",
+        "Bip001",
+        "Bip001 Pelvis",
+        "Bip001 L Thigh",
+        "Bip001 L Calf"
+      ]
+    },
+    "1700352714704160390": {
+      "game_object": {
+        "file_id": 0,
+        "path_id": "1221235888242326213"
+      },
+      "local_rotation_xyzw": [
+        2.0115618099225685e-05,
+        -9.767760275281034e-06,
+        -2.4584951461292803e-06,
+        1.0
+      ],
+      "local_position": [
+        -0.13430637121200562,
+        9.155273232863692e-07,
+        -2.1696089902434323e-07
+      ],
+      "local_scale": [
+        1.0,
+        0.9999996423721313,
+        0.9999994039535522
+      ],
+      "children": [],
+      "parent": {
+        "file_id": 0,
+        "path_id": "1763390336642151062"
+      },
+      "name": "+HemB L D05",
+      "path_components": [
+        "Avatar_Boy_Sword_Bennett_Manekin",
+        "Bip001",
+        "Bip001 Pelvis",
+        "Bip001 Spine",
+        "+HemB L D01",
+        "+HemB L D02",
+        "+HemB L D03",
+        "+HemB L D04",
+        "+HemB L D05"
+      ]
+    },
+    "1763390336642151062": {
+      "game_object": {
+        "file_id": 0,
+        "path_id": "1599122338985067194"
+      },
+      "local_rotation_xyzw": [
+        -0.023642538115382195,
+        0.0002822048554662615,
+        0.0031632797326892614,
+        0.9997154474258423
+      ],
+      "local_position": [
+        -0.12560641765594482,
+        -3.0517577442878974e-07,
+        -1.4305114426349519e-08
+      ],
+      "local_scale": [
+        1.000000238418579,
+        1.0000004768371582,
+        1.0
+      ],
+      "children": [
+        {
+          "file_id": 0,
+          "path_id": "1700352714704160390"
+        }
+      ],
+      "parent": {
+        "file_id": 0,
+        "path_id": "-6322702375650386740"
+      },
+      "name": "+HemB L D04",
+      "path_components": [
+        "Avatar_Boy_Sword_Bennett_Manekin",
+        "Bip001",
+        "Bip001 Pelvis",
+        "Bip001 Spine",
+        "+HemB L D01",
+        "+HemB L D02",
+        "+HemB L D03",
+        "+HemB L D04"
+      ]
+    },
+    "1765612057615924809": {
+      "game_object": {
+        "file_id": 0,
+        "path_id": "2329443354494376958"
+      },
+      "local_rotation_xyzw": [
+        -3.352760558072987e-08,
+        -2.654268627111378e-08,
+        -1.3649692931494428e-08,
+        1.0
+      ],
+      "local_position": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "local_scale": [
+        1.0,
+        1.0,
+        1.0
+      ],
+      "children": [],
+      "parent": {
+        "file_id": 0,
+        "path_id": "8238883995260326896"
+      },
+      "name": "HitObject5",
+      "path_components": [
+        "Avatar_Boy_Sword_Bennett_Manekin",
+        "Bip001",
+        "Bip001 Pelvis",
+        "Bip001 Spine",
+        "Bip001 Spine1",
+        "Bip001 Spine2",
+        "Bip001 R Clavicle",
+        "Bip001 R UpperArm",
+        "Bip001 R Forearm",
+        "HitObject5"
+      ]
+    },
+    "2419596751330259198": {
+      "game_object": {
+        "file_id": 0,
+        "path_id": "-6224473850825078258"
+      },
+      "local_rotation_xyzw": [
+        -0.0040791453793644905,
+        0.014246548525989056,
+        -0.7203265428543091,
+        0.6934767961502075
+      ],
+      "local_position": [
+        -0.05409755930304527,
+        0.001427612267434597,
+        0.0014071440091356635
+      ],
+      "local_scale": [
+        1.0,
+        1.0,
+        1.0000003576278687
+      ],
+      "children": [],
+      "parent": {
+        "file_id": 0,
+        "path_id": "4978750262298500020"
+      },
+      "name": "+EyeBone R A02",
+      "path_components": [
+        "Avatar_Boy_Sword_Bennett_Manekin",
+        "Bip001",
+        "Bip001 Pelvis",
+        "Bip001 Spine",
+        "Bip001 Spine1",
+        "Bip001 Spine2",
+        "Bip001 Neck",
+        "Bip001 Head",
+        "+EyeBone R A01",
+        "+EyeBone R A02"
+      ]
+    },
+    "2499155557660640495": {
+      "game_object": {
+        "file_id": 0,
+        "path_id": "7799097735722009996"
+      },
+      "local_rotation_xyzw": [
+        0.02413368970155716,
+        0.009584981016814709,
+        0.03472511097788811,
+        0.9990594983100891
+      ],
+      "local_position": [
+        -0.08452074229717255,
+        0.01742260344326496,
+        1.0989607801548118e-07
+      ],
+      "local_scale": [
+        1.0,
+        0.9999999403953552,
+        0.9999999403953552
+      ],
+      "children": [
+        {
+          "file_id": 0,
+          "path_id": "-8707091138498733105"
+        },
+        {
+          "file_id": 0,
+          "path_id": "-8283170638144593912"
+        },
+        {
+          "file_id": 0,
+          "path_id": "7866765018739861230"
+        },
+        {
+          "file_id": 0,
+          "path_id": "9101879597718561375"
+        },
+        {
+          "file_id": 0,
+          "path_id": "-6011406833333530018"
+        }
+      ],
+      "parent": {
+        "file_id": 0,
+        "path_id": "501781942223293643"
+      },
+      "name": "Bip001 Spine",
+      "path_components": [
+        "Avatar_Boy_Sword_Bennett_Manekin",
+        "Bip001",
+        "Bip001 Pelvis",
+        "Bip001 Spine"
+      ]
+    },
+    "2604980744686719340": {
+      "game_object": {
+        "file_id": 0,
+        "path_id": "4736092971471053655"
+      },
+      "local_rotation_xyzw": [
+        6.471414337738679e-08,
+        -1.0008185391541247e-08,
+        -0.20782747864723206,
+        0.9781655669212341
+      ],
+      "local_position": [
+        -0.0254704300314188,
+        1.1920928955078125e-07,
+        3.236286127972221e-09
+      ],
+      "local_scale": [
+        1.0000001192092896,
+        1.0000001192092896,
+        1.0000001192092896
+      ],
+      "children": [
+        {
+          "file_id": 0,
+          "path_id": "1483561727830815526"
+        }
+      ],
+      "parent": {
+        "file_id": 0,
+        "path_id": "-6373351890925588996"
+      },
+      "name": "Bip001 L Finger22",
+      "path_components": [
+        "Avatar_Boy_Sword_Bennett_Manekin",
+        "Bip001",
+        "Bip001 Pelvis",
+        "Bip001 Spine",
+        "Bip001 Spine1",
+        "Bip001 Spine2",
+        "Bip001 L Clavicle",
+        "Bip001 L UpperArm",
+        "Bip001 L Forearm",
+        "Bip001 L Hand",
+        "Bip001 L Finger2",
+        "Bip001 L Finger21",
+        "Bip001 L Finger22"
+      ]
+    },
+    "2841638403486452776": {
+      "game_object": {
+        "file_id": 0,
+        "path_id": "2636977794577657943"
+      },
+      "local_rotation_xyzw": [
+        5.551116446614763e-17,
+        -3.725290742551124e-09,
+        1.0,
+        -1.4901162970204496e-08
+      ],
+      "local_position": [
+        -0.02094913460314274,
+        0.0,
+        -9.53674295089968e-09
+      ],
+      "local_scale": [
+        -0.9999999403953552,
+        -0.9999998807907104,
+        -1.0
+      ],
+      "children": [],
+      "parent": {
+        "file_id": 0,
+        "path_id": "8773115767382566278"
+      },
+      "name": "Bip001 R Finger4Nub",
+      "path_components": [
+        "Avatar_Boy_Sword_Bennett_Manekin",
+        "Bip001",
+        "Bip001 Pelvis",
+        "Bip001 Spine",
+        "Bip001 Spine1",
+        "Bip001 Spine2",
+        "Bip001 R Clavicle",
+        "Bip001 R UpperArm",
+        "Bip001 R Forearm",
+        "Bip001 R Hand",
+        "Bip001 R Finger4",
+        "Bip001 R Finger41",
+        "Bip001 R Finger42",
+        "Bip001 R Finger4Nub"
+      ]
+    },
+    "2864800307151002429": {
+      "game_object": {
+        "file_id": 0,
+        "path_id": "-6197801979370333398"
+      },
+      "local_rotation_xyzw": [
+        0.013302790001034737,
+        0.0011090878397226334,
+        0.0830809623003006,
+        0.9964534640312195
+      ],
+      "local_position": [
+        -0.4165113568305969,
+        -5.407492409403858e-08,
+        -2.2351741790771484e-08
+      ],
+      "local_scale": [
+        1.0000001192092896,
+        1.0000001192092896,
+        1.0
+      ],
+      "children": [
+        {
+          "file_id": 0,
+          "path_id": "1220058823794206578"
+        },
+        {
+          "file_id": 0,
+          "path_id": "6012033176363375466"
+        },
+        {
+          "file_id": 0,
+          "path_id": "-8453212068531391444"
+        }
+      ],
+      "parent": {
+        "file_id": 0,
+        "path_id": "-7829439271442792347"
+      },
+      "name": "Bip001 R Calf",
+      "path_components": [
+        "Avatar_Boy_Sword_Bennett_Manekin",
+        "Bip001",
+        "Bip001 Pelvis",
+        "Bip001 R Thigh",
+        "Bip001 R Calf"
+      ]
+    },
+    "2904161446483003795": {
+      "game_object": {
+        "file_id": 0,
+        "path_id": "3311466300692717536"
+      },
+      "local_rotation_xyzw": [
+        -0.001005651312880218,
+        0.007117901463061571,
+        -0.1347483992576599,
+        0.9908537864685059
+      ],
+      "local_position": [
+        -0.02655818872153759,
+        7.629394360719743e-08,
+        -1.907348590179936e-08
+      ],
+      "local_scale": [
+        0.9999999403953552,
+        1.0000001192092896,
+        1.0
+      ],
+      "children": [
+        {
+          "file_id": 0,
+          "path_id": "4394102055958252053"
+        }
+      ],
+      "parent": {
+        "file_id": 0,
+        "path_id": "-2332688505699128864"
+      },
+      "name": "Bip001 R Finger01",
+      "path_components": [
+        "Avatar_Boy_Sword_Bennett_Manekin",
+        "Bip001",
+        "Bip001 Pelvis",
+        "Bip001 Spine",
+        "Bip001 Spine1",
+        "Bip001 Spine2",
+        "Bip001 R Clavicle",
+        "Bip001 R UpperArm",
+        "Bip001 R Forearm",
+        "Bip001 R Hand",
+        "Bip001 R Finger0",
+        "Bip001 R Finger01"
+      ]
+    },
+    "3184806644379538826": {
+      "game_object": {
+        "file_id": 0,
+        "path_id": "-1227857157153076894"
+      },
+      "local_rotation_xyzw": [
+        2.1855694143368964e-08,
+        0.0,
+        -0.0,
+        1.0
+      ],
+      "local_position": [
+        -0.0,
+        0.0,
+        0.0
+      ],
+      "local_scale": [
+        1.0,
+        1.0,
+        1.0
+      ],
+      "children": [],
+      "parent": {
+        "file_id": 0,
+        "path_id": "-8559843475943525825"
+      },
+      "name": "EffectMesh",
+      "path_components": [
+        "Avatar_Boy_Sword_Bennett_Manekin",
+        "EffectMesh"
+      ]
+    },
+    "3412157748629505301": {
+      "game_object": {
+        "file_id": 0,
+        "path_id": "7099136602007166792"
+      },
+      "local_rotation_xyzw": [
+        0.5522758960723877,
+        0.7713397741317749,
+        0.2658229172229767,
+        -0.1713607907295227
+      ],
+      "local_position": [
+        -0.07021965086460114,
+        -0.02786821313202381,
+        -0.02710060030221939
+      ],
+      "local_scale": [
+        0.9999942779541016,
+        0.9999656677246094,
+        0.9999865889549255
+      ],
+      "children": [],
+      "parent": {
+        "file_id": 0,
+        "path_id": "5982970989646551694"
+      },
+      "name": "+ArmLetsS L A12",
+      "path_components": [
+        "Avatar_Boy_Sword_Bennett_Manekin",
+        "Bip001",
+        "Bip001 Pelvis",
+        "Bip001 Spine",
+        "Bip001 Spine1",
+        "Bip001 Spine2",
+        "Bip001 L Clavicle",
+        "Bip001 L UpperArm",
+        "+UpperArmTwist L A01",
+        "+ArmLetsS L A12"
+      ]
+    },
+    "3612901040484115509": {
+      "game_object": {
+        "file_id": 0,
+        "path_id": "-6294696023130785776"
+      },
+      "local_rotation_xyzw": [
+        2.1855694143368964e-08,
+        0.0,
+        -0.0,
+        1.0
+      ],
+      "local_position": [
+        -0.0,
+        0.0,
+        0.0
+      ],
+      "local_scale": [
+        1.0,
+        1.0,
+        1.0
+      ],
+      "children": [],
+      "parent": {
+        "file_id": 0,
+        "path_id": "-8559843475943525825"
+      },
+      "name": "Brow",
+      "path_components": [
+        "Avatar_Boy_Sword_Bennett_Manekin",
+        "Brow"
+      ]
+    },
+    "3661927783108896119": {
+      "game_object": {
+        "file_id": 0,
+        "path_id": "215299709279038613"
+      },
+      "local_rotation_xyzw": [
+        -0.0,
+        -0.0,
+        -0.0,
+        1.0
+      ],
+      "local_position": [
+        0.6000000238418579,
+        1.5,
+        0.0
+      ],
+      "local_scale": [
+        1.0,
+        1.0,
+        1.0
+      ],
+      "children": [],
+      "parent": {
+        "file_id": 0,
+        "path_id": "-8559843475943525825"
+      },
+      "name": "PRIVATE_Endora",
+      "path_components": [
+        "Avatar_Boy_Sword_Bennett_Manekin",
+        "PRIVATE_Endora"
+      ]
+    },
+    "3746478136517359807": {
+      "game_object": {
+        "file_id": 0,
+        "path_id": "7401992116614488117"
+      },
+      "local_rotation_xyzw": [
+        0.02044282853603363,
+        0.041677337139844894,
+        0.19849365949630737,
+        -0.9790022373199463
+      ],
+      "local_position": [
+        -0.08628223836421967,
+        0.0011197332059964538,
+        0.006691251415759325
+      ],
+      "local_scale": [
+        1.0000001192092896,
+        0.9999999403953552,
+        1.0
+      ],
+      "children": [
+        {
+          "file_id": 0,
+          "path_id": "-5256330257207967991"
+        }
+      ],
+      "parent": {
+        "file_id": 0,
+        "path_id": "1604699526146023719"
+      },
+      "name": "Bip001 R Finger2",
+      "path_components": [
+        "Avatar_Boy_Sword_Bennett_Manekin",
+        "Bip001",
+        "Bip001 Pelvis",
+        "Bip001 Spine",
+        "Bip001 Spine1",
+        "Bip001 Spine2",
+        "Bip001 R Clavicle",
+        "Bip001 R UpperArm",
+        "Bip001 R Forearm",
+        "Bip001 R Hand",
+        "Bip001 R Finger2"
+      ]
+    },
+    "3992187600010992500": {
+      "game_object": {
+        "file_id": 0,
+        "path_id": "-7846808705625603873"
+      },
+      "local_rotation_xyzw": [
+        0.004956282675266266,
+        -0.014833212830126286,
+        -0.72035151720047,
+        0.6934328675270081
+      ],
+      "local_position": [
+        -0.054167263209819794,
+        0.001435089041478932,
+        -0.0013894867151975632
+      ],
+      "local_scale": [
+        1.0000001192092896,
+        1.0000005960464478,
+        1.0000004768371582
+      ],
+      "children": [],
+      "parent": {
+        "file_id": 0,
+        "path_id": "-2411050763387688201"
+      },
+      "name": "+EyeBone L A02",
+      "path_components": [
+        "Avatar_Boy_Sword_Bennett_Manekin",
+        "Bip001",
+        "Bip001 Pelvis",
+        "Bip001 Spine",
+        "Bip001 Spine1",
+        "Bip001 Spine2",
+        "Bip001 Neck",
+        "Bip001 Head",
+        "+EyeBone L A01",
+        "+EyeBone L A02"
+      ]
+    },
+    "4099822694157658734": {
+      "game_object": {
+        "file_id": 0,
+        "path_id": "-4994542328525719091"
+      },
+      "local_rotation_xyzw": [
+        -0.021892892196774483,
+        -0.011054805479943752,
+        -0.2322104275226593,
+        0.972356379032135
+      ],
+      "local_position": [
+        -0.06966912746429443,
+        0.005943297408521175,
+        0.02799230068922043
+      ],
+      "local_scale": [
+        1.0000001192092896,
+        1.0,
+        1.0000001192092896
+      ],
+      "children": [
+        {
+          "file_id": 0,
+          "path_id": "7572352415729572896"
+        }
+      ],
+      "parent": {
+        "file_id": 0,
+        "path_id": "1113897474211714650"
+      },
+      "name": "Bip001 L Finger4",
+      "path_components": [
+        "Avatar_Boy_Sword_Bennett_Manekin",
+        "Bip001",
+        "Bip001 Pelvis",
+        "Bip001 Spine",
+        "Bip001 Spine1",
+        "Bip001 Spine2",
+        "Bip001 L Clavicle",
+        "Bip001 L UpperArm",
+        "Bip001 L Forearm",
+        "Bip001 L Hand",
+        "Bip001 L Finger4"
+      ]
+    },
+    "4261349836143121929": {
+      "game_object": {
+        "file_id": 0,
+        "path_id": "5767701341655423010"
+      },
+      "local_rotation_xyzw": [
+        2.1855694143368964e-08,
+        0.0,
+        -0.0,
+        1.0
+      ],
+      "local_position": [
+        -0.0,
+        0.0,
+        0.0
+      ],
+      "local_scale": [
+        1.0,
+        1.0,
+        1.0
+      ],
+      "children": [],
+      "parent": {
+        "file_id": 0,
+        "path_id": "-8559843475943525825"
+      },
+      "name": "Face",
+      "path_components": [
+        "Avatar_Boy_Sword_Bennett_Manekin",
+        "Face"
+      ]
+    },
+    "4281513603214736759": {
+      "game_object": {
+        "file_id": 0,
+        "path_id": "-2082977263962011613"
+      },
+      "local_rotation_xyzw": [
+        0.01095571555197239,
+        0.0047436864115297794,
+        0.0268353633582592,
+        0.9995685815811157
+      ],
+      "local_position": [
+        -0.1666799932718277,
+        9.91821252682712e-07,
+        -5.340576194612368e-07
+      ],
+      "local_scale": [
+        1.0000041723251343,
+        1.0000056028366089,
+        0.9999985694885254
+      ],
+      "children": [
+        {
+          "file_id": 0,
+          "path_id": "1624947518445832976"
+        }
+      ],
+      "parent": {
+        "file_id": 0,
+        "path_id": "7866765018739861230"
+      },
+      "name": "+SkirtB L B02",
+      "path_components": [
+        "Avatar_Boy_Sword_Bennett_Manekin",
+        "Bip001",
+        "Bip001 Pelvis",
+        "Bip001 Spine",
+        "+SkirtB L B01",
+        "+SkirtB L B02"
+      ]
+    },
+    "4394102055958252053": {
+      "game_object": {
+        "file_id": 0,
+        "path_id": "-2162640084508126271"
+      },
+      "local_rotation_xyzw": [
+        -0.001614547218196094,
+        0.008198232389986515,
+        -0.15374921262264252,
+        0.9880746006965637
+      ],
+      "local_position": [
+        -0.033381614834070206,
+        0.0,
+        3.814697180359872e-08
+      ],
+      "local_scale": [
+        1.0000001192092896,
+        1.0,
+        1.0
+      ],
+      "children": [
+        {
+          "file_id": 0,
+          "path_id": "-1847440171478428887"
+        }
+      ],
+      "parent": {
+        "file_id": 0,
+        "path_id": "2904161446483003795"
+      },
+      "name": "Bip001 R Finger02",
+      "path_components": [
+        "Avatar_Boy_Sword_Bennett_Manekin",
+        "Bip001",
+        "Bip001 Pelvis",
+        "Bip001 Spine",
+        "Bip001 Spine1",
+        "Bip001 Spine2",
+        "Bip001 R Clavicle",
+        "Bip001 R UpperArm",
+        "Bip001 R Forearm",
+        "Bip001 R Hand",
+        "Bip001 R Finger0",
+        "Bip001 R Finger01",
+        "Bip001 R Finger02"
+      ]
+    },
+    "4430169888790768767": {
+      "game_object": {
+        "file_id": 0,
+        "path_id": "2183034014811027240"
+      },
+      "local_rotation_xyzw": [
+        -0.01259093452244997,
+        -0.008973333984613419,
+        0.2474757730960846,
+        -0.9687707424163818
+      ],
+      "local_position": [
+        -0.08275989443063736,
+        0.002924443455412984,
+        -0.013950299471616745
+      ],
+      "local_scale": [
+        1.0000001192092896,
+        0.9999999403953552,
+        1.000000238418579
+      ],
+      "children": [
+        {
+          "file_id": 0,
+          "path_id": "9118922857020067039"
+        }
+      ],
+      "parent": {
+        "file_id": 0,
+        "path_id": "1604699526146023719"
+      },
+      "name": "Bip001 R Finger3",
+      "path_components": [
+        "Avatar_Boy_Sword_Bennett_Manekin",
+        "Bip001",
+        "Bip001 Pelvis",
+        "Bip001 Spine",
+        "Bip001 Spine1",
+        "Bip001 Spine2",
+        "Bip001 R Clavicle",
+        "Bip001 R UpperArm",
+        "Bip001 R Forearm",
+        "Bip001 R Hand",
+        "Bip001 R Finger3"
+      ]
+    },
+    "4454658925253442913": {
+      "game_object": {
+        "file_id": 0,
+        "path_id": "-5056581262385391799"
+      },
+      "local_rotation_xyzw": [
+        -8.754362568197394e-09,
+        -0.0,
+        0.7067739367485046,
+        -0.7074395418167114
+      ],
+      "local_position": [
+        -0.08710036426782608,
+        0.10461490601301193,
+        0.000267891155090183
+      ],
+      "local_scale": [
+        1.0,
+        0.9999999403953552,
+        1.0
+      ],
+      "children": [
+        {
+          "file_id": 0,
+          "path_id": "-8726109374367428030"
+        }
+      ],
+      "parent": {
+        "file_id": 0,
+        "path_id": "4609710568109737161"
+      },
+      "name": "Bip001 L Toe0",
+      "path_components": [
+        "Avatar_Boy_Sword_Bennett_Manekin",
+        "Bip001",
+        "Bip001 Pelvis",
+        "Bip001 L Thigh",
+        "Bip001 L Calf",
+        "Bip001 L Foot",
+        "Bip001 L Toe0"
+      ]
+    },
+    "4524742438474785603": {
+      "game_object": {
+        "file_id": 0,
+        "path_id": "7921637063722992192"
+      },
+      "local_rotation_xyzw": [
+        0.10632825642824173,
+        -0.017092373222112656,
+        0.09059473872184753,
+        0.9900478720664978
+      ],
+      "local_position": [
+        -0.14813758432865143,
+        -0.02349449135363102,
+        0.047591399401426315
+      ],
+      "local_scale": [
+        1.0,
+        1.0000001192092896,
+        1.0
+      ],
+      "children": [
+        {
+          "file_id": 0,
+          "path_id": "-2140169815796298001"
+        }
+      ],
+      "parent": {
+        "file_id": 0,
+        "path_id": "229846236005910635"
+      },
+      "name": "+LegBagB R A02",
+      "path_components": [
+        "Avatar_Boy_Sword_Bennett_Manekin",
+        "Bip001",
+        "Bip001 Pelvis",
+        "+LegBagB R A01",
+        "+LegBagB R A02"
+      ]
+    },
+    "4609710568109737161": {
+      "game_object": {
+        "file_id": 0,
+        "path_id": "-1850388435146915120"
+      },
+      "local_rotation_xyzw": [
+        -0.04102041572332382,
+        0.0550537072122097,
+        -0.06242187321186066,
+        0.9956856966018677
+      ],
+      "local_position": [
+        -0.37892937660217285,
+        -3.8067806684694006e-08,
+        -1.7229467630386353e-08
+      ],
+      "local_scale": [
+        0.9999998211860657,
+        0.9999998807907104,
+        0.9999998211860657
+      ],
+      "children": [
+        {
+          "file_id": 0,
+          "path_id": "4454658925253442913"
+        }
+      ],
+      "parent": {
+        "file_id": 0,
+        "path_id": "1643980783992954909"
+      },
+      "name": "Bip001 L Foot",
+      "path_components": [
+        "Avatar_Boy_Sword_Bennett_Manekin",
+        "Bip001",
+        "Bip001 Pelvis",
+        "Bip001 L Thigh",
+        "Bip001 L Calf",
+        "Bip001 L Foot"
+      ]
+    },
+    "4747495486532030315": {
+      "game_object": {
+        "file_id": 0,
+        "path_id": "-7723084349089100069"
+      },
+      "local_rotation_xyzw": [
+        -0.10632838308811188,
+        0.01709224283695221,
+        0.09059497714042664,
+        0.990047812461853
+      ],
+      "local_position": [
+        -0.1481376588344574,
+        -0.023494604974985123,
+        -0.04759152606129646
+      ],
+      "local_scale": [
+        1.000000238418579,
+        1.0,
+        0.9999999403953552
+      ],
+      "children": [
+        {
+          "file_id": 0,
+          "path_id": "-2915328984333967099"
+        }
+      ],
+      "parent": {
+        "file_id": 0,
+        "path_id": "9124460297767310232"
+      },
+      "name": "+LegBagB L A02",
+      "path_components": [
+        "Avatar_Boy_Sword_Bennett_Manekin",
+        "Bip001",
+        "Bip001 Pelvis",
+        "+LegBagB L A01",
+        "+LegBagB L A02"
+      ]
+    },
+    "4978750262298500020": {
+      "game_object": {
+        "file_id": 0,
+        "path_id": "3476934559855372276"
+      },
+      "local_rotation_xyzw": [
+        -0.6820967793464661,
+        0.7103455066680908,
+        -0.12027312815189362,
+        -0.12525033950805664
+      ],
+      "local_position": [
+        -0.06827941536903381,
+        0.0198102705180645,
+        -0.025444338098168373
+      ],
+      "local_scale": [
+        1.0001273155212402,
+        0.9998640418052673,
+        0.9999935030937195
+      ],
+      "children": [
+        {
+          "file_id": 0,
+          "path_id": "2419596751330259198"
+        }
+      ],
+      "parent": {
+        "file_id": 0,
+        "path_id": "1446139228375926439"
+      },
+      "name": "+EyeBone R A01",
+      "path_components": [
+        "Avatar_Boy_Sword_Bennett_Manekin",
+        "Bip001",
+        "Bip001 Pelvis",
+        "Bip001 Spine",
+        "Bip001 Spine1",
+        "Bip001 Spine2",
+        "Bip001 Neck",
+        "Bip001 Head",
+        "+EyeBone R A01"
+      ]
+    },
+    "5019686835683506904": {
+      "game_object": {
+        "file_id": 0,
+        "path_id": "6657264202416334967"
+      },
+      "local_rotation_xyzw": [
+        -0.045256342738866806,
+        0.009489906951785088,
+        0.96897953748703,
+        0.24277666211128235
+      ],
+      "local_position": [
+        -0.19778907299041748,
+        -0.05168894678354263,
+        0.026926705613732338
+      ],
+      "local_scale": [
+        1.0000078678131104,
+        1.000004529953003,
+        1.0000007152557373
+      ],
+      "children": [
+        {
+          "file_id": 0,
+          "path_id": "8292101974305963079"
+        }
+      ],
+      "parent": {
+        "file_id": 0,
+        "path_id": "6151371294294036483"
+      },
+      "name": "+AmiceB L B11",
+      "path_components": [
+        "Avatar_Boy_Sword_Bennett_Manekin",
+        "Bip001",
+        "Bip001 Pelvis",
+        "Bip001 Spine",
+        "Bip001 Spine1",
+        "Bip001 Spine2",
+        "+AmiceB L B11"
+      ]
+    },
+    "5079327298018236617": {
+      "game_object": {
+        "file_id": 0,
+        "path_id": "1972347215509344345"
+      },
+      "local_rotation_xyzw": [
+        7.450580596923828e-09,
+        7.450580596923828e-09,
+        -1.4901161193847656e-08,
+        1.0
+      ],
+      "local_position": [
+        -0.026811178773641586,
+        -7.629394360719743e-08,
+        3.814697180359872e-08
+      ],
+      "local_scale": [
+        1.0,
+        1.0,
+        1.0
+      ],
+      "children": [],
+      "parent": {
+        "file_id": 0,
+        "path_id": "1566642746494957604"
+      },
+      "name": "Bip001 L Finger0Nub",
+      "path_components": [
+        "Avatar_Boy_Sword_Bennett_Manekin",
+        "Bip001",
+        "Bip001 Pelvis",
+        "Bip001 Spine",
+        "Bip001 Spine1",
+        "Bip001 Spine2",
+        "Bip001 L Clavicle",
+        "Bip001 L UpperArm",
+        "Bip001 L Forearm",
+        "Bip001 L Hand",
+        "Bip001 L Finger0",
+        "Bip001 L Finger01",
+        "Bip001 L Finger02",
+        "Bip001 L Finger0Nub"
+      ]
+    },
+    "5127438947883167564": {
+      "game_object": {
+        "file_id": 0,
+        "path_id": "-3151378929120353992"
+      },
+      "local_rotation_xyzw": [
+        -2.4214378058218244e-08,
+        6.268962948752232e-08,
+        -3.1501247832466106e-08,
+        1.0
+      ],
+      "local_position": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "local_scale": [
+        1.0,
+        1.0,
+        1.0
+      ],
+      "children": [],
+      "parent": {
+        "file_id": 0,
+        "path_id": "-3882420652728724769"
+      },
+      "name": "HitObject1",
+      "path_components": [
+        "Avatar_Boy_Sword_Bennett_Manekin",
+        "Bip001",
+        "Bip001 Pelvis",
+        "Bip001 Spine",
+        "Bip001 Spine1",
+        "Bip001 Spine2",
+        "Bip001 L Clavicle",
+        "Bip001 L UpperArm",
+        "Bip001 L Forearm",
+        "HitObject1"
+      ]
+    },
+    "5147884774874429863": {
+      "game_object": {
+        "file_id": 0,
+        "path_id": "-5381422642927017674"
+      },
+      "local_rotation_xyzw": [
+        0.21988101303577423,
+        0.021347900852560997,
+        -0.07351456582546234,
+        0.9725185036659241
+      ],
+      "local_position": [
+        -0.04392661899328232,
+        0.005937881302088499,
+        0.0032823181245476007
+      ],
+      "local_scale": [
+        1.0000001192092896,
+        1.0000001192092896,
+        1.000000238418579
+      ],
+      "children": [],
+      "parent": {
+        "file_id": 0,
+        "path_id": "1604699526146023719"
+      },
+      "name": "WeaponR",
+      "path_components": [
+        "Avatar_Boy_Sword_Bennett_Manekin",
+        "Bip001",
+        "Bip001 Pelvis",
+        "Bip001 Spine",
+        "Bip001 Spine1",
+        "Bip001 Spine2",
+        "Bip001 R Clavicle",
+        "Bip001 R UpperArm",
+        "Bip001 R Forearm",
+        "Bip001 R Hand",
+        "WeaponR"
+      ]
+    },
+    "5287302188236733703": {
+      "game_object": {
+        "file_id": 0,
+        "path_id": "-1715103972630343059"
+      },
+      "local_rotation_xyzw": [
+        2.9103830456733704e-10,
+        2.3283064365386963e-10,
+        1.0,
+        -1.4901161193847656e-08
+      ],
+      "local_position": [
+        -0.024858588352799416,
+        0.0,
+        -2.38418573772492e-09
+      ],
+      "local_scale": [
+        -1.0,
+        -1.0,
+        -0.9999999403953552
+      ],
+      "children": [],
+      "parent": {
+        "file_id": 0,
+        "path_id": "5705176513741453707"
+      },
+      "name": "Bip001 R Finger2Nub",
+      "path_components": [
+        "Avatar_Boy_Sword_Bennett_Manekin",
+        "Bip001",
+        "Bip001 Pelvis",
+        "Bip001 Spine",
+        "Bip001 Spine1",
+        "Bip001 Spine2",
+        "Bip001 R Clavicle",
+        "Bip001 R UpperArm",
+        "Bip001 R Forearm",
+        "Bip001 R Hand",
+        "Bip001 R Finger2",
+        "Bip001 R Finger21",
+        "Bip001 R Finger22",
+        "Bip001 R Finger2Nub"
+      ]
+    },
+    "5343366069437510370": {
+      "game_object": {
+        "file_id": 0,
+        "path_id": "-4273618408187059360"
+      },
+      "local_rotation_xyzw": [
+        -1.8782353095048165e-07,
+        2.655835018572361e-08,
+        0.2818206548690796,
+        -0.9594671726226807
+      ],
+      "local_position": [
+        -0.02877480536699295,
+        -1.192093321833454e-07,
+        9.529169453514896e-09
+      ],
+      "local_scale": [
+        0.9999999403953552,
+        1.0,
+        1.0
+      ],
+      "children": [
+        {
+          "file_id": 0,
+          "path_id": "8773115767382566278"
+        }
+      ],
+      "parent": {
+        "file_id": 0,
+        "path_id": "-3356175933623662595"
+      },
+      "name": "Bip001 R Finger41",
+      "path_components": [
+        "Avatar_Boy_Sword_Bennett_Manekin",
+        "Bip001",
+        "Bip001 Pelvis",
+        "Bip001 Spine",
+        "Bip001 Spine1",
+        "Bip001 Spine2",
+        "Bip001 R Clavicle",
+        "Bip001 R UpperArm",
+        "Bip001 R Forearm",
+        "Bip001 R Hand",
+        "Bip001 R Finger4",
+        "Bip001 R Finger41"
+      ]
+    },
+    "5348095829431339845": {
+      "game_object": {
+        "file_id": 0,
+        "path_id": "-68354965716989700"
+      },
+      "local_rotation_xyzw": [
+        0.014391673728823662,
+        0.022893263027071953,
+        -0.09404563903808594,
+        0.9952006340026855
+      ],
+      "local_position": [
+        -0.08464674651622772,
+        0.0046186442486941814,
+        -0.026543350890278816
+      ],
+      "local_scale": [
+        0.9999999403953552,
+        1.0,
+        1.0
+      ],
+      "children": [
+        {
+          "file_id": 0,
+          "path_id": "-7057446219165782847"
+        }
+      ],
+      "parent": {
+        "file_id": 0,
+        "path_id": "1113897474211714650"
+      },
+      "name": "Bip001 L Finger1",
+      "path_components": [
+        "Avatar_Boy_Sword_Bennett_Manekin",
+        "Bip001",
+        "Bip001 Pelvis",
+        "Bip001 Spine",
+        "Bip001 Spine1",
+        "Bip001 Spine2",
+        "Bip001 L Clavicle",
+        "Bip001 L UpperArm",
+        "Bip001 L Forearm",
+        "Bip001 L Hand",
+        "Bip001 L Finger1"
+      ]
+    },
+    "5388958097526454887": {
+      "game_object": {
+        "file_id": 0,
+        "path_id": "-6901718375044404858"
+      },
+      "local_rotation_xyzw": [
+        -0.025794528424739838,
+        0.004047183785587549,
+        0.07035967707633972,
+        0.9971799254417419
+      ],
+      "local_position": [
+        -0.1712663173675537,
+        3.456115518929437e-05,
+        0.00011173247912665829
+      ],
+      "local_scale": [
+        1.0000102519989014,
+        1.0000096559524536,
+        1.0000137090682983
+      ],
+      "children": [],
+      "parent": {
+        "file_id": 0,
+        "path_id": "-82217645137483631"
+      },
+      "name": "+AmiceB R B12",
+      "path_components": [
+        "Avatar_Boy_Sword_Bennett_Manekin",
+        "Bip001",
+        "Bip001 Pelvis",
+        "Bip001 Spine",
+        "Bip001 Spine1",
+        "Bip001 Spine2",
+        "+AmiceB R B11",
+        "+AmiceB R B12"
+      ]
+    },
+    "5398995517512974459": {
+      "game_object": {
+        "file_id": 0,
+        "path_id": "-4011402911982781255"
+      },
+      "local_rotation_xyzw": [
+        -0.0,
+        -0.0,
+        -0.0,
+        1.0
+      ],
+      "local_position": [
+        0.0,
+        0.800000011920929,
+        0.0
+      ],
+      "local_scale": [
+        1.0,
+        1.0,
+        1.0
+      ],
+      "children": [],
+      "parent": {
+        "file_id": 0,
+        "path_id": "-8559843475943525825"
+      },
+      "name": "AttackCollider",
+      "path_components": [
+        "Avatar_Boy_Sword_Bennett_Manekin",
+        "AttackCollider"
+      ]
+    },
+    "5705176513741453707": {
+      "game_object": {
+        "file_id": 0,
+        "path_id": "2616597900013182537"
+      },
+      "local_rotation_xyzw": [
+        -1.100032278600338e-07,
+        9.517822974203227e-09,
+        0.2130867838859558,
+        -0.9770333170890808
+      ],
+      "local_position": [
+        -0.025470443069934845,
+        1.192093463942001e-07,
+        -2.2507593566700734e-09
+      ],
+      "local_scale": [
+        1.0000001192092896,
+        1.0000001192092896,
+        1.0000001192092896
+      ],
+      "children": [
+        {
+          "file_id": 0,
+          "path_id": "5287302188236733703"
+        }
+      ],
+      "parent": {
+        "file_id": 0,
+        "path_id": "-5256330257207967991"
+      },
+      "name": "Bip001 R Finger22",
+      "path_components": [
+        "Avatar_Boy_Sword_Bennett_Manekin",
+        "Bip001",
+        "Bip001 Pelvis",
+        "Bip001 Spine",
+        "Bip001 Spine1",
+        "Bip001 Spine2",
+        "Bip001 R Clavicle",
+        "Bip001 R UpperArm",
+        "Bip001 R Forearm",
+        "Bip001 R Hand",
+        "Bip001 R Finger2",
+        "Bip001 R Finger21",
+        "Bip001 R Finger22"
+      ]
+    },
+    "5741305008695269478": {
+      "game_object": {
+        "file_id": 0,
+        "path_id": "-7708944673376922045"
+      },
+      "local_rotation_xyzw": [
+        1.140541259744361e-25,
+        1.862645149230957e-09,
+        1.0,
+        6.123234262925839e-17
+      ],
+      "local_position": [
+        -0.02347806841135025,
+        0.0,
+        0.0
+      ],
+      "local_scale": [
+        -1.0,
+        -1.0,
+        -1.0
+      ],
+      "children": [],
+      "parent": {
+        "file_id": 0,
+        "path_id": "-2052198622994695185"
+      },
+      "name": "Bip001 R Finger3Nub",
+      "path_components": [
+        "Avatar_Boy_Sword_Bennett_Manekin",
+        "Bip001",
+        "Bip001 Pelvis",
+        "Bip001 Spine",
+        "Bip001 Spine1",
+        "Bip001 Spine2",
+        "Bip001 R Clavicle",
+        "Bip001 R UpperArm",
+        "Bip001 R Forearm",
+        "Bip001 R Hand",
+        "Bip001 R Finger3",
+        "Bip001 R Finger31",
+        "Bip001 R Finger32",
+        "Bip001 R Finger3Nub"
+      ]
+    },
+    "5982970989646551694": {
+      "game_object": {
+        "file_id": 0,
+        "path_id": "-7764192060358077484"
+      },
+      "local_rotation_xyzw": [
+        0.9993536472320557,
+        4.27390041295439e-05,
+        0.00749125424772501,
+        0.03515902906656265
+      ],
+      "local_position": [
+        0.0005693816929124296,
+        -3.098964589298703e-05,
+        -2.998351919814013e-05
+      ],
+      "local_scale": [
+        1.000034213066101,
+        1.0000057220458984,
+        1.0000134706497192
+      ],
+      "children": [
+        {
+          "file_id": 0,
+          "path_id": "-5906724008976863364"
+        },
+        {
+          "file_id": 0,
+          "path_id": "3412157748629505301"
+        }
+      ],
+      "parent": {
+        "file_id": 0,
+        "path_id": "-1970508884455079060"
+      },
+      "name": "+UpperArmTwist L A01",
+      "path_components": [
+        "Avatar_Boy_Sword_Bennett_Manekin",
+        "Bip001",
+        "Bip001 Pelvis",
+        "Bip001 Spine",
+        "Bip001 Spine1",
+        "Bip001 Spine2",
+        "Bip001 L Clavicle",
+        "Bip001 L UpperArm",
+        "+UpperArmTwist L A01"
+      ]
+    },
+    "6000684801219392329": {
+      "game_object": {
+        "file_id": 0,
+        "path_id": "703679853104893330"
+      },
+      "local_rotation_xyzw": [
+        0.02364262565970421,
+        -0.0002824394905474037,
+        0.0031632694881409407,
+        0.9997154474258423
+      ],
+      "local_position": [
+        -0.12560230493545532,
+        -7.629394360719743e-08,
+        6.67572024326546e-08
+      ],
+      "local_scale": [
+        1.0000004768371582,
+        1.0000053644180298,
+        1.0000041723251343
+      ],
+      "children": [
+        {
+          "file_id": 0,
+          "path_id": "-2894268580660382426"
+        }
+      ],
+      "parent": {
+        "file_id": 0,
+        "path_id": "8365423606587329842"
+      },
+      "name": "+HemB R D04",
+      "path_components": [
+        "Avatar_Boy_Sword_Bennett_Manekin",
+        "Bip001",
+        "Bip001 Pelvis",
+        "Bip001 Spine",
+        "+HemB R D01",
+        "+HemB R D02",
+        "+HemB R D03",
+        "+HemB R D04"
+      ]
+    },
+    "6012033176363375466": {
+      "game_object": {
+        "file_id": 0,
+        "path_id": "-3638245564656138918"
+      },
+      "local_rotation_xyzw": [
+        -1.1175870007207322e-08,
+        7.147900049631062e-08,
+        -2.6477206205299808e-08,
+        1.0
+      ],
+      "local_position": [
+        0.05799989402294159,
+        0.0,
+        0.0
+      ],
+      "local_scale": [
+        1.0,
+        1.0,
+        1.0
+      ],
+      "children": [],
+      "parent": {
+        "file_id": 0,
+        "path_id": "2864800307151002429"
+      },
+      "name": "HitObject6",
+      "path_components": [
+        "Avatar_Boy_Sword_Bennett_Manekin",
+        "Bip001",
+        "Bip001 Pelvis",
+        "Bip001 R Thigh",
+        "Bip001 R Calf",
+        "HitObject6"
+      ]
+    },
+    "6151371294294036483": {
+      "game_object": {
+        "file_id": 0,
+        "path_id": "-2084609888918929795"
+      },
+      "local_rotation_xyzw": [
+        0.023222019895911217,
+        -0.016694771125912666,
+        -0.08510909229516983,
+        0.99596107006073
+      ],
+      "local_position": [
+        -0.08025609701871872,
+        -0.00013982621021568775,
+        6.606569513678551e-09
+      ],
+      "local_scale": [
+        1.0,
+        1.0,
+        0.9999999403953552
+      ],
+      "children": [
+        {
+          "file_id": 0,
+          "path_id": "5019686835683506904"
+        },
+        {
+          "file_id": 0,
+          "path_id": "-82217645137483631"
+        },
+        {
+          "file_id": 0,
+          "path_id": "-241062616154769351"
+        },
+        {
+          "file_id": 0,
+          "path_id": "6402512548331166216"
+        },
+        {
+          "file_id": 0,
+          "path_id": "-2861946087054180637"
+        },
+        {
+          "file_id": 0,
+          "path_id": "1326807921867534843"
+        },
+        {
+          "file_id": 0,
+          "path_id": "738659608495711937"
+        },
+        {
+          "file_id": 0,
+          "path_id": "-2458516911778371183"
+        }
+      ],
+      "parent": {
+        "file_id": 0,
+        "path_id": "-6011406833333530018"
+      },
+      "name": "Bip001 Spine2",
+      "path_components": [
+        "Avatar_Boy_Sword_Bennett_Manekin",
+        "Bip001",
+        "Bip001 Pelvis",
+        "Bip001 Spine",
+        "Bip001 Spine1",
+        "Bip001 Spine2"
+      ]
+    },
+    "6402512548331166216": {
+      "game_object": {
+        "file_id": 0,
+        "path_id": "2940913996041841097"
+      },
+      "local_rotation_xyzw": [
+        0.49858352541923523,
+        0.08541598170995712,
+        -0.8583837747573853,
+        -0.08541619032621384
+      ],
+      "local_position": [
+        -0.17275892198085785,
+        -0.013782310299575329,
+        0.03279094770550728
+      ],
+      "local_scale": [
+        1.0000001192092896,
+        1.0000001192092896,
+        1.0
+      ],
+      "children": [
+        {
+          "file_id": 0,
+          "path_id": "-1970508884455079060"
+        }
+      ],
+      "parent": {
+        "file_id": 0,
+        "path_id": "6151371294294036483"
+      },
+      "name": "Bip001 L Clavicle",
+      "path_components": [
+        "Avatar_Boy_Sword_Bennett_Manekin",
+        "Bip001",
+        "Bip001 Pelvis",
+        "Bip001 Spine",
+        "Bip001 Spine1",
+        "Bip001 Spine2",
+        "Bip001 L Clavicle"
+      ]
+    },
+    "6838265787748733242": {
+      "game_object": {
+        "file_id": 0,
+        "path_id": "-9168637438525866622"
+      },
+      "local_rotation_xyzw": [
+        -4.117465659275729e-20,
+        -3.3881317890172014e-21,
+        -1.3950486731739284e-40,
+        1.0
+      ],
+      "local_position": [
+        -0.24520979821681976,
+        0.0,
+        4.5474734072206875e-15
+      ],
+      "local_scale": [
+        1.0,
+        0.9999999403953552,
+        0.9999999403953552
+      ],
+      "children": [],
+      "parent": {
+        "file_id": 0,
+        "path_id": "1446139228375926439"
+      },
+      "name": "Bip001 HeadNub",
+      "path_components": [
+        "Avatar_Boy_Sword_Bennett_Manekin",
+        "Bip001",
+        "Bip001 Pelvis",
+        "Bip001 Spine",
+        "Bip001 Spine1",
+        "Bip001 Spine2",
+        "Bip001 Neck",
+        "Bip001 Head",
+        "Bip001 HeadNub"
+      ]
+    },
+    "6866229555337255639": {
+      "game_object": {
+        "file_id": 0,
+        "path_id": "3293650159242281799"
+      },
+      "local_rotation_xyzw": [
+        0.0010050864657387137,
+        -0.007118028588593006,
+        -0.13472537696361542,
+        0.9908568859100342
+      ],
+      "local_position": [
+        -0.026558227837085724,
+        0.0,
+        -1.907348590179936e-08
+      ],
+      "local_scale": [
+        1.0000001192092896,
+        1.0000001192092896,
+        1.0
+      ],
+      "children": [
+        {
+          "file_id": 0,
+          "path_id": "1566642746494957604"
+        }
+      ],
+      "parent": {
+        "file_id": 0,
+        "path_id": "-8101906021348057010"
+      },
+      "name": "Bip001 L Finger01",
+      "path_components": [
+        "Avatar_Boy_Sword_Bennett_Manekin",
+        "Bip001",
+        "Bip001 Pelvis",
+        "Bip001 Spine",
+        "Bip001 Spine1",
+        "Bip001 Spine2",
+        "Bip001 L Clavicle",
+        "Bip001 L UpperArm",
+        "Bip001 L Forearm",
+        "Bip001 L Hand",
+        "Bip001 L Finger0",
+        "Bip001 L Finger01"
+      ]
+    },
+    "7027135105771826826": {
+      "game_object": {
+        "file_id": 0,
+        "path_id": "497702114257522802"
+      },
+      "local_rotation_xyzw": [
+        -5.587935447692871e-09,
+        -7.450580596923828e-09,
+        -4.163336342344337e-17,
+        1.0
+      ],
+      "local_position": [
+        -0.02347806841135025,
+        0.0,
+        -4.76837147544984e-09
+      ],
+      "local_scale": [
+        1.0,
+        1.0,
+        1.0
+      ],
+      "children": [],
+      "parent": {
+        "file_id": 0,
+        "path_id": "8442044162291921802"
+      },
+      "name": "Bip001 L Finger3Nub",
+      "path_components": [
+        "Avatar_Boy_Sword_Bennett_Manekin",
+        "Bip001",
+        "Bip001 Pelvis",
+        "Bip001 Spine",
+        "Bip001 Spine1",
+        "Bip001 Spine2",
+        "Bip001 L Clavicle",
+        "Bip001 L UpperArm",
+        "Bip001 L Forearm",
+        "Bip001 L Hand",
+        "Bip001 L Finger3",
+        "Bip001 L Finger31",
+        "Bip001 L Finger32",
+        "Bip001 L Finger3Nub"
+      ]
+    },
+    "7027174918555971889": {
+      "game_object": {
+        "file_id": 0,
+        "path_id": "29279094191565446"
+      },
+      "local_rotation_xyzw": [
+        -0.0,
+        -0.0,
+        -0.0,
+        1.0
+      ],
+      "local_position": [
+        0.0,
+        1.6200000047683716,
+        0.0
+      ],
+      "local_scale": [
+        1.0,
+        1.0,
+        1.0
+      ],
+      "children": [],
+      "parent": {
+        "file_id": 0,
+        "path_id": "-8559843475943525825"
+      },
+      "name": "MoveHead",
+      "path_components": [
+        "Avatar_Boy_Sword_Bennett_Manekin",
+        "MoveHead"
+      ]
+    },
+    "7320115875941580389": {
+      "game_object": {
+        "file_id": 0,
+        "path_id": "-8694498535354200866"
+      },
+      "local_rotation_xyzw": [
+        0.9845723509788513,
+        -0.0929853618144989,
+        0.08150599151849747,
+        0.12380589544773102
+      ],
+      "local_position": [
+        -0.04308822378516197,
+        0.007241592276841402,
+        -0.008157138712704182
+      ],
+      "local_scale": [
+        1.0,
+        1.0000001192092896,
+        1.0
+      ],
+      "children": [],
+      "parent": {
+        "file_id": 0,
+        "path_id": "1113897474211714650"
+      },
+      "name": "WeaponL",
+      "path_components": [
+        "Avatar_Boy_Sword_Bennett_Manekin",
+        "Bip001",
+        "Bip001 Pelvis",
+        "Bip001 Spine",
+        "Bip001 Spine1",
+        "Bip001 Spine2",
+        "Bip001 L Clavicle",
+        "Bip001 L UpperArm",
+        "Bip001 L Forearm",
+        "Bip001 L Hand",
+        "WeaponL"
+      ]
+    },
+    "7572352415729572896": {
+      "game_object": {
+        "file_id": 0,
+        "path_id": "-4242176062753566906"
+      },
+      "local_rotation_xyzw": [
+        5.168025651869357e-08,
+        -1.5024520516604412e-09,
+        -0.2848292887210846,
+        0.9585782885551453
+      ],
+      "local_position": [
+        -0.028774790465831757,
+        -1.1920927533992653e-07,
+        -2.85097598862194e-08
+      ],
+      "local_scale": [
+        1.0,
+        1.0000001192092896,
+        1.0000001192092896
+      ],
+      "children": [
+        {
+          "file_id": 0,
+          "path_id": "8096651414164517572"
+        }
+      ],
+      "parent": {
+        "file_id": 0,
+        "path_id": "4099822694157658734"
+      },
+      "name": "Bip001 L Finger41",
+      "path_components": [
+        "Avatar_Boy_Sword_Bennett_Manekin",
+        "Bip001",
+        "Bip001 Pelvis",
+        "Bip001 Spine",
+        "Bip001 Spine1",
+        "Bip001 Spine2",
+        "Bip001 L Clavicle",
+        "Bip001 L UpperArm",
+        "Bip001 L Forearm",
+        "Bip001 L Hand",
+        "Bip001 L Finger4",
+        "Bip001 L Finger41"
+      ]
+    },
+    "7866765018739861230": {
+      "game_object": {
+        "file_id": 0,
+        "path_id": "5841235205837214284"
+      },
+      "local_rotation_xyzw": [
+        -0.05145546421408653,
+        0.1827721893787384,
+        0.9764352440834045,
+        0.10257171839475632
+      ],
+      "local_position": [
+        -0.038795698434114456,
+        -0.06554070115089417,
+        0.0546514168381691
+      ],
+      "local_scale": [
+        1.0000277757644653,
+        1.0000224113464355,
+        1.0000190734863281
+      ],
+      "children": [
+        {
+          "file_id": 0,
+          "path_id": "4281513603214736759"
+        }
+      ],
+      "parent": {
+        "file_id": 0,
+        "path_id": "2499155557660640495"
+      },
+      "name": "+SkirtB L B01",
+      "path_components": [
+        "Avatar_Boy_Sword_Bennett_Manekin",
+        "Bip001",
+        "Bip001 Pelvis",
+        "Bip001 Spine",
+        "+SkirtB L B01"
+      ]
+    },
+    "7984784825173756986": {
+      "game_object": {
+        "file_id": 0,
+        "path_id": "-847977947719604250"
+      },
+      "local_rotation_xyzw": [
+        2.1855694143368964e-08,
+        0.0,
+        -0.0,
+        1.0
+      ],
+      "local_position": [
+        -0.0,
+        0.0,
+        0.0
+      ],
+      "local_scale": [
+        1.0,
+        1.0,
+        1.0
+      ],
+      "children": [],
+      "parent": {
+        "file_id": 0,
+        "path_id": "-8559843475943525825"
+      },
+      "name": "Face_Eye",
+      "path_components": [
+        "Avatar_Boy_Sword_Bennett_Manekin",
+        "Face_Eye"
+      ]
+    },
+    "8096651414164517572": {
+      "game_object": {
+        "file_id": 0,
+        "path_id": "-6778521665823235775"
+      },
+      "local_rotation_xyzw": [
+        5.1303693737736467e-08,
+        -3.9442333843453525e-09,
+        -0.23783311247825623,
+        0.9713060855865479
+      ],
+      "local_position": [
+        -0.017433103173971176,
+        0.0,
+        -9.048495286378966e-11
+      ],
+      "local_scale": [
+        1.0,
+        0.9999999403953552,
+        1.0
+      ],
+      "children": [
+        {
+          "file_id": 0,
+          "path_id": "-4858800696107289457"
+        }
+      ],
+      "parent": {
+        "file_id": 0,
+        "path_id": "7572352415729572896"
+      },
+      "name": "Bip001 L Finger42",
+      "path_components": [
+        "Avatar_Boy_Sword_Bennett_Manekin",
+        "Bip001",
+        "Bip001 Pelvis",
+        "Bip001 Spine",
+        "Bip001 Spine1",
+        "Bip001 Spine2",
+        "Bip001 L Clavicle",
+        "Bip001 L UpperArm",
+        "Bip001 L Forearm",
+        "Bip001 L Hand",
+        "Bip001 L Finger4",
+        "Bip001 L Finger41",
+        "Bip001 L Finger42"
+      ]
+    },
+    "8161872983252590147": {
+      "game_object": {
+        "file_id": 0,
+        "path_id": "8301888709359322569"
+      },
+      "local_rotation_xyzw": [
+        3.860433480440406e-06,
+        -4.237065240886295e-06,
+        0.7071064710617065,
+        0.7071071267127991
+      ],
+      "local_position": [
+        -0.5,
+        0.8999999761581421,
+        -1.4999999109477358e-07
+      ],
+      "local_scale": [
+        1.0,
+        1.0,
+        1.0
+      ],
+      "children": [],
+      "parent": {
+        "file_id": 0,
+        "path_id": "-4220562065330787761"
+      },
+      "name": "CatalystL",
+      "path_components": [
+        "Avatar_Boy_Sword_Bennett_Manekin",
+        "Root",
+        "CatalystL"
+      ]
+    },
+    "8219335733716972467": {
+      "game_object": {
+        "file_id": 0,
+        "path_id": "6645180249709794646"
+      },
+      "local_rotation_xyzw": [
+        0.03510874882340431,
+        0.007211554795503616,
+        0.01630384288728237,
+        0.9992244839668274
+      ],
+      "local_position": [
+        -0.1150333359837532,
+        1.0299681889591739e-06,
+        -1.1920928955078125e-07
+      ],
+      "local_scale": [
+        0.9999998807907104,
+        1.0000004768371582,
+        1.0
+      ],
+      "children": [
+        {
+          "file_id": 0,
+          "path_id": "-6322702375650386740"
+        }
+      ],
+      "parent": {
+        "file_id": 0,
+        "path_id": "-8707091138498733105"
+      },
+      "name": "+HemB L D02",
+      "path_components": [
+        "Avatar_Boy_Sword_Bennett_Manekin",
+        "Bip001",
+        "Bip001 Pelvis",
+        "Bip001 Spine",
+        "+HemB L D01",
+        "+HemB L D02"
+      ]
+    },
+    "8238883995260326896": {
+      "game_object": {
+        "file_id": 0,
+        "path_id": "3098080904902398373"
+      },
+      "local_rotation_xyzw": [
+        -0.03802451863884926,
+        -0.0038512046448886395,
+        0.10069465637207031,
+        0.9941830039024353
+      ],
+      "local_position": [
+        -0.19624954462051392,
+        2.5518232860122225e-07,
+        3.7252898543727042e-09
+      ],
+      "local_scale": [
+        0.9999998211860657,
+        1.0,
+        1.0
+      ],
+      "children": [
+        {
+          "file_id": 0,
+          "path_id": "1604699526146023719"
+        },
+        {
+          "file_id": 0,
+          "path_id": "1765612057615924809"
+        }
+      ],
+      "parent": {
+        "file_id": 0,
+        "path_id": "-41369148023857182"
+      },
+      "name": "Bip001 R Forearm",
+      "path_components": [
+        "Avatar_Boy_Sword_Bennett_Manekin",
+        "Bip001",
+        "Bip001 Pelvis",
+        "Bip001 Spine",
+        "Bip001 Spine1",
+        "Bip001 Spine2",
+        "Bip001 R Clavicle",
+        "Bip001 R UpperArm",
+        "Bip001 R Forearm"
+      ]
+    },
+    "8292101974305963079": {
+      "game_object": {
+        "file_id": 0,
+        "path_id": "-4119418300374617943"
+      },
+      "local_rotation_xyzw": [
+        0.025795744732022285,
+        -0.004049501847475767,
+        0.0703592300415039,
+        0.9971799254417419
+      ],
+      "local_position": [
+        -0.17126579582691193,
+        3.570556509657763e-05,
+        -0.00011177062697242945
+      ],
+      "local_scale": [
+        1.0000030994415283,
+        1.0000053644180298,
+        1.0000096559524536
+      ],
+      "children": [],
+      "parent": {
+        "file_id": 0,
+        "path_id": "5019686835683506904"
+      },
+      "name": "+AmiceB L B12",
+      "path_components": [
+        "Avatar_Boy_Sword_Bennett_Manekin",
+        "Bip001",
+        "Bip001 Pelvis",
+        "Bip001 Spine",
+        "Bip001 Spine1",
+        "Bip001 Spine2",
+        "+AmiceB L B11",
+        "+AmiceB L B12"
+      ]
+    },
+    "8365423606587329842": {
+      "game_object": {
+        "file_id": 0,
+        "path_id": "-8754192018782463319"
+      },
+      "local_rotation_xyzw": [
+        0.018932610750198364,
+        -0.004149253014475107,
+        -0.0011474996572360396,
+        0.9998114705085754
+      ],
+      "local_position": [
+        -0.12454162538051605,
+        1.1444091541079615e-07,
+        -1.76429750808893e-07
+      ],
+      "local_scale": [
+        1.0000035762786865,
+        1.000001311302185,
+        1.0000061988830566
+      ],
+      "children": [
+        {
+          "file_id": 0,
+          "path_id": "6000684801219392329"
+        }
+      ],
+      "parent": {
+        "file_id": 0,
+        "path_id": "-162941205709914238"
+      },
+      "name": "+HemB R D03",
+      "path_components": [
+        "Avatar_Boy_Sword_Bennett_Manekin",
+        "Bip001",
+        "Bip001 Pelvis",
+        "Bip001 Spine",
+        "+HemB R D01",
+        "+HemB R D02",
+        "+HemB R D03"
+      ]
+    },
+    "8442044162291921802": {
+      "game_object": {
+        "file_id": 0,
+        "path_id": "8254243573745030446"
+      },
+      "local_rotation_xyzw": [
+        -5.7845760181862715e-08,
+        2.470940430043811e-08,
+        -0.10293349623680115,
+        0.9946882724761963
+      ],
+      "local_position": [
+        -0.025272423401474953,
+        0.0,
+        -1.3494760864318778e-08
+      ],
+      "local_scale": [
+        1.0,
+        0.9999999403953552,
+        1.0
+      ],
+      "children": [
+        {
+          "file_id": 0,
+          "path_id": "7027135105771826826"
+        }
+      ],
+      "parent": {
+        "file_id": 0,
+        "path_id": "-9514667497596340"
+      },
+      "name": "Bip001 L Finger32",
+      "path_components": [
+        "Avatar_Boy_Sword_Bennett_Manekin",
+        "Bip001",
+        "Bip001 Pelvis",
+        "Bip001 Spine",
+        "Bip001 Spine1",
+        "Bip001 Spine2",
+        "Bip001 L Clavicle",
+        "Bip001 L UpperArm",
+        "Bip001 L Forearm",
+        "Bip001 L Hand",
+        "Bip001 L Finger3",
+        "Bip001 L Finger31",
+        "Bip001 L Finger32"
+      ]
+    },
+    "8773115767382566278": {
+      "game_object": {
+        "file_id": 0,
+        "path_id": "1126461978017217452"
+      },
+      "local_rotation_xyzw": [
+        -2.892842303481302e-07,
+        6.601143098805551e-08,
+        0.23430879414081573,
+        -0.9721622467041016
+      ],
+      "local_position": [
+        -0.017433112487196922,
+        -1.192093321833454e-07,
+        3.806344750501012e-08
+      ],
+      "local_scale": [
+        1.0000001192092896,
+        1.000000238418579,
+        1.0
+      ],
+      "children": [
+        {
+          "file_id": 0,
+          "path_id": "2841638403486452776"
+        }
+      ],
+      "parent": {
+        "file_id": 0,
+        "path_id": "5343366069437510370"
+      },
+      "name": "Bip001 R Finger42",
+      "path_components": [
+        "Avatar_Boy_Sword_Bennett_Manekin",
+        "Bip001",
+        "Bip001 Pelvis",
+        "Bip001 Spine",
+        "Bip001 Spine1",
+        "Bip001 Spine2",
+        "Bip001 R Clavicle",
+        "Bip001 R UpperArm",
+        "Bip001 R Forearm",
+        "Bip001 R Hand",
+        "Bip001 R Finger4",
+        "Bip001 R Finger41",
+        "Bip001 R Finger42"
+      ]
+    },
+    "8829069367226882358": {
+      "game_object": {
+        "file_id": 0,
+        "path_id": "4186324431134967969"
+      },
+      "local_rotation_xyzw": [
+        -0.0015901501756161451,
+        0.008527407422661781,
+        0.03472751006484032,
+        0.9993591904640198
+      ],
+      "local_position": [
+        -0.14832793176174164,
+        -7.24792471373803e-07,
+        -5.531310875994677e-07
+      ],
+      "local_scale": [
+        1.0000054836273193,
+        0.9999995827674866,
+        0.999995231628418
+      ],
+      "children": [],
+      "parent": {
+        "file_id": 0,
+        "path_id": "1353545745489627062"
+      },
+      "name": "+SkirtB R B03",
+      "path_components": [
+        "Avatar_Boy_Sword_Bennett_Manekin",
+        "Bip001",
+        "Bip001 Pelvis",
+        "Bip001 Spine",
+        "+SkirtB R B01",
+        "+SkirtB R B02",
+        "+SkirtB R B03"
+      ]
+    },
+    "9004256560956192213": {
+      "game_object": {
+        "file_id": 0,
+        "path_id": "-7534881624710112294"
+      },
+      "local_rotation_xyzw": [
+        0.0,
+        0.0,
+        -0.7071062922477722,
+        0.7071072459220886
+      ],
+      "local_position": [
+        -0.0,
+        0.0,
+        -0.8812386989593506
+      ],
+      "local_scale": [
+        1.0,
+        1.0,
+        1.0
+      ],
+      "children": [],
+      "parent": {
+        "file_id": 0,
+        "path_id": "-6873985393293953553"
+      },
+      "name": "Bip001 Footsteps",
+      "path_components": [
+        "Avatar_Boy_Sword_Bennett_Manekin",
+        "Bip001",
+        "Bip001 Footsteps"
+      ]
+    },
+    "9101879597718561375": {
+      "game_object": {
+        "file_id": 0,
+        "path_id": "3835588772123499363"
+      },
+      "local_rotation_xyzw": [
+        0.05145280063152313,
+        -0.18277449905872345,
+        0.9764348864555359,
+        0.10257227718830109
+      ],
+      "local_position": [
+        -0.038795698434114456,
+        -0.06554052978754044,
+        -0.054652247577905655
+      ],
+      "local_scale": [
+        1.0000238418579102,
+        1.0000230073928833,
+        1.0000178813934326
+      ],
+      "children": [
+        {
+          "file_id": 0,
+          "path_id": "1353545745489627062"
+        }
+      ],
+      "parent": {
+        "file_id": 0,
+        "path_id": "2499155557660640495"
+      },
+      "name": "+SkirtB R B01",
+      "path_components": [
+        "Avatar_Boy_Sword_Bennett_Manekin",
+        "Bip001",
+        "Bip001 Pelvis",
+        "Bip001 Spine",
+        "+SkirtB R B01"
+      ]
+    },
+    "9118922857020067039": {
+      "game_object": {
+        "file_id": 0,
+        "path_id": "-3927734331875525315"
+      },
+      "local_rotation_xyzw": [
+        -1.4191785169259674e-07,
+        1.3766764658318994e-14,
+        0.3725990951061249,
+        -0.9279924631118774
+      ],
+      "local_position": [
+        -0.03056539222598076,
+        -1.192093463942001e-07,
+        -4.191353042415358e-09
+      ],
+      "local_scale": [
+        0.9999999403953552,
+        1.0,
+        0.9999999403953552
+      ],
+      "children": [
+        {
+          "file_id": 0,
+          "path_id": "-2052198622994695185"
+        }
+      ],
+      "parent": {
+        "file_id": 0,
+        "path_id": "4430169888790768767"
+      },
+      "name": "Bip001 R Finger31",
+      "path_components": [
+        "Avatar_Boy_Sword_Bennett_Manekin",
+        "Bip001",
+        "Bip001 Pelvis",
+        "Bip001 Spine",
+        "Bip001 Spine1",
+        "Bip001 Spine2",
+        "Bip001 R Clavicle",
+        "Bip001 R UpperArm",
+        "Bip001 R Forearm",
+        "Bip001 R Hand",
+        "Bip001 R Finger3",
+        "Bip001 R Finger31"
+      ]
+    },
+    "9124460297767310232": {
+      "game_object": {
+        "file_id": 0,
+        "path_id": "4098898880154796562"
+      },
+      "local_rotation_xyzw": [
+        -0.02840992994606495,
+        0.14732250571250916,
+        0.9753196835517883,
+        0.16198915243148804
+      ],
+      "local_position": [
+        -0.06982818245887756,
+        -0.11491593718528748,
+        0.065189428627491
+      ],
+      "local_scale": [
+        0.9999998211860657,
+        1.0,
+        1.0
+      ],
+      "children": [
+        {
+          "file_id": 0,
+          "path_id": "4747495486532030315"
+        }
+      ],
+      "parent": {
+        "file_id": 0,
+        "path_id": "501781942223293643"
+      },
+      "name": "+LegBagB L A01",
+      "path_components": [
+        "Avatar_Boy_Sword_Bennett_Manekin",
+        "Bip001",
+        "Bip001 Pelvis",
+        "+LegBagB L A01"
+      ]
+    }
+  },
+  "renderers": [
+    {
+      "game_object": {
+        "file_id": 0,
+        "path_id": "-847977947719604250"
+      },
+      "header_flags_hex": "010100010001000100000000000001000000000100000000",
+      "lightmap_scale_offset": [
+        1.0,
+        1.0,
+        0.0,
+        0.0
+      ],
+      "dynamic_lightmap_scale_offset": [
+        1.0,
+        1.0,
+        0.0,
+        0.0
+      ],
+      "view_distance_ratio": 16.0,
+      "shader_lod_distance_ratio": 1.0,
+      "materials": [
+        {
+          "file_id": 1,
+          "path_id": "-3626346805380977945"
+        }
+      ],
+      "static_batch": [
+        0,
+        0
+      ],
+      "static_batch_root": {
+        "file_id": 0,
+        "path_id": "0"
+      },
+      "material_layers": 1,
+      "probe_anchor": {
+        "file_id": 0,
+        "path_id": "0"
+      },
+      "probe_volume": {
+        "file_id": 0,
+        "path_id": "0"
+      },
+      "sorting": [
+        0,
+        0,
+        0
+      ],
+      "use_highest_mip": 0,
+      "quality": 0,
+      "update_when_offscreen": 0,
+      "skin_normals": 1,
+      "mesh": {
+        "file_id": 2,
+        "path_id": "3128406071301753138"
+      },
+      "bones": [
+        {
+          "file_id": 0,
+          "path_id": "1446139228375926439"
+        }
+      ],
+      "blend_shape_weights": [],
+      "root_bone": {
+        "file_id": 0,
+        "path_id": "1446139228375926439"
+      },
+      "aabb": [
+        -0.06553731858730316,
+        0.05998032167553902,
+        1.862645149230957e-07,
+        0.05124066770076752,
+        0.035196784883737564,
+        0.08180645853281021
+      ],
+      "dirty_aabb": 0,
+      "uninterpreted_trailer_hex": "000000000000000000000000000000000000803f00000000",
+      "id": "-8552258999385217672",
+      "name": "Face_Eye",
+      "type_hash": "d74087651cccc56b59dcdac73be06d71",
+      "raw_sha256": "36cd4e3a46ef993da09f93baf9a9bb549d190b792e660f7382be3118d58d8fb8",
+      "mesh_ref": "cab-22806015bc35bc28c61b5dad332a39b0:3128406071301753138",
+      "material_refs": [
+        "cab-f13a0c6165f51170317582749586c609:-3626346805380977945"
+      ],
+      "bone_names": [
+        "Bip001 Head"
+      ],
+      "bone_paths": [
+        [
+          "Avatar_Boy_Sword_Bennett_Manekin",
+          "Bip001",
+          "Bip001 Pelvis",
+          "Bip001 Spine",
+          "Bip001 Spine1",
+          "Bip001 Spine2",
+          "Bip001 Neck",
+          "Bip001 Head"
+        ]
+      ]
+    },
+    {
+      "game_object": {
+        "file_id": 0,
+        "path_id": "5767701341655423010"
+      },
+      "header_flags_hex": "010100010001000100000000000001000000000100000000",
+      "lightmap_scale_offset": [
+        1.0,
+        1.0,
+        0.0,
+        0.0
+      ],
+      "dynamic_lightmap_scale_offset": [
+        1.0,
+        1.0,
+        0.0,
+        0.0
+      ],
+      "view_distance_ratio": 16.0,
+      "shader_lod_distance_ratio": 1.0,
+      "materials": [
+        {
+          "file_id": 1,
+          "path_id": "-3626346805380977945"
+        }
+      ],
+      "static_batch": [
+        0,
+        0
+      ],
+      "static_batch_root": {
+        "file_id": 0,
+        "path_id": "0"
+      },
+      "material_layers": 1,
+      "probe_anchor": {
+        "file_id": 0,
+        "path_id": "0"
+      },
+      "probe_volume": {
+        "file_id": 0,
+        "path_id": "0"
+      },
+      "sorting": [
+        0,
+        0,
+        0
+      ],
+      "use_highest_mip": 0,
+      "quality": 0,
+      "update_when_offscreen": 0,
+      "skin_normals": 1,
+      "mesh": {
+        "file_id": 2,
+        "path_id": "3590329278549739163"
+      },
+      "bones": [
+        {
+          "file_id": 0,
+          "path_id": "1446139228375926439"
+        },
+        {
+          "file_id": 0,
+          "path_id": "-6541439310756056192"
+        },
+        {
+          "file_id": 0,
+          "path_id": "-3590696146824616965"
+        }
+      ],
+      "blend_shape_weights": [],
+      "root_bone": {
+        "file_id": 0,
+        "path_id": "1446139228375926439"
+      },
+      "aabb": [
+        -0.08498254418373108,
+        0.03587885946035385,
+        1.1175870895385742e-07,
+        0.11018207669258118,
+        0.06632533669471741,
+        0.0919545367360115
+      ],
+      "dirty_aabb": 0,
+      "uninterpreted_trailer_hex": "000000000000000000000000000000000000803f00000000",
+      "id": "-8374190864291970390",
+      "name": "Face",
+      "type_hash": "d74087651cccc56b59dcdac73be06d71",
+      "raw_sha256": "ff0e22c45762903c8dad4554789c1e27bf582c68403e43548361772616524e92",
+      "mesh_ref": "cab-22806015bc35bc28c61b5dad332a39b0:3590329278549739163",
+      "material_refs": [
+        "cab-f13a0c6165f51170317582749586c609:-3626346805380977945"
+      ],
+      "bone_names": [
+        "Bip001 Head",
+        "+ToothBone U A01",
+        "+ToothBone D A01"
+      ],
+      "bone_paths": [
+        [
+          "Avatar_Boy_Sword_Bennett_Manekin",
+          "Bip001",
+          "Bip001 Pelvis",
+          "Bip001 Spine",
+          "Bip001 Spine1",
+          "Bip001 Spine2",
+          "Bip001 Neck",
+          "Bip001 Head"
+        ],
+        [
+          "Avatar_Boy_Sword_Bennett_Manekin",
+          "Bip001",
+          "Bip001 Pelvis",
+          "Bip001 Spine",
+          "Bip001 Spine1",
+          "Bip001 Spine2",
+          "Bip001 Neck",
+          "Bip001 Head",
+          "+ToothBone U A01"
+        ],
+        [
+          "Avatar_Boy_Sword_Bennett_Manekin",
+          "Bip001",
+          "Bip001 Pelvis",
+          "Bip001 Spine",
+          "Bip001 Spine1",
+          "Bip001 Spine2",
+          "Bip001 Neck",
+          "Bip001 Head",
+          "+ToothBone D A01"
+        ]
+      ]
+    },
+    {
+      "game_object": {
+        "file_id": 0,
+        "path_id": "3047598948476752558"
+      },
+      "header_flags_hex": "010100010001000100000000000001000000000100000000",
+      "lightmap_scale_offset": [
+        1.0,
+        1.0,
+        0.0,
+        0.0
+      ],
+      "dynamic_lightmap_scale_offset": [
+        1.0,
+        1.0,
+        0.0,
+        0.0
+      ],
+      "view_distance_ratio": 1.0,
+      "shader_lod_distance_ratio": 1.0,
+      "materials": [
+        {
+          "file_id": 0,
+          "path_id": "0"
+        }
+      ],
+      "static_batch": [
+        0,
+        0
+      ],
+      "static_batch_root": {
+        "file_id": 0,
+        "path_id": "0"
+      },
+      "material_layers": 1,
+      "probe_anchor": {
+        "file_id": 0,
+        "path_id": "0"
+      },
+      "probe_volume": {
+        "file_id": 0,
+        "path_id": "0"
+      },
+      "sorting": [
+        0,
+        0,
+        0
+      ],
+      "use_highest_mip": 0,
+      "quality": 0,
+      "update_when_offscreen": 0,
+      "skin_normals": 1,
+      "mesh": {
+        "file_id": 2,
+        "path_id": "8427085399155865813"
+      },
+      "bones": [
+        {
+          "file_id": 0,
+          "path_id": "3992187600010992500"
+        },
+        {
+          "file_id": 0,
+          "path_id": "2419596751330259198"
+        }
+      ],
+      "blend_shape_weights": [],
+      "root_bone": {
+        "file_id": 0,
+        "path_id": "2419596751330259198"
+      },
+      "aabb": [
+        -0.0002631652168929577,
+        0.02311757765710354,
+        -0.039992280304431915,
+        0.010609554126858711,
+        0.020139506086707115,
+        0.048331715166568756
+      ],
+      "dirty_aabb": 0,
+      "uninterpreted_trailer_hex": "000000000000000000000000000000000000803f00000000",
+      "id": "-4293833381589335818",
+      "name": "EyeStar",
+      "type_hash": "d74087651cccc56b59dcdac73be06d71",
+      "raw_sha256": "ed21478ce8e7abb34b4db73cb219c3664ecfaaebd79340571dba4d2138517cfe",
+      "mesh_ref": "cab-22806015bc35bc28c61b5dad332a39b0:8427085399155865813",
+      "material_refs": [
+        null
+      ],
+      "bone_names": [
+        "+EyeBone L A02",
+        "+EyeBone R A02"
+      ],
+      "bone_paths": [
+        [
+          "Avatar_Boy_Sword_Bennett_Manekin",
+          "Bip001",
+          "Bip001 Pelvis",
+          "Bip001 Spine",
+          "Bip001 Spine1",
+          "Bip001 Spine2",
+          "Bip001 Neck",
+          "Bip001 Head",
+          "+EyeBone L A01",
+          "+EyeBone L A02"
+        ],
+        [
+          "Avatar_Boy_Sword_Bennett_Manekin",
+          "Bip001",
+          "Bip001 Pelvis",
+          "Bip001 Spine",
+          "Bip001 Spine1",
+          "Bip001 Spine2",
+          "Bip001 Neck",
+          "Bip001 Head",
+          "+EyeBone R A01",
+          "+EyeBone R A02"
+        ]
+      ]
+    },
+    {
+      "game_object": {
+        "file_id": 0,
+        "path_id": "1631413885187984458"
+      },
+      "header_flags_hex": "010100010001000100000000000001000000000100000000",
+      "lightmap_scale_offset": [
+        1.0,
+        1.0,
+        0.0,
+        0.0
+      ],
+      "dynamic_lightmap_scale_offset": [
+        1.0,
+        1.0,
+        0.0,
+        0.0
+      ],
+      "view_distance_ratio": 16.0,
+      "shader_lod_distance_ratio": 1.0,
+      "materials": [
+        {
+          "file_id": 4,
+          "path_id": "7047444584234722981"
+        },
+        {
+          "file_id": 5,
+          "path_id": "-3370262707923854603"
+        }
+      ],
+      "static_batch": [
+        0,
+        0
+      ],
+      "static_batch_root": {
+        "file_id": 0,
+        "path_id": "0"
+      },
+      "material_layers": 1,
+      "probe_anchor": {
+        "file_id": 0,
+        "path_id": "0"
+      },
+      "probe_volume": {
+        "file_id": 0,
+        "path_id": "0"
+      },
+      "sorting": [
+        0,
+        0,
+        0
+      ],
+      "use_highest_mip": 0,
+      "quality": 0,
+      "update_when_offscreen": 0,
+      "skin_normals": 1,
+      "mesh": {
+        "file_id": 2,
+        "path_id": "-2884584829291830051"
+      },
+      "bones": [
+        {
+          "file_id": 0,
+          "path_id": "1446139228375926439"
+        },
+        {
+          "file_id": 0,
+          "path_id": "2419596751330259198"
+        },
+        {
+          "file_id": 0,
+          "path_id": "3992187600010992500"
+        },
+        {
+          "file_id": 0,
+          "path_id": "1261029971239503681"
+        },
+        {
+          "file_id": 0,
+          "path_id": "-2861946087054180637"
+        },
+        {
+          "file_id": 0,
+          "path_id": "6151371294294036483"
+        },
+        {
+          "file_id": 0,
+          "path_id": "1326807921867534843"
+        },
+        {
+          "file_id": 0,
+          "path_id": "-6011406833333530018"
+        },
+        {
+          "file_id": 0,
+          "path_id": "6402512548331166216"
+        },
+        {
+          "file_id": 0,
+          "path_id": "-6302734335021763009"
+        },
+        {
+          "file_id": 0,
+          "path_id": "-8148604644075294638"
+        },
+        {
+          "file_id": 0,
+          "path_id": "-7829439271442792347"
+        },
+        {
+          "file_id": 0,
+          "path_id": "2499155557660640495"
+        },
+        {
+          "file_id": 0,
+          "path_id": "-4074560846672148805"
+        },
+        {
+          "file_id": 0,
+          "path_id": "-1270723439201228590"
+        },
+        {
+          "file_id": 0,
+          "path_id": "8238883995260326896"
+        },
+        {
+          "file_id": 0,
+          "path_id": "7866765018739861230"
+        },
+        {
+          "file_id": 0,
+          "path_id": "4281513603214736759"
+        },
+        {
+          "file_id": 0,
+          "path_id": "1624947518445832976"
+        },
+        {
+          "file_id": 0,
+          "path_id": "5982970989646551694"
+        },
+        {
+          "file_id": 0,
+          "path_id": "314513922316261739"
+        },
+        {
+          "file_id": 0,
+          "path_id": "-3882420652728724769"
+        },
+        {
+          "file_id": 0,
+          "path_id": "-8283170638144593912"
+        },
+        {
+          "file_id": 0,
+          "path_id": "8365423606587329842"
+        },
+        {
+          "file_id": 0,
+          "path_id": "6000684801219392329"
+        },
+        {
+          "file_id": 0,
+          "path_id": "-2894268580660382426"
+        },
+        {
+          "file_id": 0,
+          "path_id": "-162941205709914238"
+        },
+        {
+          "file_id": 0,
+          "path_id": "1220058823794206578"
+        },
+        {
+          "file_id": 0,
+          "path_id": "-7819500329113614183"
+        },
+        {
+          "file_id": 0,
+          "path_id": "4609710568109737161"
+        },
+        {
+          "file_id": 0,
+          "path_id": "4454658925253442913"
+        },
+        {
+          "file_id": 0,
+          "path_id": "229846236005910635"
+        },
+        {
+          "file_id": 0,
+          "path_id": "89228152523884806"
+        },
+        {
+          "file_id": 0,
+          "path_id": "4524742438474785603"
+        },
+        {
+          "file_id": 0,
+          "path_id": "-2140169815796298001"
+        },
+        {
+          "file_id": 0,
+          "path_id": "-82217645137483631"
+        },
+        {
+          "file_id": 0,
+          "path_id": "5388958097526454887"
+        },
+        {
+          "file_id": 0,
+          "path_id": "1113897474211714650"
+        },
+        {
+          "file_id": 0,
+          "path_id": "5019686835683506904"
+        },
+        {
+          "file_id": 0,
+          "path_id": "8292101974305963079"
+        },
+        {
+          "file_id": 0,
+          "path_id": "1604699526146023719"
+        },
+        {
+          "file_id": 0,
+          "path_id": "-2332688505699128864"
+        },
+        {
+          "file_id": 0,
+          "path_id": "2904161446483003795"
+        },
+        {
+          "file_id": 0,
+          "path_id": "3746478136517359807"
+        },
+        {
+          "file_id": 0,
+          "path_id": "1484378483802771797"
+        },
+        {
+          "file_id": 0,
+          "path_id": "4430169888790768767"
+        },
+        {
+          "file_id": 0,
+          "path_id": "-3356175933623662595"
+        },
+        {
+          "file_id": 0,
+          "path_id": "5343366069437510370"
+        },
+        {
+          "file_id": 0,
+          "path_id": "4394102055958252053"
+        },
+        {
+          "file_id": 0,
+          "path_id": "-459280597733180225"
+        },
+        {
+          "file_id": 0,
+          "path_id": "-428620553552314195"
+        },
+        {
+          "file_id": 0,
+          "path_id": "-5256330257207967991"
+        },
+        {
+          "file_id": 0,
+          "path_id": "5705176513741453707"
+        },
+        {
+          "file_id": 0,
+          "path_id": "9118922857020067039"
+        },
+        {
+          "file_id": 0,
+          "path_id": "-2052198622994695185"
+        },
+        {
+          "file_id": 0,
+          "path_id": "8773115767382566278"
+        },
+        {
+          "file_id": 0,
+          "path_id": "-8101906021348057010"
+        },
+        {
+          "file_id": 0,
+          "path_id": "6866229555337255639"
+        },
+        {
+          "file_id": 0,
+          "path_id": "-7424191892562843733"
+        },
+        {
+          "file_id": 0,
+          "path_id": "5348095829431339845"
+        },
+        {
+          "file_id": 0,
+          "path_id": "-3759765803075416196"
+        },
+        {
+          "file_id": 0,
+          "path_id": "4099822694157658734"
+        },
+        {
+          "file_id": 0,
+          "path_id": "7572352415729572896"
+        },
+        {
+          "file_id": 0,
+          "path_id": "1566642746494957604"
+        },
+        {
+          "file_id": 0,
+          "path_id": "-7057446219165782847"
+        },
+        {
+          "file_id": 0,
+          "path_id": "-702491285662330885"
+        },
+        {
+          "file_id": 0,
+          "path_id": "-6373351890925588996"
+        },
+        {
+          "file_id": 0,
+          "path_id": "2604980744686719340"
+        },
+        {
+          "file_id": 0,
+          "path_id": "-9514667497596340"
+        },
+        {
+          "file_id": 0,
+          "path_id": "8442044162291921802"
+        },
+        {
+          "file_id": 0,
+          "path_id": "8096651414164517572"
+        },
+        {
+          "file_id": 0,
+          "path_id": "-6858750375673026147"
+        },
+        {
+          "file_id": 0,
+          "path_id": "-3853970831504858155"
+        },
+        {
+          "file_id": 0,
+          "path_id": "2864800307151002429"
+        },
+        {
+          "file_id": 0,
+          "path_id": "1643980783992954909"
+        },
+        {
+          "file_id": 0,
+          "path_id": "-8707091138498733105"
+        },
+        {
+          "file_id": 0,
+          "path_id": "8219335733716972467"
+        },
+        {
+          "file_id": 0,
+          "path_id": "-6322702375650386740"
+        },
+        {
+          "file_id": 0,
+          "path_id": "1763390336642151062"
+        },
+        {
+          "file_id": 0,
+          "path_id": "1700352714704160390"
+        }
+      ],
+      "blend_shape_weights": [],
+      "root_bone": {
+        "file_id": 0,
+        "path_id": "2499155557660640495"
+      },
+      "aabb": [
+        0.14044374227523804,
+        -0.061192408204078674,
+        8.940696716308594e-08,
+        0.8481314778327942,
+        0.22867541015148163,
+        0.45937952399253845
+      ],
+      "dirty_aabb": 0,
+      "uninterpreted_trailer_hex": "000000000000000000000000000000000000803f00000000",
+      "id": "-2125652783600842951",
+      "name": "Body",
+      "type_hash": "d74087651cccc56b59dcdac73be06d71",
+      "raw_sha256": "f397e6a12b6c8a543a32fc217aeba629c92eb3d2fa664cdcaedf5f31939aa1cd",
+      "mesh_ref": "cab-22806015bc35bc28c61b5dad332a39b0:-2884584829291830051",
+      "material_refs": [
+        "cab-a4c0f927998b5c0bf96c2daeceff7e17:7047444584234722981",
+        "cab-761ace6baed8e479727b8c7d435a01a9:-3370262707923854603"
+      ],
+      "bone_names": [
+        "Bip001 Head",
+        "+EyeBone R A02",
+        "+EyeBone L A02",
+        "+VisionPelvisS L E01",
+        "Bip001 Neck",
+        "Bip001 Spine2",
+        "Bip001 R Clavicle",
+        "Bip001 Spine1",
+        "Bip001 L Clavicle",
+        "+PelvisTwist CF A01",
+        "Bip001 L Thigh",
+        "Bip001 R Thigh",
+        "Bip001 Spine",
+        "+UpperArmTwist R A01",
+        "+UpperArmTwist R A02",
+        "Bip001 R Forearm",
+        "+SkirtB L B01",
+        "+SkirtB L B02",
+        "+SkirtB L B03",
+        "+UpperArmTwist L A01",
+        "+UpperArmTwist L A02",
+        "Bip001 L Forearm",
+        "+HemB R D01",
+        "+HemB R D03",
+        "+HemB R D04",
+        "+HemB R D05",
+        "+HemB R D02",
+        "Bip001 R Foot",
+        "Bip001 R Toe0",
+        "Bip001 L Foot",
+        "Bip001 L Toe0",
+        "+LegBagB R A01",
+        "+VisionPelvisS L E02",
+        "+LegBagB R A02",
+        "+LegBagB R A03",
+        "+AmiceB R B11",
+        "+AmiceB R B12",
+        "Bip001 L Hand",
+        "+AmiceB L B11",
+        "+AmiceB L B12",
+        "Bip001 R Hand",
+        "Bip001 R Finger0",
+        "Bip001 R Finger01",
+        "Bip001 R Finger2",
+        "Bip001 R Finger1",
+        "Bip001 R Finger3",
+        "Bip001 R Finger4",
+        "Bip001 R Finger41",
+        "Bip001 R Finger02",
+        "Bip001 R Finger11",
+        "Bip001 R Finger12",
+        "Bip001 R Finger21",
+        "Bip001 R Finger22",
+        "Bip001 R Finger31",
+        "Bip001 R Finger32",
+        "Bip001 R Finger42",
+        "Bip001 L Finger0",
+        "Bip001 L Finger01",
+        "Bip001 L Finger2",
+        "Bip001 L Finger1",
+        "Bip001 L Finger3",
+        "Bip001 L Finger4",
+        "Bip001 L Finger41",
+        "Bip001 L Finger02",
+        "Bip001 L Finger11",
+        "Bip001 L Finger12",
+        "Bip001 L Finger21",
+        "Bip001 L Finger22",
+        "Bip001 L Finger31",
+        "Bip001 L Finger32",
+        "Bip001 L Finger42",
+        "+ArmLetsS R A12",
+        "+ArmLetsS R A11",
+        "Bip001 R Calf",
+        "Bip001 L Calf",
+        "+HemB L D01",
+        "+HemB L D02",
+        "+HemB L D03",
+        "+HemB L D04",
+        "+HemB L D05"
+      ],
+      "bone_paths": [
+        [
+          "Avatar_Boy_Sword_Bennett_Manekin",
+          "Bip001",
+          "Bip001 Pelvis",
+          "Bip001 Spine",
+          "Bip001 Spine1",
+          "Bip001 Spine2",
+          "Bip001 Neck",
+          "Bip001 Head"
+        ],
+        [
+          "Avatar_Boy_Sword_Bennett_Manekin",
+          "Bip001",
+          "Bip001 Pelvis",
+          "Bip001 Spine",
+          "Bip001 Spine1",
+          "Bip001 Spine2",
+          "Bip001 Neck",
+          "Bip001 Head",
+          "+EyeBone R A01",
+          "+EyeBone R A02"
+        ],
+        [
+          "Avatar_Boy_Sword_Bennett_Manekin",
+          "Bip001",
+          "Bip001 Pelvis",
+          "Bip001 Spine",
+          "Bip001 Spine1",
+          "Bip001 Spine2",
+          "Bip001 Neck",
+          "Bip001 Head",
+          "+EyeBone L A01",
+          "+EyeBone L A02"
+        ],
+        [
+          "Avatar_Boy_Sword_Bennett_Manekin",
+          "Bip001",
+          "Bip001 Pelvis",
+          "+VisionPelvisS L E01"
+        ],
+        [
+          "Avatar_Boy_Sword_Bennett_Manekin",
+          "Bip001",
+          "Bip001 Pelvis",
+          "Bip001 Spine",
+          "Bip001 Spine1",
+          "Bip001 Spine2",
+          "Bip001 Neck"
+        ],
+        [
+          "Avatar_Boy_Sword_Bennett_Manekin",
+          "Bip001",
+          "Bip001 Pelvis",
+          "Bip001 Spine",
+          "Bip001 Spine1",
+          "Bip001 Spine2"
+        ],
+        [
+          "Avatar_Boy_Sword_Bennett_Manekin",
+          "Bip001",
+          "Bip001 Pelvis",
+          "Bip001 Spine",
+          "Bip001 Spine1",
+          "Bip001 Spine2",
+          "Bip001 R Clavicle"
+        ],
+        [
+          "Avatar_Boy_Sword_Bennett_Manekin",
+          "Bip001",
+          "Bip001 Pelvis",
+          "Bip001 Spine",
+          "Bip001 Spine1"
+        ],
+        [
+          "Avatar_Boy_Sword_Bennett_Manekin",
+          "Bip001",
+          "Bip001 Pelvis",
+          "Bip001 Spine",
+          "Bip001 Spine1",
+          "Bip001 Spine2",
+          "Bip001 L Clavicle"
+        ],
+        [
+          "Avatar_Boy_Sword_Bennett_Manekin",
+          "Bip001",
+          "+PelvisTwist CF A01"
+        ],
+        [
+          "Avatar_Boy_Sword_Bennett_Manekin",
+          "Bip001",
+          "Bip001 Pelvis",
+          "Bip001 L Thigh"
+        ],
+        [
+          "Avatar_Boy_Sword_Bennett_Manekin",
+          "Bip001",
+          "Bip001 Pelvis",
+          "Bip001 R Thigh"
+        ],
+        [
+          "Avatar_Boy_Sword_Bennett_Manekin",
+          "Bip001",
+          "Bip001 Pelvis",
+          "Bip001 Spine"
+        ],
+        [
+          "Avatar_Boy_Sword_Bennett_Manekin",
+          "Bip001",
+          "Bip001 Pelvis",
+          "Bip001 Spine",
+          "Bip001 Spine1",
+          "Bip001 Spine2",
+          "Bip001 R Clavicle",
+          "Bip001 R UpperArm",
+          "+UpperArmTwist R A01"
+        ],
+        [
+          "Avatar_Boy_Sword_Bennett_Manekin",
+          "Bip001",
+          "Bip001 Pelvis",
+          "Bip001 Spine",
+          "Bip001 Spine1",
+          "Bip001 Spine2",
+          "Bip001 R Clavicle",
+          "Bip001 R UpperArm",
+          "+UpperArmTwist R A02"
+        ],
+        [
+          "Avatar_Boy_Sword_Bennett_Manekin",
+          "Bip001",
+          "Bip001 Pelvis",
+          "Bip001 Spine",
+          "Bip001 Spine1",
+          "Bip001 Spine2",
+          "Bip001 R Clavicle",
+          "Bip001 R UpperArm",
+          "Bip001 R Forearm"
+        ],
+        [
+          "Avatar_Boy_Sword_Bennett_Manekin",
+          "Bip001",
+          "Bip001 Pelvis",
+          "Bip001 Spine",
+          "+SkirtB L B01"
+        ],
+        [
+          "Avatar_Boy_Sword_Bennett_Manekin",
+          "Bip001",
+          "Bip001 Pelvis",
+          "Bip001 Spine",
+          "+SkirtB L B01",
+          "+SkirtB L B02"
+        ],
+        [
+          "Avatar_Boy_Sword_Bennett_Manekin",
+          "Bip001",
+          "Bip001 Pelvis",
+          "Bip001 Spine",
+          "+SkirtB L B01",
+          "+SkirtB L B02",
+          "+SkirtB L B03"
+        ],
+        [
+          "Avatar_Boy_Sword_Bennett_Manekin",
+          "Bip001",
+          "Bip001 Pelvis",
+          "Bip001 Spine",
+          "Bip001 Spine1",
+          "Bip001 Spine2",
+          "Bip001 L Clavicle",
+          "Bip001 L UpperArm",
+          "+UpperArmTwist L A01"
+        ],
+        [
+          "Avatar_Boy_Sword_Bennett_Manekin",
+          "Bip001",
+          "Bip001 Pelvis",
+          "Bip001 Spine",
+          "Bip001 Spine1",
+          "Bip001 Spine2",
+          "Bip001 L Clavicle",
+          "Bip001 L UpperArm",
+          "+UpperArmTwist L A02"
+        ],
+        [
+          "Avatar_Boy_Sword_Bennett_Manekin",
+          "Bip001",
+          "Bip001 Pelvis",
+          "Bip001 Spine",
+          "Bip001 Spine1",
+          "Bip001 Spine2",
+          "Bip001 L Clavicle",
+          "Bip001 L UpperArm",
+          "Bip001 L Forearm"
+        ],
+        [
+          "Avatar_Boy_Sword_Bennett_Manekin",
+          "Bip001",
+          "Bip001 Pelvis",
+          "Bip001 Spine",
+          "+HemB R D01"
+        ],
+        [
+          "Avatar_Boy_Sword_Bennett_Manekin",
+          "Bip001",
+          "Bip001 Pelvis",
+          "Bip001 Spine",
+          "+HemB R D01",
+          "+HemB R D02",
+          "+HemB R D03"
+        ],
+        [
+          "Avatar_Boy_Sword_Bennett_Manekin",
+          "Bip001",
+          "Bip001 Pelvis",
+          "Bip001 Spine",
+          "+HemB R D01",
+          "+HemB R D02",
+          "+HemB R D03",
+          "+HemB R D04"
+        ],
+        [
+          "Avatar_Boy_Sword_Bennett_Manekin",
+          "Bip001",
+          "Bip001 Pelvis",
+          "Bip001 Spine",
+          "+HemB R D01",
+          "+HemB R D02",
+          "+HemB R D03",
+          "+HemB R D04",
+          "+HemB R D05"
+        ],
+        [
+          "Avatar_Boy_Sword_Bennett_Manekin",
+          "Bip001",
+          "Bip001 Pelvis",
+          "Bip001 Spine",
+          "+HemB R D01",
+          "+HemB R D02"
+        ],
+        [
+          "Avatar_Boy_Sword_Bennett_Manekin",
+          "Bip001",
+          "Bip001 Pelvis",
+          "Bip001 R Thigh",
+          "Bip001 R Calf",
+          "Bip001 R Foot"
+        ],
+        [
+          "Avatar_Boy_Sword_Bennett_Manekin",
+          "Bip001",
+          "Bip001 Pelvis",
+          "Bip001 R Thigh",
+          "Bip001 R Calf",
+          "Bip001 R Foot",
+          "Bip001 R Toe0"
+        ],
+        [
+          "Avatar_Boy_Sword_Bennett_Manekin",
+          "Bip001",
+          "Bip001 Pelvis",
+          "Bip001 L Thigh",
+          "Bip001 L Calf",
+          "Bip001 L Foot"
+        ],
+        [
+          "Avatar_Boy_Sword_Bennett_Manekin",
+          "Bip001",
+          "Bip001 Pelvis",
+          "Bip001 L Thigh",
+          "Bip001 L Calf",
+          "Bip001 L Foot",
+          "Bip001 L Toe0"
+        ],
+        [
+          "Avatar_Boy_Sword_Bennett_Manekin",
+          "Bip001",
+          "Bip001 Pelvis",
+          "+LegBagB R A01"
+        ],
+        [
+          "Avatar_Boy_Sword_Bennett_Manekin",
+          "Bip001",
+          "Bip001 Pelvis",
+          "+VisionPelvisS L E01",
+          "+VisionPelvisS L E02"
+        ],
+        [
+          "Avatar_Boy_Sword_Bennett_Manekin",
+          "Bip001",
+          "Bip001 Pelvis",
+          "+LegBagB R A01",
+          "+LegBagB R A02"
+        ],
+        [
+          "Avatar_Boy_Sword_Bennett_Manekin",
+          "Bip001",
+          "Bip001 Pelvis",
+          "+LegBagB R A01",
+          "+LegBagB R A02",
+          "+LegBagB R A03"
+        ],
+        [
+          "Avatar_Boy_Sword_Bennett_Manekin",
+          "Bip001",
+          "Bip001 Pelvis",
+          "Bip001 Spine",
+          "Bip001 Spine1",
+          "Bip001 Spine2",
+          "+AmiceB R B11"
+        ],
+        [
+          "Avatar_Boy_Sword_Bennett_Manekin",
+          "Bip001",
+          "Bip001 Pelvis",
+          "Bip001 Spine",
+          "Bip001 Spine1",
+          "Bip001 Spine2",
+          "+AmiceB R B11",
+          "+AmiceB R B12"
+        ],
+        [
+          "Avatar_Boy_Sword_Bennett_Manekin",
+          "Bip001",
+          "Bip001 Pelvis",
+          "Bip001 Spine",
+          "Bip001 Spine1",
+          "Bip001 Spine2",
+          "Bip001 L Clavicle",
+          "Bip001 L UpperArm",
+          "Bip001 L Forearm",
+          "Bip001 L Hand"
+        ],
+        [
+          "Avatar_Boy_Sword_Bennett_Manekin",
+          "Bip001",
+          "Bip001 Pelvis",
+          "Bip001 Spine",
+          "Bip001 Spine1",
+          "Bip001 Spine2",
+          "+AmiceB L B11"
+        ],
+        [
+          "Avatar_Boy_Sword_Bennett_Manekin",
+          "Bip001",
+          "Bip001 Pelvis",
+          "Bip001 Spine",
+          "Bip001 Spine1",
+          "Bip001 Spine2",
+          "+AmiceB L B11",
+          "+AmiceB L B12"
+        ],
+        [
+          "Avatar_Boy_Sword_Bennett_Manekin",
+          "Bip001",
+          "Bip001 Pelvis",
+          "Bip001 Spine",
+          "Bip001 Spine1",
+          "Bip001 Spine2",
+          "Bip001 R Clavicle",
+          "Bip001 R UpperArm",
+          "Bip001 R Forearm",
+          "Bip001 R Hand"
+        ],
+        [
+          "Avatar_Boy_Sword_Bennett_Manekin",
+          "Bip001",
+          "Bip001 Pelvis",
+          "Bip001 Spine",
+          "Bip001 Spine1",
+          "Bip001 Spine2",
+          "Bip001 R Clavicle",
+          "Bip001 R UpperArm",
+          "Bip001 R Forearm",
+          "Bip001 R Hand",
+          "Bip001 R Finger0"
+        ],
+        [
+          "Avatar_Boy_Sword_Bennett_Manekin",
+          "Bip001",
+          "Bip001 Pelvis",
+          "Bip001 Spine",
+          "Bip001 Spine1",
+          "Bip001 Spine2",
+          "Bip001 R Clavicle",
+          "Bip001 R UpperArm",
+          "Bip001 R Forearm",
+          "Bip001 R Hand",
+          "Bip001 R Finger0",
+          "Bip001 R Finger01"
+        ],
+        [
+          "Avatar_Boy_Sword_Bennett_Manekin",
+          "Bip001",
+          "Bip001 Pelvis",
+          "Bip001 Spine",
+          "Bip001 Spine1",
+          "Bip001 Spine2",
+          "Bip001 R Clavicle",
+          "Bip001 R UpperArm",
+          "Bip001 R Forearm",
+          "Bip001 R Hand",
+          "Bip001 R Finger2"
+        ],
+        [
+          "Avatar_Boy_Sword_Bennett_Manekin",
+          "Bip001",
+          "Bip001 Pelvis",
+          "Bip001 Spine",
+          "Bip001 Spine1",
+          "Bip001 Spine2",
+          "Bip001 R Clavicle",
+          "Bip001 R UpperArm",
+          "Bip001 R Forearm",
+          "Bip001 R Hand",
+          "Bip001 R Finger1"
+        ],
+        [
+          "Avatar_Boy_Sword_Bennett_Manekin",
+          "Bip001",
+          "Bip001 Pelvis",
+          "Bip001 Spine",
+          "Bip001 Spine1",
+          "Bip001 Spine2",
+          "Bip001 R Clavicle",
+          "Bip001 R UpperArm",
+          "Bip001 R Forearm",
+          "Bip001 R Hand",
+          "Bip001 R Finger3"
+        ],
+        [
+          "Avatar_Boy_Sword_Bennett_Manekin",
+          "Bip001",
+          "Bip001 Pelvis",
+          "Bip001 Spine",
+          "Bip001 Spine1",
+          "Bip001 Spine2",
+          "Bip001 R Clavicle",
+          "Bip001 R UpperArm",
+          "Bip001 R Forearm",
+          "Bip001 R Hand",
+          "Bip001 R Finger4"
+        ],
+        [
+          "Avatar_Boy_Sword_Bennett_Manekin",
+          "Bip001",
+          "Bip001 Pelvis",
+          "Bip001 Spine",
+          "Bip001 Spine1",
+          "Bip001 Spine2",
+          "Bip001 R Clavicle",
+          "Bip001 R UpperArm",
+          "Bip001 R Forearm",
+          "Bip001 R Hand",
+          "Bip001 R Finger4",
+          "Bip001 R Finger41"
+        ],
+        [
+          "Avatar_Boy_Sword_Bennett_Manekin",
+          "Bip001",
+          "Bip001 Pelvis",
+          "Bip001 Spine",
+          "Bip001 Spine1",
+          "Bip001 Spine2",
+          "Bip001 R Clavicle",
+          "Bip001 R UpperArm",
+          "Bip001 R Forearm",
+          "Bip001 R Hand",
+          "Bip001 R Finger0",
+          "Bip001 R Finger01",
+          "Bip001 R Finger02"
+        ],
+        [
+          "Avatar_Boy_Sword_Bennett_Manekin",
+          "Bip001",
+          "Bip001 Pelvis",
+          "Bip001 Spine",
+          "Bip001 Spine1",
+          "Bip001 Spine2",
+          "Bip001 R Clavicle",
+          "Bip001 R UpperArm",
+          "Bip001 R Forearm",
+          "Bip001 R Hand",
+          "Bip001 R Finger1",
+          "Bip001 R Finger11"
+        ],
+        [
+          "Avatar_Boy_Sword_Bennett_Manekin",
+          "Bip001",
+          "Bip001 Pelvis",
+          "Bip001 Spine",
+          "Bip001 Spine1",
+          "Bip001 Spine2",
+          "Bip001 R Clavicle",
+          "Bip001 R UpperArm",
+          "Bip001 R Forearm",
+          "Bip001 R Hand",
+          "Bip001 R Finger1",
+          "Bip001 R Finger11",
+          "Bip001 R Finger12"
+        ],
+        [
+          "Avatar_Boy_Sword_Bennett_Manekin",
+          "Bip001",
+          "Bip001 Pelvis",
+          "Bip001 Spine",
+          "Bip001 Spine1",
+          "Bip001 Spine2",
+          "Bip001 R Clavicle",
+          "Bip001 R UpperArm",
+          "Bip001 R Forearm",
+          "Bip001 R Hand",
+          "Bip001 R Finger2",
+          "Bip001 R Finger21"
+        ],
+        [
+          "Avatar_Boy_Sword_Bennett_Manekin",
+          "Bip001",
+          "Bip001 Pelvis",
+          "Bip001 Spine",
+          "Bip001 Spine1",
+          "Bip001 Spine2",
+          "Bip001 R Clavicle",
+          "Bip001 R UpperArm",
+          "Bip001 R Forearm",
+          "Bip001 R Hand",
+          "Bip001 R Finger2",
+          "Bip001 R Finger21",
+          "Bip001 R Finger22"
+        ],
+        [
+          "Avatar_Boy_Sword_Bennett_Manekin",
+          "Bip001",
+          "Bip001 Pelvis",
+          "Bip001 Spine",
+          "Bip001 Spine1",
+          "Bip001 Spine2",
+          "Bip001 R Clavicle",
+          "Bip001 R UpperArm",
+          "Bip001 R Forearm",
+          "Bip001 R Hand",
+          "Bip001 R Finger3",
+          "Bip001 R Finger31"
+        ],
+        [
+          "Avatar_Boy_Sword_Bennett_Manekin",
+          "Bip001",
+          "Bip001 Pelvis",
+          "Bip001 Spine",
+          "Bip001 Spine1",
+          "Bip001 Spine2",
+          "Bip001 R Clavicle",
+          "Bip001 R UpperArm",
+          "Bip001 R Forearm",
+          "Bip001 R Hand",
+          "Bip001 R Finger3",
+          "Bip001 R Finger31",
+          "Bip001 R Finger32"
+        ],
+        [
+          "Avatar_Boy_Sword_Bennett_Manekin",
+          "Bip001",
+          "Bip001 Pelvis",
+          "Bip001 Spine",
+          "Bip001 Spine1",
+          "Bip001 Spine2",
+          "Bip001 R Clavicle",
+          "Bip001 R UpperArm",
+          "Bip001 R Forearm",
+          "Bip001 R Hand",
+          "Bip001 R Finger4",
+          "Bip001 R Finger41",
+          "Bip001 R Finger42"
+        ],
+        [
+          "Avatar_Boy_Sword_Bennett_Manekin",
+          "Bip001",
+          "Bip001 Pelvis",
+          "Bip001 Spine",
+          "Bip001 Spine1",
+          "Bip001 Spine2",
+          "Bip001 L Clavicle",
+          "Bip001 L UpperArm",
+          "Bip001 L Forearm",
+          "Bip001 L Hand",
+          "Bip001 L Finger0"
+        ],
+        [
+          "Avatar_Boy_Sword_Bennett_Manekin",
+          "Bip001",
+          "Bip001 Pelvis",
+          "Bip001 Spine",
+          "Bip001 Spine1",
+          "Bip001 Spine2",
+          "Bip001 L Clavicle",
+          "Bip001 L UpperArm",
+          "Bip001 L Forearm",
+          "Bip001 L Hand",
+          "Bip001 L Finger0",
+          "Bip001 L Finger01"
+        ],
+        [
+          "Avatar_Boy_Sword_Bennett_Manekin",
+          "Bip001",
+          "Bip001 Pelvis",
+          "Bip001 Spine",
+          "Bip001 Spine1",
+          "Bip001 Spine2",
+          "Bip001 L Clavicle",
+          "Bip001 L UpperArm",
+          "Bip001 L Forearm",
+          "Bip001 L Hand",
+          "Bip001 L Finger2"
+        ],
+        [
+          "Avatar_Boy_Sword_Bennett_Manekin",
+          "Bip001",
+          "Bip001 Pelvis",
+          "Bip001 Spine",
+          "Bip001 Spine1",
+          "Bip001 Spine2",
+          "Bip001 L Clavicle",
+          "Bip001 L UpperArm",
+          "Bip001 L Forearm",
+          "Bip001 L Hand",
+          "Bip001 L Finger1"
+        ],
+        [
+          "Avatar_Boy_Sword_Bennett_Manekin",
+          "Bip001",
+          "Bip001 Pelvis",
+          "Bip001 Spine",
+          "Bip001 Spine1",
+          "Bip001 Spine2",
+          "Bip001 L Clavicle",
+          "Bip001 L UpperArm",
+          "Bip001 L Forearm",
+          "Bip001 L Hand",
+          "Bip001 L Finger3"
+        ],
+        [
+          "Avatar_Boy_Sword_Bennett_Manekin",
+          "Bip001",
+          "Bip001 Pelvis",
+          "Bip001 Spine",
+          "Bip001 Spine1",
+          "Bip001 Spine2",
+          "Bip001 L Clavicle",
+          "Bip001 L UpperArm",
+          "Bip001 L Forearm",
+          "Bip001 L Hand",
+          "Bip001 L Finger4"
+        ],
+        [
+          "Avatar_Boy_Sword_Bennett_Manekin",
+          "Bip001",
+          "Bip001 Pelvis",
+          "Bip001 Spine",
+          "Bip001 Spine1",
+          "Bip001 Spine2",
+          "Bip001 L Clavicle",
+          "Bip001 L UpperArm",
+          "Bip001 L Forearm",
+          "Bip001 L Hand",
+          "Bip001 L Finger4",
+          "Bip001 L Finger41"
+        ],
+        [
+          "Avatar_Boy_Sword_Bennett_Manekin",
+          "Bip001",
+          "Bip001 Pelvis",
+          "Bip001 Spine",
+          "Bip001 Spine1",
+          "Bip001 Spine2",
+          "Bip001 L Clavicle",
+          "Bip001 L UpperArm",
+          "Bip001 L Forearm",
+          "Bip001 L Hand",
+          "Bip001 L Finger0",
+          "Bip001 L Finger01",
+          "Bip001 L Finger02"
+        ],
+        [
+          "Avatar_Boy_Sword_Bennett_Manekin",
+          "Bip001",
+          "Bip001 Pelvis",
+          "Bip001 Spine",
+          "Bip001 Spine1",
+          "Bip001 Spine2",
+          "Bip001 L Clavicle",
+          "Bip001 L UpperArm",
+          "Bip001 L Forearm",
+          "Bip001 L Hand",
+          "Bip001 L Finger1",
+          "Bip001 L Finger11"
+        ],
+        [
+          "Avatar_Boy_Sword_Bennett_Manekin",
+          "Bip001",
+          "Bip001 Pelvis",
+          "Bip001 Spine",
+          "Bip001 Spine1",
+          "Bip001 Spine2",
+          "Bip001 L Clavicle",
+          "Bip001 L UpperArm",
+          "Bip001 L Forearm",
+          "Bip001 L Hand",
+          "Bip001 L Finger1",
+          "Bip001 L Finger11",
+          "Bip001 L Finger12"
+        ],
+        [
+          "Avatar_Boy_Sword_Bennett_Manekin",
+          "Bip001",
+          "Bip001 Pelvis",
+          "Bip001 Spine",
+          "Bip001 Spine1",
+          "Bip001 Spine2",
+          "Bip001 L Clavicle",
+          "Bip001 L UpperArm",
+          "Bip001 L Forearm",
+          "Bip001 L Hand",
+          "Bip001 L Finger2",
+          "Bip001 L Finger21"
+        ],
+        [
+          "Avatar_Boy_Sword_Bennett_Manekin",
+          "Bip001",
+          "Bip001 Pelvis",
+          "Bip001 Spine",
+          "Bip001 Spine1",
+          "Bip001 Spine2",
+          "Bip001 L Clavicle",
+          "Bip001 L UpperArm",
+          "Bip001 L Forearm",
+          "Bip001 L Hand",
+          "Bip001 L Finger2",
+          "Bip001 L Finger21",
+          "Bip001 L Finger22"
+        ],
+        [
+          "Avatar_Boy_Sword_Bennett_Manekin",
+          "Bip001",
+          "Bip001 Pelvis",
+          "Bip001 Spine",
+          "Bip001 Spine1",
+          "Bip001 Spine2",
+          "Bip001 L Clavicle",
+          "Bip001 L UpperArm",
+          "Bip001 L Forearm",
+          "Bip001 L Hand",
+          "Bip001 L Finger3",
+          "Bip001 L Finger31"
+        ],
+        [
+          "Avatar_Boy_Sword_Bennett_Manekin",
+          "Bip001",
+          "Bip001 Pelvis",
+          "Bip001 Spine",
+          "Bip001 Spine1",
+          "Bip001 Spine2",
+          "Bip001 L Clavicle",
+          "Bip001 L UpperArm",
+          "Bip001 L Forearm",
+          "Bip001 L Hand",
+          "Bip001 L Finger3",
+          "Bip001 L Finger31",
+          "Bip001 L Finger32"
+        ],
+        [
+          "Avatar_Boy_Sword_Bennett_Manekin",
+          "Bip001",
+          "Bip001 Pelvis",
+          "Bip001 Spine",
+          "Bip001 Spine1",
+          "Bip001 Spine2",
+          "Bip001 L Clavicle",
+          "Bip001 L UpperArm",
+          "Bip001 L Forearm",
+          "Bip001 L Hand",
+          "Bip001 L Finger4",
+          "Bip001 L Finger41",
+          "Bip001 L Finger42"
+        ],
+        [
+          "Avatar_Boy_Sword_Bennett_Manekin",
+          "Bip001",
+          "Bip001 Pelvis",
+          "Bip001 Spine",
+          "Bip001 Spine1",
+          "Bip001 Spine2",
+          "Bip001 R Clavicle",
+          "Bip001 R UpperArm",
+          "+UpperArmTwist R A01",
+          "+ArmLetsS R A12"
+        ],
+        [
+          "Avatar_Boy_Sword_Bennett_Manekin",
+          "Bip001",
+          "Bip001 Pelvis",
+          "Bip001 Spine",
+          "Bip001 Spine1",
+          "Bip001 Spine2",
+          "Bip001 R Clavicle",
+          "Bip001 R UpperArm",
+          "+UpperArmTwist R A01",
+          "+ArmLetsS R A11"
+        ],
+        [
+          "Avatar_Boy_Sword_Bennett_Manekin",
+          "Bip001",
+          "Bip001 Pelvis",
+          "Bip001 R Thigh",
+          "Bip001 R Calf"
+        ],
+        [
+          "Avatar_Boy_Sword_Bennett_Manekin",
+          "Bip001",
+          "Bip001 Pelvis",
+          "Bip001 L Thigh",
+          "Bip001 L Calf"
+        ],
+        [
+          "Avatar_Boy_Sword_Bennett_Manekin",
+          "Bip001",
+          "Bip001 Pelvis",
+          "Bip001 Spine",
+          "+HemB L D01"
+        ],
+        [
+          "Avatar_Boy_Sword_Bennett_Manekin",
+          "Bip001",
+          "Bip001 Pelvis",
+          "Bip001 Spine",
+          "+HemB L D01",
+          "+HemB L D02"
+        ],
+        [
+          "Avatar_Boy_Sword_Bennett_Manekin",
+          "Bip001",
+          "Bip001 Pelvis",
+          "Bip001 Spine",
+          "+HemB L D01",
+          "+HemB L D02",
+          "+HemB L D03"
+        ],
+        [
+          "Avatar_Boy_Sword_Bennett_Manekin",
+          "Bip001",
+          "Bip001 Pelvis",
+          "Bip001 Spine",
+          "+HemB L D01",
+          "+HemB L D02",
+          "+HemB L D03",
+          "+HemB L D04"
+        ],
+        [
+          "Avatar_Boy_Sword_Bennett_Manekin",
+          "Bip001",
+          "Bip001 Pelvis",
+          "Bip001 Spine",
+          "+HemB L D01",
+          "+HemB L D02",
+          "+HemB L D03",
+          "+HemB L D04",
+          "+HemB L D05"
+        ]
+      ]
+    },
+    {
+      "game_object": {
+        "file_id": 0,
+        "path_id": "-6294696023130785776"
+      },
+      "header_flags_hex": "010100010001000100000000000001000000000100000000",
+      "lightmap_scale_offset": [
+        1.0,
+        1.0,
+        0.0,
+        0.0
+      ],
+      "dynamic_lightmap_scale_offset": [
+        1.0,
+        1.0,
+        0.0,
+        0.0
+      ],
+      "view_distance_ratio": 16.0,
+      "shader_lod_distance_ratio": 1.0,
+      "materials": [
+        {
+          "file_id": 1,
+          "path_id": "-3626346805380977945"
+        }
+      ],
+      "static_batch": [
+        0,
+        0
+      ],
+      "static_batch_root": {
+        "file_id": 0,
+        "path_id": "0"
+      },
+      "material_layers": 1,
+      "probe_anchor": {
+        "file_id": 0,
+        "path_id": "0"
+      },
+      "probe_volume": {
+        "file_id": 0,
+        "path_id": "0"
+      },
+      "sorting": [
+        0,
+        0,
+        0
+      ],
+      "use_highest_mip": 0,
+      "quality": 0,
+      "update_when_offscreen": 0,
+      "skin_normals": 1,
+      "mesh": {
+        "file_id": 2,
+        "path_id": "-3578962995556741164"
+      },
+      "bones": [
+        {
+          "file_id": 0,
+          "path_id": "1446139228375926439"
+        }
+      ],
+      "blend_shape_weights": [],
+      "root_bone": {
+        "file_id": 0,
+        "path_id": "1446139228375926439"
+      },
+      "aabb": [
+        -0.09385267645120621,
+        0.08134801685810089,
+        2.086162567138672e-07,
+        0.019927315413951874,
+        0.013101309537887573,
+        0.06414347887039185
+      ],
+      "dirty_aabb": 0,
+      "uninterpreted_trailer_hex": "000000000000000000000000000000000000803f00000000",
+      "id": "345023171070343477",
+      "name": "Brow",
+      "type_hash": "d74087651cccc56b59dcdac73be06d71",
+      "raw_sha256": "52536bb5950d1d243386780260bed2ab5884d7cb3c321b54d0b4863b492b4706",
+      "mesh_ref": "cab-22806015bc35bc28c61b5dad332a39b0:-3578962995556741164",
+      "material_refs": [
+        "cab-f13a0c6165f51170317582749586c609:-3626346805380977945"
+      ],
+      "bone_names": [
+        "Bip001 Head"
+      ],
+      "bone_paths": [
+        [
+          "Avatar_Boy_Sword_Bennett_Manekin",
+          "Bip001",
+          "Bip001 Pelvis",
+          "Bip001 Spine",
+          "Bip001 Spine1",
+          "Bip001 Spine2",
+          "Bip001 Neck",
+          "Bip001 Head"
+        ]
+      ]
+    },
+    {
+      "game_object": {
+        "file_id": 0,
+        "path_id": "-1227857157153076894"
+      },
+      "header_flags_hex": "010100010001000100000000000001000000000100000000",
+      "lightmap_scale_offset": [
+        1.0,
+        1.0,
+        0.0,
+        0.0
+      ],
+      "dynamic_lightmap_scale_offset": [
+        1.0,
+        1.0,
+        0.0,
+        0.0
+      ],
+      "view_distance_ratio": 1.0,
+      "shader_lod_distance_ratio": 1.0,
+      "materials": [
+        {
+          "file_id": 7,
+          "path_id": "2229495150828588393"
+        }
+      ],
+      "static_batch": [
+        0,
+        0
+      ],
+      "static_batch_root": {
+        "file_id": 0,
+        "path_id": "0"
+      },
+      "material_layers": 1,
+      "probe_anchor": {
+        "file_id": 0,
+        "path_id": "0"
+      },
+      "probe_volume": {
+        "file_id": 0,
+        "path_id": "0"
+      },
+      "sorting": [
+        0,
+        0,
+        0
+      ],
+      "use_highest_mip": 0,
+      "quality": 0,
+      "update_when_offscreen": 0,
+      "skin_normals": 1,
+      "mesh": {
+        "file_id": 2,
+        "path_id": "-5538177363880539905"
+      },
+      "bones": [
+        {
+          "file_id": 0,
+          "path_id": "6151371294294036483"
+        },
+        {
+          "file_id": 0,
+          "path_id": "-6011406833333530018"
+        },
+        {
+          "file_id": 0,
+          "path_id": "-2861946087054180637"
+        },
+        {
+          "file_id": 0,
+          "path_id": "6402512548331166216"
+        },
+        {
+          "file_id": 0,
+          "path_id": "1326807921867534843"
+        },
+        {
+          "file_id": 0,
+          "path_id": "2499155557660640495"
+        },
+        {
+          "file_id": 0,
+          "path_id": "-6302734335021763009"
+        },
+        {
+          "file_id": 0,
+          "path_id": "-7829439271442792347"
+        },
+        {
+          "file_id": 0,
+          "path_id": "-8148604644075294638"
+        },
+        {
+          "file_id": 0,
+          "path_id": "5982970989646551694"
+        },
+        {
+          "file_id": 0,
+          "path_id": "314513922316261739"
+        },
+        {
+          "file_id": 0,
+          "path_id": "-4074560846672148805"
+        },
+        {
+          "file_id": 0,
+          "path_id": "-1270723439201228590"
+        }
+      ],
+      "blend_shape_weights": [],
+      "root_bone": {
+        "file_id": 0,
+        "path_id": "2499155557660640495"
+      },
+      "aabb": [
+        -0.12212260067462921,
+        -0.0056265778839588165,
+        5.513429641723633e-07,
+        0.2736240029335022,
+        0.1293669193983078,
+        0.1998569816350937
+      ],
+      "dirty_aabb": 0,
+      "uninterpreted_trailer_hex": "000000000000000000000000000000000000803f00000000",
+      "id": "6560486816516674439",
+      "name": "EffectMesh",
+      "type_hash": "d74087651cccc56b59dcdac73be06d71",
+      "raw_sha256": "cf23b5f8d1553f98081e32cfec6e0e47c77c78f299a39423ac987e22108b98c6",
+      "mesh_ref": "cab-22806015bc35bc28c61b5dad332a39b0:-5538177363880539905",
+      "material_refs": [
+        "cab-aaa3de6fd3a7cb70814c4c21d76eee6a:2229495150828588393"
+      ],
+      "bone_names": [
+        "Bip001 Spine2",
+        "Bip001 Spine1",
+        "Bip001 Neck",
+        "Bip001 L Clavicle",
+        "Bip001 R Clavicle",
+        "Bip001 Spine",
+        "+PelvisTwist CF A01",
+        "Bip001 R Thigh",
+        "Bip001 L Thigh",
+        "+UpperArmTwist L A01",
+        "+UpperArmTwist L A02",
+        "+UpperArmTwist R A01",
+        "+UpperArmTwist R A02"
+      ],
+      "bone_paths": [
+        [
+          "Avatar_Boy_Sword_Bennett_Manekin",
+          "Bip001",
+          "Bip001 Pelvis",
+          "Bip001 Spine",
+          "Bip001 Spine1",
+          "Bip001 Spine2"
+        ],
+        [
+          "Avatar_Boy_Sword_Bennett_Manekin",
+          "Bip001",
+          "Bip001 Pelvis",
+          "Bip001 Spine",
+          "Bip001 Spine1"
+        ],
+        [
+          "Avatar_Boy_Sword_Bennett_Manekin",
+          "Bip001",
+          "Bip001 Pelvis",
+          "Bip001 Spine",
+          "Bip001 Spine1",
+          "Bip001 Spine2",
+          "Bip001 Neck"
+        ],
+        [
+          "Avatar_Boy_Sword_Bennett_Manekin",
+          "Bip001",
+          "Bip001 Pelvis",
+          "Bip001 Spine",
+          "Bip001 Spine1",
+          "Bip001 Spine2",
+          "Bip001 L Clavicle"
+        ],
+        [
+          "Avatar_Boy_Sword_Bennett_Manekin",
+          "Bip001",
+          "Bip001 Pelvis",
+          "Bip001 Spine",
+          "Bip001 Spine1",
+          "Bip001 Spine2",
+          "Bip001 R Clavicle"
+        ],
+        [
+          "Avatar_Boy_Sword_Bennett_Manekin",
+          "Bip001",
+          "Bip001 Pelvis",
+          "Bip001 Spine"
+        ],
+        [
+          "Avatar_Boy_Sword_Bennett_Manekin",
+          "Bip001",
+          "+PelvisTwist CF A01"
+        ],
+        [
+          "Avatar_Boy_Sword_Bennett_Manekin",
+          "Bip001",
+          "Bip001 Pelvis",
+          "Bip001 R Thigh"
+        ],
+        [
+          "Avatar_Boy_Sword_Bennett_Manekin",
+          "Bip001",
+          "Bip001 Pelvis",
+          "Bip001 L Thigh"
+        ],
+        [
+          "Avatar_Boy_Sword_Bennett_Manekin",
+          "Bip001",
+          "Bip001 Pelvis",
+          "Bip001 Spine",
+          "Bip001 Spine1",
+          "Bip001 Spine2",
+          "Bip001 L Clavicle",
+          "Bip001 L UpperArm",
+          "+UpperArmTwist L A01"
+        ],
+        [
+          "Avatar_Boy_Sword_Bennett_Manekin",
+          "Bip001",
+          "Bip001 Pelvis",
+          "Bip001 Spine",
+          "Bip001 Spine1",
+          "Bip001 Spine2",
+          "Bip001 L Clavicle",
+          "Bip001 L UpperArm",
+          "+UpperArmTwist L A02"
+        ],
+        [
+          "Avatar_Boy_Sword_Bennett_Manekin",
+          "Bip001",
+          "Bip001 Pelvis",
+          "Bip001 Spine",
+          "Bip001 Spine1",
+          "Bip001 Spine2",
+          "Bip001 R Clavicle",
+          "Bip001 R UpperArm",
+          "+UpperArmTwist R A01"
+        ],
+        [
+          "Avatar_Boy_Sword_Bennett_Manekin",
+          "Bip001",
+          "Bip001 Pelvis",
+          "Bip001 Spine",
+          "Bip001 Spine1",
+          "Bip001 Spine2",
+          "Bip001 R Clavicle",
+          "Bip001 R UpperArm",
+          "+UpperArmTwist R A02"
+        ]
+      ]
+    }
+  ],
+  "static_mesh_filters": [],
+  "lod_mesh_groups": [],
+  "new_runtime_test_performed": false
+}

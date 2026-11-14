@@ -1,0 +1,75 @@
+{
+  "format": "genshin-skill-publication-v1",
+  "prepared_at": "2026-11-14T22:17:06.757704+08:00",
+  "repository": "https://github.com/mhdy2233/genshin-mod-update",
+  "branch": "main",
+  "skill": {
+    "name": "genshin-mod-upgrade",
+    "path": "genshin-mod-upgrade",
+    "files": 11227,
+    "bytes": 1290916644,
+    "largest_file_bytes": 4443960,
+    "requires_git_lfs": false
+  },
+  "source_comparison": {
+    "original_files": 11226,
+    "original_bytes": 1290912744,
+    "source_changed": [],
+    "publication_changed": [
+      "SKILL.md",
+      "references/ios-wanderer-cape-fx-case.md",
+      "references/pc-to-android.md",
+      "references/venti-case.md",
+      "references/wanderer-fx-case.md"
+    ],
+    "publication_added": [
+      "references/github-workspace.md"
+    ],
+    "unchanged_reference_files": 11206,
+    "unchanged_scripts": 7,
+    "unchanged_existing_files": 11221,
+    "all_reference_bytes_preserved": true,
+    "all_script_bytes_preserved": true
+  },
+  "checks": {
+    "standard_library_tests_passed": 26,
+    "unit_test_command": "python3 -X utf8 -B -m unittest discover -s genshin-mod-upgrade/scripts -p 'test_*.py' -v",
+    "skill_structure_valid": true,
+    "case_insensitive_path_collisions": 0,
+    "gitleaks_version": "8.30.1",
+    "gitleaks_findings": 0,
+    "gitleaks_scope": "text files, binary reference meshes excluded by scanner",
+    "byte_preserving_git_attributes": "* -text",
+    "authored_documents_checked": 15,
+    "local_document_links_checked": 52
+  },
+  "reference_pack": {
+    "id": "pc-osrelwin-7.0.0-r47194594-d3d11",
+    "target": {
+      "platform": "PC",
+      "game_version": "7.0.0",
+      "build_tag": "OSRELWin7.0.0",
+      "region": "global",
+      "graphics_api": "D3D11",
+      "engine_version": "2017.4.30f1",
+      "resource_revisions": {
+        "res_revision": "47194594",
+        "data_revision": "47194594",
+        "silence_revision": "46814653"
+      }
+    },
+    "passed": true,
+    "files_verified": 11205,
+    "effect_rules_replayed": 21,
+    "native_objects_verified": 5592,
+    "native_prefabs_verified": 1034,
+    "native_renderers_verified": 7466
+  },
+  "reference_index_sha256": "2dbb154d4e928682e72197fa65b032d1ed6a5ea5ab610f05879ba903a713a774",
+  "runtime_test_performed": false,
+  "subagents_used": false,
+  "mobile_backend_and_native_inputs_included": false,
+  "public_installation": {
+    "status": "pending_remote_publish"
+  }
+}

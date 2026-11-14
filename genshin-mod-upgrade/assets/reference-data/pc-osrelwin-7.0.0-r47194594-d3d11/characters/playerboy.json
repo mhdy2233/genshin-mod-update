@@ -1,0 +1,96 @@
+{
+  "kind": "character",
+  "id": "playerboy",
+  "name_zh": "男主",
+  "game_draw_targets": [],
+  "face_texture_example": [],
+  "example_mod": null,
+  "bone_mapping": null,
+  "full_skeleton_extracted": false,
+  "validation": {
+    "scope": "Native installed assets; no new draw capture or gameplay acceptance",
+    "new_runtime_test_performed_by_export": false,
+    "all_actions_lighting_and_lods_verified": false
+  },
+  "native_profiles": {
+    "playerboy": "native/profiles/playerboy.json",
+    "playerboycostumecwxr": "native/profiles/playerboycostumecwxr.json"
+  },
+  "roster_entries": [
+    {
+      "id": 10000005,
+      "internal_name": "PlayerBoy",
+      "name_zh": "男主",
+      "use_type": "AVATAR_FORMAL",
+      "body_type": "BODY_BOY",
+      "weapon_type": "WEAPON_SWORD_ONE_HAND",
+      "prefab_path_hash": "15226614807408239869"
+    },
+    {
+      "id": 10000134,
+      "internal_name": "PlayerBoy",
+      "name_zh": null,
+      "use_type": "AVATAR_FORMAL",
+      "body_type": "BODY_BOY",
+      "weapon_type": "WEAPON_CROSSBOW",
+      "prefab_path_hash": "13733808314842803504"
+    },
+    {
+      "id": 10000998,
+      "internal_name": "PlayerBoy",
+      "name_zh": null,
+      "use_type": "AVATAR_FORMAL",
+      "body_type": "BODY_BOY",
+      "weapon_type": "WEAPON_SWORD_ONE_HAND",
+      "prefab_path_hash": "16713584438810353715"
+    },
+    {
+      "id": 11000037,
+      "internal_name": "PlayerBoy",
+      "name_zh": null,
+      "use_type": "AVATAR_TEST",
+      "body_type": "BODY_BOY",
+      "weapon_type": "WEAPON_BOW",
+      "prefab_path_hash": "9927363766368762979"
+    },
+    {
+      "id": 11000041,
+      "internal_name": "PlayerBoy",
+      "name_zh": null,
+      "use_type": "AVATAR_TEST",
+      "body_type": "BODY_BOY",
+      "weapon_type": "WEAPON_SWORD_ONE_HAND",
+      "prefab_path_hash": "3181605812462086653"
+    },
+    {
+      "id": 11000042,
+      "internal_name": "PlayerBoy",
+      "name_zh": null,
+      "use_type": "AVATAR_TEST",
+      "body_type": "BODY_BOY",
+      "weapon_type": "WEAPON_SWORD_ONE_HAND",
+      "prefab_path_hash": "3181605812462086653"
+    },
+    {
+      "id": 11000134,
+      "internal_name": "PlayerBoy",
+      "name_zh": null,
+      "use_type": null,
+      "body_type": "BODY_GIRL",
+      "weapon_type": "WEAPON_CROSSBOW",
+      "prefab_path_hash": "13733808314842803504"
+    },
+    {
+      "id": 11000998,
+      "internal_name": "PlayerBoy",
+      "name_zh": null,
+      "use_type": "AVATAR_TEST",
+      "body_type": "BODY_BOY",
+      "weapon_type": "WEAPON_SWORD_ONE_HAND",
+      "prefab_path_hash": "16713584438810353715"
+    }
+  ],
+  "official_mesh_extracted": true,
+  "prefab_skeletons_extracted": true,
+  "draw_hash_status": "not_captured_on_target"
+}

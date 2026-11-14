@@ -1,0 +1,76 @@
+{
+  "kind": "native_profile",
+  "id": "bennett",
+  "internal_name": "Bennett",
+  "prefabs": [
+    {
+      "name": "Avatar_Boy_Sword_Bennett",
+      "path": "native/prefabs/78caa40b3aa367d1aedac68a693ad923f6aac45beb07208e1b339eb462ecdbc8.json",
+      "source_cab": "cab-1dc86168fb9800f66a5ab97fb4c612c3",
+      "variant_suffix": "",
+      "transform_count": 172,
+      "renderer_count": 6,
+      "internal_name": "Bennett"
+    },
+    {
+      "name": "Avatar_Boy_Sword_Bennett_Edit",
+      "path": "native/prefabs/8004c96668f1bd6076bc4c0858445954b02657a1b27bc902c6b46dfd2d7f951f.json",
+      "source_cab": "cab-26c70364c4b711655103f7013d4fb8ff",
+      "variant_suffix": "_Edit",
+      "transform_count": 172,
+      "renderer_count": 6,
+      "internal_name": "Bennett"
+    },
+    {
+      "name": "Avatar_Boy_Sword_Bennett_Remote",
+      "path": "native/prefabs/9aec6068609c6e282467ec33da30dfa49478b65640d45aef4e37ffff1c90397c.json",
+      "source_cab": "cab-20baeddc8a19c09ec5ca813e6ad027dc",
+      "variant_suffix": "_Remote",
+      "transform_count": 172,
+      "renderer_count": 6,
+      "internal_name": "Bennett"
+    },
+    {
+      "name": "Avatar_Boy_Sword_Bennett_Manekin",
+      "path": "native/prefabs/a010292ce1df2eafacad811f83e7d9cf01535dd2d97f4ba2ddaab6305433dc77.json",
+      "source_cab": "cab-0112b79d0746398c661f687f5dbb0039",
+      "variant_suffix": "_Manekin",
+      "transform_count": 141,
+      "renderer_count": 6,
+      "internal_name": "Bennett"
+    },
+    {
+      "name": "Avatar_Boy_Sword_Bennett_Kanban_Edit",
+      "path": "native/prefabs/c35354ddefc49084f5a81d3793b5a4f267746a8b896616c8f210a7793126d9e7.json",
+      "source_cab": "cab-cbe9885396adf0b7ebb5bca0f1559b60",
+      "variant_suffix": "_Kanban_Edit",
+      "transform_count": 141,
+      "renderer_count": 6,
+      "internal_name": "Bennett"
+    },
+    {
+      "name": "Avatar_Boy_Sword_Bennett_Kanban",
+      "path": "native/prefabs/df7f870956da0c8d8a84d5a76f56aed97c5f270e31db35cbfa19b2279de6fcd3.json",
+      "source_cab": "cab-ceffef66721103978f6ac73ea3cc0875",
+      "variant_suffix": "_Kanban",
+      "transform_count": 141,
+      "renderer_count": 6,
+      "internal_name": "Bennett"
+    }
+  ],
+  "roster_entries": [
+    {
+      "id": 10000032,
+      "internal_name": "Bennett",
+      "name_zh": "班尼特",
+      "use_type": "AVATAR_FORMAL",
+      "body_type": "BODY_BOY",
+      "weapon_type": "WEAPON_SWORD_ONE_HAND",
+      "prefab_path_hash": "13487585701075459727"
+    }
+  ],
+  "costume": null,
+  "evidence_level": "installed_pc_asset_extraction",
+  "new_runtime_test_performed": false,
+  "character_id": "bennett"
+}

@@ -1,0 +1,1443 @@
+{
+  "kind": "native_material",
+  "id": "cab-d798b35e4caaf611fbac8d1e6a72cc82:4901754847741957430",
+  "source_cab": "cab-d798b35e4caaf611fbac8d1e6a72cc82",
+  "path_id": "4901754847741957430",
+  "class_id": 21,
+  "raw_bytes": 8320,
+  "raw_sha256": "96f8bdaf23c30ab026b185815ee20979f43aed8cd54d49a64d616662936116d0",
+  "type_hash": "e1ee5b1091ac21b95baed1351f8fb1c2",
+  "source_object_offset": 4496,
+  "material": {
+    "name": "Avatar_Boy_Pole_Alyosha_Mat_Pupil",
+    "shader": {
+      "file_id": 6,
+      "path_id": "-5914227283477334417"
+    },
+    "keywords": "ENABLE_EYE_HIGHLIGHT_ON ENABLE_EYE_MATCAP_ON ENABLE_EYE_PARALLAX_LAYER1_ON ENABLE_EYE_PARALLAX_LAYER2_ON ENABLE_EYE_REFRACTION_ON",
+    "lightmap_flags": 4,
+    "instancing_flags_hex": "01000000",
+    "render_queue": -1,
+    "tags": [],
+    "disabled_passes": [
+      "MOTIONVECTORSOUTLINE",
+      "HYBRIDDEFERREDOUTLINE"
+    ],
+    "textures": [
+      {
+        "property": "_EyeMaskWithMatcap",
+        "pointer": {
+          "file_id": 3,
+          "path_id": "-5001561696668875762"
+        },
+        "scale": [
+          1.0,
+          1.0
+        ],
+        "offset": [
+          0.0,
+          0.0
+        ],
+        "max_mip_level": 0,
+        "texture_ref": "cab-7adb0b7b8a3313250948c7777de4b1f9:-5001561696668875762"
+      },
+      {
+        "property": "_FlipbookMap",
+        "pointer": {
+          "file_id": 0,
+          "path_id": "0"
+        },
+        "scale": [
+          1.0,
+          1.0
+        ],
+        "offset": [
+          0.0,
+          0.0
+        ],
+        "max_mip_level": 0,
+        "texture_ref": null
+      },
+      {
+        "property": "_MainTex",
+        "pointer": {
+          "file_id": 1,
+          "path_id": "-2445092172579420626"
+        },
+        "scale": [
+          1.0,
+          1.0
+        ],
+        "offset": [
+          0.0,
+          0.0
+        ],
+        "max_mip_level": 0,
+        "texture_ref": "cab-055a954984d95b429bde374193beeffb:-2445092172579420626"
+      },
+      {
+        "property": "_NoiseRadialCausticMap",
+        "pointer": {
+          "file_id": 0,
+          "path_id": "0"
+        },
+        "scale": [
+          1.0,
+          1.0
+        ],
+        "offset": [
+          0.0,
+          0.0
+        ],
+        "max_mip_level": 0,
+        "texture_ref": null
+      },
+      {
+        "property": "_PVMask1",
+        "pointer": {
+          "file_id": 0,
+          "path_id": "0"
+        },
+        "scale": [
+          1.0,
+          1.0
+        ],
+        "offset": [
+          0.0,
+          0.0
+        ],
+        "max_mip_level": 0,
+        "texture_ref": null
+      },
+      {
+        "property": "_PVMask2",
+        "pointer": {
+          "file_id": 0,
+          "path_id": "0"
+        },
+        "scale": [
+          1.0,
+          1.0
+        ],
+        "offset": [
+          0.0,
+          0.0
+        ],
+        "max_mip_level": 0,
+        "texture_ref": null
+      },
+      {
+        "property": "_PackedHighlightRampTex",
+        "pointer": {
+          "file_id": 0,
+          "path_id": "0"
+        },
+        "scale": [
+          1.0,
+          1.0
+        ],
+        "offset": [
+          0.0,
+          0.0
+        ],
+        "max_mip_level": 0,
+        "texture_ref": null
+      },
+      {
+        "property": "_PackedParallaxLayerRampTex",
+        "pointer": {
+          "file_id": 0,
+          "path_id": "0"
+        },
+        "scale": [
+          1.0,
+          1.0
+        ],
+        "offset": [
+          0.0,
+          0.0
+        ],
+        "max_mip_level": 0,
+        "texture_ref": null
+      },
+      {
+        "property": "_ParallaxLayer1Tex",
+        "pointer": {
+          "file_id": 5,
+          "path_id": "-8886684420741730749"
+        },
+        "scale": [
+          1.0,
+          1.0
+        ],
+        "offset": [
+          0.0,
+          0.0
+        ],
+        "max_mip_level": 0,
+        "texture_ref": "cab-d329ac78a994849ee95e53cc55249028:-8886684420741730749"
+      },
+      {
+        "property": "_ParallaxLayer2Tex",
+        "pointer": {
+          "file_id": 4,
+          "path_id": "50796933386024914"
+        },
+        "scale": [
+          1.0,
+          1.0
+        ],
+        "offset": [
+          0.0,
+          0.0
+        ],
+        "max_mip_level": 0,
+        "texture_ref": "cab-aa0a7d7aa9b70f28637df19e121dc9fb:50796933386024914"
+      },
+      {
+        "property": "_ParallaxLayer3Tex",
+        "pointer": {
+          "file_id": 5,
+          "path_id": "-8886684420741730749"
+        },
+        "scale": [
+          1.0,
+          1.0
+        ],
+        "offset": [
+          0.0,
+          0.0
+        ],
+        "max_mip_level": 0,
+        "texture_ref": "cab-d329ac78a994849ee95e53cc55249028:-8886684420741730749"
+      },
+      {
+        "property": "_SDFGradientMap",
+        "pointer": {
+          "file_id": 2,
+          "path_id": "-4862693336556196496"
+        },
+        "scale": [
+          1.0,
+          1.0
+        ],
+        "offset": [
+          0.0,
+          0.0
+        ],
+        "max_mip_level": 0,
+        "texture_ref": "cab-19f335d1dfcb64f2ab10afd3fe2dcf8d:-4862693336556196496"
+      },
+      {
+        "property": "_ShaderLerpCharAvatarDie_DissolveNoise",
+        "pointer": {
+          "file_id": 0,
+          "path_id": "0"
+        },
+        "scale": [
+          1.0,
+          1.0
+        ],
+        "offset": [
+          0.0,
+          0.0
+        ],
+        "max_mip_level": 0,
+        "texture_ref": null
+      },
+      {
+        "property": "_ShaderLerpCharFrozen_CubeMap",
+        "pointer": {
+          "file_id": 0,
+          "path_id": "0"
+        },
+        "scale": [
+          1.0,
+          1.0
+        ],
+        "offset": [
+          0.0,
+          0.0
+        ],
+        "max_mip_level": 0,
+        "texture_ref": null
+      },
+      {
+        "property": "_ShaderLerpCharFrozen_IceBumpTex",
+        "pointer": {
+          "file_id": 0,
+          "path_id": "0"
+        },
+        "scale": [
+          1.0,
+          1.0
+        ],
+        "offset": [
+          0.0,
+          0.0
+        ],
+        "max_mip_level": 0,
+        "texture_ref": null
+      },
+      {
+        "property": "_ShaderLerpCharFrozen_TillingNormal",
+        "pointer": {
+          "file_id": 0,
+          "path_id": "0"
+        },
+        "scale": [
+          1.0,
+          1.0
+        ],
+        "offset": [
+          0.0,
+          0.0
+        ],
+        "max_mip_level": 0,
+        "texture_ref": null
+      },
+      {
+        "property": "_ShaderLerpCharFrozen_TriplanarTex",
+        "pointer": {
+          "file_id": 0,
+          "path_id": "0"
+        },
+        "scale": [
+          1.0,
+          1.0
+        ],
+        "offset": [
+          0.0,
+          0.0
+        ],
+        "max_mip_level": 0,
+        "texture_ref": null
+      }
+    ],
+    "floats": [
+      [
+        "_BlendOP",
+        0.0
+      ],
+      [
+        "_CausticAngleResponse",
+        1.0
+      ],
+      [
+        "_CausticBackLightMin",
+        0.0
+      ],
+      [
+        "_CausticBinary",
+        0.0
+      ],
+      [
+        "_CausticDirectionSharpness",
+        2.0
+      ],
+      [
+        "_CausticFrontBackTransition",
+        0.5
+      ],
+      [
+        "_CausticLightInfluence",
+        0.0
+      ],
+      [
+        "_CausticThreshold",
+        0.5
+      ],
+      [
+        "_CausticUseRefractedUV",
+        1.0
+      ],
+      [
+        "_CausticsSettings",
+        0.0
+      ],
+      [
+        "_CharacterAmbientSensorColorOn",
+        0.0
+      ],
+      [
+        "_CharacterAmbientSensorForceShadowOn",
+        0.0
+      ],
+      [
+        "_CharacterAmbientSensorShadowOn",
+        0.0
+      ],
+      [
+        "_CullMode",
+        2.0
+      ],
+      [
+        "_DepthOffsetSettings",
+        0.0
+      ],
+      [
+        "_DepthPower",
+        2.069999933242798
+      ],
+      [
+        "_DitherAlpha",
+        1.0
+      ],
+      [
+        "_DstBlendMode",
+        0.0
+      ],
+      [
+        "_DummyBaseSettings",
+        0.0
+      ],
+      [
+        "_DummyHitColor",
+        0.0
+      ],
+      [
+        "_DummyPVMask",
+        0.0
+      ],
+      [
+        "_DummyUseDither",
+        0.0
+      ],
+      [
+        "_EmissionStrengthLerp",
+        0.0
+      ],
+      [
+        "_EnableAvatarDie",
+        0.0
+      ],
+      [
+        "_EnableCharacterDissolve",
+        0.0
+      ],
+      [
+        "_EnableCharacterFrozen",
+        0.0
+      ],
+      [
+        "_EnablePositionJitter",
+        0.0
+      ],
+      [
+        "_EnableRegionMode",
+        0.0
+      ],
+      [
+        "_EnableRotationJitter",
+        0.0
+      ],
+      [
+        "_EnableScaleJitter",
+        0.0
+      ],
+      [
+        "_EnableSteppedTime",
+        0.0
+      ],
+      [
+        "_EnableViewAngleDepthOffset",
+        0.0
+      ],
+      [
+        "_EyeDiscFeather",
+        0.2029999941587448
+      ],
+      [
+        "_EyeDiscRadius",
+        0.34200000762939453
+      ],
+      [
+        "_EyeInShadowTintLightDirIntensity",
+        0.0
+      ],
+      [
+        "_EyeInShadowTintNightIntensity",
+        0.0
+      ],
+      [
+        "_EyeMatcapBinarySmoothness",
+        0.009999999776482582
+      ],
+      [
+        "_EyeMatcapBinaryThreshold",
+        0.5
+      ],
+      [
+        "_EyeMatcapBlendMode",
+        1.0
+      ],
+      [
+        "_EyeMatcapIntensity",
+        0.07000000029802322
+      ],
+      [
+        "_EyeMatcapSphericalNormalLerp",
+        0.30000001192092896
+      ],
+      [
+        "_EyeMatcapUseBinary",
+        0.0
+      ],
+      [
+        "_FlareType",
+        0.0
+      ],
+      [
+        "_FlipbookCutOff",
+        0.10000000149011612
+      ],
+      [
+        "_FlipbookIntensity",
+        1.0
+      ],
+      [
+        "_FlipbookSettings",
+        0.0
+      ],
+      [
+        "_FlipbookSpeed",
+        10.0
+      ],
+      [
+        "_FrameDurationMs",
+        333.3299865722656
+      ],
+      [
+        "_HighlightIntensity",
+        1.899999976158142
+      ],
+      [
+        "_HighlightRampWidth",
+        1.0
+      ],
+      [
+        "_HighlightSettings",
+        1.0
+      ],
+      [
+        "_HitColorFresnelPower",
+        1.5
+      ],
+      [
+        "_HitColorScaler",
+        6.0
+      ],
+      [
+        "_InvertSDFMap",
+        0.0
+      ],
+      [
+        "_LightInfluence",
+        0.10000000149011612
+      ],
+      [
+        "_MHYZBias",
+        0.0
+      ],
+      [
+        "_MatcapSettings",
+        1.0
+      ],
+      [
+        "_NoiseRadialFlipU",
+        0.0
+      ],
+      [
+        "_NoiseRadialFlipV",
+        0.0
+      ],
+      [
+        "_NoiseRadialIntensity",
+        1.0
+      ],
+      [
+        "_NoiseRadialSpeed",
+        1.0
+      ],
+      [
+        "_ParallaxLayer1",
+        1.0
+      ],
+      [
+        "_ParallaxLayer1BlendMode",
+        0.0
+      ],
+      [
+        "_ParallaxLayer1DepthOffsetStrength",
+        0.0
+      ],
+      [
+        "_ParallaxLayer1Intensity",
+        0.38999998569488525
+      ],
+      [
+        "_ParallaxLayer1ParallaxScale",
+        0.07000000029802322
+      ],
+      [
+        "_ParallaxLayer1RampBlendMode",
+        1.0
+      ],
+      [
+        "_ParallaxLayer1RampStrength",
+        1.0
+      ],
+      [
+        "_ParallaxLayer1UseClockTick",
+        0.0
+      ],
+      [
+        "_ParallaxLayer1UseRamp",
+        0.0
+      ],
+      [
+        "_ParallaxLayer2",
+        1.0
+      ],
+      [
+        "_ParallaxLayer2BlendMode",
+        0.0
+      ],
+      [
+        "_ParallaxLayer2DepthOffsetStrength",
+        0.0
+      ],
+      [
+        "_ParallaxLayer2Intensity",
+        1.190000057220459
+      ],
+      [
+        "_ParallaxLayer2ParallaxScale",
+        0.039000000804662704
+      ],
+      [
+        "_ParallaxLayer2RampBlendMode",
+        0.0
+      ],
+      [
+        "_ParallaxLayer2RampStrength",
+        1.0
+      ],
+      [
+        "_ParallaxLayer2UseClockTick",
+        0.0
+      ],
+      [
+        "_ParallaxLayer2UseRamp",
+        0.0
+      ],
+      [
+        "_ParallaxLayer3",
+        0.0
+      ],
+      [
+        "_ParallaxLayer3BlendMode",
+        0.0
+      ],
+      [
+        "_ParallaxLayer3DepthOffsetStrength",
+        0.0
+      ],
+      [
+        "_ParallaxLayer3Intensity",
+        1.0
+      ],
+      [
+        "_ParallaxLayer3ParallaxScale",
+        0.0
+      ],
+      [
+        "_ParallaxLayer3RampBlendMode",
+        0.0
+      ],
+      [
+        "_ParallaxLayer3RampStrength",
+        1.0
+      ],
+      [
+        "_ParallaxLayer3UseClockTick",
+        0.0
+      ],
+      [
+        "_ParallaxLayer3UseRamp",
+        0.0
+      ],
+      [
+        "_ParallaxScale",
+        0.027000000700354576
+      ],
+      [
+        "_PolygonOffsetFactor",
+        0.0
+      ],
+      [
+        "_PolygonOffsetUnit",
+        0.0
+      ],
+      [
+        "_PositionJitterSpeed",
+        10.0
+      ],
+      [
+        "_PositionJitterStrength",
+        0.009999999776482582
+      ],
+      [
+        "_RefractionSettings",
+        1.0
+      ],
+      [
+        "_Region1EnablePositionJitter",
+        0.0
+      ],
+      [
+        "_Region1EnableRotationJitter",
+        0.0
+      ],
+      [
+        "_Region1EnableScaleJitter",
+        0.0
+      ],
+      [
+        "_Region1TimeOffset",
+        0.0
+      ],
+      [
+        "_Region1Tip",
+        0.0
+      ],
+      [
+        "_Region2EnablePositionJitter",
+        0.0
+      ],
+      [
+        "_Region2EnableRotationJitter",
+        0.0
+      ],
+      [
+        "_Region2EnableScaleJitter",
+        0.0
+      ],
+      [
+        "_Region2TimeOffset",
+        0.0
+      ],
+      [
+        "_Region2Tip",
+        0.0
+      ],
+      [
+        "_Region3EnablePositionJitter",
+        0.0
+      ],
+      [
+        "_Region3EnableRotationJitter",
+        0.0
+      ],
+      [
+        "_Region3EnableScaleJitter",
+        0.0
+      ],
+      [
+        "_Region3TimeOffset",
+        0.0
+      ],
+      [
+        "_Region3Tip",
+        0.0
+      ],
+      [
+        "_Region4EnablePositionJitter",
+        0.0
+      ],
+      [
+        "_Region4EnableRotationJitter",
+        0.0
+      ],
+      [
+        "_Region4EnableScaleJitter",
+        0.0
+      ],
+      [
+        "_Region4TimeOffset",
+        0.0
+      ],
+      [
+        "_Region4Tip",
+        0.0
+      ],
+      [
+        "_RotationAngle",
+        0.20000000298023224
+      ],
+      [
+        "_RotationJitterSpeed",
+        10.0
+      ],
+      [
+        "_RotationJitterStrength",
+        0.10000000149011612
+      ],
+      [
+        "_SDFCenterValue",
+        0.30000001192092896
+      ],
+      [
+        "_SHADER_LERP_MATERIAL_ID",
+        0.0
+      ],
+      [
+        "_ScaleJitterSpeed",
+        10.0
+      ],
+      [
+        "_ScaleJitterStrength",
+        0.10000000149011612
+      ],
+      [
+        "_ShaderLerpCharAvatarDie_DissolveColorScaler",
+        1.0
+      ],
+      [
+        "_ShaderLerpCharAvatarDie_DissolveEdgeWidth",
+        1.100000023841858
+      ],
+      [
+        "_ShaderLerpCharAvatarDie_DissolveValue",
+        0.0
+      ],
+      [
+        "_ShaderLerpCharDissolve_Value",
+        0.029620449990034103
+      ],
+      [
+        "_ShaderLerpCharFrozen_FrozenIntensity",
+        0.8999999761581421
+      ],
+      [
+        "_SrcBlendMode",
+        1.0
+      ],
+      [
+        "_ToonPerspectiveBeginScale",
+        0.10000000149011612
+      ],
+      [
+        "_ToonPerspectiveCamBeginDistance",
+        1.0
+      ],
+      [
+        "_ToonPerspectiveCamEndDistance",
+        2.0
+      ],
+      [
+        "_ToonPerspectiveEnable",
+        0.0
+      ],
+      [
+        "_ToonPerspectiveEndScale",
+        1.0
+      ],
+      [
+        "_ToonPerspectiveRadius",
+        0.10000000149011612
+      ],
+      [
+        "_ToonPerspectiveRootPosIndex",
+        0.0
+      ],
+      [
+        "_ToonPerspectiveScale",
+        0.0
+      ],
+      [
+        "_ToonPerspectiveSmooth",
+        0.05000000074505806
+      ],
+      [
+        "_ToonPerspectiveUseCamDistScale",
+        1.0
+      ],
+      [
+        "_UseHighlightRamp",
+        0.0
+      ],
+      [
+        "_UseMaskInShadowExport",
+        0.0
+      ],
+      [
+        "_UseNoiseRadialCaustic",
+        0.0
+      ],
+      [
+        "_UsePVMask1",
+        0.0
+      ],
+      [
+        "_UsePVMask2",
+        0.0
+      ],
+      [
+        "_UseViewRotation",
+        0.0
+      ],
+      [
+        "_UsingDitherAlpha",
+        0.0
+      ],
+      [
+        "_ViewAngleDepthOffsetStrength",
+        1.0
+      ],
+      [
+        "_ViewRotationSensitivity",
+        1.0
+      ],
+      [
+        "_Ztest",
+        4.0
+      ],
+      [
+        "_Zwrite",
+        1.0
+      ],
+      [
+        "_isUVMirror",
+        0.0
+      ]
+    ],
+    "colors": [
+      [
+        "_BaseColor",
+        [
+          1.0,
+          1.0,
+          1.0,
+          1.0
+        ]
+      ],
+      [
+        "_CausticCenter",
+        [
+          0.5,
+          0.5,
+          0.0,
+          0.0
+        ]
+      ],
+      [
+        "_CausticColor",
+        [
+          1.0,
+          1.0,
+          1.0,
+          1.0
+        ]
+      ],
+      [
+        "_CausticLightDirectionOffset",
+        [
+          0.0,
+          0.0,
+          0.0,
+          0.0
+        ]
+      ],
+      [
+        "_DepthCenterOffset",
+        [
+          0.0,
+          0.0,
+          1.0,
+          0.699999988079071
+        ]
+      ],
+      [
+        "_ElementRimColor",
+        [
+          0.0,
+          0.0,
+          0.0,
+          0.0
+        ]
+      ],
+      [
+        "_EyeCenterUV",
+        [
+          0.5,
+          0.5,
+          0.0,
+          0.0
+        ]
+      ],
+      [
+        "_EyeDiscCenter",
+        [
+          0.5,
+          0.5,
+          0.0,
+          0.0
+        ]
+      ],
+      [
+        "_EyeFallbackColor",
+        [
+          0.0980391874909401,
+          0.10980390012264252,
+          0.5568627715110779,
+          1.0
+        ]
+      ],
+      [
+        "_EyeInShadowTintColor",
+        [
+          1.0,
+          1.0,
+          1.0,
+          1.0
+        ]
+      ],
+      [
+        "_EyeMaskRemap",
+        [
+          0.0,
+          1.0,
+          0.0,
+          0.0
+        ]
+      ],
+      [
+        "_EyeMatcapInvertUV",
+        [
+          0.0,
+          0.0,
+          0.0,
+          0.0
+        ]
+      ],
+      [
+        "_EyeMatcapTint",
+        [
+          2.500000238418579,
+          2.0976169109344482,
+          1.2316176891326904,
+          1.0
+        ]
+      ],
+      [
+        "_FlipbookColor",
+        [
+          1.0,
+          1.0,
+          1.0,
+          1.0
+        ]
+      ],
+      [
+        "_FlipbookSize",
+        [
+          4.0,
+          4.0,
+          0.0,
+          0.0
+        ]
+      ],
+      [
+        "_HighlightColor",
+        [
+          1.0,
+          1.0,
+          1.0,
+          1.0
+        ]
+      ],
+      [
+        "_HitColor",
+        [
+          0.0,
+          0.0,
+          0.0,
+          0.0
+        ]
+      ],
+      [
+        "_LightDirectionOffset",
+        [
+          0.0,
+          0.0,
+          0.0,
+          0.0
+        ]
+      ],
+      [
+        "_NoiseRadialTiling",
+        [
+          2.0,
+          2.0,
+          0.0,
+          0.0
+        ]
+      ],
+      [
+        "_ParallaxLayer1RampParams",
+        [
+          0.0,
+          -90.0,
+          0.0,
+          0.0
+        ]
+      ],
+      [
+        "_ParallaxLayer1RotationOffset",
+        [
+          1.0,
+          0.0,
+          0.0,
+          0.0
+        ]
+      ],
+      [
+        "_ParallaxLayer1Tint",
+        [
+          0.7058823108673096,
+          0.5709341764450073,
+          0.5709341764450073,
+          1.0
+        ]
+      ],
+      [
+        "_ParallaxLayer1UVRotation",
+        [
+          0.5,
+          0.5,
+          0.0,
+          1.0
+        ]
+      ],
+      [
+        "_ParallaxLayer1UVScrollAndScale",
+        [
+          0.0,
+          0.0,
+          1.0,
+          1.0
+        ]
+      ],
+      [
+        "_ParallaxLayer1UVSineMotion",
+        [
+          0.0,
+          0.0,
+          0.0,
+          0.0
+        ]
+      ],
+      [
+        "_ParallaxLayer2RampParams",
+        [
+          1.0,
+          0.0,
+          0.0,
+          0.0
+        ]
+      ],
+      [
+        "_ParallaxLayer2RotationOffset",
+        [
+          1.0,
+          0.0,
+          0.0,
+          0.0
+        ]
+      ],
+      [
+        "_ParallaxLayer2Tint",
+        [
+          1.0,
+          1.0,
+          1.0,
+          1.0
+        ]
+      ],
+      [
+        "_ParallaxLayer2UVRotation",
+        [
+          0.5,
+          0.5,
+          0.0,
+          1.0
+        ]
+      ],
+      [
+        "_ParallaxLayer2UVScrollAndScale",
+        [
+          0.0,
+          0.0,
+          1.0,
+          1.0
+        ]
+      ],
+      [
+        "_ParallaxLayer2UVSineMotion",
+        [
+          0.0,
+          1.0,
+          0.0,
+          0.05000000074505806
+        ]
+      ],
+      [
+        "_ParallaxLayer3RampParams",
+        [
+          1.0,
+          0.0,
+          0.0,
+          0.0
+        ]
+      ],
+      [
+        "_ParallaxLayer3RotationOffset",
+        [
+          1.0,
+          0.0,
+          0.0,
+          0.0
+        ]
+      ],
+      [
+        "_ParallaxLayer3Tint",
+        [
+          1.0,
+          1.0,
+          1.0,
+          1.0
+        ]
+      ],
+      [
+        "_ParallaxLayer3UVRotation",
+        [
+          0.5,
+          0.5,
+          0.0,
+          1.0
+        ]
+      ],
+      [
+        "_ParallaxLayer3UVScrollAndScale",
+        [
+          0.0,
+          0.0,
+          1.0,
+          1.0
+        ]
+      ],
+      [
+        "_ParallaxLayer3UVSineMotion",
+        [
+          0.0,
+          0.0,
+          0.0,
+          0.0
+        ]
+      ],
+      [
+        "_Region1Bounds",
+        [
+          0.0,
+          0.5,
+          0.5,
+          1.0
+        ]
+      ],
+      [
+        "_Region1JitterParams",
+        [
+          0.10000000149011612,
+          10.0,
+          0.009999999776482582,
+          10.0
+        ]
+      ],
+      [
+        "_Region1RotationParams",
+        [
+          0.10000000149011612,
+          10.0,
+          0.0,
+          0.0
+        ]
+      ],
+      [
+        "_Region1Transform",
+        [
+          0.0,
+          0.0,
+          1.0,
+          0.0
+        ]
+      ],
+      [
+        "_Region2Bounds",
+        [
+          0.5,
+          0.5,
+          1.0,
+          1.0
+        ]
+      ],
+      [
+        "_Region2JitterParams",
+        [
+          0.10000000149011612,
+          10.0,
+          0.009999999776482582,
+          10.0
+        ]
+      ],
+      [
+        "_Region2RotationParams",
+        [
+          0.10000000149011612,
+          10.0,
+          0.0,
+          0.0
+        ]
+      ],
+      [
+        "_Region2Transform",
+        [
+          0.0,
+          0.0,
+          1.0,
+          0.0
+        ]
+      ],
+      [
+        "_Region3Bounds",
+        [
+          0.0,
+          0.0,
+          0.5,
+          0.5
+        ]
+      ],
+      [
+        "_Region3JitterParams",
+        [
+          0.10000000149011612,
+          10.0,
+          0.009999999776482582,
+          10.0
+        ]
+      ],
+      [
+        "_Region3RotationParams",
+        [
+          0.10000000149011612,
+          10.0,
+          0.0,
+          0.0
+        ]
+      ],
+      [
+        "_Region3Transform",
+        [
+          0.0,
+          0.0,
+          1.0,
+          0.0
+        ]
+      ],
+      [
+        "_Region4Bounds",
+        [
+          0.5,
+          0.0,
+          1.0,
+          0.5
+        ]
+      ],
+      [
+        "_Region4JitterParams",
+        [
+          0.10000000149011612,
+          10.0,
+          0.009999999776482582,
+          10.0
+        ]
+      ],
+      [
+        "_Region4RotationParams",
+        [
+          0.10000000149011612,
+          10.0,
+          0.0,
+          0.0
+        ]
+      ],
+      [
+        "_Region4Transform",
+        [
+          0.0,
+          0.0,
+          1.0,
+          0.0
+        ]
+      ],
+      [
+        "_ShaderLerpCharAvatarDie_DeathTintColor",
+        [
+          1.0,
+          1.0,
+          1.0,
+          1.0
+        ]
+      ],
+      [
+        "_ShaderLerpCharAvatarDie_DissolveColor",
+        [
+          0.43382346630096436,
+          1.0,
+          0.9297161102294922,
+          1.0
+        ]
+      ],
+      [
+        "_ShaderLerpCharDissolve_Color",
+        [
+          0.5,
+          1.0,
+          1.0,
+          1.0
+        ]
+      ],
+      [
+        "_UV1IrisCenter",
+        [
+          0.5,
+          0.5,
+          0.0,
+          0.0
+        ]
+      ],
+      [
+        "_UV1IrisScale",
+        [
+          1.0,
+          1.0,
+          0.0,
+          0.0
+        ]
+      ]
+    ],
+    "shader_ref": "cab-fbd0ba0feb0a9cf46d1508dcc5aa1f61:-5914227283477334417"
+  },
+  "name": "Avatar_Boy_Pole_Alyosha_Mat_Pupil",
+  "parsed": true
+}

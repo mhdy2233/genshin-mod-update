@@ -1,0 +1,414 @@
+{
+  "kind": "character",
+  "id": "wanderer",
+  "name_zh": "流浪者",
+  "game_draw_targets": [
+    {
+      "object": "body",
+      "evidence_level": "accepted_mod_configuration",
+      "parts": [
+        {
+          "part": "head",
+          "section": "TextureOverrideWandererHead",
+          "match_first_index": 0,
+          "material_binding_kind": "normal_map_present_existing_binding",
+          "texture_assignments": {
+            "ps-t0": "ResourceWandererHeadNormalMap",
+            "ps-t1": "ResourceWandererHeadDiffuse",
+            "ps-t2": "ResourceWandererHeadLightMap",
+            "ps-t3": "ResourceWandererHeadMetalMap"
+          },
+          "commands_after_bindings": []
+        },
+        {
+          "part": "body",
+          "section": "TextureOverrideWandererBody",
+          "match_first_index": 17379,
+          "material_binding_kind": "normal_map_present_existing_binding",
+          "texture_assignments": {
+            "ps-t0": "ResourceWandererBodyNormalMap",
+            "ps-t1": "ResourceWandererBodyDiffuse",
+            "ps-t2": "ResourceWandererBodyLightMap",
+            "ps-t3": "ResourceWandererBodyMetalMap"
+          },
+          "commands_after_bindings": []
+        }
+      ],
+      "position_hash": "0110e1c7",
+      "blend_hash": "a716d4f2",
+      "texcoord_hash": "798f0feb",
+      "index_buffer_hash": "6bba515c",
+      "vertex_limit_raise_hash": "8487a77e"
+    },
+    {
+      "object": "hat",
+      "evidence_level": "accepted_mod_configuration",
+      "parts": [
+        {
+          "part": "head",
+          "section": "TextureOverrideWandererHatHead",
+          "match_first_index": 0,
+          "material_binding_kind": "normal_map_present_existing_binding",
+          "texture_assignments": {
+            "ps-t0": "ResourceWandererHatHeadNormalMap",
+            "ps-t1": "ResourceWandererHatHeadDiffuse",
+            "ps-t2": "ResourceWandererHatHeadLightMap",
+            "ps-t3": "ResourceWandererHatHeadMetalMap"
+          },
+          "commands_after_bindings": []
+        }
+      ],
+      "position_hash": "d74251a0",
+      "blend_hash": "9ea4c014",
+      "texcoord_hash": "9881a0d4",
+      "index_buffer_hash": "a16aff98",
+      "vertex_limit_raise_hash": "605a18d6"
+    }
+  ],
+  "face_texture_example": [
+    {
+      "section": "TextureOverrideWandererFaceHeadDiffuse",
+      "texture_hash": "ab051bae",
+      "assignments": [
+        "ps-t0 = ResourceWandererFaceHeadDiffuse"
+      ]
+    }
+  ],
+  "example_mod": {
+    "name": "WandererBlackRed-7.0.0",
+    "ini": "examples/wanderer/Wanderer.ini",
+    "ini_sha256": "28a46a4b2b9df824bfafb85ea50b3acbce2933ab688f799df8baa1248d97cc01",
+    "resources": [
+      {
+        "section": "ResourceWandererPosition",
+        "filename": "WandererPosition.buf",
+        "bytes": 598640,
+        "sha256": "88e51604c07a9be41aef809ab6281efa3db0cd4b85ce231a417b1f75ad84c36b",
+        "buffer": {
+          "stride": 40,
+          "element_count": 14966,
+          "trailing_bytes": 0
+        }
+      },
+      {
+        "section": "ResourceWandererBlend",
+        "filename": "WandererBlend.buf",
+        "bytes": 478912,
+        "sha256": "5054918122726e1898c4f64409ce2581d81f9c2ff5bb6398204e9701d72b8448",
+        "buffer": {
+          "stride": 32,
+          "element_count": 14966,
+          "trailing_bytes": 0
+        }
+      },
+      {
+        "section": "ResourceWandererTexcoord",
+        "filename": "WandererTexcoord.buf",
+        "bytes": 179592,
+        "sha256": "0609b758d98f68654134beae24e6be441bb0274ac275a6c137a23237a4f87634",
+        "buffer": {
+          "stride": 12,
+          "element_count": 14966,
+          "trailing_bytes": 0
+        }
+      },
+      {
+        "section": "ResourceWandererHatPosition",
+        "filename": "WandererHatPosition.buf",
+        "bytes": 221880,
+        "sha256": "686f95a2c282fa41acf9410a40e10dae4862324fa49d1c3ff6f124bf0364ae1b",
+        "buffer": {
+          "stride": 40,
+          "element_count": 5547,
+          "trailing_bytes": 0
+        }
+      },
+      {
+        "section": "ResourceWandererHatBlend",
+        "filename": "WandererHatBlend.buf",
+        "bytes": 177504,
+        "sha256": "7aa07ccab83bf5def305f172f5312074daa39513bca44ae802d6781473fc2a79",
+        "buffer": {
+          "stride": 32,
+          "element_count": 5547,
+          "trailing_bytes": 0
+        }
+      },
+      {
+        "section": "ResourceWandererHatTexcoord",
+        "filename": "WandererHatTexcoord.buf",
+        "bytes": 66564,
+        "sha256": "76601946724efa04a729b1a5c414a1fa6e47319d8a1ea4313eae9b0a787b4576",
+        "buffer": {
+          "stride": 12,
+          "element_count": 5547,
+          "trailing_bytes": 0
+        }
+      },
+      {
+        "section": "ResourceWandererHeadIB",
+        "filename": "WandererHead.ib",
+        "bytes": 12792,
+        "sha256": "afac65812d2775e9e2738fe63a641ac604fe7de5684d7c255fadfdf3fdbbe7b7",
+        "indices": {
+          "format": "DXGI_FORMAT_R16_UINT",
+          "count": 6396,
+          "trailing_bytes": 0,
+          "minimum": 0,
+          "maximum": 1705
+        }
+      },
+      {
+        "section": "ResourceWandererBodyIB",
+        "filename": "WandererBody.ib",
+        "bytes": 86892,
+        "sha256": "8a02fea34027a09e2cb23d30a1cbda92a5f332e8cd99a5e88f142e80ff903a9c",
+        "indices": {
+          "format": "DXGI_FORMAT_R16_UINT",
+          "count": 43446,
+          "trailing_bytes": 0,
+          "minimum": 1706,
+          "maximum": 14965
+        }
+      },
+      {
+        "section": "ResourceWandererHatHeadIB",
+        "filename": "WandererHatHead.ib",
+        "bytes": 31512,
+        "sha256": "99e1e76ed05944d6568395d3d294215c8e15262e3ebaf80e89f726602b37c9ca",
+        "indices": {
+          "format": "DXGI_FORMAT_R16_UINT",
+          "count": 15756,
+          "trailing_bytes": 0,
+          "minimum": 0,
+          "maximum": 5546
+        }
+      },
+      {
+        "section": "ResourceWandererHeadNormalMap",
+        "filename": "WandererHeadNormalMap.dds",
+        "bytes": 1048724,
+        "sha256": "6589978fae7729877515fed66b82bef7ae9e9b14643adf52d97b7cf740adb4fa",
+        "image_header": {
+          "type": "DDS",
+          "width": 1024,
+          "height": 1024,
+          "mip_count_declared": 1,
+          "fourcc": "DX10",
+          "rgb_bit_count": 0,
+          "dxgi_format": 98
+        }
+      },
+      {
+        "section": "ResourceWandererHeadDiffuse",
+        "filename": "WandererHeadDiffuse.dds",
+        "bytes": 1048724,
+        "sha256": "07b563634e5dca6a6d002bd67622ef7d8aee52396d764330531eeb44c2a9e6dd",
+        "image_header": {
+          "type": "DDS",
+          "width": 1024,
+          "height": 1024,
+          "mip_count_declared": 1,
+          "fourcc": "DX10",
+          "rgb_bit_count": 0,
+          "dxgi_format": 99
+        }
+      },
+      {
+        "section": "ResourceWandererHeadLightMap",
+        "filename": "WandererHeadLightMap.dds",
+        "bytes": 1048724,
+        "sha256": "9b5c1ef3410e7992a7739a0c3bf3d9678f96366b313eb9c128e5fe275aab3022",
+        "image_header": {
+          "type": "DDS",
+          "width": 1024,
+          "height": 1024,
+          "mip_count_declared": 1,
+          "fourcc": "DX10",
+          "rgb_bit_count": 0,
+          "dxgi_format": 98
+        }
+      },
+      {
+        "section": "ResourceWandererHeadMetalMap",
+        "filename": "WandererHeadMetalMap.dds",
+        "bytes": 65684,
+        "sha256": "fb18338ed9ef023814d01efa519971f35a7e607acfc362cda0196b2da6fb66ed",
+        "image_header": {
+          "type": "DDS",
+          "width": 256,
+          "height": 256,
+          "mip_count_declared": 1,
+          "fourcc": "DX10",
+          "rgb_bit_count": 0,
+          "dxgi_format": 99
+        }
+      },
+      {
+        "section": "ResourceWandererBodyNormalMap",
+        "filename": "WandererBodyNormalMap.dds",
+        "bytes": 1048724,
+        "sha256": "9bfda8d98aa66c8c436f0e02351897fd1ae955699cf2ad3aa382216ced728bce",
+        "image_header": {
+          "type": "DDS",
+          "width": 1024,
+          "height": 1024,
+          "mip_count_declared": 1,
+          "fourcc": "DX10",
+          "rgb_bit_count": 0,
+          "dxgi_format": 98
+        }
+      },
+      {
+        "section": "ResourceWandererBodyDiffuse",
+        "filename": "WandererBodyDiffuse.dds",
+        "bytes": 1048724,
+        "sha256": "4aba0aa6510f6825f87866f2451a2ff0270e2239749b2bb94789ad4020b0dcf7",
+        "image_header": {
+          "type": "DDS",
+          "width": 1024,
+          "height": 1024,
+          "mip_count_declared": 1,
+          "fourcc": "DX10",
+          "rgb_bit_count": 0,
+          "dxgi_format": 99
+        }
+      },
+      {
+        "section": "ResourceWandererBodyLightMap",
+        "filename": "WandererBodyLightMap.dds",
+        "bytes": 1048724,
+        "sha256": "35157598f723cb556f9c1c3812303154b0c127ca21e7ffbbe34aee50e47f445b",
+        "image_header": {
+          "type": "DDS",
+          "width": 1024,
+          "height": 1024,
+          "mip_count_declared": 1,
+          "fourcc": "DX10",
+          "rgb_bit_count": 0,
+          "dxgi_format": 98
+        }
+      },
+      {
+        "section": "ResourceWandererBodyMetalMap",
+        "filename": "WandererBodyMetalMap.dds",
+        "bytes": 65684,
+        "sha256": "fb18338ed9ef023814d01efa519971f35a7e607acfc362cda0196b2da6fb66ed",
+        "image_header": {
+          "type": "DDS",
+          "width": 256,
+          "height": 256,
+          "mip_count_declared": 1,
+          "fourcc": "DX10",
+          "rgb_bit_count": 0,
+          "dxgi_format": 99
+        }
+      },
+      {
+        "section": "ResourceWandererHatHeadNormalMap",
+        "filename": "WandererHatHeadNormalMap.dds",
+        "bytes": 2097300,
+        "sha256": "ce9eb6b3f3cb3f1de34e8bd68dcff194df59c48da3a8365276b84ab497c429dd",
+        "image_header": {
+          "type": "DDS",
+          "width": 2048,
+          "height": 1024,
+          "mip_count_declared": 1,
+          "fourcc": "DX10",
+          "rgb_bit_count": 0,
+          "dxgi_format": 98
+        }
+      },
+      {
+        "section": "ResourceWandererHatHeadDiffuse",
+        "filename": "WandererHatHeadDiffuse.dds",
+        "bytes": 2097300,
+        "sha256": "4987b34594f3baa2a1f65619d0e0a00d6ef9d6e39b1a621cd15f58d830edd63d",
+        "image_header": {
+          "type": "DDS",
+          "width": 2048,
+          "height": 1024,
+          "mip_count_declared": 1,
+          "fourcc": "DX10",
+          "rgb_bit_count": 0,
+          "dxgi_format": 99
+        }
+      },
+      {
+        "section": "ResourceWandererHatHeadLightMap",
+        "filename": "WandererHatHeadLightMap.dds",
+        "bytes": 2097300,
+        "sha256": "cde34562c5b8a6648440e0d53920387539ee990fd4eddd9498ac0c0cec47b33b",
+        "image_header": {
+          "type": "DDS",
+          "width": 2048,
+          "height": 1024,
+          "mip_count_declared": 1,
+          "fourcc": "DX10",
+          "rgb_bit_count": 0,
+          "dxgi_format": 98
+        }
+      },
+      {
+        "section": "ResourceWandererHatHeadMetalMap",
+        "filename": "WandererHatHeadMetalMap.dds",
+        "bytes": 65684,
+        "sha256": "fb18338ed9ef023814d01efa519971f35a7e607acfc362cda0196b2da6fb66ed",
+        "image_header": {
+          "type": "DDS",
+          "width": 256,
+          "height": 256,
+          "mip_count_declared": 1,
+          "fourcc": "DX10",
+          "rgb_bit_count": 0,
+          "dxgi_format": 99
+        }
+      },
+      {
+        "section": "ResourceWandererFaceHeadDiffuse",
+        "filename": "WandererFaceHeadDiffuse.dds",
+        "bytes": 1048724,
+        "sha256": "6c509458880fe2acd4669ce06674868f00850923236ad620fdb5ea05b0cdd2f2",
+        "image_header": {
+          "type": "DDS",
+          "width": 1024,
+          "height": 1024,
+          "mip_count_declared": 1,
+          "fourcc": "DX10",
+          "rgb_bit_count": 0,
+          "dxgi_format": 99
+        }
+      }
+    ],
+    "asset_bytes_included": false,
+    "geometry_counts_are": "MOD-specific counts, NOT official game mesh counts"
+  },
+  "official_mesh_extracted": true,
+  "full_skeleton_extracted": false,
+  "bone_mapping": null,
+  "validation": {
+    "scope": "This named MOD on the recorded PC 7.0 setup; not all outfits or animations",
+    "source": "backups/wanderer-blackred-7.0.0-20261109/fx-v4-runtime-feedback.json",
+    "new_runtime_test_performed_by_export": false,
+    "user_quote": "特效可以看到了, 但是点f10后有几段报错",
+    "geometry_result": null,
+    "material_result": null,
+    "all_actions_lighting_and_lods_verified": false
+  },
+  "native_profiles": {
+    "wanderer": "native/profiles/wanderer.json"
+  },
+  "roster_entries": [
+    {
+      "id": 10000075,
+      "internal_name": "Wanderer",
+      "name_zh": "流浪者",
+      "use_type": "AVATAR_FORMAL",
+      "body_type": "BODY_BOY",
+      "weapon_type": "WEAPON_CATALYST",
+      "prefab_path_hash": "7282644589411446706"
+    }
+  ],
+  "prefab_skeletons_extracted": true,
+  "draw_hash_status": "accepted_mod_configuration"
+}

@@ -1,0 +1,85 @@
+{
+  "kind": "native_profile",
+  "id": "xiangling",
+  "internal_name": "Xiangling",
+  "prefabs": [
+    {
+      "name": "Avatar_Girl_Pole_Xiangling_Manekin",
+      "path": "native/prefabs/2991a14dfa949d194b20b0edd85a0950773f7e6d6d583274d055350e52065a68.json",
+      "source_cab": "cab-ea0d3481f5e83227c85e2bc8cd125c7a",
+      "variant_suffix": "_Manekin",
+      "transform_count": 130,
+      "renderer_count": 6,
+      "internal_name": "Xiangling"
+    },
+    {
+      "name": "Avatar_Girl_Pole_Xiangling_Kanban_Edit",
+      "path": "native/prefabs/91f5cc902ec3218a104f9700263bcf02fc21299139c9fea3ac3fe3b461088851.json",
+      "source_cab": "cab-6afb279d7885fe18ac89b6ce8acd6253",
+      "variant_suffix": "_Kanban_Edit",
+      "transform_count": 130,
+      "renderer_count": 6,
+      "internal_name": "Xiangling"
+    },
+    {
+      "name": "Avatar_Girl_Pole_Xiangling_Edit",
+      "path": "native/prefabs/d4e40b1a5a66e11f75ec0875a9191ed5bd343e955d852f0de6c2df4a2331c54a.json",
+      "source_cab": "cab-21ebf87ae48ff52469e9d7101587e0b6",
+      "variant_suffix": "_Edit",
+      "transform_count": 161,
+      "renderer_count": 6,
+      "internal_name": "Xiangling"
+    },
+    {
+      "name": "Avatar_Girl_Pole_Xiangling_Remote",
+      "path": "native/prefabs/d9d5ac7733fbb7ff868fa5ee5816787313d5830e42f25edeee6c2941a8d7253f.json",
+      "source_cab": "cab-ed5f856cd37dc05ef02c5a90547a1634",
+      "variant_suffix": "_Remote",
+      "transform_count": 161,
+      "renderer_count": 6,
+      "internal_name": "Xiangling"
+    },
+    {
+      "name": "Avatar_Girl_Pole_Xiangling_Kanban",
+      "path": "native/prefabs/dabcea8bf9b93dded081c86f1176401bb257d1bd5283cc91dc8a40e813789278.json",
+      "source_cab": "cab-a804c06c49a3a0d4a01b905c3b3dd3dd",
+      "variant_suffix": "_Kanban",
+      "transform_count": 130,
+      "renderer_count": 6,
+      "internal_name": "Xiangling"
+    },
+    {
+      "name": "Avatar_Girl_Pole_Xiangling",
+      "path": "native/prefabs/f6c52b329649f83dbd6bb0a79541150bcef845b71a5bfa10f2a088e976131af5.json",
+      "source_cab": "cab-8aec5b6d15f4c06e35f591c553e02618",
+      "variant_suffix": "",
+      "transform_count": 161,
+      "renderer_count": 6,
+      "internal_name": "Xiangling"
+    }
+  ],
+  "roster_entries": [
+    {
+      "id": 10000023,
+      "internal_name": "Xiangling",
+      "name_zh": "香菱",
+      "use_type": "AVATAR_FORMAL",
+      "body_type": "BODY_GIRL",
+      "weapon_type": "WEAPON_POLE",
+      "prefab_path_hash": "11759747176007064614"
+    },
+    {
+      "id": 11000035,
+      "internal_name": "Xiangling",
+      "name_zh": null,
+      "use_type": "AVATAR_TEST",
+      "body_type": "BODY_LADY",
+      "weapon_type": "WEAPON_POLE",
+      "prefab_path_hash": "15215061765130296823"
+    }
+  ],
+  "costume": null,
+  "evidence_level": "installed_pc_asset_extraction",
+  "new_runtime_test_performed": false,
+  "character_id": "xiangling"
+}

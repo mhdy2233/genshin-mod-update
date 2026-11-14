@@ -1,0 +1,32 @@
+{
+  "kind": "character",
+  "id": "arlecchino",
+  "name_zh": "阿蕾奇诺",
+  "game_draw_targets": [],
+  "face_texture_example": [],
+  "example_mod": null,
+  "bone_mapping": null,
+  "full_skeleton_extracted": false,
+  "validation": {
+    "scope": "Native installed assets; no new draw capture or gameplay acceptance",
+    "new_runtime_test_performed_by_export": false,
+    "all_actions_lighting_and_lods_verified": false
+  },
+  "native_profiles": {
+    "arlecchino": "native/profiles/arlecchino.json"
+  },
+  "roster_entries": [
+    {
+      "id": 10000096,
+      "internal_name": "Arlecchino",
+      "name_zh": "阿蕾奇诺",
+      "use_type": "AVATAR_FORMAL",
+      "body_type": "BODY_LADY",
+      "weapon_type": "WEAPON_POLE",
+      "prefab_path_hash": "1981202574134603357"
+    }
+  ],
+  "official_mesh_extracted": true,
+  "prefab_skeletons_extracted": true,
+  "draw_hash_status": "not_captured_on_target"
+}

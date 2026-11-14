@@ -1,0 +1,8140 @@
+{
+  "kind": "native_prefab",
+  "id": "cab-e1d4b0e10fdef88fff99ed634a3be39f",
+  "source_cab": "cab-e1d4b0e10fdef88fff99ed634a3be39f",
+  "prefab_name": "Avatar_Loli_Bow_Diona_Manekin",
+  "profile": "diona",
+  "internal_name": "Diona",
+  "body_token": "Loli",
+  "weapon_token": "Bow",
+  "variant_suffix": "_Manekin",
+  "root_transform_id": "-2587799096557589704",
+  "transforms": {
+    "-9177326690708950615": {
+      "game_object": {
+        "file_id": 0,
+        "path_id": "1782622063253861521"
+      },
+      "local_rotation_xyzw": [
+        0.0,
+        0.0,
+        0.0,
+        1.0
+      ],
+      "local_position": [
+        -0.2540000081062317,
+        0.0,
+        0.0
+      ],
+      "local_scale": [
+        1.0,
+        1.0,
+        1.0
+      ],
+      "children": [],
+      "parent": {
+        "file_id": 0,
+        "path_id": "6154431864364198318"
+      },
+      "name": "HitObject9",
+      "path_components": [
+        "Avatar_Loli_Bow_Diona_Manekin",
+        "Bip001",
+        "Bip001 Pelvis",
+        "Bip001 L Thigh",
+        "Bip001 L Calf",
+        "HitObject9"
+      ]
+    },
+    "-9130354878646103459": {
+      "game_object": {
+        "file_id": 0,
+        "path_id": "-3849796363586591758"
+      },
+      "local_rotation_xyzw": [
+        6.984919309616089e-10,
+        9.313225746154785e-10,
+        -1.4901161193847656e-08,
+        1.0
+      ],
+      "local_position": [
+        -0.014897498302161694,
+        0.0,
+        -5.9604643443123e-10
+      ],
+      "local_scale": [
+        1.0,
+        1.0,
+        1.0000001192092896
+      ],
+      "children": [],
+      "parent": {
+        "file_id": 0,
+        "path_id": "1939206055466509553"
+      },
+      "name": "Bip001 L Finger2Nub",
+      "path_components": [
+        "Avatar_Loli_Bow_Diona_Manekin",
+        "Bip001",
+        "Bip001 Pelvis",
+        "Bip001 Spine",
+        "Bip001 Spine1",
+        "Bip001 Spine2",
+        "Bip001 L Clavicle",
+        "Bip001 L UpperArm",
+        "Bip001 L Forearm",
+        "Bip001 L Hand",
+        "Bip001 L Finger2",
+        "Bip001 L Finger21",
+        "Bip001 L Finger22",
+        "Bip001 L Finger2Nub"
+      ]
+    },
+    "-9072719288626910408": {
+      "game_object": {
+        "file_id": 0,
+        "path_id": "5581066700821833460"
+      },
+      "local_rotation_xyzw": [
+        7.450580596923828e-09,
+        7.450580596923828e-09,
+        -5.551115123125783e-17,
+        1.0
+      ],
+      "local_position": [
+        -0.014489516615867615,
+        3.814697180359872e-08,
+        3.814697180359872e-08
+      ],
+      "local_scale": [
+        1.0,
+        1.0,
+        1.0
+      ],
+      "children": [],
+      "parent": {
+        "file_id": 0,
+        "path_id": "-4106005163019182323"
+      },
+      "name": "Bip001 L Finger0Nub",
+      "path_components": [
+        "Avatar_Loli_Bow_Diona_Manekin",
+        "Bip001",
+        "Bip001 Pelvis",
+        "Bip001 Spine",
+        "Bip001 Spine1",
+        "Bip001 Spine2",
+        "Bip001 L Clavicle",
+        "Bip001 L UpperArm",
+        "Bip001 L Forearm",
+        "Bip001 L Hand",
+        "Bip001 L Finger0",
+        "Bip001 L Finger01",
+        "Bip001 L Finger02",
+        "Bip001 L Finger0Nub"
+      ]
+    },
+    "-8979721325955999082": {
+      "game_object": {
+        "file_id": 0,
+        "path_id": "4992548168254314567"
+      },
+      "local_rotation_xyzw": [
+        0.0,
+        -0.0,
+        -0.0,
+        1.0
+      ],
+      "local_position": [
+        -0.0,
+        0.0,
+        0.0
+      ],
+      "local_scale": [
+        1.0,
+        1.0,
+        1.0
+      ],
+      "children": [],
+      "parent": {
+        "file_id": 0,
+        "path_id": "-2587799096557589704"
+      },
+      "name": "EffectMesh",
+      "path_components": [
+        "Avatar_Loli_Bow_Diona_Manekin",
+        "EffectMesh"
+      ]
+    },
+    "-7985863033428292539": {
+      "game_object": {
+        "file_id": 0,
+        "path_id": "2998740898141729152"
+      },
+      "local_rotation_xyzw": [
+        -1.1175871783564162e-08,
+        -3.725290298461914e-09,
+        1.0,
+        -1.4901162970204496e-08
+      ],
+      "local_position": [
+        -0.012739047408103943,
+        -3.814697180359872e-08,
+        0.0
+      ],
+      "local_scale": [
+        -0.9999998807907104,
+        -1.0,
+        -0.9999998807907104
+      ],
+      "children": [],
+      "parent": {
+        "file_id": 0,
+        "path_id": "-3511915265812369591"
+      },
+      "name": "Bip001 R Finger1Nub",
+      "path_components": [
+        "Avatar_Loli_Bow_Diona_Manekin",
+        "Bip001",
+        "Bip001 Pelvis",
+        "Bip001 Spine",
+        "Bip001 Spine1",
+        "Bip001 Spine2",
+        "Bip001 R Clavicle",
+        "Bip001 R UpperArm",
+        "Bip001 R Forearm",
+        "Bip001 R Hand",
+        "Bip001 R Finger1",
+        "Bip001 R Finger11",
+        "Bip001 R Finger12",
+        "Bip001 R Finger1Nub"
+      ]
+    },
+    "-7512719384195518186": {
+      "game_object": {
+        "file_id": 0,
+        "path_id": "3200483783807271926"
+      },
+      "local_rotation_xyzw": [
+        0.07647912949323654,
+        0.19679945707321167,
+        -0.012475796043872833,
+        0.9773767590522766
+      ],
+      "local_position": [
+        -0.0009299468947574496,
+        0.041657332330942154,
+        -0.02896132320165634
+      ],
+      "local_scale": [
+        1.0,
+        1.0000001192092896,
+        1.000000238418579
+      ],
+      "children": [],
+      "parent": {
+        "file_id": 0,
+        "path_id": "5491656345016606976"
+      },
+      "name": "+VisionPelvisB R A01",
+      "path_components": [
+        "Avatar_Loli_Bow_Diona_Manekin",
+        "Bip001",
+        "Bip001 Pelvis",
+        "Bip001 Spine",
+        "Bip001 Spine1",
+        "+BowknotB R C01",
+        "+VisionPelvisB R A01"
+      ]
+    },
+    "-7439342704904286579": {
+      "game_object": {
+        "file_id": 0,
+        "path_id": "-465382906368716106"
+      },
+      "local_rotation_xyzw": [
+        1.3824141205986962e-05,
+        4.723182200905285e-07,
+        1.0803475447573874e-07,
+        1.0
+      ],
+      "local_position": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "local_scale": [
+        1.0,
+        1.0,
+        1.0
+      ],
+      "children": [],
+      "parent": {
+        "file_id": 0,
+        "path_id": "56554057924862028"
+      },
+      "name": "PRIVATE_Tail",
+      "path_components": [
+        "Avatar_Loli_Bow_Diona_Manekin",
+        "Bip001",
+        "Bip001 Pelvis",
+        "+TailB L A01",
+        "+TailB L A02",
+        "+TailB L A03",
+        "+TailB L A04",
+        "+TailB L A05",
+        "+TailB L A06",
+        "PRIVATE_Tail"
+      ]
+    },
+    "-6982270894049166885": {
+      "game_object": {
+        "file_id": 0,
+        "path_id": "-684387622339015140"
+      },
+      "local_rotation_xyzw": [
+        -0.7071055769920349,
+        -0.7071080207824707,
+        7.641975571459625e-06,
+        0.00024426018353551626
+      ],
+      "local_position": [
+        0.3499999940395355,
+        0.699999988079071,
+        -9.999999406318238e-08
+      ],
+      "local_scale": [
+        1.0,
+        1.0,
+        1.0
+      ],
+      "children": [],
+      "parent": {
+        "file_id": 0,
+        "path_id": "-1405529647415640255"
+      },
+      "name": "CatalystR",
+      "path_components": [
+        "Avatar_Loli_Bow_Diona_Manekin",
+        "Root",
+        "CatalystR"
+      ]
+    },
+    "-6937509252973976373": {
+      "game_object": {
+        "file_id": 0,
+        "path_id": "-8032585991342780010"
+      },
+      "local_rotation_xyzw": [
+        -4.327418992033927e-07,
+        -7.766811904730275e-08,
+        0.005012769252061844,
+        0.9999874234199524
+      ],
+      "local_position": [
+        -0.10570769757032394,
+        -3.814697180359872e-08,
+        -4.382955509640851e-08
+      ],
+      "local_scale": [
+        1.0,
+        1.0,
+        1.0
+      ],
+      "children": [
+        {
+          "file_id": 0,
+          "path_id": "-1775373755527447072"
+        }
+      ],
+      "parent": {
+        "file_id": 0,
+        "path_id": "-2025261841658572078"
+      },
+      "name": "+TailB L A04",
+      "path_components": [
+        "Avatar_Loli_Bow_Diona_Manekin",
+        "Bip001",
+        "Bip001 Pelvis",
+        "+TailB L A01",
+        "+TailB L A02",
+        "+TailB L A03",
+        "+TailB L A04"
+      ]
+    },
+    "-6891613673315608431": {
+      "game_object": {
+        "file_id": 0,
+        "path_id": "5135822055721739729"
+      },
+      "local_rotation_xyzw": [
+        1.7453201106576444e-09,
+        2.3283061589829401e-10,
+        1.0,
+        -1.1641537733808605e-10
+      ],
+      "local_position": [
+        -0.03600483760237694,
+        0.0,
+        0.0
+      ],
+      "local_scale": [
+        -1.0000001192092896,
+        -1.0000001192092896,
+        -1.0000001192092896
+      ],
+      "children": [],
+      "parent": {
+        "file_id": 0,
+        "path_id": "4805993811640518278"
+      },
+      "name": "Bip001 L Toe0Nub",
+      "path_components": [
+        "Avatar_Loli_Bow_Diona_Manekin",
+        "Bip001",
+        "Bip001 Pelvis",
+        "Bip001 L Thigh",
+        "Bip001 L Calf",
+        "Bip001 L Foot",
+        "Bip001 L Toe0",
+        "Bip001 L Toe0Nub"
+      ]
+    },
+    "-6857721741744596037": {
+      "game_object": {
+        "file_id": 0,
+        "path_id": "6382601830753031088"
+      },
+      "local_rotation_xyzw": [
+        -1.8952411551254045e-07,
+        0.0040337820537388325,
+        -0.07395157217979431,
+        -0.9972537159919739
+      ],
+      "local_position": [
+        -0.015437671914696693,
+        -6.051434553455692e-08,
+        -4.931192676416174e-10
+      ],
+      "local_scale": [
+        0.9999999403953552,
+        1.0,
+        0.9999999403953552
+      ],
+      "children": [
+        {
+          "file_id": 0,
+          "path_id": "-280303178802458868"
+        }
+      ],
+      "parent": {
+        "file_id": 0,
+        "path_id": "-4997516824148462672"
+      },
+      "name": "Bip001 R Finger22",
+      "path_components": [
+        "Avatar_Loli_Bow_Diona_Manekin",
+        "Bip001",
+        "Bip001 Pelvis",
+        "Bip001 Spine",
+        "Bip001 Spine1",
+        "Bip001 Spine2",
+        "Bip001 R Clavicle",
+        "Bip001 R UpperArm",
+        "Bip001 R Forearm",
+        "Bip001 R Hand",
+        "Bip001 R Finger2",
+        "Bip001 R Finger21",
+        "Bip001 R Finger22"
+      ]
+    },
+    "-6741548424902392850": {
+      "game_object": {
+        "file_id": 0,
+        "path_id": "-5547391328949831918"
+      },
+      "local_rotation_xyzw": [
+        0.012540198862552643,
+        0.02353525161743164,
+        -0.09846405684947968,
+        0.9947832822799683
+      ],
+      "local_position": [
+        -0.04887818545103073,
+        -0.004005453083664179,
+        -0.0036548138596117496
+      ],
+      "local_scale": [
+        1.0000001192092896,
+        1.0000001192092896,
+        1.0000001192092896
+      ],
+      "children": [
+        {
+          "file_id": 0,
+          "path_id": "7777550333203077660"
+        }
+      ],
+      "parent": {
+        "file_id": 0,
+        "path_id": "5006883868887496200"
+      },
+      "name": "Bip001 L Finger2",
+      "path_components": [
+        "Avatar_Loli_Bow_Diona_Manekin",
+        "Bip001",
+        "Bip001 Pelvis",
+        "Bip001 Spine",
+        "Bip001 Spine1",
+        "Bip001 Spine2",
+        "Bip001 L Clavicle",
+        "Bip001 L UpperArm",
+        "Bip001 L Forearm",
+        "Bip001 L Hand",
+        "Bip001 L Finger2"
+      ]
+    },
+    "-6551101914056921158": {
+      "game_object": {
+        "file_id": 0,
+        "path_id": "1623110373284956246"
+      },
+      "local_rotation_xyzw": [
+        0.7280787229537964,
+        -0.6854935884475708,
+        -2.5658613367340877e-07,
+        -2.0875982897905487e-07
+      ],
+      "local_position": [
+        -0.02961128205060959,
+        0.08195019513368607,
+        2.3430534668023029e-07
+      ],
+      "local_scale": [
+        1.0,
+        1.0,
+        1.0
+      ],
+      "children": [],
+      "parent": {
+        "file_id": 0,
+        "path_id": "-1248103346604770283"
+      },
+      "name": "+ToothBone U A01",
+      "path_components": [
+        "Avatar_Loli_Bow_Diona_Manekin",
+        "Bip001",
+        "Bip001 Pelvis",
+        "Bip001 Spine",
+        "Bip001 Spine1",
+        "Bip001 Spine2",
+        "Bip001 Neck",
+        "Bip001 Head",
+        "+ToothBone U A01"
+      ]
+    },
+    "-6494888612211234454": {
+      "game_object": {
+        "file_id": 0,
+        "path_id": "-6584107940538246874"
+      },
+      "local_rotation_xyzw": [
+        -0.019263112917542458,
+        0.019263137131929398,
+        -0.706843912601471,
+        0.7068448066711426
+      ],
+      "local_position": [
+        -0.03588999807834625,
+        -2.242268176688711e-10,
+        -0.6580299735069275
+      ],
+      "local_scale": [
+        1.0,
+        1.0,
+        1.0
+      ],
+      "children": [],
+      "parent": {
+        "file_id": 0,
+        "path_id": "-3060350416147987511"
+      },
+      "name": "Bip001 Footsteps",
+      "path_components": [
+        "Avatar_Loli_Bow_Diona_Manekin",
+        "Bip001",
+        "Bip001 Footsteps"
+      ]
+    },
+    "-6403089197127004515": {
+      "game_object": {
+        "file_id": 0,
+        "path_id": "7162040192086656118"
+      },
+      "local_rotation_xyzw": [
+        7.683410530034962e-08,
+        0.0046438961289823055,
+        0.08513902872800827,
+        0.996358335018158
+      ],
+      "local_position": [
+        -0.019341465085744858,
+        1.065218246942834e-09,
+        3.4040459340189955e-09
+      ],
+      "local_scale": [
+        1.0,
+        1.0,
+        1.0
+      ],
+      "children": [
+        {
+          "file_id": 0,
+          "path_id": "-4719140423123628430"
+        }
+      ],
+      "parent": {
+        "file_id": 0,
+        "path_id": "7853723497254172636"
+      },
+      "name": "Bip001 L Finger11",
+      "path_components": [
+        "Avatar_Loli_Bow_Diona_Manekin",
+        "Bip001",
+        "Bip001 Pelvis",
+        "Bip001 Spine",
+        "Bip001 Spine1",
+        "Bip001 Spine2",
+        "Bip001 L Clavicle",
+        "Bip001 L UpperArm",
+        "Bip001 L Forearm",
+        "Bip001 L Hand",
+        "Bip001 L Finger1",
+        "Bip001 L Finger11"
+      ]
+    },
+    "-6153272416869208033": {
+      "game_object": {
+        "file_id": 0,
+        "path_id": "-3747696128139833305"
+      },
+      "local_rotation_xyzw": [
+        -3.4924568126371014e-08,
+        -5.960459503739912e-08,
+        0.703299343585968,
+        -0.7108938097953796
+      ],
+      "local_position": [
+        -0.06920447945594788,
+        0.05091853439807892,
+        0.0021809146273881197
+      ],
+      "local_scale": [
+        1.0000001192092896,
+        1.0000001192092896,
+        1.0
+      ],
+      "children": [
+        {
+          "file_id": 0,
+          "path_id": "1730448606265841291"
+        }
+      ],
+      "parent": {
+        "file_id": 0,
+        "path_id": "-3010744284457534621"
+      },
+      "name": "Bip001 R Toe0",
+      "path_components": [
+        "Avatar_Loli_Bow_Diona_Manekin",
+        "Bip001",
+        "Bip001 Pelvis",
+        "Bip001 R Thigh",
+        "Bip001 R Calf",
+        "Bip001 R Foot",
+        "Bip001 R Toe0"
+      ]
+    },
+    "-6142130824751528829": {
+      "game_object": {
+        "file_id": 0,
+        "path_id": "-2610287900759937445"
+      },
+      "local_rotation_xyzw": [
+        -0.7762471437454224,
+        -0.05216347053647041,
+        0.6272867321968079,
+        0.035082265734672546
+      ],
+      "local_position": [
+        -0.1289999932050705,
+        -0.37599998712539673,
+        0.07699999958276749
+      ],
+      "local_scale": [
+        1.0,
+        1.0,
+        1.0
+      ],
+      "children": [],
+      "parent": {
+        "file_id": 0,
+        "path_id": "-3357917287159644780"
+      },
+      "name": "PRIVATE_WeaponRootCatalyst",
+      "path_components": [
+        "Avatar_Loli_Bow_Diona_Manekin",
+        "Bip001",
+        "Bip001 Pelvis",
+        "Bip001 Spine",
+        "Bip001 Spine1",
+        "PRIVATE_WeaponRootCatalyst"
+      ]
+    },
+    "-6059976417347462210": {
+      "game_object": {
+        "file_id": 0,
+        "path_id": "-3010981366324687928"
+      },
+      "local_rotation_xyzw": [
+        0.0015515979612246156,
+        0.0029748023953288794,
+        0.0008055950747802854,
+        0.9999940991401672
+      ],
+      "local_position": [
+        -0.11505500227212906,
+        -1.5258788721439487e-07,
+        9.53674295089968e-09
+      ],
+      "local_scale": [
+        1.0,
+        1.0,
+        1.000000238418579
+      ],
+      "children": [
+        {
+          "file_id": 0,
+          "path_id": "-775021537104516576"
+        }
+      ],
+      "parent": {
+        "file_id": 0,
+        "path_id": "-1043230715631366874"
+      },
+      "name": "+HemB R G02",
+      "path_components": [
+        "Avatar_Loli_Bow_Diona_Manekin",
+        "Bip001",
+        "Bip001 Pelvis",
+        "Bip001 Spine",
+        "+HemB R G01",
+        "+HemB R G02"
+      ]
+    },
+    "-6010085532361108148": {
+      "game_object": {
+        "file_id": 0,
+        "path_id": "-5628740451654577315"
+      },
+      "local_rotation_xyzw": [
+        6.041953781732445e-08,
+        -0.004851853474974632,
+        -0.08895079046487808,
+        0.9960242509841919
+      ],
+      "local_position": [
+        -0.020268313586711884,
+        8.939230466964432e-10,
+        -5.090985966127448e-10
+      ],
+      "local_scale": [
+        1.0,
+        1.0000001192092896,
+        1.0000001192092896
+      ],
+      "children": [
+        {
+          "file_id": 0,
+          "path_id": "2711923118617261681"
+        }
+      ],
+      "parent": {
+        "file_id": 0,
+        "path_id": "8628753532357539473"
+      },
+      "name": "Bip001 L Finger31",
+      "path_components": [
+        "Avatar_Loli_Bow_Diona_Manekin",
+        "Bip001",
+        "Bip001 Pelvis",
+        "Bip001 Spine",
+        "Bip001 Spine1",
+        "Bip001 Spine2",
+        "Bip001 L Clavicle",
+        "Bip001 L UpperArm",
+        "Bip001 L Forearm",
+        "Bip001 L Hand",
+        "Bip001 L Finger3",
+        "Bip001 L Finger31"
+      ]
+    },
+    "-5751574610226983809": {
+      "game_object": {
+        "file_id": 0,
+        "path_id": "-1299097319234414736"
+      },
+      "local_rotation_xyzw": [
+        0.6264897584915161,
+        -0.43397822976112366,
+        0.08572550117969513,
+        0.6417356133460999
+      ],
+      "local_position": [
+        -0.01510713528841734,
+        0.006340636871755123,
+        -0.0193743035197258
+      ],
+      "local_scale": [
+        1.0,
+        1.0,
+        1.0
+      ],
+      "children": [
+        {
+          "file_id": 0,
+          "path_id": "-587017172694474705"
+        }
+      ],
+      "parent": {
+        "file_id": 0,
+        "path_id": "5006883868887496200"
+      },
+      "name": "Bip001 L Finger0",
+      "path_components": [
+        "Avatar_Loli_Bow_Diona_Manekin",
+        "Bip001",
+        "Bip001 Pelvis",
+        "Bip001 Spine",
+        "Bip001 Spine1",
+        "Bip001 Spine2",
+        "Bip001 L Clavicle",
+        "Bip001 L UpperArm",
+        "Bip001 L Forearm",
+        "Bip001 L Hand",
+        "Bip001 L Finger0"
+      ]
+    },
+    "-5595507143480485400": {
+      "game_object": {
+        "file_id": 0,
+        "path_id": "-2719752214371787363"
+      },
+      "local_rotation_xyzw": [
+        0.0,
+        0.0,
+        1.0,
+        1.4901159417490817e-08
+      ],
+      "local_position": [
+        -0.014489516615867615,
+        3.814697180359872e-08,
+        0.0
+      ],
+      "local_scale": [
+        -1.0000001192092896,
+        -1.0000001192092896,
+        -1.0000001192092896
+      ],
+      "children": [],
+      "parent": {
+        "file_id": 0,
+        "path_id": "5100916209824232350"
+      },
+      "name": "Bip001 R Finger0Nub",
+      "path_components": [
+        "Avatar_Loli_Bow_Diona_Manekin",
+        "Bip001",
+        "Bip001 Pelvis",
+        "Bip001 Spine",
+        "Bip001 Spine1",
+        "Bip001 Spine2",
+        "Bip001 R Clavicle",
+        "Bip001 R UpperArm",
+        "Bip001 R Forearm",
+        "Bip001 R Hand",
+        "Bip001 R Finger0",
+        "Bip001 R Finger01",
+        "Bip001 R Finger02",
+        "Bip001 R Finger0Nub"
+      ]
+    },
+    "-5011838722760287706": {
+      "game_object": {
+        "file_id": 0,
+        "path_id": "-8282074701735954307"
+      },
+      "local_rotation_xyzw": [
+        0.7122790217399597,
+        -0.6879571676254272,
+        0.10813980549573898,
+        0.08763188868761063
+      ],
+      "local_position": [
+        -0.07028930634260178,
+        0.005067596212029457,
+        -0.030243534594774246
+      ],
+      "local_scale": [
+        1.0000001192092896,
+        1.0,
+        1.0
+      ],
+      "children": [
+        {
+          "file_id": 0,
+          "path_id": "-542094390626310863"
+        }
+      ],
+      "parent": {
+        "file_id": 0,
+        "path_id": "-1248103346604770283"
+      },
+      "name": "+EyeBone R A01",
+      "path_components": [
+        "Avatar_Loli_Bow_Diona_Manekin",
+        "Bip001",
+        "Bip001 Pelvis",
+        "Bip001 Spine",
+        "Bip001 Spine1",
+        "Bip001 Spine2",
+        "Bip001 Neck",
+        "Bip001 Head",
+        "+EyeBone R A01"
+      ]
+    },
+    "-4997516824148462672": {
+      "game_object": {
+        "file_id": 0,
+        "path_id": "-8276749251450083544"
+      },
+      "local_rotation_xyzw": [
+        -1.722946620930088e-07,
+        -0.003982063848525286,
+        0.0730055719614029,
+        -0.9973236322402954
+      ],
+      "local_position": [
+        -0.02008388377726078,
+        -1.1458584081580625e-09,
+        7.830264214803151e-10
+      ],
+      "local_scale": [
+        0.9999999403953552,
+        0.9999999403953552,
+        0.9999999403953552
+      ],
+      "children": [
+        {
+          "file_id": 0,
+          "path_id": "-6857721741744596037"
+        }
+      ],
+      "parent": {
+        "file_id": 0,
+        "path_id": "6781204340118202633"
+      },
+      "name": "Bip001 R Finger21",
+      "path_components": [
+        "Avatar_Loli_Bow_Diona_Manekin",
+        "Bip001",
+        "Bip001 Pelvis",
+        "Bip001 Spine",
+        "Bip001 Spine1",
+        "Bip001 Spine2",
+        "Bip001 R Clavicle",
+        "Bip001 R UpperArm",
+        "Bip001 R Forearm",
+        "Bip001 R Hand",
+        "Bip001 R Finger2",
+        "Bip001 R Finger21"
+      ]
+    },
+    "-4952346033083794131": {
+      "game_object": {
+        "file_id": 0,
+        "path_id": "9051723706568287329"
+      },
+      "local_rotation_xyzw": [
+        -0.6411067247390747,
+        0.35826048254966736,
+        0.09946419298648834,
+        0.6713706254959106
+      ],
+      "local_position": [
+        -0.01510709710419178,
+        0.006340636871755123,
+        0.019374312832951546
+      ],
+      "local_scale": [
+        1.0,
+        1.0,
+        1.0
+      ],
+      "children": [
+        {
+          "file_id": 0,
+          "path_id": "-3784885268946692316"
+        }
+      ],
+      "parent": {
+        "file_id": 0,
+        "path_id": "9210081420108368469"
+      },
+      "name": "Bip001 R Finger0",
+      "path_components": [
+        "Avatar_Loli_Bow_Diona_Manekin",
+        "Bip001",
+        "Bip001 Pelvis",
+        "Bip001 Spine",
+        "Bip001 Spine1",
+        "Bip001 Spine2",
+        "Bip001 R Clavicle",
+        "Bip001 R UpperArm",
+        "Bip001 R Forearm",
+        "Bip001 R Hand",
+        "Bip001 R Finger0"
+      ]
+    },
+    "-4719140423123628430": {
+      "game_object": {
+        "file_id": 0,
+        "path_id": "9051414720092160880"
+      },
+      "local_rotation_xyzw": [
+        7.799825851861897e-08,
+        0.0034568277187645435,
+        0.0633760318160057,
+        0.9979838132858276
+      ],
+      "local_position": [
+        -0.014308061450719833,
+        6.020690079822089e-08,
+        -2.5118507274157764e-09
+      ],
+      "local_scale": [
+        0.9999998807907104,
+        0.9999999403953552,
+        1.0
+      ],
+      "children": [
+        {
+          "file_id": 0,
+          "path_id": "4105931651432060484"
+        }
+      ],
+      "parent": {
+        "file_id": 0,
+        "path_id": "-6403089197127004515"
+      },
+      "name": "Bip001 L Finger12",
+      "path_components": [
+        "Avatar_Loli_Bow_Diona_Manekin",
+        "Bip001",
+        "Bip001 Pelvis",
+        "Bip001 Spine",
+        "Bip001 Spine1",
+        "Bip001 Spine2",
+        "Bip001 L Clavicle",
+        "Bip001 L UpperArm",
+        "Bip001 L Forearm",
+        "Bip001 L Hand",
+        "Bip001 L Finger1",
+        "Bip001 L Finger11",
+        "Bip001 L Finger12"
+      ]
+    },
+    "-4699847956896506290": {
+      "game_object": {
+        "file_id": 0,
+        "path_id": "2002531738162269056"
+      },
+      "local_rotation_xyzw": [
+        0.0,
+        0.0,
+        0.0,
+        1.0
+      ],
+      "local_position": [
+        0.057999998331069946,
+        0.0,
+        0.0
+      ],
+      "local_scale": [
+        1.0,
+        1.0,
+        1.0
+      ],
+      "children": [],
+      "parent": {
+        "file_id": 0,
+        "path_id": "8296939532950562586"
+      },
+      "name": "HitObject6",
+      "path_components": [
+        "Avatar_Loli_Bow_Diona_Manekin",
+        "Bip001",
+        "Bip001 Pelvis",
+        "Bip001 R Thigh",
+        "Bip001 R Calf",
+        "HitObject6"
+      ]
+    },
+    "-4650484791297860819": {
+      "game_object": {
+        "file_id": 0,
+        "path_id": "7825003417441752171"
+      },
+      "local_rotation_xyzw": [
+        -0.9989675879478455,
+        -0.0027838011737912893,
+        0.010983383283019066,
+        0.04399280622601509
+      ],
+      "local_position": [
+        -0.08009910583496094,
+        -0.00015103816986083984,
+        -0.003303375095129013
+      ],
+      "local_scale": [
+        1.0,
+        1.0,
+        1.0
+      ],
+      "children": [],
+      "parent": {
+        "file_id": 0,
+        "path_id": "2683541248813330088"
+      },
+      "name": "+UpperArmTwist L A02",
+      "path_components": [
+        "Avatar_Loli_Bow_Diona_Manekin",
+        "Bip001",
+        "Bip001 Pelvis",
+        "Bip001 Spine",
+        "Bip001 Spine1",
+        "Bip001 Spine2",
+        "Bip001 L Clavicle",
+        "Bip001 L UpperArm",
+        "+UpperArmTwist L A02"
+      ]
+    },
+    "-4257347499704391860": {
+      "game_object": {
+        "file_id": 0,
+        "path_id": "8936739067883207388"
+      },
+      "local_rotation_xyzw": [
+        -2.3050228037391207e-07,
+        -0.004919817671179771,
+        0.09019812196493149,
+        -0.9959117770195007
+      ],
+      "local_position": [
+        -0.020268358290195465,
+        5.826304771971991e-08,
+        5.811009895495545e-09
+      ],
+      "local_scale": [
+        0.9999998807907104,
+        0.9999999403953552,
+        0.9999999403953552
+      ],
+      "children": [
+        {
+          "file_id": 0,
+          "path_id": "4434512230116569316"
+        }
+      ],
+      "parent": {
+        "file_id": 0,
+        "path_id": "2840898610620076087"
+      },
+      "name": "Bip001 R Finger31",
+      "path_components": [
+        "Avatar_Loli_Bow_Diona_Manekin",
+        "Bip001",
+        "Bip001 Pelvis",
+        "Bip001 Spine",
+        "Bip001 Spine1",
+        "Bip001 Spine2",
+        "Bip001 R Clavicle",
+        "Bip001 R UpperArm",
+        "Bip001 R Forearm",
+        "Bip001 R Hand",
+        "Bip001 R Finger3",
+        "Bip001 R Finger31"
+      ]
+    },
+    "-4229973323945711100": {
+      "game_object": {
+        "file_id": 0,
+        "path_id": "8106257591197879981"
+      },
+      "local_rotation_xyzw": [
+        0.0,
+        0.0,
+        0.0,
+        1.0
+      ],
+      "local_position": [
+        -0.2540000081062317,
+        0.0,
+        0.0
+      ],
+      "local_scale": [
+        1.0,
+        1.0,
+        1.0
+      ],
+      "children": [],
+      "parent": {
+        "file_id": 0,
+        "path_id": "8296939532950562586"
+      },
+      "name": "HitObject4",
+      "path_components": [
+        "Avatar_Loli_Bow_Diona_Manekin",
+        "Bip001",
+        "Bip001 Pelvis",
+        "Bip001 R Thigh",
+        "Bip001 R Calf",
+        "HitObject4"
+      ]
+    },
+    "-4106005163019182323": {
+      "game_object": {
+        "file_id": 0,
+        "path_id": "-5382668924971919932"
+      },
+      "local_rotation_xyzw": [
+        0.009537843987345695,
+        -0.006325945258140564,
+        0.10278622061014175,
+        0.994637668132782
+      ],
+      "local_position": [
+        -0.015530089847743511,
+        0.0,
+        0.0
+      ],
+      "local_scale": [
+        1.0,
+        1.0,
+        1.0
+      ],
+      "children": [
+        {
+          "file_id": 0,
+          "path_id": "-9072719288626910408"
+        }
+      ],
+      "parent": {
+        "file_id": 0,
+        "path_id": "-587017172694474705"
+      },
+      "name": "Bip001 L Finger02",
+      "path_components": [
+        "Avatar_Loli_Bow_Diona_Manekin",
+        "Bip001",
+        "Bip001 Pelvis",
+        "Bip001 Spine",
+        "Bip001 Spine1",
+        "Bip001 Spine2",
+        "Bip001 L Clavicle",
+        "Bip001 L UpperArm",
+        "Bip001 L Forearm",
+        "Bip001 L Hand",
+        "Bip001 L Finger0",
+        "Bip001 L Finger01",
+        "Bip001 L Finger02"
+      ]
+    },
+    "-4071745076859500041": {
+      "game_object": {
+        "file_id": 0,
+        "path_id": "-7312978874290232592"
+      },
+      "local_rotation_xyzw": [
+        0.0,
+        0.0,
+        0.0,
+        1.0
+      ],
+      "local_position": [
+        -0.06400000303983688,
+        0.023000000044703484,
+        0.0010000000474974513
+      ],
+      "local_scale": [
+        1.0,
+        1.0,
+        1.0
+      ],
+      "children": [],
+      "parent": {
+        "file_id": 0,
+        "path_id": "9210081420108368469"
+      },
+      "name": "PRIVATE_RHand",
+      "path_components": [
+        "Avatar_Loli_Bow_Diona_Manekin",
+        "Bip001",
+        "Bip001 Pelvis",
+        "Bip001 Spine",
+        "Bip001 Spine1",
+        "Bip001 Spine2",
+        "Bip001 R Clavicle",
+        "Bip001 R UpperArm",
+        "Bip001 R Forearm",
+        "Bip001 R Hand",
+        "PRIVATE_RHand"
+      ]
+    },
+    "-3972388706754550629": {
+      "game_object": {
+        "file_id": 0,
+        "path_id": "3661343107508378712"
+      },
+      "local_rotation_xyzw": [
+        -0.07647871971130371,
+        -0.19679954648017883,
+        -0.012476100586354733,
+        0.9773767590522766
+      ],
+      "local_position": [
+        -0.0009298705845139921,
+        0.04165729507803917,
+        0.028961410745978355
+      ],
+      "local_scale": [
+        0.9999999403953552,
+        1.0,
+        1.0000001192092896
+      ],
+      "children": [
+        {
+          "file_id": 0,
+          "path_id": "-1173486697279077933"
+        }
+      ],
+      "parent": {
+        "file_id": 0,
+        "path_id": "2082489126419441838"
+      },
+      "name": "+VisionPelvisB L A01",
+      "path_components": [
+        "Avatar_Loli_Bow_Diona_Manekin",
+        "Bip001",
+        "Bip001 Pelvis",
+        "Bip001 Spine",
+        "Bip001 Spine1",
+        "+BowknotB L C01",
+        "+VisionPelvisB L A01"
+      ]
+    },
+    "-3784885268946692316": {
+      "game_object": {
+        "file_id": 0,
+        "path_id": "-319290196132941228"
+      },
+      "local_rotation_xyzw": [
+        -3.729003947228193e-05,
+        -1.040594361256808e-05,
+        -0.12206597626209259,
+        0.9925220012664795
+      ],
+      "local_position": [
+        -0.016478003934025764,
+        -3.814697180359872e-08,
+        -3.814697180359872e-08
+      ],
+      "local_scale": [
+        1.0,
+        1.0,
+        1.0
+      ],
+      "children": [
+        {
+          "file_id": 0,
+          "path_id": "5100916209824232350"
+        }
+      ],
+      "parent": {
+        "file_id": 0,
+        "path_id": "-4952346033083794131"
+      },
+      "name": "Bip001 R Finger01",
+      "path_components": [
+        "Avatar_Loli_Bow_Diona_Manekin",
+        "Bip001",
+        "Bip001 Pelvis",
+        "Bip001 Spine",
+        "Bip001 Spine1",
+        "Bip001 Spine2",
+        "Bip001 R Clavicle",
+        "Bip001 R UpperArm",
+        "Bip001 R Forearm",
+        "Bip001 R Hand",
+        "Bip001 R Finger0",
+        "Bip001 R Finger01"
+      ]
+    },
+    "-3713133896764299800": {
+      "game_object": {
+        "file_id": 0,
+        "path_id": "-9178555845868559129"
+      },
+      "local_rotation_xyzw": [
+        0.00891613308340311,
+        0.01698262244462967,
+        0.045184068381786346,
+        0.9987945556640625
+      ],
+      "local_position": [
+        -0.07544569671154022,
+        -9.389457409270108e-05,
+        3.245077540015018e-09
+      ],
+      "local_scale": [
+        1.0,
+        1.0,
+        1.0
+      ],
+      "children": [
+        {
+          "file_id": 0,
+          "path_id": "3284771047162119881"
+        },
+        {
+          "file_id": 0,
+          "path_id": "8240171887566819279"
+        },
+        {
+          "file_id": 0,
+          "path_id": "3655332741175608262"
+        },
+        {
+          "file_id": 0,
+          "path_id": "-2406474645713959016"
+        },
+        {
+          "file_id": 0,
+          "path_id": "-3164368341331417928"
+        },
+        {
+          "file_id": 0,
+          "path_id": "3963116549863442665"
+        }
+      ],
+      "parent": {
+        "file_id": 0,
+        "path_id": "-3357917287159644780"
+      },
+      "name": "Bip001 Spine2",
+      "path_components": [
+        "Avatar_Loli_Bow_Diona_Manekin",
+        "Bip001",
+        "Bip001 Pelvis",
+        "Bip001 Spine",
+        "Bip001 Spine1",
+        "Bip001 Spine2"
+      ]
+    },
+    "-3608802570422430275": {
+      "game_object": {
+        "file_id": 0,
+        "path_id": "-7553645006710493967"
+      },
+      "local_rotation_xyzw": [
+        -0.9989575743675232,
+        -0.0027832514606416225,
+        0.010965744033455849,
+        0.04422425106167793
+      ],
+      "local_position": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "local_scale": [
+        1.0,
+        1.0,
+        1.0
+      ],
+      "children": [],
+      "parent": {
+        "file_id": 0,
+        "path_id": "2683541248813330088"
+      },
+      "name": "+UpperArmTwist L A01",
+      "path_components": [
+        "Avatar_Loli_Bow_Diona_Manekin",
+        "Bip001",
+        "Bip001 Pelvis",
+        "Bip001 Spine",
+        "Bip001 Spine1",
+        "Bip001 Spine2",
+        "Bip001 L Clavicle",
+        "Bip001 L UpperArm",
+        "+UpperArmTwist L A01"
+      ]
+    },
+    "-3511915265812369591": {
+      "game_object": {
+        "file_id": 0,
+        "path_id": "-6813645319481053453"
+      },
+      "local_rotation_xyzw": [
+        2.607702498380604e-08,
+        0.0034181494265794754,
+        -0.06266632676124573,
+        -0.9980286955833435
+      ],
+      "local_position": [
+        -0.014308069832623005,
+        -4.549625953753633e-10,
+        -6.067200519765947e-09
+      ],
+      "local_scale": [
+        0.9999999403953552,
+        0.9999999403953552,
+        0.9999999403953552
+      ],
+      "children": [
+        {
+          "file_id": 0,
+          "path_id": "-7985863033428292539"
+        }
+      ],
+      "parent": {
+        "file_id": 0,
+        "path_id": "9159973138373457094"
+      },
+      "name": "Bip001 R Finger12",
+      "path_components": [
+        "Avatar_Loli_Bow_Diona_Manekin",
+        "Bip001",
+        "Bip001 Pelvis",
+        "Bip001 Spine",
+        "Bip001 Spine1",
+        "Bip001 Spine2",
+        "Bip001 R Clavicle",
+        "Bip001 R UpperArm",
+        "Bip001 R Forearm",
+        "Bip001 R Hand",
+        "Bip001 R Finger1",
+        "Bip001 R Finger11",
+        "Bip001 R Finger12"
+      ]
+    },
+    "-3357917287159644780": {
+      "game_object": {
+        "file_id": 0,
+        "path_id": "1577154839826515330"
+      },
+      "local_rotation_xyzw": [
+        0.005108731798827648,
+        0.0008297456079162657,
+        0.10407185554504395,
+        0.9945563077926636
+      ],
+      "local_position": [
+        -0.0646314024925232,
+        -5.977572436677292e-05,
+        2.7794158086180687e-09
+      ],
+      "local_scale": [
+        1.0,
+        1.0,
+        0.9999999403953552
+      ],
+      "children": [
+        {
+          "file_id": 0,
+          "path_id": "2082489126419441838"
+        },
+        {
+          "file_id": 0,
+          "path_id": "5491656345016606976"
+        },
+        {
+          "file_id": 0,
+          "path_id": "-3713133896764299800"
+        },
+        {
+          "file_id": 0,
+          "path_id": "-6142130824751528829"
+        }
+      ],
+      "parent": {
+        "file_id": 0,
+        "path_id": "-98185806278883735"
+      },
+      "name": "Bip001 Spine1",
+      "path_components": [
+        "Avatar_Loli_Bow_Diona_Manekin",
+        "Bip001",
+        "Bip001 Pelvis",
+        "Bip001 Spine",
+        "Bip001 Spine1"
+      ]
+    },
+    "-3238939355641963391": {
+      "game_object": {
+        "file_id": 0,
+        "path_id": "7850599901108154478"
+      },
+      "local_rotation_xyzw": [
+        0.08338995277881622,
+        0.7135293483734131,
+        0.6790618300437927,
+        -0.15098699927330017
+      ],
+      "local_position": [
+        -0.1045101135969162,
+        0.01811264082789421,
+        0.11339157074689865
+      ],
+      "local_scale": [
+        0.9999999403953552,
+        1.0000001192092896,
+        1.0
+      ],
+      "children": [],
+      "parent": {
+        "file_id": 0,
+        "path_id": "-1248103346604770283"
+      },
+      "name": "+HairS L E01",
+      "path_components": [
+        "Avatar_Loli_Bow_Diona_Manekin",
+        "Bip001",
+        "Bip001 Pelvis",
+        "Bip001 Spine",
+        "Bip001 Spine1",
+        "Bip001 Spine2",
+        "Bip001 Neck",
+        "Bip001 Head",
+        "+HairS L E01"
+      ]
+    },
+    "-3164368341331417928": {
+      "game_object": {
+        "file_id": 0,
+        "path_id": "3871109485527671837"
+      },
+      "local_rotation_xyzw": [
+        4.378475182420516e-08,
+        1.7320307676982338e-07,
+        -0.09230827540159225,
+        0.995730459690094
+      ],
+      "local_position": [
+        -0.09200000017881393,
+        0.004999999888241291,
+        0.0
+      ],
+      "local_scale": [
+        1.0,
+        1.0,
+        1.0
+      ],
+      "children": [],
+      "parent": {
+        "file_id": 0,
+        "path_id": "-3713133896764299800"
+      },
+      "name": "HitObject3",
+      "path_components": [
+        "Avatar_Loli_Bow_Diona_Manekin",
+        "Bip001",
+        "Bip001 Pelvis",
+        "Bip001 Spine",
+        "Bip001 Spine1",
+        "Bip001 Spine2",
+        "HitObject3"
+      ]
+    },
+    "-3060350416147987511": {
+      "game_object": {
+        "file_id": 0,
+        "path_id": "-6845940033981697737"
+      },
+      "local_rotation_xyzw": [
+        -0.44023555517196655,
+        0.47008025646209717,
+        0.5708143711090088,
+        0.5093017220497131
+      ],
+      "local_position": [
+        0.010199417360126972,
+        0.6472142338752747,
+        -0.012554062530398369
+      ],
+      "local_scale": [
+        0.9999999403953552,
+        0.9999999403953552,
+        1.0
+      ],
+      "children": [
+        {
+          "file_id": 0,
+          "path_id": "5704948254649325847"
+        },
+        {
+          "file_id": 0,
+          "path_id": "-6494888612211234454"
+        },
+        {
+          "file_id": 0,
+          "path_id": "7687586622639806298"
+        }
+      ],
+      "parent": {
+        "file_id": 0,
+        "path_id": "-2587799096557589704"
+      },
+      "name": "Bip001",
+      "path_components": [
+        "Avatar_Loli_Bow_Diona_Manekin",
+        "Bip001"
+      ]
+    },
+    "-3025247685377858252": {
+      "game_object": {
+        "file_id": 0,
+        "path_id": "6368498983016015076"
+      },
+      "local_rotation_xyzw": [
+        0.8425058126449585,
+        -0.06071915477514267,
+        0.4246825575828552,
+        0.32579419016838074
+      ],
+      "local_position": [
+        -0.1655934900045395,
+        -0.028277263045310974,
+        -0.09043647348880768
+      ],
+      "local_scale": [
+        1.0,
+        1.0000001192092896,
+        0.9999999403953552
+      ],
+      "children": [],
+      "parent": {
+        "file_id": 0,
+        "path_id": "-1248103346604770283"
+      },
+      "name": "+EarS R A01",
+      "path_components": [
+        "Avatar_Loli_Bow_Diona_Manekin",
+        "Bip001",
+        "Bip001 Pelvis",
+        "Bip001 Spine",
+        "Bip001 Spine1",
+        "Bip001 Spine2",
+        "Bip001 Neck",
+        "Bip001 Head",
+        "+EarS R A01"
+      ]
+    },
+    "-3010744284457534621": {
+      "game_object": {
+        "file_id": 0,
+        "path_id": "-2536763648976186554"
+      },
+      "local_rotation_xyzw": [
+        0.002621928695589304,
+        -0.006513944361358881,
+        -0.07113339751958847,
+        0.9974421262741089
+      ],
+      "local_position": [
+        -0.2675974667072296,
+        3.399327042075129e-08,
+        1.746229549848266e-10
+      ],
+      "local_scale": [
+        0.9999998211860657,
+        1.0000001192092896,
+        1.0000001192092896
+      ],
+      "children": [
+        {
+          "file_id": 0,
+          "path_id": "-6153272416869208033"
+        }
+      ],
+      "parent": {
+        "file_id": 0,
+        "path_id": "8296939532950562586"
+      },
+      "name": "Bip001 R Foot",
+      "path_components": [
+        "Avatar_Loli_Bow_Diona_Manekin",
+        "Bip001",
+        "Bip001 Pelvis",
+        "Bip001 R Thigh",
+        "Bip001 R Calf",
+        "Bip001 R Foot"
+      ]
+    },
+    "-2691738998476484002": {
+      "game_object": {
+        "file_id": 0,
+        "path_id": "5749633529645299696"
+      },
+      "local_rotation_xyzw": [
+        0.0,
+        0.0,
+        0.0,
+        1.0
+      ],
+      "local_position": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "local_scale": [
+        1.0,
+        1.0,
+        1.0
+      ],
+      "children": [],
+      "parent": {
+        "file_id": 0,
+        "path_id": "8078034569630615236"
+      },
+      "name": "PRIVATE_WeaponArrow",
+      "path_components": [
+        "Avatar_Loli_Bow_Diona_Manekin",
+        "Bip001",
+        "Bip001 Pelvis",
+        "Bip001 Spine",
+        "Bip001 Spine1",
+        "Bip001 Spine2",
+        "Bip001 L Clavicle",
+        "Bip001 L UpperArm",
+        "Bip001 L Forearm",
+        "Bip001 L Hand",
+        "WeaponL",
+        "PRIVATE_WeaponArrow"
+      ]
+    },
+    "-2587799096557589704": {
+      "game_object": {
+        "file_id": 0,
+        "path_id": "1645069555691130218"
+      },
+      "local_rotation_xyzw": [
+        -0.0,
+        -0.0,
+        -0.0,
+        1.0
+      ],
+      "local_position": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "local_scale": [
+        1.0,
+        1.0,
+        1.0
+      ],
+      "children": [
+        {
+          "file_id": 0,
+          "path_id": "-3060350416147987511"
+        },
+        {
+          "file_id": 0,
+          "path_id": "9133232797650952578"
+        },
+        {
+          "file_id": 0,
+          "path_id": "3568138258205248915"
+        },
+        {
+          "file_id": 0,
+          "path_id": "-8979721325955999082"
+        },
+        {
+          "file_id": 0,
+          "path_id": "3341248778407688311"
+        },
+        {
+          "file_id": 0,
+          "path_id": "460863876976079514"
+        },
+        {
+          "file_id": 0,
+          "path_id": "-946892793389497291"
+        },
+        {
+          "file_id": 0,
+          "path_id": "-1405529647415640255"
+        },
+        {
+          "file_id": 0,
+          "path_id": "-2448617699858124928"
+        },
+        {
+          "file_id": 0,
+          "path_id": "4406539889112001812"
+        },
+        {
+          "file_id": 0,
+          "path_id": "-1634839687660154855"
+        }
+      ],
+      "parent": {
+        "file_id": 0,
+        "path_id": "0"
+      },
+      "name": "Avatar_Loli_Bow_Diona_Manekin",
+      "path_components": [
+        "Avatar_Loli_Bow_Diona_Manekin"
+      ]
+    },
+    "-2448617699858124928": {
+      "game_object": {
+        "file_id": 0,
+        "path_id": "-3924061034314610654"
+      },
+      "local_rotation_xyzw": [
+        -0.0,
+        -0.0,
+        -0.0,
+        1.0
+      ],
+      "local_position": [
+        0.0,
+        0.800000011920929,
+        0.0
+      ],
+      "local_scale": [
+        1.0,
+        1.0,
+        1.0
+      ],
+      "children": [],
+      "parent": {
+        "file_id": 0,
+        "path_id": "-2587799096557589704"
+      },
+      "name": "AttackCollider",
+      "path_components": [
+        "Avatar_Loli_Bow_Diona_Manekin",
+        "AttackCollider"
+      ]
+    },
+    "-2406474645713959016": {
+      "game_object": {
+        "file_id": 0,
+        "path_id": "2957446582330532403"
+      },
+      "local_rotation_xyzw": [
+        0.5925757884979248,
+        0.053331706672906876,
+        0.8019759654998779,
+        0.05333172529935837
+      ],
+      "local_position": [
+        -0.10812237113714218,
+        -0.023829471319913864,
+        -0.021650118753314018
+      ],
+      "local_scale": [
+        1.000000238418579,
+        1.0000001192092896,
+        1.0000001192092896
+      ],
+      "children": [
+        {
+          "file_id": 0,
+          "path_id": "-831807374310693114"
+        }
+      ],
+      "parent": {
+        "file_id": 0,
+        "path_id": "-3713133896764299800"
+      },
+      "name": "Bip001 R Clavicle",
+      "path_components": [
+        "Avatar_Loli_Bow_Diona_Manekin",
+        "Bip001",
+        "Bip001 Pelvis",
+        "Bip001 Spine",
+        "Bip001 Spine1",
+        "Bip001 Spine2",
+        "Bip001 R Clavicle"
+      ]
+    },
+    "-2025261841658572078": {
+      "game_object": {
+        "file_id": 0,
+        "path_id": "-6920837214508002196"
+      },
+      "local_rotation_xyzw": [
+        4.392502006567156e-08,
+        4.3496697799128015e-08,
+        -0.004899306688457727,
+        0.9999880194664001
+      ],
+      "local_position": [
+        -0.12431907653808594,
+        -7.629394360719743e-08,
+        -3.840455775616647e-08
+      ],
+      "local_scale": [
+        1.0,
+        1.0,
+        1.0
+      ],
+      "children": [
+        {
+          "file_id": 0,
+          "path_id": "-6937509252973976373"
+        }
+      ],
+      "parent": {
+        "file_id": 0,
+        "path_id": "-1364262865681728073"
+      },
+      "name": "+TailB L A03",
+      "path_components": [
+        "Avatar_Loli_Bow_Diona_Manekin",
+        "Bip001",
+        "Bip001 Pelvis",
+        "+TailB L A01",
+        "+TailB L A02",
+        "+TailB L A03"
+      ]
+    },
+    "-1775373755527447072": {
+      "game_object": {
+        "file_id": 0,
+        "path_id": "-1662739995119750613"
+      },
+      "local_rotation_xyzw": [
+        -2.2210776933206944e-06,
+        5.236789135665276e-08,
+        -0.003897264366969466,
+        0.9999924302101135
+      ],
+      "local_position": [
+        -0.12845177948474884,
+        0.0,
+        -3.63797872577655e-14
+      ],
+      "local_scale": [
+        1.0,
+        1.0,
+        1.0
+      ],
+      "children": [
+        {
+          "file_id": 0,
+          "path_id": "56554057924862028"
+        }
+      ],
+      "parent": {
+        "file_id": 0,
+        "path_id": "-6937509252973976373"
+      },
+      "name": "+TailB L A05",
+      "path_components": [
+        "Avatar_Loli_Bow_Diona_Manekin",
+        "Bip001",
+        "Bip001 Pelvis",
+        "+TailB L A01",
+        "+TailB L A02",
+        "+TailB L A03",
+        "+TailB L A04",
+        "+TailB L A05"
+      ]
+    },
+    "-1634839687660154855": {
+      "game_object": {
+        "file_id": 0,
+        "path_id": "-8828978023048560388"
+      },
+      "local_rotation_xyzw": [
+        -0.0,
+        -0.0,
+        -0.0,
+        1.0
+      ],
+      "local_position": [
+        0.11999999731779099,
+        0.8999999761581421,
+        -0.14000000059604645
+      ],
+      "local_scale": [
+        1.0,
+        1.0,
+        1.0
+      ],
+      "children": [],
+      "parent": {
+        "file_id": 0,
+        "path_id": "-2587799096557589704"
+      },
+      "name": "FocusAnchor",
+      "path_components": [
+        "Avatar_Loli_Bow_Diona_Manekin",
+        "FocusAnchor"
+      ]
+    },
+    "-1497585169263376454": {
+      "game_object": {
+        "file_id": 0,
+        "path_id": "9088774184970572813"
+      },
+      "local_rotation_xyzw": [
+        -0.04046442732214928,
+        0.07522738724946976,
+        -0.09150391817092896,
+        0.9921343326568604
+      ],
+      "local_position": [
+        -0.2675974667072296,
+        4.540197551250458e-09,
+        -3.259629011154175e-09
+      ],
+      "local_scale": [
+        0.9999998211860657,
+        0.9999998807907104,
+        0.9999999403953552
+      ],
+      "children": [
+        {
+          "file_id": 0,
+          "path_id": "4805993811640518278"
+        }
+      ],
+      "parent": {
+        "file_id": 0,
+        "path_id": "6154431864364198318"
+      },
+      "name": "Bip001 L Foot",
+      "path_components": [
+        "Avatar_Loli_Bow_Diona_Manekin",
+        "Bip001",
+        "Bip001 Pelvis",
+        "Bip001 L Thigh",
+        "Bip001 L Calf",
+        "Bip001 L Foot"
+      ]
+    },
+    "-1408334475655646579": {
+      "game_object": {
+        "file_id": 0,
+        "path_id": "-7504073631582388161"
+      },
+      "local_rotation_xyzw": [
+        0.0,
+        1.4901159417490817e-08,
+        -0.0,
+        1.0
+      ],
+      "local_position": [
+        -0.010146674700081348,
+        0.0,
+        -9.53674295089968e-09
+      ],
+      "local_scale": [
+        1.0000001192092896,
+        1.0000001192092896,
+        1.0000001192092896
+      ],
+      "children": [],
+      "parent": {
+        "file_id": 0,
+        "path_id": "8838702294923431396"
+      },
+      "name": "Bip001 L Finger4Nub",
+      "path_components": [
+        "Avatar_Loli_Bow_Diona_Manekin",
+        "Bip001",
+        "Bip001 Pelvis",
+        "Bip001 Spine",
+        "Bip001 Spine1",
+        "Bip001 Spine2",
+        "Bip001 L Clavicle",
+        "Bip001 L UpperArm",
+        "Bip001 L Forearm",
+        "Bip001 L Hand",
+        "Bip001 L Finger4",
+        "Bip001 L Finger41",
+        "Bip001 L Finger42",
+        "Bip001 L Finger4Nub"
+      ]
+    },
+    "-1405529647415640255": {
+      "game_object": {
+        "file_id": 0,
+        "path_id": "-3642363151016783451"
+      },
+      "local_rotation_xyzw": [
+        -0.0,
+        -0.0,
+        -0.0,
+        1.0
+      ],
+      "local_position": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "local_scale": [
+        1.0,
+        1.0,
+        1.0
+      ],
+      "children": [
+        {
+          "file_id": 0,
+          "path_id": "6866516998872890281"
+        },
+        {
+          "file_id": 0,
+          "path_id": "6419189535955483932"
+        },
+        {
+          "file_id": 0,
+          "path_id": "-6982270894049166885"
+        }
+      ],
+      "parent": {
+        "file_id": 0,
+        "path_id": "-2587799096557589704"
+      },
+      "name": "Root",
+      "path_components": [
+        "Avatar_Loli_Bow_Diona_Manekin",
+        "Root"
+      ]
+    },
+    "-1364262865681728073": {
+      "game_object": {
+        "file_id": 0,
+        "path_id": "-3145191014140609344"
+      },
+      "local_rotation_xyzw": [
+        -7.671005164411326e-08,
+        4.154740551598479e-08,
+        0.028428811579942703,
+        0.9995958209037781
+      ],
+      "local_position": [
+        -0.10964980721473694,
+        -3.814697180359872e-08,
+        2.2737367036103438e-15
+      ],
+      "local_scale": [
+        1.0,
+        1.0,
+        1.0
+      ],
+      "children": [
+        {
+          "file_id": 0,
+          "path_id": "-2025261841658572078"
+        }
+      ],
+      "parent": {
+        "file_id": 0,
+        "path_id": "6320210958596229667"
+      },
+      "name": "+TailB L A02",
+      "path_components": [
+        "Avatar_Loli_Bow_Diona_Manekin",
+        "Bip001",
+        "Bip001 Pelvis",
+        "+TailB L A01",
+        "+TailB L A02"
+      ]
+    },
+    "-1248103346604770283": {
+      "game_object": {
+        "file_id": 0,
+        "path_id": "8977363052850765838"
+      },
+      "local_rotation_xyzw": [
+        -0.0023945230059325695,
+        -0.01094771083444357,
+        0.04499994218349457,
+        0.9989241361618042
+      ],
+      "local_position": [
+        -0.05126284062862396,
+        0.0021046511828899384,
+        1.5133991837501526e-09
+      ],
+      "local_scale": [
+        1.0,
+        1.0,
+        1.0
+      ],
+      "children": [
+        {
+          "file_id": 0,
+          "path_id": "4994370028921806929"
+        },
+        {
+          "file_id": 0,
+          "path_id": "-3025247685377858252"
+        },
+        {
+          "file_id": 0,
+          "path_id": "6800623884563998072"
+        },
+        {
+          "file_id": 0,
+          "path_id": "-5011838722760287706"
+        },
+        {
+          "file_id": 0,
+          "path_id": "-3238939355641963391"
+        },
+        {
+          "file_id": 0,
+          "path_id": "6768244595840210674"
+        },
+        {
+          "file_id": 0,
+          "path_id": "2689058443427496335"
+        },
+        {
+          "file_id": 0,
+          "path_id": "-6551101914056921158"
+        },
+        {
+          "file_id": 0,
+          "path_id": "4939852525975742859"
+        }
+      ],
+      "parent": {
+        "file_id": 0,
+        "path_id": "3655332741175608262"
+      },
+      "name": "Bip001 Head",
+      "path_components": [
+        "Avatar_Loli_Bow_Diona_Manekin",
+        "Bip001",
+        "Bip001 Pelvis",
+        "Bip001 Spine",
+        "Bip001 Spine1",
+        "Bip001 Spine2",
+        "Bip001 Neck",
+        "Bip001 Head"
+      ]
+    },
+    "-1188107126599654952": {
+      "game_object": {
+        "file_id": 0,
+        "path_id": "23623258080139171"
+      },
+      "local_rotation_xyzw": [
+        -0.0015515917912125587,
+        -0.0029748023953288794,
+        0.0008054908830672503,
+        0.9999940991401672
+      ],
+      "local_position": [
+        -0.11505492776632309,
+        -1.9073485191256623e-07,
+        -4.76837147544984e-09
+      ],
+      "local_scale": [
+        0.9999998807907104,
+        0.9999998807907104,
+        1.0
+      ],
+      "children": [
+        {
+          "file_id": 0,
+          "path_id": "6462395403347462064"
+        }
+      ],
+      "parent": {
+        "file_id": 0,
+        "path_id": "3499756585190894068"
+      },
+      "name": "+HemB L G02",
+      "path_components": [
+        "Avatar_Loli_Bow_Diona_Manekin",
+        "Bip001",
+        "Bip001 Pelvis",
+        "Bip001 Spine",
+        "+HemB L G01",
+        "+HemB L G02"
+      ]
+    },
+    "-1173486697279077933": {
+      "game_object": {
+        "file_id": 0,
+        "path_id": "-880906009641078164"
+      },
+      "local_rotation_xyzw": [
+        0.0,
+        0.0,
+        0.0,
+        1.0
+      ],
+      "local_position": [
+        -0.03900968283414841,
+        0.033992502838373184,
+        0.006103650666773319
+      ],
+      "local_scale": [
+        1.0,
+        1.0,
+        1.0
+      ],
+      "children": [],
+      "parent": {
+        "file_id": 0,
+        "path_id": "-3972388706754550629"
+      },
+      "name": "PRIVATE_Pendant",
+      "path_components": [
+        "Avatar_Loli_Bow_Diona_Manekin",
+        "Bip001",
+        "Bip001 Pelvis",
+        "Bip001 Spine",
+        "Bip001 Spine1",
+        "+BowknotB L C01",
+        "+VisionPelvisB L A01",
+        "PRIVATE_Pendant"
+      ]
+    },
+    "-1043230715631366874": {
+      "game_object": {
+        "file_id": 0,
+        "path_id": "6432090490982513346"
+      },
+      "local_rotation_xyzw": [
+        0.06081828102469444,
+        -0.12404893338680267,
+        0.9798671007156372,
+        0.14413020014762878
+      ],
+      "local_position": [
+        -0.0406300351023674,
+        -0.09646596759557724,
+        -0.03937913477420807
+      ],
+      "local_scale": [
+        1.0,
+        1.0,
+        1.0000001192092896
+      ],
+      "children": [
+        {
+          "file_id": 0,
+          "path_id": "-6059976417347462210"
+        }
+      ],
+      "parent": {
+        "file_id": 0,
+        "path_id": "-98185806278883735"
+      },
+      "name": "+HemB R G01",
+      "path_components": [
+        "Avatar_Loli_Bow_Diona_Manekin",
+        "Bip001",
+        "Bip001 Pelvis",
+        "Bip001 Spine",
+        "+HemB R G01"
+      ]
+    },
+    "-946892793389497291": {
+      "game_object": {
+        "file_id": 0,
+        "path_id": "-5201375549284523100"
+      },
+      "local_rotation_xyzw": [
+        0.0,
+        -0.0,
+        -0.0,
+        1.0
+      ],
+      "local_position": [
+        -0.0,
+        0.0,
+        0.0
+      ],
+      "local_scale": [
+        1.0,
+        1.0,
+        1.0
+      ],
+      "children": [],
+      "parent": {
+        "file_id": 0,
+        "path_id": "-2587799096557589704"
+      },
+      "name": "Face_Eye",
+      "path_components": [
+        "Avatar_Loli_Bow_Diona_Manekin",
+        "Face_Eye"
+      ]
+    },
+    "-831807374310693114": {
+      "game_object": {
+        "file_id": 0,
+        "path_id": "4379821580317268089"
+      },
+      "local_rotation_xyzw": [
+        0.06163842976093292,
+        0.3725266456604004,
+        -0.1653306484222412,
+        0.91109299659729
+      ],
+      "local_position": [
+        -0.0614653006196022,
+        -1.8626449271863521e-09,
+        -2.9802318834981634e-08
+      ],
+      "local_scale": [
+        0.9999998211860657,
+        1.0,
+        0.9999999403953552
+      ],
+      "children": [
+        {
+          "file_id": 0,
+          "path_id": "7973311014068078390"
+        },
+        {
+          "file_id": 0,
+          "path_id": "6529045075444641999"
+        },
+        {
+          "file_id": 0,
+          "path_id": "3347075931259207864"
+        }
+      ],
+      "parent": {
+        "file_id": 0,
+        "path_id": "-2406474645713959016"
+      },
+      "name": "Bip001 R UpperArm",
+      "path_components": [
+        "Avatar_Loli_Bow_Diona_Manekin",
+        "Bip001",
+        "Bip001 Pelvis",
+        "Bip001 Spine",
+        "Bip001 Spine1",
+        "Bip001 Spine2",
+        "Bip001 R Clavicle",
+        "Bip001 R UpperArm"
+      ]
+    },
+    "-804801143167182689": {
+      "game_object": {
+        "file_id": 0,
+        "path_id": "-871740243399249410"
+      },
+      "local_rotation_xyzw": [
+        3.7252894102834944e-09,
+        -5.5511124761478225e-17,
+        1.0,
+        1.4901157641133977e-08
+      ],
+      "local_position": [
+        -0.013021163642406464,
+        0.0,
+        0.0
+      ],
+      "local_scale": [
+        -1.000000238418579,
+        -1.0000001192092896,
+        -1.000000238418579
+      ],
+      "children": [],
+      "parent": {
+        "file_id": 0,
+        "path_id": "4434512230116569316"
+      },
+      "name": "Bip001 R Finger3Nub",
+      "path_components": [
+        "Avatar_Loli_Bow_Diona_Manekin",
+        "Bip001",
+        "Bip001 Pelvis",
+        "Bip001 Spine",
+        "Bip001 Spine1",
+        "Bip001 Spine2",
+        "Bip001 R Clavicle",
+        "Bip001 R UpperArm",
+        "Bip001 R Forearm",
+        "Bip001 R Hand",
+        "Bip001 R Finger3",
+        "Bip001 R Finger31",
+        "Bip001 R Finger32",
+        "Bip001 R Finger3Nub"
+      ]
+    },
+    "-775021537104516576": {
+      "game_object": {
+        "file_id": 0,
+        "path_id": "1916433865249922469"
+      },
+      "local_rotation_xyzw": [
+        0.0008267079829238355,
+        -0.0025538927875459194,
+        0.020882027223706245,
+        0.9997783899307251
+      ],
+      "local_position": [
+        -0.09610996395349503,
+        -2.288818308215923e-07,
+        -5.2452087118126656e-08
+      ],
+      "local_scale": [
+        1.0000001192092896,
+        1.0,
+        0.9999997615814209
+      ],
+      "children": [],
+      "parent": {
+        "file_id": 0,
+        "path_id": "-6059976417347462210"
+      },
+      "name": "+HemB R G03",
+      "path_components": [
+        "Avatar_Loli_Bow_Diona_Manekin",
+        "Bip001",
+        "Bip001 Pelvis",
+        "Bip001 Spine",
+        "+HemB R G01",
+        "+HemB R G02",
+        "+HemB R G03"
+      ]
+    },
+    "-587017172694474705": {
+      "game_object": {
+        "file_id": 0,
+        "path_id": "923630174635233883"
+      },
+      "local_rotation_xyzw": [
+        1.8662462025531568e-05,
+        7.6245623858994804e-06,
+        -0.12207027524709702,
+        0.9925214648246765
+      ],
+      "local_position": [
+        -0.016478003934025764,
+        0.0,
+        0.0
+      ],
+      "local_scale": [
+        1.0,
+        1.0,
+        1.0
+      ],
+      "children": [
+        {
+          "file_id": 0,
+          "path_id": "-4106005163019182323"
+        }
+      ],
+      "parent": {
+        "file_id": 0,
+        "path_id": "-5751574610226983809"
+      },
+      "name": "Bip001 L Finger01",
+      "path_components": [
+        "Avatar_Loli_Bow_Diona_Manekin",
+        "Bip001",
+        "Bip001 Pelvis",
+        "Bip001 Spine",
+        "Bip001 Spine1",
+        "Bip001 Spine2",
+        "Bip001 L Clavicle",
+        "Bip001 L UpperArm",
+        "Bip001 L Forearm",
+        "Bip001 L Hand",
+        "Bip001 L Finger0",
+        "Bip001 L Finger01"
+      ]
+    },
+    "-542094390626310863": {
+      "game_object": {
+        "file_id": 0,
+        "path_id": "1518895200628369789"
+      },
+      "local_rotation_xyzw": [
+        0.012288413010537624,
+        -0.012364130467176437,
+        0.7070241570472717,
+        -0.7069746255874634
+      ],
+      "local_position": [
+        -0.06457002460956573,
+        -0.002000198233872652,
+        -0.0010017347522079945
+      ],
+      "local_scale": [
+        1.0,
+        0.9999998807907104,
+        1.0
+      ],
+      "children": [],
+      "parent": {
+        "file_id": 0,
+        "path_id": "-5011838722760287706"
+      },
+      "name": "+EyeBone R A02",
+      "path_components": [
+        "Avatar_Loli_Bow_Diona_Manekin",
+        "Bip001",
+        "Bip001 Pelvis",
+        "Bip001 Spine",
+        "Bip001 Spine1",
+        "Bip001 Spine2",
+        "Bip001 Neck",
+        "Bip001 Head",
+        "+EyeBone R A01",
+        "+EyeBone R A02"
+      ]
+    },
+    "-280303178802458868": {
+      "game_object": {
+        "file_id": 0,
+        "path_id": "1244138794355197294"
+      },
+      "local_rotation_xyzw": [
+        4.656612873077393e-10,
+        -4.656612873077393e-10,
+        1.0,
+        -1.4901161193847656e-08
+      ],
+      "local_position": [
+        -0.014897536486387253,
+        0.0,
+        0.0
+      ],
+      "local_scale": [
+        -1.0,
+        -1.0,
+        -1.0
+      ],
+      "children": [],
+      "parent": {
+        "file_id": 0,
+        "path_id": "-6857721741744596037"
+      },
+      "name": "Bip001 R Finger2Nub",
+      "path_components": [
+        "Avatar_Loli_Bow_Diona_Manekin",
+        "Bip001",
+        "Bip001 Pelvis",
+        "Bip001 Spine",
+        "Bip001 Spine1",
+        "Bip001 Spine2",
+        "Bip001 R Clavicle",
+        "Bip001 R UpperArm",
+        "Bip001 R Forearm",
+        "Bip001 R Hand",
+        "Bip001 R Finger2",
+        "Bip001 R Finger21",
+        "Bip001 R Finger22",
+        "Bip001 R Finger2Nub"
+      ]
+    },
+    "-98185806278883735": {
+      "game_object": {
+        "file_id": 0,
+        "path_id": "-954040990009254763"
+      },
+      "local_rotation_xyzw": [
+        0.023751216009259224,
+        -0.0034866186324507,
+        0.02566082961857319,
+        0.999382495880127
+      ],
+      "local_position": [
+        -0.06331738829612732,
+        0.011462190188467503,
+        5.7742006731587026e-08
+      ],
+      "local_scale": [
+        0.9999999403953552,
+        0.9999999403953552,
+        0.9999999403953552
+      ],
+      "children": [
+        {
+          "file_id": 0,
+          "path_id": "4102656245207207169"
+        },
+        {
+          "file_id": 0,
+          "path_id": "3499756585190894068"
+        },
+        {
+          "file_id": 0,
+          "path_id": "1679032812567372126"
+        },
+        {
+          "file_id": 0,
+          "path_id": "-1043230715631366874"
+        },
+        {
+          "file_id": 0,
+          "path_id": "7858273465454465120"
+        },
+        {
+          "file_id": 0,
+          "path_id": "6761464296464009350"
+        },
+        {
+          "file_id": 0,
+          "path_id": "-3357917287159644780"
+        }
+      ],
+      "parent": {
+        "file_id": 0,
+        "path_id": "7687586622639806298"
+      },
+      "name": "Bip001 Spine",
+      "path_components": [
+        "Avatar_Loli_Bow_Diona_Manekin",
+        "Bip001",
+        "Bip001 Pelvis",
+        "Bip001 Spine"
+      ]
+    },
+    "56554057924862028": {
+      "game_object": {
+        "file_id": 0,
+        "path_id": "3838317045941400227"
+      },
+      "local_rotation_xyzw": [
+        -4.245972831995459e-06,
+        1.3277221455609833e-07,
+        -0.020968502387404442,
+        0.9997801184654236
+      ],
+      "local_position": [
+        -0.13281024992465973,
+        -3.814697180359872e-08,
+        2.302462220882262e-08
+      ],
+      "local_scale": [
+        1.0,
+        1.0,
+        1.0
+      ],
+      "children": [
+        {
+          "file_id": 0,
+          "path_id": "-7439342704904286579"
+        }
+      ],
+      "parent": {
+        "file_id": 0,
+        "path_id": "-1775373755527447072"
+      },
+      "name": "+TailB L A06",
+      "path_components": [
+        "Avatar_Loli_Bow_Diona_Manekin",
+        "Bip001",
+        "Bip001 Pelvis",
+        "+TailB L A01",
+        "+TailB L A02",
+        "+TailB L A03",
+        "+TailB L A04",
+        "+TailB L A05",
+        "+TailB L A06"
+      ]
+    },
+    "460863876976079514": {
+      "game_object": {
+        "file_id": 0,
+        "path_id": "-5918340497996569112"
+      },
+      "local_rotation_xyzw": [
+        0.0,
+        -0.0,
+        -0.0,
+        1.0
+      ],
+      "local_position": [
+        -0.0,
+        0.0,
+        0.0
+      ],
+      "local_scale": [
+        1.0,
+        1.0,
+        1.0
+      ],
+      "children": [],
+      "parent": {
+        "file_id": 0,
+        "path_id": "-2587799096557589704"
+      },
+      "name": "Face",
+      "path_components": [
+        "Avatar_Loli_Bow_Diona_Manekin",
+        "Face"
+      ]
+    },
+    "536370534677609316": {
+      "game_object": {
+        "file_id": 0,
+        "path_id": "-2686478534604788088"
+      },
+      "local_rotation_xyzw": [
+        2.2650810933555476e-06,
+        -1.0841763042890307e-08,
+        -0.003897040616720915,
+        0.9999924302101135
+      ],
+      "local_position": [
+        -0.12845180928707123,
+        -7.629394360719743e-08,
+        -3.8146982461739753e-08
+      ],
+      "local_scale": [
+        1.0000001192092896,
+        1.0000001192092896,
+        1.0
+      ],
+      "children": [
+        {
+          "file_id": 0,
+          "path_id": "8312372764691627131"
+        }
+      ],
+      "parent": {
+        "file_id": 0,
+        "path_id": "8132489132793085297"
+      },
+      "name": "+TailB R A05",
+      "path_components": [
+        "Avatar_Loli_Bow_Diona_Manekin",
+        "Bip001",
+        "Bip001 Pelvis",
+        "+TailB R A01",
+        "+TailB R A02",
+        "+TailB R A03",
+        "+TailB R A04",
+        "+TailB R A05"
+      ]
+    },
+    "846448447609180181": {
+      "game_object": {
+        "file_id": 0,
+        "path_id": "8089434647934966209"
+      },
+      "local_rotation_xyzw": [
+        0.017509574070572853,
+        0.0789535790681839,
+        -0.10206304490566254,
+        0.9914852380752563
+      ],
+      "local_position": [
+        -0.04159530997276306,
+        0.004439907614141703,
+        0.02081257477402687
+      ],
+      "local_scale": [
+        1.0000001192092896,
+        1.0000001192092896,
+        1.0000001192092896
+      ],
+      "children": [
+        {
+          "file_id": 0,
+          "path_id": "7783308790805200043"
+        }
+      ],
+      "parent": {
+        "file_id": 0,
+        "path_id": "5006883868887496200"
+      },
+      "name": "Bip001 L Finger4",
+      "path_components": [
+        "Avatar_Loli_Bow_Diona_Manekin",
+        "Bip001",
+        "Bip001 Pelvis",
+        "Bip001 Spine",
+        "Bip001 Spine1",
+        "Bip001 Spine2",
+        "Bip001 L Clavicle",
+        "Bip001 L UpperArm",
+        "Bip001 L Forearm",
+        "Bip001 L Hand",
+        "Bip001 L Finger4"
+      ]
+    },
+    "1679032812567372126": {
+      "game_object": {
+        "file_id": 0,
+        "path_id": "7601278019878853404"
+      },
+      "local_rotation_xyzw": [
+        0.08221641182899475,
+        -0.4625478982925415,
+        0.870418906211853,
+        0.14717617630958557
+      ],
+      "local_position": [
+        -0.043385084718465805,
+        -0.048297218978405,
+        -0.10355903208255768
+      ],
+      "local_scale": [
+        1.0000022649765015,
+        1.0000016689300537,
+        1.0000011920928955
+      ],
+      "children": [
+        {
+          "file_id": 0,
+          "path_id": "3989390240515923967"
+        }
+      ],
+      "parent": {
+        "file_id": 0,
+        "path_id": "-98185806278883735"
+      },
+      "name": "+HemB R D01",
+      "path_components": [
+        "Avatar_Loli_Bow_Diona_Manekin",
+        "Bip001",
+        "Bip001 Pelvis",
+        "Bip001 Spine",
+        "+HemB R D01"
+      ]
+    },
+    "1730448606265841291": {
+      "game_object": {
+        "file_id": 0,
+        "path_id": "-3859785471783682322"
+      },
+      "local_rotation_xyzw": [
+        2.3283061589829401e-10,
+        -1.7162162802009107e-09,
+        -1.1641530794914701e-10,
+        1.0
+      ],
+      "local_position": [
+        -0.036004841327667236,
+        0.0,
+        2.38418573772492e-09
+      ],
+      "local_scale": [
+        1.0000001192092896,
+        1.0000001192092896,
+        1.0000001192092896
+      ],
+      "children": [],
+      "parent": {
+        "file_id": 0,
+        "path_id": "-6153272416869208033"
+      },
+      "name": "Bip001 R Toe0Nub",
+      "path_components": [
+        "Avatar_Loli_Bow_Diona_Manekin",
+        "Bip001",
+        "Bip001 Pelvis",
+        "Bip001 R Thigh",
+        "Bip001 R Calf",
+        "Bip001 R Foot",
+        "Bip001 R Toe0",
+        "Bip001 R Toe0Nub"
+      ]
+    },
+    "1826229795404783110": {
+      "game_object": {
+        "file_id": 0,
+        "path_id": "-3124487311415982772"
+      },
+      "local_rotation_xyzw": [
+        0.017508670687675476,
+        0.07895086705684662,
+        0.1020612120628357,
+        -0.9914856553077698
+      ],
+      "local_position": [
+        -0.04159532114863396,
+        0.004439845215529203,
+        -0.02081255428493023
+      ],
+      "local_scale": [
+        0.9999999403953552,
+        0.9999999403953552,
+        0.9999998807907104
+      ],
+      "children": [
+        {
+          "file_id": 0,
+          "path_id": "4824949370905300472"
+        }
+      ],
+      "parent": {
+        "file_id": 0,
+        "path_id": "9210081420108368469"
+      },
+      "name": "Bip001 R Finger4",
+      "path_components": [
+        "Avatar_Loli_Bow_Diona_Manekin",
+        "Bip001",
+        "Bip001 Pelvis",
+        "Bip001 Spine",
+        "Bip001 Spine1",
+        "Bip001 Spine2",
+        "Bip001 R Clavicle",
+        "Bip001 R UpperArm",
+        "Bip001 R Forearm",
+        "Bip001 R Hand",
+        "Bip001 R Finger4"
+      ]
+    },
+    "1939206055466509553": {
+      "game_object": {
+        "file_id": 0,
+        "path_id": "2800652721912561552"
+      },
+      "local_rotation_xyzw": [
+        -6.030312960092488e-08,
+        0.004072374198585749,
+        0.07466026395559311,
+        0.9972007870674133
+      ],
+      "local_position": [
+        -0.015437660738825798,
+        -5.909130607051338e-08,
+        -1.8345309715783742e-09
+      ],
+      "local_scale": [
+        1.0,
+        1.0000001192092896,
+        1.0
+      ],
+      "children": [
+        {
+          "file_id": 0,
+          "path_id": "-9130354878646103459"
+        }
+      ],
+      "parent": {
+        "file_id": 0,
+        "path_id": "7777550333203077660"
+      },
+      "name": "Bip001 L Finger22",
+      "path_components": [
+        "Avatar_Loli_Bow_Diona_Manekin",
+        "Bip001",
+        "Bip001 Pelvis",
+        "Bip001 Spine",
+        "Bip001 Spine1",
+        "Bip001 Spine2",
+        "Bip001 L Clavicle",
+        "Bip001 L UpperArm",
+        "Bip001 L Forearm",
+        "Bip001 L Hand",
+        "Bip001 L Finger2",
+        "Bip001 L Finger21",
+        "Bip001 L Finger22"
+      ]
+    },
+    "2082489126419441838": {
+      "game_object": {
+        "file_id": 0,
+        "path_id": "5141664786999289634"
+      },
+      "local_rotation_xyzw": [
+        -0.04756508395075798,
+        0.11171696335077286,
+        0.9807872772216797,
+        0.1526867300271988
+      ],
+      "local_position": [
+        -0.010384063236415386,
+        -0.10355384647846222,
+        0.04439033567905426
+      ],
+      "local_scale": [
+        1.0000001192092896,
+        1.0,
+        1.0000001192092896
+      ],
+      "children": [
+        {
+          "file_id": 0,
+          "path_id": "-3972388706754550629"
+        }
+      ],
+      "parent": {
+        "file_id": 0,
+        "path_id": "-3357917287159644780"
+      },
+      "name": "+BowknotB L C01",
+      "path_components": [
+        "Avatar_Loli_Bow_Diona_Manekin",
+        "Bip001",
+        "Bip001 Pelvis",
+        "Bip001 Spine",
+        "Bip001 Spine1",
+        "+BowknotB L C01"
+      ]
+    },
+    "2203028397077315383": {
+      "game_object": {
+        "file_id": 0,
+        "path_id": "-6141266814355030705"
+      },
+      "local_rotation_xyzw": [
+        -0.0001806557847885415,
+        -0.0022178138606250286,
+        0.011758724227547646,
+        0.9999284148216248
+      ],
+      "local_position": [
+        -0.0951937809586525,
+        -2.670288097306184e-07,
+        -2.384185648907078e-08
+      ],
+      "local_scale": [
+        1.0,
+        0.9999998211860657,
+        0.9999992847442627
+      ],
+      "children": [],
+      "parent": {
+        "file_id": 0,
+        "path_id": "3989390240515923967"
+      },
+      "name": "+HemB R D03",
+      "path_components": [
+        "Avatar_Loli_Bow_Diona_Manekin",
+        "Bip001",
+        "Bip001 Pelvis",
+        "Bip001 Spine",
+        "+HemB R D01",
+        "+HemB R D02",
+        "+HemB R D03"
+      ]
+    },
+    "2356099893415926844": {
+      "game_object": {
+        "file_id": 0,
+        "path_id": "2513184860845782276"
+      },
+      "local_rotation_xyzw": [
+        0.0,
+        0.0,
+        0.0,
+        1.0
+      ],
+      "local_position": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "local_scale": [
+        1.0,
+        1.0,
+        1.0
+      ],
+      "children": [],
+      "parent": {
+        "file_id": 0,
+        "path_id": "3347075931259207864"
+      },
+      "name": "HitObject5",
+      "path_components": [
+        "Avatar_Loli_Bow_Diona_Manekin",
+        "Bip001",
+        "Bip001 Pelvis",
+        "Bip001 Spine",
+        "Bip001 Spine1",
+        "Bip001 Spine2",
+        "Bip001 R Clavicle",
+        "Bip001 R UpperArm",
+        "Bip001 R Forearm",
+        "HitObject5"
+      ]
+    },
+    "2683541248813330088": {
+      "game_object": {
+        "file_id": 0,
+        "path_id": "2950565329866069208"
+      },
+      "local_rotation_xyzw": [
+        -0.044635552912950516,
+        -0.3953503966331482,
+        -0.12120842188596725,
+        0.9094033241271973
+      ],
+      "local_position": [
+        -0.061465248465538025,
+        -9.313224635931761e-10,
+        2.2351738238057806e-08
+      ],
+      "local_scale": [
+        0.9999998807907104,
+        1.0,
+        1.0
+      ],
+      "children": [
+        {
+          "file_id": 0,
+          "path_id": "-3608802570422430275"
+        },
+        {
+          "file_id": 0,
+          "path_id": "-4650484791297860819"
+        },
+        {
+          "file_id": 0,
+          "path_id": "5650432615105234879"
+        }
+      ],
+      "parent": {
+        "file_id": 0,
+        "path_id": "8240171887566819279"
+      },
+      "name": "Bip001 L UpperArm",
+      "path_components": [
+        "Avatar_Loli_Bow_Diona_Manekin",
+        "Bip001",
+        "Bip001 Pelvis",
+        "Bip001 Spine",
+        "Bip001 Spine1",
+        "Bip001 Spine2",
+        "Bip001 L Clavicle",
+        "Bip001 L UpperArm"
+      ]
+    },
+    "2689058443427496335": {
+      "game_object": {
+        "file_id": 0,
+        "path_id": "7776957506103793286"
+      },
+      "local_rotation_xyzw": [
+        0.730534017086029,
+        -0.6828762888908386,
+        -4.129043986722536e-07,
+        -3.7771019378851634e-07
+      ],
+      "local_position": [
+        -0.025392912328243256,
+        0.08193663507699966,
+        2.34305360891085e-07
+      ],
+      "local_scale": [
+        1.0,
+        1.0,
+        1.0
+      ],
+      "children": [],
+      "parent": {
+        "file_id": 0,
+        "path_id": "-1248103346604770283"
+      },
+      "name": "+ToothBone D A01",
+      "path_components": [
+        "Avatar_Loli_Bow_Diona_Manekin",
+        "Bip001",
+        "Bip001 Pelvis",
+        "Bip001 Spine",
+        "Bip001 Spine1",
+        "Bip001 Spine2",
+        "Bip001 Neck",
+        "Bip001 Head",
+        "+ToothBone D A01"
+      ]
+    },
+    "2711923118617261681": {
+      "game_object": {
+        "file_id": 0,
+        "path_id": "1354971771345194644"
+      },
+      "local_rotation_xyzw": [
+        5.424952220778323e-08,
+        0.0008255920256488025,
+        0.01513623632490635,
+        0.9998851418495178
+      ],
+      "local_position": [
+        -0.014675134792923927,
+        6.525054385697615e-10,
+        -2.7205615538150596e-10
+      ],
+      "local_scale": [
+        1.0,
+        0.9999999403953552,
+        0.9999999403953552
+      ],
+      "children": [
+        {
+          "file_id": 0,
+          "path_id": "4447971954232063236"
+        }
+      ],
+      "parent": {
+        "file_id": 0,
+        "path_id": "-6010085532361108148"
+      },
+      "name": "Bip001 L Finger32",
+      "path_components": [
+        "Avatar_Loli_Bow_Diona_Manekin",
+        "Bip001",
+        "Bip001 Pelvis",
+        "Bip001 Spine",
+        "Bip001 Spine1",
+        "Bip001 Spine2",
+        "Bip001 L Clavicle",
+        "Bip001 L UpperArm",
+        "Bip001 L Forearm",
+        "Bip001 L Hand",
+        "Bip001 L Finger3",
+        "Bip001 L Finger31",
+        "Bip001 L Finger32"
+      ]
+    },
+    "2840898610620076087": {
+      "game_object": {
+        "file_id": 0,
+        "path_id": "4445580448825699297"
+      },
+      "local_rotation_xyzw": [
+        -0.01650206185877323,
+        -0.03627433255314827,
+        0.2354341298341751,
+        -0.9710729718208313
+      ],
+      "local_position": [
+        -0.04742731899023056,
+        -0.002053746720775962,
+        -0.010271919891238213
+      ],
+      "local_scale": [
+        1.0000001192092896,
+        0.9999999403953552,
+        0.9999999403953552
+      ],
+      "children": [
+        {
+          "file_id": 0,
+          "path_id": "-4257347499704391860"
+        }
+      ],
+      "parent": {
+        "file_id": 0,
+        "path_id": "9210081420108368469"
+      },
+      "name": "Bip001 R Finger3",
+      "path_components": [
+        "Avatar_Loli_Bow_Diona_Manekin",
+        "Bip001",
+        "Bip001 Pelvis",
+        "Bip001 Spine",
+        "Bip001 Spine1",
+        "Bip001 Spine2",
+        "Bip001 R Clavicle",
+        "Bip001 R UpperArm",
+        "Bip001 R Forearm",
+        "Bip001 R Hand",
+        "Bip001 R Finger3"
+      ]
+    },
+    "3284771047162119881": {
+      "game_object": {
+        "file_id": 0,
+        "path_id": "-1886729182040761532"
+      },
+      "local_rotation_xyzw": [
+        -1.8750994058791548e-05,
+        -5.445746501209214e-05,
+        0.13608939945697784,
+        0.9906966090202332
+      ],
+      "local_position": [
+        -0.14375396072864532,
+        -0.05681396275758743,
+        1.4781952017983713e-07
+      ],
+      "local_scale": [
+        1.0,
+        1.0,
+        1.0
+      ],
+      "children": [],
+      "parent": {
+        "file_id": 0,
+        "path_id": "-3713133896764299800"
+      },
+      "name": "+FlycloakRootB CB A01",
+      "path_components": [
+        "Avatar_Loli_Bow_Diona_Manekin",
+        "Bip001",
+        "Bip001 Pelvis",
+        "Bip001 Spine",
+        "Bip001 Spine1",
+        "Bip001 Spine2",
+        "+FlycloakRootB CB A01"
+      ]
+    },
+    "3341248778407688311": {
+      "game_object": {
+        "file_id": 0,
+        "path_id": "-1675431885518418689"
+      },
+      "local_rotation_xyzw": [
+        0.0,
+        -0.0,
+        -0.0,
+        1.0
+      ],
+      "local_position": [
+        -0.0,
+        0.0,
+        0.0
+      ],
+      "local_scale": [
+        1.0,
+        1.0,
+        1.0
+      ],
+      "children": [],
+      "parent": {
+        "file_id": 0,
+        "path_id": "-2587799096557589704"
+      },
+      "name": "EyeStar",
+      "path_components": [
+        "Avatar_Loli_Bow_Diona_Manekin",
+        "EyeStar"
+      ]
+    },
+    "3347075931259207864": {
+      "game_object": {
+        "file_id": 0,
+        "path_id": "4267320643397815406"
+      },
+      "local_rotation_xyzw": [
+        -0.025959808379411697,
+        -0.01680481620132923,
+        0.20692822337150574,
+        0.9778673648834229
+      ],
+      "local_position": [
+        -0.16609059274196625,
+        -4.6566128730773926e-09,
+        -1.862645149230957e-08
+      ],
+      "local_scale": [
+        1.0000003576278687,
+        0.9999999403953552,
+        1.0
+      ],
+      "children": [
+        {
+          "file_id": 0,
+          "path_id": "9210081420108368469"
+        },
+        {
+          "file_id": 0,
+          "path_id": "2356099893415926844"
+        }
+      ],
+      "parent": {
+        "file_id": 0,
+        "path_id": "-831807374310693114"
+      },
+      "name": "Bip001 R Forearm",
+      "path_components": [
+        "Avatar_Loli_Bow_Diona_Manekin",
+        "Bip001",
+        "Bip001 Pelvis",
+        "Bip001 Spine",
+        "Bip001 Spine1",
+        "Bip001 Spine2",
+        "Bip001 R Clavicle",
+        "Bip001 R UpperArm",
+        "Bip001 R Forearm"
+      ]
+    },
+    "3499756585190894068": {
+      "game_object": {
+        "file_id": 0,
+        "path_id": "-8769870163743690367"
+      },
+      "local_rotation_xyzw": [
+        -0.06081828847527504,
+        0.12404896318912506,
+        0.9798671007156372,
+        0.14413033425807953
+      ],
+      "local_position": [
+        -0.04062995687127113,
+        -0.09646594524383545,
+        0.03937913104891777
+      ],
+      "local_scale": [
+        1.0,
+        1.0000001192092896,
+        1.0
+      ],
+      "children": [
+        {
+          "file_id": 0,
+          "path_id": "-1188107126599654952"
+        }
+      ],
+      "parent": {
+        "file_id": 0,
+        "path_id": "-98185806278883735"
+      },
+      "name": "+HemB L G01",
+      "path_components": [
+        "Avatar_Loli_Bow_Diona_Manekin",
+        "Bip001",
+        "Bip001 Pelvis",
+        "Bip001 Spine",
+        "+HemB L G01"
+      ]
+    },
+    "3568138258205248915": {
+      "game_object": {
+        "file_id": 0,
+        "path_id": "5065044806429726875"
+      },
+      "local_rotation_xyzw": [
+        0.0,
+        -0.0,
+        -0.0,
+        1.0
+      ],
+      "local_position": [
+        -0.0,
+        0.0,
+        0.0
+      ],
+      "local_scale": [
+        1.0,
+        1.0,
+        1.0
+      ],
+      "children": [],
+      "parent": {
+        "file_id": 0,
+        "path_id": "-2587799096557589704"
+      },
+      "name": "Brow",
+      "path_components": [
+        "Avatar_Loli_Bow_Diona_Manekin",
+        "Brow"
+      ]
+    },
+    "3655332741175608262": {
+      "game_object": {
+        "file_id": 0,
+        "path_id": "-9177990511871159890"
+      },
+      "local_rotation_xyzw": [
+        0.012968584895133972,
+        -0.004687954671680927,
+        -0.19068598747253418,
+        0.9815542697906494
+      ],
+      "local_position": [
+        -0.13495300710201263,
+        -0.015145274810492992,
+        1.501757651567459e-08
+      ],
+      "local_scale": [
+        1.0,
+        1.0,
+        1.0
+      ],
+      "children": [
+        {
+          "file_id": 0,
+          "path_id": "-1248103346604770283"
+        }
+      ],
+      "parent": {
+        "file_id": 0,
+        "path_id": "-3713133896764299800"
+      },
+      "name": "Bip001 Neck",
+      "path_components": [
+        "Avatar_Loli_Bow_Diona_Manekin",
+        "Bip001",
+        "Bip001 Pelvis",
+        "Bip001 Spine",
+        "Bip001 Spine1",
+        "Bip001 Spine2",
+        "Bip001 Neck"
+      ]
+    },
+    "3667295107751618297": {
+      "game_object": {
+        "file_id": 0,
+        "path_id": "7973688379943112627"
+      },
+      "local_rotation_xyzw": [
+        0.0,
+        0.0,
+        0.0,
+        1.0
+      ],
+      "local_position": [
+        0.057999998331069946,
+        -0.0,
+        0.0
+      ],
+      "local_scale": [
+        1.0,
+        1.0,
+        1.0
+      ],
+      "children": [],
+      "parent": {
+        "file_id": 0,
+        "path_id": "6154431864364198318"
+      },
+      "name": "HitObject8",
+      "path_components": [
+        "Avatar_Loli_Bow_Diona_Manekin",
+        "Bip001",
+        "Bip001 Pelvis",
+        "Bip001 L Thigh",
+        "Bip001 L Calf",
+        "HitObject8"
+      ]
+    },
+    "3924866982338418441": {
+      "game_object": {
+        "file_id": 0,
+        "path_id": "2162217581549433146"
+      },
+      "local_rotation_xyzw": [
+        7.490781328556295e-09,
+        -7.266876167477676e-08,
+        0.028428804129362106,
+        0.9995958209037781
+      ],
+      "local_position": [
+        -0.10964980721473694,
+        -3.814697180359872e-08,
+        -3.814697180359872e-08
+      ],
+      "local_scale": [
+        1.0000001192092896,
+        0.9999999403953552,
+        1.0000001192092896
+      ],
+      "children": [
+        {
+          "file_id": 0,
+          "path_id": "6617516968479676896"
+        }
+      ],
+      "parent": {
+        "file_id": 0,
+        "path_id": "6597778231058897702"
+      },
+      "name": "+TailB R A02",
+      "path_components": [
+        "Avatar_Loli_Bow_Diona_Manekin",
+        "Bip001",
+        "Bip001 Pelvis",
+        "+TailB R A01",
+        "+TailB R A02"
+      ]
+    },
+    "3963116549863442665": {
+      "game_object": {
+        "file_id": 0,
+        "path_id": "6549370842513332988"
+      },
+      "local_rotation_xyzw": [
+        3.4604919818548296e-08,
+        1.1430952895352675e-07,
+        -0.09230830520391464,
+        0.995730459690094
+      ],
+      "local_position": [
+        0.14300000667572021,
+        -0.04399999976158142,
+        -0.0
+      ],
+      "local_scale": [
+        1.0,
+        1.0,
+        1.0
+      ],
+      "children": [],
+      "parent": {
+        "file_id": 0,
+        "path_id": "-3713133896764299800"
+      },
+      "name": "HitObject2",
+      "path_components": [
+        "Avatar_Loli_Bow_Diona_Manekin",
+        "Bip001",
+        "Bip001 Pelvis",
+        "Bip001 Spine",
+        "Bip001 Spine1",
+        "Bip001 Spine2",
+        "HitObject2"
+      ]
+    },
+    "3989390240515923967": {
+      "game_object": {
+        "file_id": 0,
+        "path_id": "-7181858844606155370"
+      },
+      "local_rotation_xyzw": [
+        0.0004501513612922281,
+        0.0007735243998467922,
+        0.011244125664234161,
+        0.9999364018440247
+      ],
+      "local_position": [
+        -0.11529697477817535,
+        -1.5258788721439487e-07,
+        7.390976008991856e-08
+      ],
+      "local_scale": [
+        1.0000001192092896,
+        0.9999998211860657,
+        1.0000007152557373
+      ],
+      "children": [
+        {
+          "file_id": 0,
+          "path_id": "2203028397077315383"
+        }
+      ],
+      "parent": {
+        "file_id": 0,
+        "path_id": "1679032812567372126"
+      },
+      "name": "+HemB R D02",
+      "path_components": [
+        "Avatar_Loli_Bow_Diona_Manekin",
+        "Bip001",
+        "Bip001 Pelvis",
+        "Bip001 Spine",
+        "+HemB R D01",
+        "+HemB R D02"
+      ]
+    },
+    "4102656245207207169": {
+      "game_object": {
+        "file_id": 0,
+        "path_id": "-1966223678783435590"
+      },
+      "local_rotation_xyzw": [
+        -0.08221632987260818,
+        0.4625479280948639,
+        0.870418906211853,
+        0.14717619121074677
+      ],
+      "local_position": [
+        -0.043385084718465805,
+        -0.0482972227036953,
+        0.10355903208255768
+      ],
+      "local_scale": [
+        1.0000001192092896,
+        1.0,
+        1.0
+      ],
+      "children": [
+        {
+          "file_id": 0,
+          "path_id": "8457876542454122879"
+        }
+      ],
+      "parent": {
+        "file_id": 0,
+        "path_id": "-98185806278883735"
+      },
+      "name": "+HemB L D01",
+      "path_components": [
+        "Avatar_Loli_Bow_Diona_Manekin",
+        "Bip001",
+        "Bip001 Pelvis",
+        "Bip001 Spine",
+        "+HemB L D01"
+      ]
+    },
+    "4105931651432060484": {
+      "game_object": {
+        "file_id": 0,
+        "path_id": "-8597642700549498304"
+      },
+      "local_rotation_xyzw": [
+        3.725290298461914e-09,
+        -3.725290298461914e-09,
+        1.4901161193847656e-08,
+        1.0
+      ],
+      "local_position": [
+        -0.012739047408103943,
+        -3.814697180359872e-08,
+        4.76837147544984e-09
+      ],
+      "local_scale": [
+        1.0,
+        1.0,
+        1.0
+      ],
+      "children": [],
+      "parent": {
+        "file_id": 0,
+        "path_id": "-4719140423123628430"
+      },
+      "name": "Bip001 L Finger1Nub",
+      "path_components": [
+        "Avatar_Loli_Bow_Diona_Manekin",
+        "Bip001",
+        "Bip001 Pelvis",
+        "Bip001 Spine",
+        "Bip001 Spine1",
+        "Bip001 Spine2",
+        "Bip001 L Clavicle",
+        "Bip001 L UpperArm",
+        "Bip001 L Forearm",
+        "Bip001 L Hand",
+        "Bip001 L Finger1",
+        "Bip001 L Finger11",
+        "Bip001 L Finger12",
+        "Bip001 L Finger1Nub"
+      ]
+    },
+    "4341326043014452966": {
+      "game_object": {
+        "file_id": 0,
+        "path_id": "-1445302293384748689"
+      },
+      "local_rotation_xyzw": [
+        -0.1532450169324875,
+        -0.11971624195575714,
+        -0.4643532335758209,
+        0.8640370965003967
+      ],
+      "local_position": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "local_scale": [
+        1.0,
+        1.0,
+        1.0
+      ],
+      "children": [],
+      "parent": {
+        "file_id": 0,
+        "path_id": "9210081420108368469"
+      },
+      "name": "WeaponR",
+      "path_components": [
+        "Avatar_Loli_Bow_Diona_Manekin",
+        "Bip001",
+        "Bip001 Pelvis",
+        "Bip001 Spine",
+        "Bip001 Spine1",
+        "Bip001 Spine2",
+        "Bip001 R Clavicle",
+        "Bip001 R UpperArm",
+        "Bip001 R Forearm",
+        "Bip001 R Hand",
+        "WeaponR"
+      ]
+    },
+    "4406539889112001812": {
+      "game_object": {
+        "file_id": 0,
+        "path_id": "4619497507551005889"
+      },
+      "local_rotation_xyzw": [
+        -0.0,
+        -0.0,
+        -0.0,
+        1.0
+      ],
+      "local_position": [
+        0.0,
+        1.3459999561309814,
+        0.0
+      ],
+      "local_scale": [
+        1.0,
+        1.0,
+        1.0
+      ],
+      "children": [],
+      "parent": {
+        "file_id": 0,
+        "path_id": "-2587799096557589704"
+      },
+      "name": "MoveHead",
+      "path_components": [
+        "Avatar_Loli_Bow_Diona_Manekin",
+        "MoveHead"
+      ]
+    },
+    "4434512230116569316": {
+      "game_object": {
+        "file_id": 0,
+        "path_id": "-4031118315084067077"
+      },
+      "local_rotation_xyzw": [
+        -2.6589253820930026e-07,
+        0.000786789518315345,
+        -0.014422881416976452,
+        -0.9998957514762878
+      ],
+      "local_position": [
+        -0.01467517763376236,
+        -6.069299018918173e-08,
+        3.549970761795862e-09
+      ],
+      "local_scale": [
+        1.0000001192092896,
+        1.0000001192092896,
+        1.000000238418579
+      ],
+      "children": [
+        {
+          "file_id": 0,
+          "path_id": "-804801143167182689"
+        }
+      ],
+      "parent": {
+        "file_id": 0,
+        "path_id": "-4257347499704391860"
+      },
+      "name": "Bip001 R Finger32",
+      "path_components": [
+        "Avatar_Loli_Bow_Diona_Manekin",
+        "Bip001",
+        "Bip001 Pelvis",
+        "Bip001 Spine",
+        "Bip001 Spine1",
+        "Bip001 Spine2",
+        "Bip001 R Clavicle",
+        "Bip001 R UpperArm",
+        "Bip001 R Forearm",
+        "Bip001 R Hand",
+        "Bip001 R Finger3",
+        "Bip001 R Finger31",
+        "Bip001 R Finger32"
+      ]
+    },
+    "4447971954232063236": {
+      "game_object": {
+        "file_id": 0,
+        "path_id": "-7283297048695716550"
+      },
+      "local_rotation_xyzw": [
+        7.450581485102248e-09,
+        -1.1175870895385742e-08,
+        1.4901161193847656e-08,
+        1.0
+      ],
+      "local_position": [
+        -0.013021182268857956,
+        0.0,
+        0.0
+      ],
+      "local_scale": [
+        1.0,
+        0.9999999403953552,
+        0.9999999403953552
+      ],
+      "children": [],
+      "parent": {
+        "file_id": 0,
+        "path_id": "2711923118617261681"
+      },
+      "name": "Bip001 L Finger3Nub",
+      "path_components": [
+        "Avatar_Loli_Bow_Diona_Manekin",
+        "Bip001",
+        "Bip001 Pelvis",
+        "Bip001 Spine",
+        "Bip001 Spine1",
+        "Bip001 Spine2",
+        "Bip001 L Clavicle",
+        "Bip001 L UpperArm",
+        "Bip001 L Forearm",
+        "Bip001 L Hand",
+        "Bip001 L Finger3",
+        "Bip001 L Finger31",
+        "Bip001 L Finger32",
+        "Bip001 L Finger3Nub"
+      ]
+    },
+    "4644902817743461152": {
+      "game_object": {
+        "file_id": 0,
+        "path_id": "5336824247820499715"
+      },
+      "local_rotation_xyzw": [
+        -0.14589153230190277,
+        0.9771952033042908,
+        0.15383122861385345,
+        -0.011882903054356575
+      ],
+      "local_position": [
+        -4.762660665846852e-08,
+        0.00044299126602709293,
+        -0.05825330689549446
+      ],
+      "local_scale": [
+        1.0,
+        1.0,
+        0.9999999403953552
+      ],
+      "children": [
+        {
+          "file_id": 0,
+          "path_id": "8296939532950562586"
+        }
+      ],
+      "parent": {
+        "file_id": 0,
+        "path_id": "7687586622639806298"
+      },
+      "name": "Bip001 R Thigh",
+      "path_components": [
+        "Avatar_Loli_Bow_Diona_Manekin",
+        "Bip001",
+        "Bip001 Pelvis",
+        "Bip001 R Thigh"
+      ]
+    },
+    "4805993811640518278": {
+      "game_object": {
+        "file_id": 0,
+        "path_id": "-4673616923693060729"
+      },
+      "local_rotation_xyzw": [
+        -3.655441815908489e-08,
+        -5.960465898624534e-08,
+        0.7068895697593689,
+        -0.7073239684104919
+      ],
+      "local_position": [
+        -0.06920447200536728,
+        0.050918541848659515,
+        -0.002180912299081683
+      ],
+      "local_scale": [
+        1.0000001192092896,
+        1.0000001192092896,
+        0.9999999403953552
+      ],
+      "children": [
+        {
+          "file_id": 0,
+          "path_id": "-6891613673315608431"
+        }
+      ],
+      "parent": {
+        "file_id": 0,
+        "path_id": "-1497585169263376454"
+      },
+      "name": "Bip001 L Toe0",
+      "path_components": [
+        "Avatar_Loli_Bow_Diona_Manekin",
+        "Bip001",
+        "Bip001 Pelvis",
+        "Bip001 L Thigh",
+        "Bip001 L Calf",
+        "Bip001 L Foot",
+        "Bip001 L Toe0"
+      ]
+    },
+    "4821596628922690088": {
+      "game_object": {
+        "file_id": 0,
+        "path_id": "330041956584834965"
+      },
+      "local_rotation_xyzw": [
+        -0.08517976105213165,
+        0.9896553754806519,
+        -0.04944748803973198,
+        0.10431499034166336
+      ],
+      "local_position": [
+        1.0379700654539192e-07,
+        -0.000442926655523479,
+        0.05825330317020416
+      ],
+      "local_scale": [
+        1.0,
+        1.0,
+        0.9999999403953552
+      ],
+      "children": [
+        {
+          "file_id": 0,
+          "path_id": "6154431864364198318"
+        }
+      ],
+      "parent": {
+        "file_id": 0,
+        "path_id": "7687586622639806298"
+      },
+      "name": "Bip001 L Thigh",
+      "path_components": [
+        "Avatar_Loli_Bow_Diona_Manekin",
+        "Bip001",
+        "Bip001 Pelvis",
+        "Bip001 L Thigh"
+      ]
+    },
+    "4824949370905300472": {
+      "game_object": {
+        "file_id": 0,
+        "path_id": "224041571292050089"
+      },
+      "local_rotation_xyzw": [
+        2.7939670133036998e-08,
+        -0.009932536631822586,
+        0.18209637701511383,
+        -0.9832305908203125
+      ],
+      "local_position": [
+        -0.014409700408577919,
+        -1.307818853213405e-09,
+        9.466210038056033e-09
+      ],
+      "local_scale": [
+        1.0,
+        1.0,
+        1.0000001192092896
+      ],
+      "children": [
+        {
+          "file_id": 0,
+          "path_id": "7288783990460632134"
+        }
+      ],
+      "parent": {
+        "file_id": 0,
+        "path_id": "1826229795404783110"
+      },
+      "name": "Bip001 R Finger41",
+      "path_components": [
+        "Avatar_Loli_Bow_Diona_Manekin",
+        "Bip001",
+        "Bip001 Pelvis",
+        "Bip001 Spine",
+        "Bip001 Spine1",
+        "Bip001 Spine2",
+        "Bip001 R Clavicle",
+        "Bip001 R UpperArm",
+        "Bip001 R Forearm",
+        "Bip001 R Hand",
+        "Bip001 R Finger4",
+        "Bip001 R Finger41"
+      ]
+    },
+    "4939852525975742859": {
+      "game_object": {
+        "file_id": 0,
+        "path_id": "6550471489148680943"
+      },
+      "local_rotation_xyzw": [
+        1.0658141036401503e-14,
+        -7.940933880509066e-23,
+        -7.450580596923828e-09,
+        1.0
+      ],
+      "local_position": [
+        -0.2613992393016815,
+        0.0,
+        0.0
+      ],
+      "local_scale": [
+        1.0,
+        1.0,
+        1.0
+      ],
+      "children": [],
+      "parent": {
+        "file_id": 0,
+        "path_id": "-1248103346604770283"
+      },
+      "name": "Bip001 HeadNub",
+      "path_components": [
+        "Avatar_Loli_Bow_Diona_Manekin",
+        "Bip001",
+        "Bip001 Pelvis",
+        "Bip001 Spine",
+        "Bip001 Spine1",
+        "Bip001 Spine2",
+        "Bip001 Neck",
+        "Bip001 Head",
+        "Bip001 HeadNub"
+      ]
+    },
+    "4994370028921806929": {
+      "game_object": {
+        "file_id": 0,
+        "path_id": "6429598047147585981"
+      },
+      "local_rotation_xyzw": [
+        0.8425053358078003,
+        -0.06071864068508148,
+        -0.42468273639678955,
+        -0.32579535245895386
+      ],
+      "local_position": [
+        -0.16559356451034546,
+        -0.028277549892663956,
+        0.09043612331151962
+      ],
+      "local_scale": [
+        0.9999999403953552,
+        1.0000003576278687,
+        1.0000003576278687
+      ],
+      "children": [],
+      "parent": {
+        "file_id": 0,
+        "path_id": "-1248103346604770283"
+      },
+      "name": "+EarS L A01",
+      "path_components": [
+        "Avatar_Loli_Bow_Diona_Manekin",
+        "Bip001",
+        "Bip001 Pelvis",
+        "Bip001 Spine",
+        "Bip001 Spine1",
+        "Bip001 Spine2",
+        "Bip001 Neck",
+        "Bip001 Head",
+        "+EarS L A01"
+      ]
+    },
+    "5006883868887496200": {
+      "game_object": {
+        "file_id": 0,
+        "path_id": "8853141901365958689"
+      },
+      "local_rotation_xyzw": [
+        0.6092636585235596,
+        -0.22848309576511383,
+        -0.14158588647842407,
+        -0.7460206151008606
+      ],
+      "local_position": [
+        -0.13510937988758087,
+        -8.568168595957104e-06,
+        -0.0001571308821439743
+      ],
+      "local_scale": [
+        1.0,
+        1.0,
+        0.9999999403953552
+      ],
+      "children": [
+        {
+          "file_id": 0,
+          "path_id": "-5751574610226983809"
+        },
+        {
+          "file_id": 0,
+          "path_id": "7853723497254172636"
+        },
+        {
+          "file_id": 0,
+          "path_id": "-6741548424902392850"
+        },
+        {
+          "file_id": 0,
+          "path_id": "8628753532357539473"
+        },
+        {
+          "file_id": 0,
+          "path_id": "846448447609180181"
+        },
+        {
+          "file_id": 0,
+          "path_id": "8078034569630615236"
+        }
+      ],
+      "parent": {
+        "file_id": 0,
+        "path_id": "5650432615105234879"
+      },
+      "name": "Bip001 L Hand",
+      "path_components": [
+        "Avatar_Loli_Bow_Diona_Manekin",
+        "Bip001",
+        "Bip001 Pelvis",
+        "Bip001 Spine",
+        "Bip001 Spine1",
+        "Bip001 Spine2",
+        "Bip001 L Clavicle",
+        "Bip001 L UpperArm",
+        "Bip001 L Forearm",
+        "Bip001 L Hand"
+      ]
+    },
+    "5100916209824232350": {
+      "game_object": {
+        "file_id": 0,
+        "path_id": "-2609740427753410778"
+      },
+      "local_rotation_xyzw": [
+        -0.00954404566437006,
+        0.00632039550691843,
+        0.10278218984603882,
+        0.9946380257606506
+      ],
+      "local_position": [
+        -0.015530109405517578,
+        0.0,
+        7.629394360719743e-08
+      ],
+      "local_scale": [
+        1.0,
+        1.0,
+        1.0
+      ],
+      "children": [
+        {
+          "file_id": 0,
+          "path_id": "-5595507143480485400"
+        }
+      ],
+      "parent": {
+        "file_id": 0,
+        "path_id": "-3784885268946692316"
+      },
+      "name": "Bip001 R Finger02",
+      "path_components": [
+        "Avatar_Loli_Bow_Diona_Manekin",
+        "Bip001",
+        "Bip001 Pelvis",
+        "Bip001 Spine",
+        "Bip001 Spine1",
+        "Bip001 Spine2",
+        "Bip001 R Clavicle",
+        "Bip001 R UpperArm",
+        "Bip001 R Forearm",
+        "Bip001 R Hand",
+        "Bip001 R Finger0",
+        "Bip001 R Finger01",
+        "Bip001 R Finger02"
+      ]
+    },
+    "5491656345016606976": {
+      "game_object": {
+        "file_id": 0,
+        "path_id": "8132837038854572516"
+      },
+      "local_rotation_xyzw": [
+        0.04756490886211395,
+        -0.11171858012676239,
+        0.9807870984077454,
+        0.15268680453300476
+      ],
+      "local_position": [
+        -0.010384063236415386,
+        -0.10355371236801147,
+        -0.0443907156586647
+      ],
+      "local_scale": [
+        1.0000001192092896,
+        1.0000001192092896,
+        1.0000001192092896
+      ],
+      "children": [
+        {
+          "file_id": 0,
+          "path_id": "-7512719384195518186"
+        }
+      ],
+      "parent": {
+        "file_id": 0,
+        "path_id": "-3357917287159644780"
+      },
+      "name": "+BowknotB R C01",
+      "path_components": [
+        "Avatar_Loli_Bow_Diona_Manekin",
+        "Bip001",
+        "Bip001 Pelvis",
+        "Bip001 Spine",
+        "Bip001 Spine1",
+        "+BowknotB R C01"
+      ]
+    },
+    "5650432615105234879": {
+      "game_object": {
+        "file_id": 0,
+        "path_id": "8434416103371035852"
+      },
+      "local_rotation_xyzw": [
+        0.05294710770249367,
+        0.022492794319987297,
+        0.20622102916240692,
+        0.976813018321991
+      ],
+      "local_position": [
+        -0.16609041392803192,
+        -6.28642737865448e-09,
+        -5.960464477539063e-08
+      ],
+      "local_scale": [
+        1.000000238418579,
+        0.9999999403953552,
+        1.0
+      ],
+      "children": [
+        {
+          "file_id": 0,
+          "path_id": "5006883868887496200"
+        },
+        {
+          "file_id": 0,
+          "path_id": "8913942497342406420"
+        }
+      ],
+      "parent": {
+        "file_id": 0,
+        "path_id": "2683541248813330088"
+      },
+      "name": "Bip001 L Forearm",
+      "path_components": [
+        "Avatar_Loli_Bow_Diona_Manekin",
+        "Bip001",
+        "Bip001 Pelvis",
+        "Bip001 Spine",
+        "Bip001 Spine1",
+        "Bip001 Spine2",
+        "Bip001 L Clavicle",
+        "Bip001 L UpperArm",
+        "Bip001 L Forearm"
+      ]
+    },
+    "5704948254649325847": {
+      "game_object": {
+        "file_id": 0,
+        "path_id": "-6504173163461885338"
+      },
+      "local_rotation_xyzw": [
+        0.49951380491256714,
+        0.5003261566162109,
+        -0.4998336434364319,
+        0.5003259181976318
+      ],
+      "local_position": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "local_scale": [
+        1.0,
+        1.0,
+        1.0
+      ],
+      "children": [],
+      "parent": {
+        "file_id": 0,
+        "path_id": "-3060350416147987511"
+      },
+      "name": "+PelvisTwist CF A01",
+      "path_components": [
+        "Avatar_Loli_Bow_Diona_Manekin",
+        "Bip001",
+        "+PelvisTwist CF A01"
+      ]
+    },
+    "6154431864364198318": {
+      "game_object": {
+        "file_id": 0,
+        "path_id": "136244255463050201"
+      },
+      "local_rotation_xyzw": [
+        -0.02416958287358284,
+        -0.0024314075708389282,
+        0.10006369650363922,
+        0.9946845173835754
+      ],
+      "local_position": [
+        -0.3161258101463318,
+        9.313225746154785e-10,
+        0.0
+      ],
+      "local_scale": [
+        1.0000001192092896,
+        1.0,
+        1.0
+      ],
+      "children": [
+        {
+          "file_id": 0,
+          "path_id": "-1497585169263376454"
+        },
+        {
+          "file_id": 0,
+          "path_id": "-9177326690708950615"
+        },
+        {
+          "file_id": 0,
+          "path_id": "3667295107751618297"
+        }
+      ],
+      "parent": {
+        "file_id": 0,
+        "path_id": "4821596628922690088"
+      },
+      "name": "Bip001 L Calf",
+      "path_components": [
+        "Avatar_Loli_Bow_Diona_Manekin",
+        "Bip001",
+        "Bip001 Pelvis",
+        "Bip001 L Thigh",
+        "Bip001 L Calf"
+      ]
+    },
+    "6320210958596229667": {
+      "game_object": {
+        "file_id": 0,
+        "path_id": "823451090459647663"
+      },
+      "local_rotation_xyzw": [
+        1.445155390911168e-07,
+        1.5210264336928958e-06,
+        0.9357121586799622,
+        0.3527645766735077
+      ],
+      "local_position": [
+        -0.044694822281599045,
+        -0.09033127874135971,
+        3.051759165373369e-07
+      ],
+      "local_scale": [
+        1.0,
+        0.9999999403953552,
+        1.0
+      ],
+      "children": [
+        {
+          "file_id": 0,
+          "path_id": "-1364262865681728073"
+        }
+      ],
+      "parent": {
+        "file_id": 0,
+        "path_id": "7687586622639806298"
+      },
+      "name": "+TailB L A01",
+      "path_components": [
+        "Avatar_Loli_Bow_Diona_Manekin",
+        "Bip001",
+        "Bip001 Pelvis",
+        "+TailB L A01"
+      ]
+    },
+    "6419189535955483932": {
+      "game_object": {
+        "file_id": 0,
+        "path_id": "3894882814925872535"
+      },
+      "local_rotation_xyzw": [
+        -1.348701630377036e-06,
+        -1.3486966281561763e-06,
+        0.7071054577827454,
+        0.7071081399917603
+      ],
+      "local_position": [
+        -0.3499999940395355,
+        0.699999988079071,
+        -9.999999406318238e-08
+      ],
+      "local_scale": [
+        1.0,
+        1.0,
+        1.0
+      ],
+      "children": [],
+      "parent": {
+        "file_id": 0,
+        "path_id": "-1405529647415640255"
+      },
+      "name": "CatalystL",
+      "path_components": [
+        "Avatar_Loli_Bow_Diona_Manekin",
+        "Root",
+        "CatalystL"
+      ]
+    },
+    "6462395403347462064": {
+      "game_object": {
+        "file_id": 0,
+        "path_id": "-7423084535718478926"
+      },
+      "local_rotation_xyzw": [
+        -0.0008267008815892041,
+        0.002553920028731227,
+        0.020882051438093185,
+        0.9997783899307251
+      ],
+      "local_position": [
+        -0.09610988199710846,
+        -1.9073485191256623e-07,
+        6.67572024326546e-08
+      ],
+      "local_scale": [
+        1.0000003576278687,
+        1.0000003576278687,
+        1.000000238418579
+      ],
+      "children": [],
+      "parent": {
+        "file_id": 0,
+        "path_id": "-1188107126599654952"
+      },
+      "name": "+HemB L G03",
+      "path_components": [
+        "Avatar_Loli_Bow_Diona_Manekin",
+        "Bip001",
+        "Bip001 Pelvis",
+        "Bip001 Spine",
+        "+HemB L G01",
+        "+HemB L G02",
+        "+HemB L G03"
+      ]
+    },
+    "6529045075444641999": {
+      "game_object": {
+        "file_id": 0,
+        "path_id": "-8642928458228911907"
+      },
+      "local_rotation_xyzw": [
+        0.9989676475524902,
+        0.002784163225442171,
+        0.010984286665916443,
+        0.043991200625896454
+      ],
+      "local_position": [
+        -0.08009903132915497,
+        -0.00015103339683264494,
+        0.003303336910903454
+      ],
+      "local_scale": [
+        1.0,
+        1.0,
+        1.0
+      ],
+      "children": [],
+      "parent": {
+        "file_id": 0,
+        "path_id": "-831807374310693114"
+      },
+      "name": "+UpperArmTwist R A02",
+      "path_components": [
+        "Avatar_Loli_Bow_Diona_Manekin",
+        "Bip001",
+        "Bip001 Pelvis",
+        "Bip001 Spine",
+        "Bip001 Spine1",
+        "Bip001 Spine2",
+        "Bip001 R Clavicle",
+        "Bip001 R UpperArm",
+        "+UpperArmTwist R A02"
+      ]
+    },
+    "6597778231058897702": {
+      "game_object": {
+        "file_id": 0,
+        "path_id": "-4375760319540710412"
+      },
+      "local_rotation_xyzw": [
+        -1.7648773109613103e-07,
+        1.5594365549986833e-06,
+        0.9357120990753174,
+        0.3527645766735077
+      ],
+      "local_position": [
+        -0.044694822281599045,
+        -0.09033127874135971,
+        3.051756323202426e-07
+      ],
+      "local_scale": [
+        1.0,
+        1.0000001192092896,
+        1.0
+      ],
+      "children": [
+        {
+          "file_id": 0,
+          "path_id": "3924866982338418441"
+        }
+      ],
+      "parent": {
+        "file_id": 0,
+        "path_id": "7687586622639806298"
+      },
+      "name": "+TailB R A01",
+      "path_components": [
+        "Avatar_Loli_Bow_Diona_Manekin",
+        "Bip001",
+        "Bip001 Pelvis",
+        "+TailB R A01"
+      ]
+    },
+    "6617516968479676896": {
+      "game_object": {
+        "file_id": 0,
+        "path_id": "-7515526126317190110"
+      },
+      "local_rotation_xyzw": [
+        -2.2745802463752796e-10,
+        -1.6170130512360714e-10,
+        -0.004899216815829277,
+        0.9999880194664001
+      ],
+      "local_position": [
+        -0.12431899458169937,
+        0.0,
+        3.81470250943039e-08
+      ],
+      "local_scale": [
+        1.0,
+        1.0000001192092896,
+        1.0
+      ],
+      "children": [
+        {
+          "file_id": 0,
+          "path_id": "8132489132793085297"
+        }
+      ],
+      "parent": {
+        "file_id": 0,
+        "path_id": "3924866982338418441"
+      },
+      "name": "+TailB R A03",
+      "path_components": [
+        "Avatar_Loli_Bow_Diona_Manekin",
+        "Bip001",
+        "Bip001 Pelvis",
+        "+TailB R A01",
+        "+TailB R A02",
+        "+TailB R A03"
+      ]
+    },
+    "6761464296464009350": {
+      "game_object": {
+        "file_id": 0,
+        "path_id": "8765933820424577556"
+      },
+      "local_rotation_xyzw": [
+        -0.07604813575744629,
+        0.9770323038101196,
+        -0.16520991921424866,
+        -0.11104165762662888
+      ],
+      "local_position": [
+        -0.031206587329506874,
+        0.06201813742518425,
+        -0.07050902396440506
+      ],
+      "local_scale": [
+        1.0,
+        1.0,
+        1.0
+      ],
+      "children": [],
+      "parent": {
+        "file_id": 0,
+        "path_id": "-98185806278883735"
+      },
+      "name": "+WaistBagS R B01",
+      "path_components": [
+        "Avatar_Loli_Bow_Diona_Manekin",
+        "Bip001",
+        "Bip001 Pelvis",
+        "Bip001 Spine",
+        "+WaistBagS R B01"
+      ]
+    },
+    "6768244595840210674": {
+      "game_object": {
+        "file_id": 0,
+        "path_id": "-1755705363971787881"
+      },
+      "local_rotation_xyzw": [
+        0.08339033275842667,
+        0.7135301232337952,
+        -0.6790610551834106,
+        0.15098679065704346
+      ],
+      "local_position": [
+        -0.1045101135969162,
+        0.018112925812602043,
+        -0.11339164525270462
+      ],
+      "local_scale": [
+        1.0,
+        1.0000003576278687,
+        1.0
+      ],
+      "children": [],
+      "parent": {
+        "file_id": 0,
+        "path_id": "-1248103346604770283"
+      },
+      "name": "+HairS R E01",
+      "path_components": [
+        "Avatar_Loli_Bow_Diona_Manekin",
+        "Bip001",
+        "Bip001 Pelvis",
+        "Bip001 Spine",
+        "Bip001 Spine1",
+        "Bip001 Spine2",
+        "Bip001 Neck",
+        "Bip001 Head",
+        "+HairS R E01"
+      ]
+    },
+    "6781204340118202633": {
+      "game_object": {
+        "file_id": 0,
+        "path_id": "-2800680792266849503"
+      },
+      "local_rotation_xyzw": [
+        0.012540960684418678,
+        0.02353791333734989,
+        0.0984627828001976,
+        -0.9947832822799683
+      ],
+      "local_position": [
+        -0.048878248780965805,
+        -0.004005459602922201,
+        0.003654809668660164
+      ],
+      "local_scale": [
+        1.0,
+        1.0,
+        0.9999999403953552
+      ],
+      "children": [
+        {
+          "file_id": 0,
+          "path_id": "-4997516824148462672"
+        }
+      ],
+      "parent": {
+        "file_id": 0,
+        "path_id": "9210081420108368469"
+      },
+      "name": "Bip001 R Finger2",
+      "path_components": [
+        "Avatar_Loli_Bow_Diona_Manekin",
+        "Bip001",
+        "Bip001 Pelvis",
+        "Bip001 Spine",
+        "Bip001 Spine1",
+        "Bip001 Spine2",
+        "Bip001 R Clavicle",
+        "Bip001 R UpperArm",
+        "Bip001 R Forearm",
+        "Bip001 R Hand",
+        "Bip001 R Finger2"
+      ]
+    },
+    "6800623884563998072": {
+      "game_object": {
+        "file_id": 0,
+        "path_id": "-7533556218726480640"
+      },
+      "local_rotation_xyzw": [
+        -0.7122803926467896,
+        0.6879556775093079,
+        0.10813938826322556,
+        0.08763273060321808
+      ],
+      "local_position": [
+        -0.07028930634260178,
+        0.005067519843578339,
+        0.030243227258324623
+      ],
+      "local_scale": [
+        0.9999999403953552,
+        1.000000238418579,
+        0.9999999403953552
+      ],
+      "children": [
+        {
+          "file_id": 0,
+          "path_id": "7015414681080942010"
+        }
+      ],
+      "parent": {
+        "file_id": 0,
+        "path_id": "-1248103346604770283"
+      },
+      "name": "+EyeBone L A01",
+      "path_components": [
+        "Avatar_Loli_Bow_Diona_Manekin",
+        "Bip001",
+        "Bip001 Pelvis",
+        "Bip001 Spine",
+        "Bip001 Spine1",
+        "Bip001 Spine2",
+        "Bip001 Neck",
+        "Bip001 Head",
+        "+EyeBone L A01"
+      ]
+    },
+    "6866516998872890281": {
+      "game_object": {
+        "file_id": 0,
+        "path_id": "-8952992861359125251"
+      },
+      "local_rotation_xyzw": [
+        0.0,
+        0.0,
+        0.0,
+        1.0
+      ],
+      "local_position": [
+        0.0,
+        0.8499999642372131,
+        -6.000001917527698e-08
+      ],
+      "local_scale": [
+        1.0,
+        1.0,
+        1.0
+      ],
+      "children": [],
+      "parent": {
+        "file_id": 0,
+        "path_id": "-1405529647415640255"
+      },
+      "name": "CameraLook",
+      "path_components": [
+        "Avatar_Loli_Bow_Diona_Manekin",
+        "Root",
+        "CameraLook"
+      ]
+    },
+    "7015414681080942010": {
+      "game_object": {
+        "file_id": 0,
+        "path_id": "-1981015565356311663"
+      },
+      "local_rotation_xyzw": [
+        0.012340620160102844,
+        -0.012342567555606365,
+        -0.7069953680038452,
+        0.7070027589797974
+      ],
+      "local_position": [
+        -0.06456739455461502,
+        -0.0020005034748464823,
+        0.0009991406695917249
+      ],
+      "local_scale": [
+        1.0000001192092896,
+        1.0000001192092896,
+        1.0
+      ],
+      "children": [],
+      "parent": {
+        "file_id": 0,
+        "path_id": "6800623884563998072"
+      },
+      "name": "+EyeBone L A02",
+      "path_components": [
+        "Avatar_Loli_Bow_Diona_Manekin",
+        "Bip001",
+        "Bip001 Pelvis",
+        "Bip001 Spine",
+        "Bip001 Spine1",
+        "Bip001 Spine2",
+        "Bip001 Neck",
+        "Bip001 Head",
+        "+EyeBone L A01",
+        "+EyeBone L A02"
+      ]
+    },
+    "7288783990460632134": {
+      "game_object": {
+        "file_id": 0,
+        "path_id": "5866933387023731222"
+      },
+      "local_rotation_xyzw": [
+        2.8079372782485734e-07,
+        0.0017942633712664247,
+        -0.03289662301540375,
+        -0.9994571805000305
+      ],
+      "local_position": [
+        -0.011898227035999298,
+        -5.9361951798564405e-08,
+        -1.805603133675504e-08
+      ],
+      "local_scale": [
+        1.0000001192092896,
+        1.0000001192092896,
+        1.0000001192092896
+      ],
+      "children": [
+        {
+          "file_id": 0,
+          "path_id": "7705891031770631486"
+        }
+      ],
+      "parent": {
+        "file_id": 0,
+        "path_id": "4824949370905300472"
+      },
+      "name": "Bip001 R Finger42",
+      "path_components": [
+        "Avatar_Loli_Bow_Diona_Manekin",
+        "Bip001",
+        "Bip001 Pelvis",
+        "Bip001 Spine",
+        "Bip001 Spine1",
+        "Bip001 Spine2",
+        "Bip001 R Clavicle",
+        "Bip001 R UpperArm",
+        "Bip001 R Forearm",
+        "Bip001 R Hand",
+        "Bip001 R Finger4",
+        "Bip001 R Finger41",
+        "Bip001 R Finger42"
+      ]
+    },
+    "7687586622639806298": {
+      "game_object": {
+        "file_id": 0,
+        "path_id": "1264317177633144505"
+      },
+      "local_rotation_xyzw": [
+        0.5000000596046448,
+        -0.4999999701976776,
+        -0.5,
+        -0.5
+      ],
+      "local_position": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "local_scale": [
+        1.0,
+        1.0,
+        0.9999999403953552
+      ],
+      "children": [
+        {
+          "file_id": 0,
+          "path_id": "6320210958596229667"
+        },
+        {
+          "file_id": 0,
+          "path_id": "6597778231058897702"
+        },
+        {
+          "file_id": 0,
+          "path_id": "4821596628922690088"
+        },
+        {
+          "file_id": 0,
+          "path_id": "4644902817743461152"
+        },
+        {
+          "file_id": 0,
+          "path_id": "-98185806278883735"
+        }
+      ],
+      "parent": {
+        "file_id": 0,
+        "path_id": "-3060350416147987511"
+      },
+      "name": "Bip001 Pelvis",
+      "path_components": [
+        "Avatar_Loli_Bow_Diona_Manekin",
+        "Bip001",
+        "Bip001 Pelvis"
+      ]
+    },
+    "7705891031770631486": {
+      "game_object": {
+        "file_id": 0,
+        "path_id": "4698687135128568033"
+      },
+      "local_rotation_xyzw": [
+        7.450580596923828e-09,
+        -1.4901161193847656e-08,
+        1.0,
+        1.7225464509177405e-16
+      ],
+      "local_position": [
+        -0.010146674700081348,
+        0.0,
+        9.53674295089968e-09
+      ],
+      "local_scale": [
+        -1.0,
+        -1.0,
+        -1.0000001192092896
+      ],
+      "children": [],
+      "parent": {
+        "file_id": 0,
+        "path_id": "7288783990460632134"
+      },
+      "name": "Bip001 R Finger4Nub",
+      "path_components": [
+        "Avatar_Loli_Bow_Diona_Manekin",
+        "Bip001",
+        "Bip001 Pelvis",
+        "Bip001 Spine",
+        "Bip001 Spine1",
+        "Bip001 Spine2",
+        "Bip001 R Clavicle",
+        "Bip001 R UpperArm",
+        "Bip001 R Forearm",
+        "Bip001 R Hand",
+        "Bip001 R Finger4",
+        "Bip001 R Finger41",
+        "Bip001 R Finger42",
+        "Bip001 R Finger4Nub"
+      ]
+    },
+    "7777550333203077660": {
+      "game_object": {
+        "file_id": 0,
+        "path_id": "-5455763809091087574"
+      },
+      "local_rotation_xyzw": [
+        -1.6065312635760165e-08,
+        -0.0039138286374509335,
+        -0.07175404578447342,
+        0.9974147081375122
+      ],
+      "local_position": [
+        -0.0200838390737772,
+        -5.8730016405661445e-08,
+        9.15833631154328e-10
+      ],
+      "local_scale": [
+        0.9999999403953552,
+        1.0000001192092896,
+        1.0000001192092896
+      ],
+      "children": [
+        {
+          "file_id": 0,
+          "path_id": "1939206055466509553"
+        }
+      ],
+      "parent": {
+        "file_id": 0,
+        "path_id": "-6741548424902392850"
+      },
+      "name": "Bip001 L Finger21",
+      "path_components": [
+        "Avatar_Loli_Bow_Diona_Manekin",
+        "Bip001",
+        "Bip001 Pelvis",
+        "Bip001 Spine",
+        "Bip001 Spine1",
+        "Bip001 Spine2",
+        "Bip001 L Clavicle",
+        "Bip001 L UpperArm",
+        "Bip001 L Forearm",
+        "Bip001 L Hand",
+        "Bip001 L Finger2",
+        "Bip001 L Finger21"
+      ]
+    },
+    "7783308790805200043": {
+      "game_object": {
+        "file_id": 0,
+        "path_id": "2018301518130501471"
+      },
+      "local_rotation_xyzw": [
+        2.6915216722045443e-07,
+        -0.00986533984541893,
+        -0.18086391687393188,
+        0.9834586977958679
+      ],
+      "local_position": [
+        -0.014409687370061874,
+        1.3621717642742226e-10,
+        -9.516077703608516e-09
+      ],
+      "local_scale": [
+        0.9999999403953552,
+        1.0,
+        1.0
+      ],
+      "children": [
+        {
+          "file_id": 0,
+          "path_id": "8838702294923431396"
+        }
+      ],
+      "parent": {
+        "file_id": 0,
+        "path_id": "846448447609180181"
+      },
+      "name": "Bip001 L Finger41",
+      "path_components": [
+        "Avatar_Loli_Bow_Diona_Manekin",
+        "Bip001",
+        "Bip001 Pelvis",
+        "Bip001 Spine",
+        "Bip001 Spine1",
+        "Bip001 Spine2",
+        "Bip001 L Clavicle",
+        "Bip001 L UpperArm",
+        "Bip001 L Forearm",
+        "Bip001 L Hand",
+        "Bip001 L Finger4",
+        "Bip001 L Finger41"
+      ]
+    },
+    "7853723497254172636": {
+      "game_object": {
+        "file_id": 0,
+        "path_id": "-8260583075134913415"
+      },
+      "local_rotation_xyzw": [
+        0.01187169086188078,
+        0.05259757116436958,
+        0.03798680752515793,
+        0.9978224039077759
+      ],
+      "local_position": [
+        -0.04757725074887276,
+        8.263113704742864e-05,
+        -0.01859329454600811
+      ],
+      "local_scale": [
+        1.0000001192092896,
+        1.0000001192092896,
+        1.0000001192092896
+      ],
+      "children": [
+        {
+          "file_id": 0,
+          "path_id": "-6403089197127004515"
+        }
+      ],
+      "parent": {
+        "file_id": 0,
+        "path_id": "5006883868887496200"
+      },
+      "name": "Bip001 L Finger1",
+      "path_components": [
+        "Avatar_Loli_Bow_Diona_Manekin",
+        "Bip001",
+        "Bip001 Pelvis",
+        "Bip001 Spine",
+        "Bip001 Spine1",
+        "Bip001 Spine2",
+        "Bip001 L Clavicle",
+        "Bip001 L UpperArm",
+        "Bip001 L Forearm",
+        "Bip001 L Hand",
+        "Bip001 L Finger1"
+      ]
+    },
+    "7858273465454465120": {
+      "game_object": {
+        "file_id": 0,
+        "path_id": "-5015657002186378329"
+      },
+      "local_rotation_xyzw": [
+        -0.07604800909757614,
+        0.9770321249961853,
+        0.1652112603187561,
+        0.11104176193475723
+      ],
+      "local_position": [
+        -0.031206510961055756,
+        0.06201794371008873,
+        0.07050925493240356
+      ],
+      "local_scale": [
+        1.0,
+        1.0000001192092896,
+        0.9999998807907104
+      ],
+      "children": [],
+      "parent": {
+        "file_id": 0,
+        "path_id": "-98185806278883735"
+      },
+      "name": "+WaistBagS L B01",
+      "path_components": [
+        "Avatar_Loli_Bow_Diona_Manekin",
+        "Bip001",
+        "Bip001 Pelvis",
+        "Bip001 Spine",
+        "+WaistBagS L B01"
+      ]
+    },
+    "7973311014068078390": {
+      "game_object": {
+        "file_id": 0,
+        "path_id": "-454765159811214312"
+      },
+      "local_rotation_xyzw": [
+        0.998957633972168,
+        0.0027824915014207363,
+        0.010965374298393726,
+        0.04422304406762123
+      ],
+      "local_position": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "local_scale": [
+        1.0,
+        1.0,
+        1.0
+      ],
+      "children": [],
+      "parent": {
+        "file_id": 0,
+        "path_id": "-831807374310693114"
+      },
+      "name": "+UpperArmTwist R A01",
+      "path_components": [
+        "Avatar_Loli_Bow_Diona_Manekin",
+        "Bip001",
+        "Bip001 Pelvis",
+        "Bip001 Spine",
+        "Bip001 Spine1",
+        "Bip001 Spine2",
+        "Bip001 R Clavicle",
+        "Bip001 R UpperArm",
+        "+UpperArmTwist R A01"
+      ]
+    },
+    "8078034569630615236": {
+      "game_object": {
+        "file_id": 0,
+        "path_id": "5811565636884886241"
+      },
+      "local_rotation_xyzw": [
+        -0.8388804197311401,
+        0.5230238437652588,
+        0.08071353286504745,
+        0.12732264399528503
+      ],
+      "local_position": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "local_scale": [
+        1.0,
+        1.0,
+        1.0
+      ],
+      "children": [
+        {
+          "file_id": 0,
+          "path_id": "-2691738998476484002"
+        }
+      ],
+      "parent": {
+        "file_id": 0,
+        "path_id": "5006883868887496200"
+      },
+      "name": "WeaponL",
+      "path_components": [
+        "Avatar_Loli_Bow_Diona_Manekin",
+        "Bip001",
+        "Bip001 Pelvis",
+        "Bip001 Spine",
+        "Bip001 Spine1",
+        "Bip001 Spine2",
+        "Bip001 L Clavicle",
+        "Bip001 L UpperArm",
+        "Bip001 L Forearm",
+        "Bip001 L Hand",
+        "WeaponL"
+      ]
+    },
+    "8132489132793085297": {
+      "game_object": {
+        "file_id": 0,
+        "path_id": "-6733486910319455722"
+      },
+      "local_rotation_xyzw": [
+        3.575337643724197e-07,
+        1.6906284150408624e-09,
+        0.0050126356072723866,
+        0.9999874234199524
+      ],
+      "local_position": [
+        -0.10570768266916275,
+        1.1444091541079615e-07,
+        7.629394360719743e-08
+      ],
+      "local_scale": [
+        0.9999997615814209,
+        0.9999998211860657,
+        1.0
+      ],
+      "children": [
+        {
+          "file_id": 0,
+          "path_id": "536370534677609316"
+        }
+      ],
+      "parent": {
+        "file_id": 0,
+        "path_id": "6617516968479676896"
+      },
+      "name": "+TailB R A04",
+      "path_components": [
+        "Avatar_Loli_Bow_Diona_Manekin",
+        "Bip001",
+        "Bip001 Pelvis",
+        "+TailB R A01",
+        "+TailB R A02",
+        "+TailB R A03",
+        "+TailB R A04"
+      ]
+    },
+    "8240171887566819279": {
+      "game_object": {
+        "file_id": 0,
+        "path_id": "-4123848231534894946"
+      },
+      "local_rotation_xyzw": [
+        0.6236571073532104,
+        0.05419425666332245,
+        -0.7779317498207092,
+        -0.05419430136680603
+      ],
+      "local_position": [
+        -0.10812243074178696,
+        -0.023829590529203415,
+        0.021649986505508423
+      ],
+      "local_scale": [
+        1.0000001192092896,
+        1.0000001192092896,
+        1.0000001192092896
+      ],
+      "children": [
+        {
+          "file_id": 0,
+          "path_id": "2683541248813330088"
+        }
+      ],
+      "parent": {
+        "file_id": 0,
+        "path_id": "-3713133896764299800"
+      },
+      "name": "Bip001 L Clavicle",
+      "path_components": [
+        "Avatar_Loli_Bow_Diona_Manekin",
+        "Bip001",
+        "Bip001 Pelvis",
+        "Bip001 Spine",
+        "Bip001 Spine1",
+        "Bip001 Spine2",
+        "Bip001 L Clavicle"
+      ]
+    },
+    "8296939532950562586": {
+      "game_object": {
+        "file_id": 0,
+        "path_id": "-2351303728037144188"
+      },
+      "local_rotation_xyzw": [
+        0.0016010557301342487,
+        0.00020153634250164032,
+        0.12489104270935059,
+        0.9921691417694092
+      ],
+      "local_position": [
+        -0.31612592935562134,
+        -2.0489096641540527e-08,
+        -8.381903171539307e-09
+      ],
+      "local_scale": [
+        1.0000001192092896,
+        1.0000001192092896,
+        1.0000001192092896
+      ],
+      "children": [
+        {
+          "file_id": 0,
+          "path_id": "-3010744284457534621"
+        },
+        {
+          "file_id": 0,
+          "path_id": "-4699847956896506290"
+        },
+        {
+          "file_id": 0,
+          "path_id": "-4229973323945711100"
+        }
+      ],
+      "parent": {
+        "file_id": 0,
+        "path_id": "4644902817743461152"
+      },
+      "name": "Bip001 R Calf",
+      "path_components": [
+        "Avatar_Loli_Bow_Diona_Manekin",
+        "Bip001",
+        "Bip001 Pelvis",
+        "Bip001 R Thigh",
+        "Bip001 R Calf"
+      ]
+    },
+    "8312372764691627131": {
+      "game_object": {
+        "file_id": 0,
+        "path_id": "4799893124975082989"
+      },
+      "local_rotation_xyzw": [
+        4.34501635027118e-06,
+        -9.10777444573796e-08,
+        -0.020968489348888397,
+        0.9997801184654236
+      ],
+      "local_position": [
+        -0.1328103244304657,
+        0.0,
+        0.0
+      ],
+      "local_scale": [
+        0.9999999403953552,
+        1.0,
+        1.0
+      ],
+      "children": [],
+      "parent": {
+        "file_id": 0,
+        "path_id": "536370534677609316"
+      },
+      "name": "+TailB R A06",
+      "path_components": [
+        "Avatar_Loli_Bow_Diona_Manekin",
+        "Bip001",
+        "Bip001 Pelvis",
+        "+TailB R A01",
+        "+TailB R A02",
+        "+TailB R A03",
+        "+TailB R A04",
+        "+TailB R A05",
+        "+TailB R A06"
+      ]
+    },
+    "8457876542454122879": {
+      "game_object": {
+        "file_id": 0,
+        "path_id": "1920076519024448978"
+      },
+      "local_rotation_xyzw": [
+        -0.0004500556387938559,
+        -0.0007735326653346419,
+        0.011244186200201511,
+        0.9999364018440247
+      ],
+      "local_position": [
+        -0.11529681831598282,
+        -7.629394360719743e-08,
+        -7.152556946721234e-08
+      ],
+      "local_scale": [
+        1.0000001192092896,
+        1.0000001192092896,
+        1.000000238418579
+      ],
+      "children": [
+        {
+          "file_id": 0,
+          "path_id": "8767687083294328703"
+        }
+      ],
+      "parent": {
+        "file_id": 0,
+        "path_id": "4102656245207207169"
+      },
+      "name": "+HemB L D02",
+      "path_components": [
+        "Avatar_Loli_Bow_Diona_Manekin",
+        "Bip001",
+        "Bip001 Pelvis",
+        "Bip001 Spine",
+        "+HemB L D01",
+        "+HemB L D02"
+      ]
+    },
+    "8596077188853576050": {
+      "game_object": {
+        "file_id": 0,
+        "path_id": "-7039045451385430241"
+      },
+      "local_rotation_xyzw": [
+        0.01187059748917818,
+        0.05259346216917038,
+        -0.037987370043992996,
+        -0.997822642326355
+      ],
+      "local_position": [
+        -0.047577325254678726,
+        8.262636401923373e-05,
+        0.01859327219426632
+      ],
+      "local_scale": [
+        1.0,
+        1.0,
+        1.0
+      ],
+      "children": [
+        {
+          "file_id": 0,
+          "path_id": "9159973138373457094"
+        }
+      ],
+      "parent": {
+        "file_id": 0,
+        "path_id": "9210081420108368469"
+      },
+      "name": "Bip001 R Finger1",
+      "path_components": [
+        "Avatar_Loli_Bow_Diona_Manekin",
+        "Bip001",
+        "Bip001 Pelvis",
+        "Bip001 Spine",
+        "Bip001 Spine1",
+        "Bip001 Spine2",
+        "Bip001 R Clavicle",
+        "Bip001 R UpperArm",
+        "Bip001 R Forearm",
+        "Bip001 R Hand",
+        "Bip001 R Finger1"
+      ]
+    },
+    "8628753532357539473": {
+      "game_object": {
+        "file_id": 0,
+        "path_id": "-5103371334781032509"
+      },
+      "local_rotation_xyzw": [
+        -0.016500262543559074,
+        -0.03626958280801773,
+        -0.23543483018875122,
+        0.9710729718208313
+      ],
+      "local_position": [
+        -0.04742729291319847,
+        -0.002053741365671158,
+        0.010271926410496235
+      ],
+      "local_scale": [
+        1.000000238418579,
+        1.0000001192092896,
+        1.0
+      ],
+      "children": [
+        {
+          "file_id": 0,
+          "path_id": "-6010085532361108148"
+        }
+      ],
+      "parent": {
+        "file_id": 0,
+        "path_id": "5006883868887496200"
+      },
+      "name": "Bip001 L Finger3",
+      "path_components": [
+        "Avatar_Loli_Bow_Diona_Manekin",
+        "Bip001",
+        "Bip001 Pelvis",
+        "Bip001 Spine",
+        "Bip001 Spine1",
+        "Bip001 Spine2",
+        "Bip001 L Clavicle",
+        "Bip001 L UpperArm",
+        "Bip001 L Forearm",
+        "Bip001 L Hand",
+        "Bip001 L Finger3"
+      ]
+    },
+    "8767687083294328703": {
+      "game_object": {
+        "file_id": 0,
+        "path_id": "-2899607583838903981"
+      },
+      "local_rotation_xyzw": [
+        0.0001806669170036912,
+        0.002217895118519664,
+        0.011758744716644287,
+        0.9999284148216248
+      ],
+      "local_position": [
+        -0.09519390016794205,
+        -2.670288097306184e-07,
+        3.576278473360617e-08
+      ],
+      "local_scale": [
+        0.9999997019767761,
+        0.9999998211860657,
+        0.9999999403953552
+      ],
+      "children": [],
+      "parent": {
+        "file_id": 0,
+        "path_id": "8457876542454122879"
+      },
+      "name": "+HemB L D03",
+      "path_components": [
+        "Avatar_Loli_Bow_Diona_Manekin",
+        "Bip001",
+        "Bip001 Pelvis",
+        "Bip001 Spine",
+        "+HemB L D01",
+        "+HemB L D02",
+        "+HemB L D03"
+      ]
+    },
+    "8838702294923431396": {
+      "game_object": {
+        "file_id": 0,
+        "path_id": "6759785064024891008"
+      },
+      "local_rotation_xyzw": [
+        5.820764954478364e-07,
+        0.0018330053426325321,
+        0.03360878676176071,
+        0.9994334578514099
+      ],
+      "local_position": [
+        -0.011898128315806389,
+        1.5723020663216403e-09,
+        1.8906161969312052e-08
+      ],
+      "local_scale": [
+        1.0000001192092896,
+        1.0,
+        1.0000001192092896
+      ],
+      "children": [
+        {
+          "file_id": 0,
+          "path_id": "-1408334475655646579"
+        }
+      ],
+      "parent": {
+        "file_id": 0,
+        "path_id": "7783308790805200043"
+      },
+      "name": "Bip001 L Finger42",
+      "path_components": [
+        "Avatar_Loli_Bow_Diona_Manekin",
+        "Bip001",
+        "Bip001 Pelvis",
+        "Bip001 Spine",
+        "Bip001 Spine1",
+        "Bip001 Spine2",
+        "Bip001 L Clavicle",
+        "Bip001 L UpperArm",
+        "Bip001 L Forearm",
+        "Bip001 L Hand",
+        "Bip001 L Finger4",
+        "Bip001 L Finger41",
+        "Bip001 L Finger42"
+      ]
+    },
+    "8913942497342406420": {
+      "game_object": {
+        "file_id": 0,
+        "path_id": "-7275217675599025666"
+      },
+      "local_rotation_xyzw": [
+        0.0,
+        0.0,
+        0.0,
+        1.0
+      ],
+      "local_position": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "local_scale": [
+        1.0,
+        1.0,
+        1.0
+      ],
+      "children": [],
+      "parent": {
+        "file_id": 0,
+        "path_id": "5650432615105234879"
+      },
+      "name": "HitObject1",
+      "path_components": [
+        "Avatar_Loli_Bow_Diona_Manekin",
+        "Bip001",
+        "Bip001 Pelvis",
+        "Bip001 Spine",
+        "Bip001 Spine1",
+        "Bip001 Spine2",
+        "Bip001 L Clavicle",
+        "Bip001 L UpperArm",
+        "Bip001 L Forearm",
+        "HitObject1"
+      ]
+    },
+    "9133232797650952578": {
+      "game_object": {
+        "file_id": 0,
+        "path_id": "8857964183980534088"
+      },
+      "local_rotation_xyzw": [
+        0.0,
+        -0.0,
+        -0.0,
+        1.0
+      ],
+      "local_position": [
+        -0.0,
+        0.0,
+        0.0
+      ],
+      "local_scale": [
+        1.0,
+        1.0,
+        1.0
+      ],
+      "children": [],
+      "parent": {
+        "file_id": 0,
+        "path_id": "-2587799096557589704"
+      },
+      "name": "Body",
+      "path_components": [
+        "Avatar_Loli_Bow_Diona_Manekin",
+        "Body"
+      ]
+    },
+    "9159973138373457094": {
+      "game_object": {
+        "file_id": 0,
+        "path_id": "-7250025574341746625"
+      },
+      "local_rotation_xyzw": [
+        3.818422200652094e-08,
+        0.004575822036713362,
+        -0.08389036357402802,
+        -0.9964644908905029
+      ],
+      "local_position": [
+        -0.019341450184583664,
+        5.849541651059553e-08,
+        2.4842965462568145e-09
+      ],
+      "local_scale": [
+        1.0000001192092896,
+        1.0000001192092896,
+        1.0
+      ],
+      "children": [
+        {
+          "file_id": 0,
+          "path_id": "-3511915265812369591"
+        }
+      ],
+      "parent": {
+        "file_id": 0,
+        "path_id": "8596077188853576050"
+      },
+      "name": "Bip001 R Finger11",
+      "path_components": [
+        "Avatar_Loli_Bow_Diona_Manekin",
+        "Bip001",
+        "Bip001 Pelvis",
+        "Bip001 Spine",
+        "Bip001 Spine1",
+        "Bip001 Spine2",
+        "Bip001 R Clavicle",
+        "Bip001 R UpperArm",
+        "Bip001 R Forearm",
+        "Bip001 R Hand",
+        "Bip001 R Finger1",
+        "Bip001 R Finger11"
+      ]
+    },
+    "9210081420108368469": {
+      "game_object": {
+        "file_id": 0,
+        "path_id": "8499299952509888965"
+      },
+      "local_rotation_xyzw": [
+        0.6554831862449646,
+        -0.18350553512573242,
+        0.11489759385585785,
+        0.7235096096992493
+      ],
+      "local_position": [
+        -0.13510951399803162,
+        -7.682480827497784e-06,
+        0.0001409449614584446
+      ],
+      "local_scale": [
+        1.0,
+        1.0,
+        0.9999999403953552
+      ],
+      "children": [
+        {
+          "file_id": 0,
+          "path_id": "-4952346033083794131"
+        },
+        {
+          "file_id": 0,
+          "path_id": "8596077188853576050"
+        },
+        {
+          "file_id": 0,
+          "path_id": "6781204340118202633"
+        },
+        {
+          "file_id": 0,
+          "path_id": "2840898610620076087"
+        },
+        {
+          "file_id": 0,
+          "path_id": "1826229795404783110"
+        },
+        {
+          "file_id": 0,
+          "path_id": "4341326043014452966"
+        },
+        {
+          "file_id": 0,
+          "path_id": "-4071745076859500041"
+        }
+      ],
+      "parent": {
+        "file_id": 0,
+        "path_id": "3347075931259207864"
+      },
+      "name": "Bip001 R Hand",
+      "path_components": [
+        "Avatar_Loli_Bow_Diona_Manekin",
+        "Bip001",
+        "Bip001 Pelvis",
+        "Bip001 Spine",
+        "Bip001 Spine1",
+        "Bip001 Spine2",
+        "Bip001 R Clavicle",
+        "Bip001 R UpperArm",
+        "Bip001 R Forearm",
+        "Bip001 R Hand"
+      ]
+    }
+  },
+  "renderers": [
+    {
+      "game_object": {
+        "file_id": 0,
+        "path_id": "-5201375549284523100"
+      },
+      "header_flags_hex": "010100010001000100000000000001000000000100000000",
+      "lightmap_scale_offset": [
+        1.0,
+        1.0,
+        0.0,
+        0.0
+      ],
+      "dynamic_lightmap_scale_offset": [
+        1.0,
+        1.0,
+        0.0,
+        0.0
+      ],
+      "view_distance_ratio": 16.0,
+      "shader_lod_distance_ratio": 1.0,
+      "materials": [
+        {
+          "file_id": 1,
+          "path_id": "-6900432225906267129"
+        }
+      ],
+      "static_batch": [
+        0,
+        0
+      ],
+      "static_batch_root": {
+        "file_id": 0,
+        "path_id": "0"
+      },
+      "material_layers": 1,
+      "probe_anchor": {
+        "file_id": 0,
+        "path_id": "0"
+      },
+      "probe_volume": {
+        "file_id": 0,
+        "path_id": "0"
+      },
+      "sorting": [
+        0,
+        0,
+        0
+      ],
+      "use_highest_mip": 0,
+      "quality": 0,
+      "update_when_offscreen": 0,
+      "skin_normals": 1,
+      "mesh": {
+        "file_id": 2,
+        "path_id": "6699678882624712111"
+      },
+      "bones": [
+        {
+          "file_id": 0,
+          "path_id": "-1248103346604770283"
+        }
+      ],
+      "blend_shape_weights": [],
+      "root_bone": {
+        "file_id": 0,
+        "path_id": "-1248103346604770283"
+      },
+      "aabb": [
+        -0.08417591452598572,
+        0.06220617890357971,
+        -6.92903995513916e-07,
+        0.058647479861974716,
+        0.03783540427684784,
+        0.09044478088617325
+      ],
+      "dirty_aabb": 0,
+      "uninterpreted_trailer_hex": "000000000000000000000000000000000000803f00000000",
+      "id": "-8767701439932017642",
+      "name": "Face_Eye",
+      "type_hash": "d74087651cccc56b59dcdac73be06d71",
+      "raw_sha256": "bb80a4b6f7b75c9f474e137aa31d3a1f5a8fe84caa172dda6610570fd51c251f",
+      "mesh_ref": "cab-c5fbb7fbf69a28c4373dbecff7f11f80:6699678882624712111",
+      "material_refs": [
+        "cab-120749653383a36b7c255b2125de1417:-6900432225906267129"
+      ],
+      "bone_names": [
+        "Bip001 Head"
+      ],
+      "bone_paths": [
+        [
+          "Avatar_Loli_Bow_Diona_Manekin",
+          "Bip001",
+          "Bip001 Pelvis",
+          "Bip001 Spine",
+          "Bip001 Spine1",
+          "Bip001 Spine2",
+          "Bip001 Neck",
+          "Bip001 Head"
+        ]
+      ]
+    },
+    {
+      "game_object": {
+        "file_id": 0,
+        "path_id": "-1675431885518418689"
+      },
+      "header_flags_hex": "010100010001000100000000000001000000000100000000",
+      "lightmap_scale_offset": [
+        1.0,
+        1.0,
+        0.0,
+        0.0
+      ],
+      "dynamic_lightmap_scale_offset": [
+        1.0,
+        1.0,
+        0.0,
+        0.0
+      ],
+      "view_distance_ratio": 1.0,
+      "shader_lod_distance_ratio": 1.0,
+      "materials": [
+        {
+          "file_id": 1,
+          "path_id": "-6900432225906267129"
+        }
+      ],
+      "static_batch": [
+        0,
+        0
+      ],
+      "static_batch_root": {
+        "file_id": 0,
+        "path_id": "0"
+      },
+      "material_layers": 1,
+      "probe_anchor": {
+        "file_id": 0,
+        "path_id": "0"
+      },
+      "probe_volume": {
+        "file_id": 0,
+        "path_id": "0"
+      },
+      "sorting": [
+        0,
+        0,
+        0
+      ],
+      "use_highest_mip": 0,
+      "quality": 0,
+      "update_when_offscreen": 0,
+      "skin_normals": 1,
+      "mesh": {
+        "file_id": 2,
+        "path_id": "-5738323847960109034"
+      },
+      "bones": [
+        {
+          "file_id": 0,
+          "path_id": "-542094390626310863"
+        },
+        {
+          "file_id": 0,
+          "path_id": "7015414681080942010"
+        }
+      ],
+      "blend_shape_weights": [],
+      "root_bone": {
+        "file_id": 0,
+        "path_id": "7015414681080942010"
+      },
+      "aabb": [
+        -0.0034338999539613724,
+        0.01705891266465187,
+        0.04476882517337799,
+        0.017326468601822853,
+        0.04329179599881172,
+        0.05755544453859329
+      ],
+      "dirty_aabb": 0,
+      "uninterpreted_trailer_hex": "000000000000000000000000000000000000803f00000000",
+      "id": "-3061394803909820291",
+      "name": "EyeStar",
+      "type_hash": "d74087651cccc56b59dcdac73be06d71",
+      "raw_sha256": "55d9f3425e3829472d8c2ae3fab774f9a364c044c14a1d310ad8751180a6c785",
+      "mesh_ref": "cab-c5fbb7fbf69a28c4373dbecff7f11f80:-5738323847960109034",
+      "material_refs": [
+        "cab-120749653383a36b7c255b2125de1417:-6900432225906267129"
+      ],
+      "bone_names": [
+        "+EyeBone R A02",
+        "+EyeBone L A02"
+      ],
+      "bone_paths": [
+        [
+          "Avatar_Loli_Bow_Diona_Manekin",
+          "Bip001",
+          "Bip001 Pelvis",
+          "Bip001 Spine",
+          "Bip001 Spine1",
+          "Bip001 Spine2",
+          "Bip001 Neck",
+          "Bip001 Head",
+          "+EyeBone R A01",
+          "+EyeBone R A02"
+        ],
+        [
+          "Avatar_Loli_Bow_Diona_Manekin",
+          "Bip001",
+          "Bip001 Pelvis",
+          "Bip001 Spine",
+          "Bip001 Spine1",
+          "Bip001 Spine2",
+          "Bip001 Neck",
+          "Bip001 Head",
+          "+EyeBone L A01",
+          "+EyeBone L A02"
+        ]
+      ]
+    },
+    {
+      "game_object": {
+        "file_id": 0,
+        "path_id": "5065044806429726875"
+      },
+      "header_flags_hex": "010100010001000100000000000001000000000100000000",
+      "lightmap_scale_offset": [
+        1.0,
+        1.0,
+        0.0,
+        0.0
+      ],
+      "dynamic_lightmap_scale_offset": [
+        1.0,
+        1.0,
+        0.0,
+        0.0
+      ],
+      "view_distance_ratio": 16.0,
+      "shader_lod_distance_ratio": 1.0,
+      "materials": [
+        {
+          "file_id": 1,
+          "path_id": "-6900432225906267129"
+        }
+      ],
+      "static_batch": [
+        0,
+        0
+      ],
+      "static_batch_root": {
+        "file_id": 0,
+        "path_id": "0"
+      },
+      "material_layers": 1,
+      "probe_anchor": {
+        "file_id": 0,
+        "path_id": "0"
+      },
+      "probe_volume": {
+        "file_id": 0,
+        "path_id": "0"
+      },
+      "sorting": [
+        0,
+        0,
+        0
+      ],
+      "use_highest_mip": 0,
+      "quality": 0,
+      "update_when_offscreen": 0,
+      "skin_normals": 1,
+      "mesh": {
+        "file_id": 2,
+        "path_id": "2366806949429020750"
+      },
+      "bones": [
+        {
+          "file_id": 0,
+          "path_id": "-1248103346604770283"
+        }
+      ],
+      "blend_shape_weights": [],
+      "root_bone": {
+        "file_id": 0,
+        "path_id": "-1248103346604770283"
+      },
+      "aabb": [
+        -0.12124626338481903,
+        0.08035694062709808,
+        -6.51925802230835e-07,
+        0.022401344031095505,
+        0.01025349646806717,
+        0.061561841517686844
+      ],
+      "dirty_aabb": 0,
+      "uninterpreted_trailer_hex": "000000000000000000000000000000000000803f00000000",
+      "id": "-2186199128933035402",
+      "name": "Brow",
+      "type_hash": "d74087651cccc56b59dcdac73be06d71",
+      "raw_sha256": "f0e67320d61ea7c14a833f228ba8b7ca87b59902ab8bfbad64bbc66720e45cb4",
+      "mesh_ref": "cab-c5fbb7fbf69a28c4373dbecff7f11f80:2366806949429020750",
+      "material_refs": [
+        "cab-120749653383a36b7c255b2125de1417:-6900432225906267129"
+      ],
+      "bone_names": [
+        "Bip001 Head"
+      ],
+      "bone_paths": [
+        [
+          "Avatar_Loli_Bow_Diona_Manekin",
+          "Bip001",
+          "Bip001 Pelvis",
+          "Bip001 Spine",
+          "Bip001 Spine1",
+          "Bip001 Spine2",
+          "Bip001 Neck",
+          "Bip001 Head"
+        ]
+      ]
+    },
+    {
+      "game_object": {
+        "file_id": 0,
+        "path_id": "-5918340497996569112"
+      },
+      "header_flags_hex": "010100010001000100000000000001000000000100000000",
+      "lightmap_scale_offset": [
+        1.0,
+        1.0,
+        0.0,
+        0.0
+      ],
+      "dynamic_lightmap_scale_offset": [
+        1.0,
+        1.0,
+        0.0,
+        0.0
+      ],
+      "view_distance_ratio": 16.0,
+      "shader_lod_distance_ratio": 1.0,
+      "materials": [
+        {
+          "file_id": 1,
+          "path_id": "-6900432225906267129"
+        }
+      ],
+      "static_batch": [
+        0,
+        0
+      ],
+      "static_batch_root": {
+        "file_id": 0,
+        "path_id": "0"
+      },
+      "material_layers": 1,
+      "probe_anchor": {
+        "file_id": 0,
+        "path_id": "0"
+      },
+      "probe_volume": {
+        "file_id": 0,
+        "path_id": "0"
+      },
+      "sorting": [
+        0,
+        0,
+        0
+      ],
+      "use_highest_mip": 0,
+      "quality": 0,
+      "update_when_offscreen": 0,
+      "skin_normals": 1,
+      "mesh": {
+        "file_id": 2,
+        "path_id": "-8306798059857514115"
+      },
+      "bones": [
+        {
+          "file_id": 0,
+          "path_id": "-6551101914056921158"
+        },
+        {
+          "file_id": 0,
+          "path_id": "2689058443427496335"
+        },
+        {
+          "file_id": 0,
+          "path_id": "-1248103346604770283"
+        }
+      ],
+      "blend_shape_weights": [],
+      "root_bone": {
+        "file_id": 0,
+        "path_id": "-1248103346604770283"
+      },
+      "aabb": [
+        -0.10330674797296524,
+        0.03464578837156296,
+        -8.195638656616211e-07,
+        0.10943815857172012,
+        0.07432091981172562,
+        0.09826455265283585
+      ],
+      "dirty_aabb": 0,
+      "uninterpreted_trailer_hex": "000000000000000000000000000000000000803f00000000",
+      "id": "-1414519359034762077",
+      "name": "Face",
+      "type_hash": "d74087651cccc56b59dcdac73be06d71",
+      "raw_sha256": "3a9afc69417f839729a891a7556a7b912efff747515ad652590e30f235cd9567",
+      "mesh_ref": "cab-c5fbb7fbf69a28c4373dbecff7f11f80:-8306798059857514115",
+      "material_refs": [
+        "cab-120749653383a36b7c255b2125de1417:-6900432225906267129"
+      ],
+      "bone_names": [
+        "+ToothBone U A01",
+        "+ToothBone D A01",
+        "Bip001 Head"
+      ],
+      "bone_paths": [
+        [
+          "Avatar_Loli_Bow_Diona_Manekin",
+          "Bip001",
+          "Bip001 Pelvis",
+          "Bip001 Spine",
+          "Bip001 Spine1",
+          "Bip001 Spine2",
+          "Bip001 Neck",
+          "Bip001 Head",
+          "+ToothBone U A01"
+        ],
+        [
+          "Avatar_Loli_Bow_Diona_Manekin",
+          "Bip001",
+          "Bip001 Pelvis",
+          "Bip001 Spine",
+          "Bip001 Spine1",
+          "Bip001 Spine2",
+          "Bip001 Neck",
+          "Bip001 Head",
+          "+ToothBone D A01"
+        ],
+        [
+          "Avatar_Loli_Bow_Diona_Manekin",
+          "Bip001",
+          "Bip001 Pelvis",
+          "Bip001 Spine",
+          "Bip001 Spine1",
+          "Bip001 Spine2",
+          "Bip001 Neck",
+          "Bip001 Head"
+        ]
+      ]
+    },
+    {
+      "game_object": {
+        "file_id": 0,
+        "path_id": "4992548168254314567"
+      },
+      "header_flags_hex": "010100010001000100000000000001000000000100000000",
+      "lightmap_scale_offset": [
+        1.0,
+        1.0,
+        0.0,
+        0.0
+      ],
+      "dynamic_lightmap_scale_offset": [
+        1.0,
+        1.0,
+        0.0,
+        0.0
+      ],
+      "view_distance_ratio": 1.0,
+      "shader_lod_distance_ratio": 1.0,
+      "materials": [
+        {
+          "file_id": 5,
+          "path_id": "2229495150828588393"
+        }
+      ],
+      "static_batch": [
+        0,
+        0
+      ],
+      "static_batch_root": {
+        "file_id": 0,
+        "path_id": "0"
+      },
+      "material_layers": 1,
+      "probe_anchor": {
+        "file_id": 0,
+        "path_id": "0"
+      },
+      "probe_volume": {
+        "file_id": 0,
+        "path_id": "0"
+      },
+      "sorting": [
+        0,
+        0,
+        0
+      ],
+      "use_highest_mip": 0,
+      "quality": 0,
+      "update_when_offscreen": 0,
+      "skin_normals": 1,
+      "mesh": {
+        "file_id": 2,
+        "path_id": "-448363101726227986"
+      },
+      "bones": [
+        {
+          "file_id": 0,
+          "path_id": "-98185806278883735"
+        },
+        {
+          "file_id": 0,
+          "path_id": "-3357917287159644780"
+        },
+        {
+          "file_id": 0,
+          "path_id": "-3713133896764299800"
+        },
+        {
+          "file_id": 0,
+          "path_id": "3655332741175608262"
+        },
+        {
+          "file_id": 0,
+          "path_id": "8240171887566819279"
+        },
+        {
+          "file_id": 0,
+          "path_id": "-3608802570422430275"
+        },
+        {
+          "file_id": 0,
+          "path_id": "-4650484791297860819"
+        },
+        {
+          "file_id": 0,
+          "path_id": "-2406474645713959016"
+        },
+        {
+          "file_id": 0,
+          "path_id": "7973311014068078390"
+        },
+        {
+          "file_id": 0,
+          "path_id": "6529045075444641999"
+        },
+        {
+          "file_id": 0,
+          "path_id": "5704948254649325847"
+        }
+      ],
+      "blend_shape_weights": [],
+      "root_bone": {
+        "file_id": 0,
+        "path_id": "-98185806278883735"
+      },
+      "aabb": [
+        -0.12393859773874283,
+        -0.03345208987593651,
+        -3.948807716369629e-07,
+        0.17157533764839172,
+        0.13726568222045898,
+        0.18939340114593506
+      ],
+      "dirty_aabb": 0,
+      "uninterpreted_trailer_hex": "000000000000000000000000000000000000803f00000000",
+      "id": "1842800247084892662",
+      "name": "EffectMesh",
+      "type_hash": "d74087651cccc56b59dcdac73be06d71",
+      "raw_sha256": "e777084e5fcd3cf833f309899ed91f1325de838cc32fd5c96cfb50103c675c7a",
+      "mesh_ref": "cab-c5fbb7fbf69a28c4373dbecff7f11f80:-448363101726227986",
+      "material_refs": [
+        "cab-aaa3de6fd3a7cb70814c4c21d76eee6a:2229495150828588393"
+      ],
+      "bone_names": [
+        "Bip001 Spine",
+        "Bip001 Spine1",
+        "Bip001 Spine2",
+        "Bip001 Neck",
+        "Bip001 L Clavicle",
+        "+UpperArmTwist L A01",
+        "+UpperArmTwist L A02",
+        "Bip001 R Clavicle",
+        "+UpperArmTwist R A01",
+        "+UpperArmTwist R A02",
+        "+PelvisTwist CF A01"
+      ],
+      "bone_paths": [
+        [
+          "Avatar_Loli_Bow_Diona_Manekin",
+          "Bip001",
+          "Bip001 Pelvis",
+          "Bip001 Spine"
+        ],
+        [
+          "Avatar_Loli_Bow_Diona_Manekin",
+          "Bip001",
+          "Bip001 Pelvis",
+          "Bip001 Spine",
+          "Bip001 Spine1"
+        ],
+        [
+          "Avatar_Loli_Bow_Diona_Manekin",
+          "Bip001",
+          "Bip001 Pelvis",
+          "Bip001 Spine",
+          "Bip001 Spine1",
+          "Bip001 Spine2"
+        ],
+        [
+          "Avatar_Loli_Bow_Diona_Manekin",
+          "Bip001",
+          "Bip001 Pelvis",
+          "Bip001 Spine",
+          "Bip001 Spine1",
+          "Bip001 Spine2",
+          "Bip001 Neck"
+        ],
+        [
+          "Avatar_Loli_Bow_Diona_Manekin",
+          "Bip001",
+          "Bip001 Pelvis",
+          "Bip001 Spine",
+          "Bip001 Spine1",
+          "Bip001 Spine2",
+          "Bip001 L Clavicle"
+        ],
+        [
+          "Avatar_Loli_Bow_Diona_Manekin",
+          "Bip001",
+          "Bip001 Pelvis",
+          "Bip001 Spine",
+          "Bip001 Spine1",
+          "Bip001 Spine2",
+          "Bip001 L Clavicle",
+          "Bip001 L UpperArm",
+          "+UpperArmTwist L A01"
+        ],
+        [
+          "Avatar_Loli_Bow_Diona_Manekin",
+          "Bip001",
+          "Bip001 Pelvis",
+          "Bip001 Spine",
+          "Bip001 Spine1",
+          "Bip001 Spine2",
+          "Bip001 L Clavicle",
+          "Bip001 L UpperArm",
+          "+UpperArmTwist L A02"
+        ],
+        [
+          "Avatar_Loli_Bow_Diona_Manekin",
+          "Bip001",
+          "Bip001 Pelvis",
+          "Bip001 Spine",
+          "Bip001 Spine1",
+          "Bip001 Spine2",
+          "Bip001 R Clavicle"
+        ],
+        [
+          "Avatar_Loli_Bow_Diona_Manekin",
+          "Bip001",
+          "Bip001 Pelvis",
+          "Bip001 Spine",
+          "Bip001 Spine1",
+          "Bip001 Spine2",
+          "Bip001 R Clavicle",
+          "Bip001 R UpperArm",
+          "+UpperArmTwist R A01"
+        ],
+        [
+          "Avatar_Loli_Bow_Diona_Manekin",
+          "Bip001",
+          "Bip001 Pelvis",
+          "Bip001 Spine",
+          "Bip001 Spine1",
+          "Bip001 Spine2",
+          "Bip001 R Clavicle",
+          "Bip001 R UpperArm",
+          "+UpperArmTwist R A02"
+        ],
+        [
+          "Avatar_Loli_Bow_Diona_Manekin",
+          "Bip001",
+          "+PelvisTwist CF A01"
+        ]
+      ]
+    },
+    {
+      "game_object": {
+        "file_id": 0,
+        "path_id": "8857964183980534088"
+      },
+      "header_flags_hex": "010100010001000100000000000001000000000100000000",
+      "lightmap_scale_offset": [
+        1.0,
+        1.0,
+        0.0,
+        0.0
+      ],
+      "dynamic_lightmap_scale_offset": [
+        1.0,
+        1.0,
+        0.0,
+        0.0
+      ],
+      "view_distance_ratio": 16.0,
+      "shader_lod_distance_ratio": 1.0,
+      "materials": [
+        {
+          "file_id": 7,
+          "path_id": "-562743206189045136"
+        },
+        {
+          "file_id": 6,
+          "path_id": "144975724159040051"
+        }
+      ],
+      "static_batch": [
+        0,
+        0
+      ],
+      "static_batch_root": {
+        "file_id": 0,
+        "path_id": "0"
+      },
+      "material_layers": 1,
+      "probe_anchor": {
+        "file_id": 0,
+        "path_id": "0"
+      },
+      "probe_volume": {
+        "file_id": 0,
+        "path_id": "0"
+      },
+      "sorting": [
+        0,
+        0,
+        0
+      ],
+      "use_highest_mip": 0,
+      "quality": 0,
+      "update_when_offscreen": 0,
+      "skin_normals": 1,
+      "mesh": {
+        "file_id": 2,
+        "path_id": "6417890370670775745"
+      },
+      "bones": [
+        {
+          "file_id": 0,
+          "path_id": "-98185806278883735"
+        },
+        {
+          "file_id": 0,
+          "path_id": "-3357917287159644780"
+        },
+        {
+          "file_id": 0,
+          "path_id": "-3713133896764299800"
+        },
+        {
+          "file_id": 0,
+          "path_id": "3655332741175608262"
+        },
+        {
+          "file_id": 0,
+          "path_id": "-1248103346604770283"
+        },
+        {
+          "file_id": 0,
+          "path_id": "7015414681080942010"
+        },
+        {
+          "file_id": 0,
+          "path_id": "-542094390626310863"
+        },
+        {
+          "file_id": 0,
+          "path_id": "-3238939355641963391"
+        },
+        {
+          "file_id": 0,
+          "path_id": "6768244595840210674"
+        },
+        {
+          "file_id": 0,
+          "path_id": "4994370028921806929"
+        },
+        {
+          "file_id": 0,
+          "path_id": "-3025247685377858252"
+        },
+        {
+          "file_id": 0,
+          "path_id": "8240171887566819279"
+        },
+        {
+          "file_id": 0,
+          "path_id": "5650432615105234879"
+        },
+        {
+          "file_id": 0,
+          "path_id": "5006883868887496200"
+        },
+        {
+          "file_id": 0,
+          "path_id": "-5751574610226983809"
+        },
+        {
+          "file_id": 0,
+          "path_id": "-587017172694474705"
+        },
+        {
+          "file_id": 0,
+          "path_id": "-4106005163019182323"
+        },
+        {
+          "file_id": 0,
+          "path_id": "7853723497254172636"
+        },
+        {
+          "file_id": 0,
+          "path_id": "-6403089197127004515"
+        },
+        {
+          "file_id": 0,
+          "path_id": "-4719140423123628430"
+        },
+        {
+          "file_id": 0,
+          "path_id": "-6741548424902392850"
+        },
+        {
+          "file_id": 0,
+          "path_id": "7777550333203077660"
+        },
+        {
+          "file_id": 0,
+          "path_id": "1939206055466509553"
+        },
+        {
+          "file_id": 0,
+          "path_id": "8628753532357539473"
+        },
+        {
+          "file_id": 0,
+          "path_id": "-6010085532361108148"
+        },
+        {
+          "file_id": 0,
+          "path_id": "2711923118617261681"
+        },
+        {
+          "file_id": 0,
+          "path_id": "846448447609180181"
+        },
+        {
+          "file_id": 0,
+          "path_id": "7783308790805200043"
+        },
+        {
+          "file_id": 0,
+          "path_id": "8838702294923431396"
+        },
+        {
+          "file_id": 0,
+          "path_id": "-3608802570422430275"
+        },
+        {
+          "file_id": 0,
+          "path_id": "-4650484791297860819"
+        },
+        {
+          "file_id": 0,
+          "path_id": "-2406474645713959016"
+        },
+        {
+          "file_id": 0,
+          "path_id": "3347075931259207864"
+        },
+        {
+          "file_id": 0,
+          "path_id": "9210081420108368469"
+        },
+        {
+          "file_id": 0,
+          "path_id": "-4952346033083794131"
+        },
+        {
+          "file_id": 0,
+          "path_id": "-3784885268946692316"
+        },
+        {
+          "file_id": 0,
+          "path_id": "5100916209824232350"
+        },
+        {
+          "file_id": 0,
+          "path_id": "8596077188853576050"
+        },
+        {
+          "file_id": 0,
+          "path_id": "9159973138373457094"
+        },
+        {
+          "file_id": 0,
+          "path_id": "-3511915265812369591"
+        },
+        {
+          "file_id": 0,
+          "path_id": "6781204340118202633"
+        },
+        {
+          "file_id": 0,
+          "path_id": "-4997516824148462672"
+        },
+        {
+          "file_id": 0,
+          "path_id": "-6857721741744596037"
+        },
+        {
+          "file_id": 0,
+          "path_id": "2840898610620076087"
+        },
+        {
+          "file_id": 0,
+          "path_id": "-4257347499704391860"
+        },
+        {
+          "file_id": 0,
+          "path_id": "4434512230116569316"
+        },
+        {
+          "file_id": 0,
+          "path_id": "1826229795404783110"
+        },
+        {
+          "file_id": 0,
+          "path_id": "4824949370905300472"
+        },
+        {
+          "file_id": 0,
+          "path_id": "7288783990460632134"
+        },
+        {
+          "file_id": 0,
+          "path_id": "7973311014068078390"
+        },
+        {
+          "file_id": 0,
+          "path_id": "6529045075444641999"
+        },
+        {
+          "file_id": 0,
+          "path_id": "2082489126419441838"
+        },
+        {
+          "file_id": 0,
+          "path_id": "-3972388706754550629"
+        },
+        {
+          "file_id": 0,
+          "path_id": "1679032812567372126"
+        },
+        {
+          "file_id": 0,
+          "path_id": "3989390240515923967"
+        },
+        {
+          "file_id": 0,
+          "path_id": "2203028397077315383"
+        },
+        {
+          "file_id": 0,
+          "path_id": "-1043230715631366874"
+        },
+        {
+          "file_id": 0,
+          "path_id": "-6059976417347462210"
+        },
+        {
+          "file_id": 0,
+          "path_id": "-775021537104516576"
+        },
+        {
+          "file_id": 0,
+          "path_id": "4102656245207207169"
+        },
+        {
+          "file_id": 0,
+          "path_id": "8457876542454122879"
+        },
+        {
+          "file_id": 0,
+          "path_id": "8767687083294328703"
+        },
+        {
+          "file_id": 0,
+          "path_id": "3499756585190894068"
+        },
+        {
+          "file_id": 0,
+          "path_id": "-1188107126599654952"
+        },
+        {
+          "file_id": 0,
+          "path_id": "6462395403347462064"
+        },
+        {
+          "file_id": 0,
+          "path_id": "7858273465454465120"
+        },
+        {
+          "file_id": 0,
+          "path_id": "4821596628922690088"
+        },
+        {
+          "file_id": 0,
+          "path_id": "6154431864364198318"
+        },
+        {
+          "file_id": 0,
+          "path_id": "-1497585169263376454"
+        },
+        {
+          "file_id": 0,
+          "path_id": "4805993811640518278"
+        },
+        {
+          "file_id": 0,
+          "path_id": "4644902817743461152"
+        },
+        {
+          "file_id": 0,
+          "path_id": "8296939532950562586"
+        },
+        {
+          "file_id": 0,
+          "path_id": "-3010744284457534621"
+        },
+        {
+          "file_id": 0,
+          "path_id": "-6153272416869208033"
+        },
+        {
+          "file_id": 0,
+          "path_id": "6320210958596229667"
+        },
+        {
+          "file_id": 0,
+          "path_id": "-1364262865681728073"
+        },
+        {
+          "file_id": 0,
+          "path_id": "-2025261841658572078"
+        },
+        {
+          "file_id": 0,
+          "path_id": "-6937509252973976373"
+        },
+        {
+          "file_id": 0,
+          "path_id": "-1775373755527447072"
+        },
+        {
+          "file_id": 0,
+          "path_id": "56554057924862028"
+        },
+        {
+          "file_id": 0,
+          "path_id": "5704948254649325847"
+        }
+      ],
+      "blend_shape_weights": [],
+      "root_bone": {
+        "file_id": 0,
+        "path_id": "-98185806278883735"
+      },
+      "aabb": [
+        0.03137806057929993,
+        -0.22791457176208496,
+        -7.450580596923828e-08,
+        0.689984917640686,
+        0.3573616147041321,
+        0.3163732886314392
+      ],
+      "dirty_aabb": 0,
+      "uninterpreted_trailer_hex": "000000000000000000000000000000000000803f00000000",
+      "id": "8994095792560064476",
+      "name": "Body",
+      "type_hash": "d74087651cccc56b59dcdac73be06d71",
+      "raw_sha256": "bd6d24d04c3a0a7c1efd1767bf5f58ea624ae6fc632d9087a8af7df605b9288e",
+      "mesh_ref": "cab-c5fbb7fbf69a28c4373dbecff7f11f80:6417890370670775745",
+      "material_refs": [
+        "cab-efca2ef8cec2a7c4bd311b35b895e1b3:-562743206189045136",
+        "cab-d6b2340facb7e0bee562527275ed15a6:144975724159040051"
+      ],
+      "bone_names": [
+        "Bip001 Spine",
+        "Bip001 Spine1",
+        "Bip001 Spine2",
+        "Bip001 Neck",
+        "Bip001 Head",
+        "+EyeBone L A02",
+        "+EyeBone R A02",
+        "+HairS L E01",
+        "+HairS R E01",
+        "+EarS L A01",
+        "+EarS R A01",
+        "Bip001 L Clavicle",
+        "Bip001 L Forearm",
+        "Bip001 L Hand",
+        "Bip001 L Finger0",
+        "Bip001 L Finger01",
+        "Bip001 L Finger02",
+        "Bip001 L Finger1",
+        "Bip001 L Finger11",
+        "Bip001 L Finger12",
+        "Bip001 L Finger2",
+        "Bip001 L Finger21",
+        "Bip001 L Finger22",
+        "Bip001 L Finger3",
+        "Bip001 L Finger31",
+        "Bip001 L Finger32",
+        "Bip001 L Finger4",
+        "Bip001 L Finger41",
+        "Bip001 L Finger42",
+        "+UpperArmTwist L A01",
+        "+UpperArmTwist L A02",
+        "Bip001 R Clavicle",
+        "Bip001 R Forearm",
+        "Bip001 R Hand",
+        "Bip001 R Finger0",
+        "Bip001 R Finger01",
+        "Bip001 R Finger02",
+        "Bip001 R Finger1",
+        "Bip001 R Finger11",
+        "Bip001 R Finger12",
+        "Bip001 R Finger2",
+        "Bip001 R Finger21",
+        "Bip001 R Finger22",
+        "Bip001 R Finger3",
+        "Bip001 R Finger31",
+        "Bip001 R Finger32",
+        "Bip001 R Finger4",
+        "Bip001 R Finger41",
+        "Bip001 R Finger42",
+        "+UpperArmTwist R A01",
+        "+UpperArmTwist R A02",
+        "+BowknotB L C01",
+        "+VisionPelvisB L A01",
+        "+HemB R D01",
+        "+HemB R D02",
+        "+HemB R D03",
+        "+HemB R G01",
+        "+HemB R G02",
+        "+HemB R G03",
+        "+HemB L D01",
+        "+HemB L D02",
+        "+HemB L D03",
+        "+HemB L G01",
+        "+HemB L G02",
+        "+HemB L G03",
+        "+WaistBagS L B01",
+        "Bip001 L Thigh",
+        "Bip001 L Calf",
+        "Bip001 L Foot",
+        "Bip001 L Toe0",
+        "Bip001 R Thigh",
+        "Bip001 R Calf",
+        "Bip001 R Foot",
+        "Bip001 R Toe0",
+        "+TailB L A01",
+        "+TailB L A02",
+        "+TailB L A03",
+        "+TailB L A04",
+        "+TailB L A05",
+        "+TailB L A06",
+        "+PelvisTwist CF A01"
+      ],
+      "bone_paths": [
+        [
+          "Avatar_Loli_Bow_Diona_Manekin",
+          "Bip001",
+          "Bip001 Pelvis",
+          "Bip001 Spine"
+        ],
+        [
+          "Avatar_Loli_Bow_Diona_Manekin",
+          "Bip001",
+          "Bip001 Pelvis",
+          "Bip001 Spine",
+          "Bip001 Spine1"
+        ],
+        [
+          "Avatar_Loli_Bow_Diona_Manekin",
+          "Bip001",
+          "Bip001 Pelvis",
+          "Bip001 Spine",
+          "Bip001 Spine1",
+          "Bip001 Spine2"
+        ],
+        [
+          "Avatar_Loli_Bow_Diona_Manekin",
+          "Bip001",
+          "Bip001 Pelvis",
+          "Bip001 Spine",
+          "Bip001 Spine1",
+          "Bip001 Spine2",
+          "Bip001 Neck"
+        ],
+        [
+          "Avatar_Loli_Bow_Diona_Manekin",
+          "Bip001",
+          "Bip001 Pelvis",
+          "Bip001 Spine",
+          "Bip001 Spine1",
+          "Bip001 Spine2",
+          "Bip001 Neck",
+          "Bip001 Head"
+        ],
+        [
+          "Avatar_Loli_Bow_Diona_Manekin",
+          "Bip001",
+          "Bip001 Pelvis",
+          "Bip001 Spine",
+          "Bip001 Spine1",
+          "Bip001 Spine2",
+          "Bip001 Neck",
+          "Bip001 Head",
+          "+EyeBone L A01",
+          "+EyeBone L A02"
+        ],
+        [
+          "Avatar_Loli_Bow_Diona_Manekin",
+          "Bip001",
+          "Bip001 Pelvis",
+          "Bip001 Spine",
+          "Bip001 Spine1",
+          "Bip001 Spine2",
+          "Bip001 Neck",
+          "Bip001 Head",
+          "+EyeBone R A01",
+          "+EyeBone R A02"
+        ],
+        [
+          "Avatar_Loli_Bow_Diona_Manekin",
+          "Bip001",
+          "Bip001 Pelvis",
+          "Bip001 Spine",
+          "Bip001 Spine1",
+          "Bip001 Spine2",
+          "Bip001 Neck",
+          "Bip001 Head",
+          "+HairS L E01"
+        ],
+        [
+          "Avatar_Loli_Bow_Diona_Manekin",
+          "Bip001",
+          "Bip001 Pelvis",
+          "Bip001 Spine",
+          "Bip001 Spine1",
+          "Bip001 Spine2",
+          "Bip001 Neck",
+          "Bip001 Head",
+          "+HairS R E01"
+        ],
+        [
+          "Avatar_Loli_Bow_Diona_Manekin",
+          "Bip001",
+          "Bip001 Pelvis",
+          "Bip001 Spine",
+          "Bip001 Spine1",
+          "Bip001 Spine2",
+          "Bip001 Neck",
+          "Bip001 Head",
+          "+EarS L A01"
+        ],
+        [
+          "Avatar_Loli_Bow_Diona_Manekin",
+          "Bip001",
+          "Bip001 Pelvis",
+          "Bip001 Spine",
+          "Bip001 Spine1",
+          "Bip001 Spine2",
+          "Bip001 Neck",
+          "Bip001 Head",
+          "+EarS R A01"
+        ],
+        [
+          "Avatar_Loli_Bow_Diona_Manekin",
+          "Bip001",
+          "Bip001 Pelvis",
+          "Bip001 Spine",
+          "Bip001 Spine1",
+          "Bip001 Spine2",
+          "Bip001 L Clavicle"
+        ],
+        [
+          "Avatar_Loli_Bow_Diona_Manekin",
+          "Bip001",
+          "Bip001 Pelvis",
+          "Bip001 Spine",
+          "Bip001 Spine1",
+          "Bip001 Spine2",
+          "Bip001 L Clavicle",
+          "Bip001 L UpperArm",
+          "Bip001 L Forearm"
+        ],
+        [
+          "Avatar_Loli_Bow_Diona_Manekin",
+          "Bip001",
+          "Bip001 Pelvis",
+          "Bip001 Spine",
+          "Bip001 Spine1",
+          "Bip001 Spine2",
+          "Bip001 L Clavicle",
+          "Bip001 L UpperArm",
+          "Bip001 L Forearm",
+          "Bip001 L Hand"
+        ],
+        [
+          "Avatar_Loli_Bow_Diona_Manekin",
+          "Bip001",
+          "Bip001 Pelvis",
+          "Bip001 Spine",
+          "Bip001 Spine1",
+          "Bip001 Spine2",
+          "Bip001 L Clavicle",
+          "Bip001 L UpperArm",
+          "Bip001 L Forearm",
+          "Bip001 L Hand",
+          "Bip001 L Finger0"
+        ],
+        [
+          "Avatar_Loli_Bow_Diona_Manekin",
+          "Bip001",
+          "Bip001 Pelvis",
+          "Bip001 Spine",
+          "Bip001 Spine1",
+          "Bip001 Spine2",
+          "Bip001 L Clavicle",
+          "Bip001 L UpperArm",
+          "Bip001 L Forearm",
+          "Bip001 L Hand",
+          "Bip001 L Finger0",
+          "Bip001 L Finger01"
+        ],
+        [
+          "Avatar_Loli_Bow_Diona_Manekin",
+          "Bip001",
+          "Bip001 Pelvis",
+          "Bip001 Spine",
+          "Bip001 Spine1",
+          "Bip001 Spine2",
+          "Bip001 L Clavicle",
+          "Bip001 L UpperArm",
+          "Bip001 L Forearm",
+          "Bip001 L Hand",
+          "Bip001 L Finger0",
+          "Bip001 L Finger01",
+          "Bip001 L Finger02"
+        ],
+        [
+          "Avatar_Loli_Bow_Diona_Manekin",
+          "Bip001",
+          "Bip001 Pelvis",
+          "Bip001 Spine",
+          "Bip001 Spine1",
+          "Bip001 Spine2",
+          "Bip001 L Clavicle",
+          "Bip001 L UpperArm",
+          "Bip001 L Forearm",
+          "Bip001 L Hand",
+          "Bip001 L Finger1"
+        ],
+        [
+          "Avatar_Loli_Bow_Diona_Manekin",
+          "Bip001",
+          "Bip001 Pelvis",
+          "Bip001 Spine",
+          "Bip001 Spine1",
+          "Bip001 Spine2",
+          "Bip001 L Clavicle",
+          "Bip001 L UpperArm",
+          "Bip001 L Forearm",
+          "Bip001 L Hand",
+          "Bip001 L Finger1",
+          "Bip001 L Finger11"
+        ],
+        [
+          "Avatar_Loli_Bow_Diona_Manekin",
+          "Bip001",
+          "Bip001 Pelvis",
+          "Bip001 Spine",
+          "Bip001 Spine1",
+          "Bip001 Spine2",
+          "Bip001 L Clavicle",
+          "Bip001 L UpperArm",
+          "Bip001 L Forearm",
+          "Bip001 L Hand",
+          "Bip001 L Finger1",
+          "Bip001 L Finger11",
+          "Bip001 L Finger12"
+        ],
+        [
+          "Avatar_Loli_Bow_Diona_Manekin",
+          "Bip001",
+          "Bip001 Pelvis",
+          "Bip001 Spine",
+          "Bip001 Spine1",
+          "Bip001 Spine2",
+          "Bip001 L Clavicle",
+          "Bip001 L UpperArm",
+          "Bip001 L Forearm",
+          "Bip001 L Hand",
+          "Bip001 L Finger2"
+        ],
+        [
+          "Avatar_Loli_Bow_Diona_Manekin",
+          "Bip001",
+          "Bip001 Pelvis",
+          "Bip001 Spine",
+          "Bip001 Spine1",
+          "Bip001 Spine2",
+          "Bip001 L Clavicle",
+          "Bip001 L UpperArm",
+          "Bip001 L Forearm",
+          "Bip001 L Hand",
+          "Bip001 L Finger2",
+          "Bip001 L Finger21"
+        ],
+        [
+          "Avatar_Loli_Bow_Diona_Manekin",
+          "Bip001",
+          "Bip001 Pelvis",
+          "Bip001 Spine",
+          "Bip001 Spine1",
+          "Bip001 Spine2",
+          "Bip001 L Clavicle",
+          "Bip001 L UpperArm",
+          "Bip001 L Forearm",
+          "Bip001 L Hand",
+          "Bip001 L Finger2",
+          "Bip001 L Finger21",
+          "Bip001 L Finger22"
+        ],
+        [
+          "Avatar_Loli_Bow_Diona_Manekin",
+          "Bip001",
+          "Bip001 Pelvis",
+          "Bip001 Spine",
+          "Bip001 Spine1",
+          "Bip001 Spine2",
+          "Bip001 L Clavicle",
+          "Bip001 L UpperArm",
+          "Bip001 L Forearm",
+          "Bip001 L Hand",
+          "Bip001 L Finger3"
+        ],
+        [
+          "Avatar_Loli_Bow_Diona_Manekin",
+          "Bip001",
+          "Bip001 Pelvis",
+          "Bip001 Spine",
+          "Bip001 Spine1",
+          "Bip001 Spine2",
+          "Bip001 L Clavicle",
+          "Bip001 L UpperArm",
+          "Bip001 L Forearm",
+          "Bip001 L Hand",
+          "Bip001 L Finger3",
+          "Bip001 L Finger31"
+        ],
+        [
+          "Avatar_Loli_Bow_Diona_Manekin",
+          "Bip001",
+          "Bip001 Pelvis",
+          "Bip001 Spine",
+          "Bip001 Spine1",
+          "Bip001 Spine2",
+          "Bip001 L Clavicle",
+          "Bip001 L UpperArm",
+          "Bip001 L Forearm",
+          "Bip001 L Hand",
+          "Bip001 L Finger3",
+          "Bip001 L Finger31",
+          "Bip001 L Finger32"
+        ],
+        [
+          "Avatar_Loli_Bow_Diona_Manekin",
+          "Bip001",
+          "Bip001 Pelvis",
+          "Bip001 Spine",
+          "Bip001 Spine1",
+          "Bip001 Spine2",
+          "Bip001 L Clavicle",
+          "Bip001 L UpperArm",
+          "Bip001 L Forearm",
+          "Bip001 L Hand",
+          "Bip001 L Finger4"
+        ],
+        [
+          "Avatar_Loli_Bow_Diona_Manekin",
+          "Bip001",
+          "Bip001 Pelvis",
+          "Bip001 Spine",
+          "Bip001 Spine1",
+          "Bip001 Spine2",
+          "Bip001 L Clavicle",
+          "Bip001 L UpperArm",
+          "Bip001 L Forearm",
+          "Bip001 L Hand",
+          "Bip001 L Finger4",
+          "Bip001 L Finger41"
+        ],
+        [
+          "Avatar_Loli_Bow_Diona_Manekin",
+          "Bip001",
+          "Bip001 Pelvis",
+          "Bip001 Spine",
+          "Bip001 Spine1",
+          "Bip001 Spine2",
+          "Bip001 L Clavicle",
+          "Bip001 L UpperArm",
+          "Bip001 L Forearm",
+          "Bip001 L Hand",
+          "Bip001 L Finger4",
+          "Bip001 L Finger41",
+          "Bip001 L Finger42"
+        ],
+        [
+          "Avatar_Loli_Bow_Diona_Manekin",
+          "Bip001",
+          "Bip001 Pelvis",
+          "Bip001 Spine",
+          "Bip001 Spine1",
+          "Bip001 Spine2",
+          "Bip001 L Clavicle",
+          "Bip001 L UpperArm",
+          "+UpperArmTwist L A01"
+        ],
+        [
+          "Avatar_Loli_Bow_Diona_Manekin",
+          "Bip001",
+          "Bip001 Pelvis",
+          "Bip001 Spine",
+          "Bip001 Spine1",
+          "Bip001 Spine2",
+          "Bip001 L Clavicle",
+          "Bip001 L UpperArm",
+          "+UpperArmTwist L A02"
+        ],
+        [
+          "Avatar_Loli_Bow_Diona_Manekin",
+          "Bip001",
+          "Bip001 Pelvis",
+          "Bip001 Spine",
+          "Bip001 Spine1",
+          "Bip001 Spine2",
+          "Bip001 R Clavicle"
+        ],
+        [
+          "Avatar_Loli_Bow_Diona_Manekin",
+          "Bip001",
+          "Bip001 Pelvis",
+          "Bip001 Spine",
+          "Bip001 Spine1",
+          "Bip001 Spine2",
+          "Bip001 R Clavicle",
+          "Bip001 R UpperArm",
+          "Bip001 R Forearm"
+        ],
+        [
+          "Avatar_Loli_Bow_Diona_Manekin",
+          "Bip001",
+          "Bip001 Pelvis",
+          "Bip001 Spine",
+          "Bip001 Spine1",
+          "Bip001 Spine2",
+          "Bip001 R Clavicle",
+          "Bip001 R UpperArm",
+          "Bip001 R Forearm",
+          "Bip001 R Hand"
+        ],
+        [
+          "Avatar_Loli_Bow_Diona_Manekin",
+          "Bip001",
+          "Bip001 Pelvis",
+          "Bip001 Spine",
+          "Bip001 Spine1",
+          "Bip001 Spine2",
+          "Bip001 R Clavicle",
+          "Bip001 R UpperArm",
+          "Bip001 R Forearm",
+          "Bip001 R Hand",
+          "Bip001 R Finger0"
+        ],
+        [
+          "Avatar_Loli_Bow_Diona_Manekin",
+          "Bip001",
+          "Bip001 Pelvis",
+          "Bip001 Spine",
+          "Bip001 Spine1",
+          "Bip001 Spine2",
+          "Bip001 R Clavicle",
+          "Bip001 R UpperArm",
+          "Bip001 R Forearm",
+          "Bip001 R Hand",
+          "Bip001 R Finger0",
+          "Bip001 R Finger01"
+        ],
+        [
+          "Avatar_Loli_Bow_Diona_Manekin",
+          "Bip001",
+          "Bip001 Pelvis",
+          "Bip001 Spine",
+          "Bip001 Spine1",
+          "Bip001 Spine2",
+          "Bip001 R Clavicle",
+          "Bip001 R UpperArm",
+          "Bip001 R Forearm",
+          "Bip001 R Hand",
+          "Bip001 R Finger0",
+          "Bip001 R Finger01",
+          "Bip001 R Finger02"
+        ],
+        [
+          "Avatar_Loli_Bow_Diona_Manekin",
+          "Bip001",
+          "Bip001 Pelvis",
+          "Bip001 Spine",
+          "Bip001 Spine1",
+          "Bip001 Spine2",
+          "Bip001 R Clavicle",
+          "Bip001 R UpperArm",
+          "Bip001 R Forearm",
+          "Bip001 R Hand",
+          "Bip001 R Finger1"
+        ],
+        [
+          "Avatar_Loli_Bow_Diona_Manekin",
+          "Bip001",
+          "Bip001 Pelvis",
+          "Bip001 Spine",
+          "Bip001 Spine1",
+          "Bip001 Spine2",
+          "Bip001 R Clavicle",
+          "Bip001 R UpperArm",
+          "Bip001 R Forearm",
+          "Bip001 R Hand",
+          "Bip001 R Finger1",
+          "Bip001 R Finger11"
+        ],
+        [
+          "Avatar_Loli_Bow_Diona_Manekin",
+          "Bip001",
+          "Bip001 Pelvis",
+          "Bip001 Spine",
+          "Bip001 Spine1",
+          "Bip001 Spine2",
+          "Bip001 R Clavicle",
+          "Bip001 R UpperArm",
+          "Bip001 R Forearm",
+          "Bip001 R Hand",
+          "Bip001 R Finger1",
+          "Bip001 R Finger11",
+          "Bip001 R Finger12"
+        ],
+        [
+          "Avatar_Loli_Bow_Diona_Manekin",
+          "Bip001",
+          "Bip001 Pelvis",
+          "Bip001 Spine",
+          "Bip001 Spine1",
+          "Bip001 Spine2",
+          "Bip001 R Clavicle",
+          "Bip001 R UpperArm",
+          "Bip001 R Forearm",
+          "Bip001 R Hand",
+          "Bip001 R Finger2"
+        ],
+        [
+          "Avatar_Loli_Bow_Diona_Manekin",
+          "Bip001",
+          "Bip001 Pelvis",
+          "Bip001 Spine",
+          "Bip001 Spine1",
+          "Bip001 Spine2",
+          "Bip001 R Clavicle",
+          "Bip001 R UpperArm",
+          "Bip001 R Forearm",
+          "Bip001 R Hand",
+          "Bip001 R Finger2",
+          "Bip001 R Finger21"
+        ],
+        [
+          "Avatar_Loli_Bow_Diona_Manekin",
+          "Bip001",
+          "Bip001 Pelvis",
+          "Bip001 Spine",
+          "Bip001 Spine1",
+          "Bip001 Spine2",
+          "Bip001 R Clavicle",
+          "Bip001 R UpperArm",
+          "Bip001 R Forearm",
+          "Bip001 R Hand",
+          "Bip001 R Finger2",
+          "Bip001 R Finger21",
+          "Bip001 R Finger22"
+        ],
+        [
+          "Avatar_Loli_Bow_Diona_Manekin",
+          "Bip001",
+          "Bip001 Pelvis",
+          "Bip001 Spine",
+          "Bip001 Spine1",
+          "Bip001 Spine2",
+          "Bip001 R Clavicle",
+          "Bip001 R UpperArm",
+          "Bip001 R Forearm",
+          "Bip001 R Hand",
+          "Bip001 R Finger3"
+        ],
+        [
+          "Avatar_Loli_Bow_Diona_Manekin",
+          "Bip001",
+          "Bip001 Pelvis",
+          "Bip001 Spine",
+          "Bip001 Spine1",
+          "Bip001 Spine2",
+          "Bip001 R Clavicle",
+          "Bip001 R UpperArm",
+          "Bip001 R Forearm",
+          "Bip001 R Hand",
+          "Bip001 R Finger3",
+          "Bip001 R Finger31"
+        ],
+        [
+          "Avatar_Loli_Bow_Diona_Manekin",
+          "Bip001",
+          "Bip001 Pelvis",
+          "Bip001 Spine",
+          "Bip001 Spine1",
+          "Bip001 Spine2",
+          "Bip001 R Clavicle",
+          "Bip001 R UpperArm",
+          "Bip001 R Forearm",
+          "Bip001 R Hand",
+          "Bip001 R Finger3",
+          "Bip001 R Finger31",
+          "Bip001 R Finger32"
+        ],
+        [
+          "Avatar_Loli_Bow_Diona_Manekin",
+          "Bip001",
+          "Bip001 Pelvis",
+          "Bip001 Spine",
+          "Bip001 Spine1",
+          "Bip001 Spine2",
+          "Bip001 R Clavicle",
+          "Bip001 R UpperArm",
+          "Bip001 R Forearm",
+          "Bip001 R Hand",
+          "Bip001 R Finger4"
+        ],
+        [
+          "Avatar_Loli_Bow_Diona_Manekin",
+          "Bip001",
+          "Bip001 Pelvis",
+          "Bip001 Spine",
+          "Bip001 Spine1",
+          "Bip001 Spine2",
+          "Bip001 R Clavicle",
+          "Bip001 R UpperArm",
+          "Bip001 R Forearm",
+          "Bip001 R Hand",
+          "Bip001 R Finger4",
+          "Bip001 R Finger41"
+        ],
+        [
+          "Avatar_Loli_Bow_Diona_Manekin",
+          "Bip001",
+          "Bip001 Pelvis",
+          "Bip001 Spine",
+          "Bip001 Spine1",
+          "Bip001 Spine2",
+          "Bip001 R Clavicle",
+          "Bip001 R UpperArm",
+          "Bip001 R Forearm",
+          "Bip001 R Hand",
+          "Bip001 R Finger4",
+          "Bip001 R Finger41",
+          "Bip001 R Finger42"
+        ],
+        [
+          "Avatar_Loli_Bow_Diona_Manekin",
+          "Bip001",
+          "Bip001 Pelvis",
+          "Bip001 Spine",
+          "Bip001 Spine1",
+          "Bip001 Spine2",
+          "Bip001 R Clavicle",
+          "Bip001 R UpperArm",
+          "+UpperArmTwist R A01"
+        ],
+        [
+          "Avatar_Loli_Bow_Diona_Manekin",
+          "Bip001",
+          "Bip001 Pelvis",
+          "Bip001 Spine",
+          "Bip001 Spine1",
+          "Bip001 Spine2",
+          "Bip001 R Clavicle",
+          "Bip001 R UpperArm",
+          "+UpperArmTwist R A02"
+        ],
+        [
+          "Avatar_Loli_Bow_Diona_Manekin",
+          "Bip001",
+          "Bip001 Pelvis",
+          "Bip001 Spine",
+          "Bip001 Spine1",
+          "+BowknotB L C01"
+        ],
+        [
+          "Avatar_Loli_Bow_Diona_Manekin",
+          "Bip001",
+          "Bip001 Pelvis",
+          "Bip001 Spine",
+          "Bip001 Spine1",
+          "+BowknotB L C01",
+          "+VisionPelvisB L A01"
+        ],
+        [
+          "Avatar_Loli_Bow_Diona_Manekin",
+          "Bip001",
+          "Bip001 Pelvis",
+          "Bip001 Spine",
+          "+HemB R D01"
+        ],
+        [
+          "Avatar_Loli_Bow_Diona_Manekin",
+          "Bip001",
+          "Bip001 Pelvis",
+          "Bip001 Spine",
+          "+HemB R D01",
+          "+HemB R D02"
+        ],
+        [
+          "Avatar_Loli_Bow_Diona_Manekin",
+          "Bip001",
+          "Bip001 Pelvis",
+          "Bip001 Spine",
+          "+HemB R D01",
+          "+HemB R D02",
+          "+HemB R D03"
+        ],
+        [
+          "Avatar_Loli_Bow_Diona_Manekin",
+          "Bip001",
+          "Bip001 Pelvis",
+          "Bip001 Spine",
+          "+HemB R G01"
+        ],
+        [
+          "Avatar_Loli_Bow_Diona_Manekin",
+          "Bip001",
+          "Bip001 Pelvis",
+          "Bip001 Spine",
+          "+HemB R G01",
+          "+HemB R G02"
+        ],
+        [
+          "Avatar_Loli_Bow_Diona_Manekin",
+          "Bip001",
+          "Bip001 Pelvis",
+          "Bip001 Spine",
+          "+HemB R G01",
+          "+HemB R G02",
+          "+HemB R G03"
+        ],
+        [
+          "Avatar_Loli_Bow_Diona_Manekin",
+          "Bip001",
+          "Bip001 Pelvis",
+          "Bip001 Spine",
+          "+HemB L D01"
+        ],
+        [
+          "Avatar_Loli_Bow_Diona_Manekin",
+          "Bip001",
+          "Bip001 Pelvis",
+          "Bip001 Spine",
+          "+HemB L D01",
+          "+HemB L D02"
+        ],
+        [
+          "Avatar_Loli_Bow_Diona_Manekin",
+          "Bip001",
+          "Bip001 Pelvis",
+          "Bip001 Spine",
+          "+HemB L D01",
+          "+HemB L D02",
+          "+HemB L D03"
+        ],
+        [
+          "Avatar_Loli_Bow_Diona_Manekin",
+          "Bip001",
+          "Bip001 Pelvis",
+          "Bip001 Spine",
+          "+HemB L G01"
+        ],
+        [
+          "Avatar_Loli_Bow_Diona_Manekin",
+          "Bip001",
+          "Bip001 Pelvis",
+          "Bip001 Spine",
+          "+HemB L G01",
+          "+HemB L G02"
+        ],
+        [
+          "Avatar_Loli_Bow_Diona_Manekin",
+          "Bip001",
+          "Bip001 Pelvis",
+          "Bip001 Spine",
+          "+HemB L G01",
+          "+HemB L G02",
+          "+HemB L G03"
+        ],
+        [
+          "Avatar_Loli_Bow_Diona_Manekin",
+          "Bip001",
+          "Bip001 Pelvis",
+          "Bip001 Spine",
+          "+WaistBagS L B01"
+        ],
+        [
+          "Avatar_Loli_Bow_Diona_Manekin",
+          "Bip001",
+          "Bip001 Pelvis",
+          "Bip001 L Thigh"
+        ],
+        [
+          "Avatar_Loli_Bow_Diona_Manekin",
+          "Bip001",
+          "Bip001 Pelvis",
+          "Bip001 L Thigh",
+          "Bip001 L Calf"
+        ],
+        [
+          "Avatar_Loli_Bow_Diona_Manekin",
+          "Bip001",
+          "Bip001 Pelvis",
+          "Bip001 L Thigh",
+          "Bip001 L Calf",
+          "Bip001 L Foot"
+        ],
+        [
+          "Avatar_Loli_Bow_Diona_Manekin",
+          "Bip001",
+          "Bip001 Pelvis",
+          "Bip001 L Thigh",
+          "Bip001 L Calf",
+          "Bip001 L Foot",
+          "Bip001 L Toe0"
+        ],
+        [
+          "Avatar_Loli_Bow_Diona_Manekin",
+          "Bip001",
+          "Bip001 Pelvis",
+          "Bip001 R Thigh"
+        ],
+        [
+          "Avatar_Loli_Bow_Diona_Manekin",
+          "Bip001",
+          "Bip001 Pelvis",
+          "Bip001 R Thigh",
+          "Bip001 R Calf"
+        ],
+        [
+          "Avatar_Loli_Bow_Diona_Manekin",
+          "Bip001",
+          "Bip001 Pelvis",
+          "Bip001 R Thigh",
+          "Bip001 R Calf",
+          "Bip001 R Foot"
+        ],
+        [
+          "Avatar_Loli_Bow_Diona_Manekin",
+          "Bip001",
+          "Bip001 Pelvis",
+          "Bip001 R Thigh",
+          "Bip001 R Calf",
+          "Bip001 R Foot",
+          "Bip001 R Toe0"
+        ],
+        [
+          "Avatar_Loli_Bow_Diona_Manekin",
+          "Bip001",
+          "Bip001 Pelvis",
+          "+TailB L A01"
+        ],
+        [
+          "Avatar_Loli_Bow_Diona_Manekin",
+          "Bip001",
+          "Bip001 Pelvis",
+          "+TailB L A01",
+          "+TailB L A02"
+        ],
+        [
+          "Avatar_Loli_Bow_Diona_Manekin",
+          "Bip001",
+          "Bip001 Pelvis",
+          "+TailB L A01",
+          "+TailB L A02",
+          "+TailB L A03"
+        ],
+        [
+          "Avatar_Loli_Bow_Diona_Manekin",
+          "Bip001",
+          "Bip001 Pelvis",
+          "+TailB L A01",
+          "+TailB L A02",
+          "+TailB L A03",
+          "+TailB L A04"
+        ],
+        [
+          "Avatar_Loli_Bow_Diona_Manekin",
+          "Bip001",
+          "Bip001 Pelvis",
+          "+TailB L A01",
+          "+TailB L A02",
+          "+TailB L A03",
+          "+TailB L A04",
+          "+TailB L A05"
+        ],
+        [
+          "Avatar_Loli_Bow_Diona_Manekin",
+          "Bip001",
+          "Bip001 Pelvis",
+          "+TailB L A01",
+          "+TailB L A02",
+          "+TailB L A03",
+          "+TailB L A04",
+          "+TailB L A05",
+          "+TailB L A06"
+        ],
+        [
+          "Avatar_Loli_Bow_Diona_Manekin",
+          "Bip001",
+          "+PelvisTwist CF A01"
+        ]
+      ]
+    }
+  ],
+  "static_mesh_filters": [],
+  "lod_mesh_groups": [],
+  "new_runtime_test_performed": false
+}

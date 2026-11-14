@@ -1,0 +1,8183 @@
+{
+  "kind": "native_prefab",
+  "id": "cab-dc032befed92b38513697cc7f407e1e9",
+  "source_cab": "cab-dc032befed92b38513697cc7f407e1e9",
+  "prefab_name": "Avatar_Male_Claymore_Diluc_Kanban",
+  "profile": "diluc",
+  "internal_name": "Diluc",
+  "body_token": "Male",
+  "weapon_token": "Claymore",
+  "variant_suffix": "_Kanban",
+  "root_transform_id": "-6292552416593011793",
+  "transforms": {
+    "-8938601067242065326": {
+      "game_object": {
+        "file_id": 0,
+        "path_id": "6381689460609589521"
+      },
+      "local_rotation_xyzw": [
+        -3.963485355890084e-14,
+        0.0,
+        -0.0,
+        1.0
+      ],
+      "local_position": [
+        -0.22669540345668793,
+        7.450580430390374e-11,
+        0.0
+      ],
+      "local_scale": [
+        1.0,
+        1.0,
+        1.0
+      ],
+      "children": [],
+      "parent": {
+        "file_id": 0,
+        "path_id": "5461207643137899433"
+      },
+      "name": "Bip001 HeadNub",
+      "path_components": [
+        "Avatar_Male_Claymore_Diluc_Kanban",
+        "Bip001",
+        "Bip001 Pelvis",
+        "Bip001 Spine",
+        "Bip001 Spine1",
+        "Bip001 Spine2",
+        "Bip001 Neck",
+        "Bip001 Head",
+        "Bip001 HeadNub"
+      ]
+    },
+    "-8901921515646995728": {
+      "game_object": {
+        "file_id": 0,
+        "path_id": "-3149272648552877328"
+      },
+      "local_rotation_xyzw": [
+        2.993958705087285e-13,
+        1.7037018184850503e-26,
+        1.0,
+        -5.690464917849913e-14
+      ],
+      "local_position": [
+        -0.06869672983884811,
+        0.0,
+        4.76837147544984e-09
+      ],
+      "local_scale": [
+        -1.0,
+        -1.0,
+        -1.0
+      ],
+      "children": [],
+      "parent": {
+        "file_id": 0,
+        "path_id": "-3044803089626443061"
+      },
+      "name": "Bip001 L Toe0Nub",
+      "path_components": [
+        "Avatar_Male_Claymore_Diluc_Kanban",
+        "Bip001",
+        "Bip001 Pelvis",
+        "Bip001 L Thigh",
+        "Bip001 L Calf",
+        "Bip001 L Foot",
+        "Bip001 L Toe0",
+        "Bip001 L Toe0Nub"
+      ]
+    },
+    "-8800713966289172739": {
+      "game_object": {
+        "file_id": 0,
+        "path_id": "-4607881861140075782"
+      },
+      "local_rotation_xyzw": [
+        2.2930128125153715e-06,
+        -1.8853194205803447e-07,
+        0.01770690269768238,
+        0.9998432397842407
+      ],
+      "local_position": [
+        -0.1397174745798111,
+        -1.4877318790240679e-06,
+        -2.0503996722709417e-07
+      ],
+      "local_scale": [
+        1.0000035762786865,
+        0.9999966025352478,
+        1.0
+      ],
+      "children": [
+        {
+          "file_id": 0,
+          "path_id": "-1076096665895493161"
+        }
+      ],
+      "parent": {
+        "file_id": 0,
+        "path_id": "-85692430414978929"
+      },
+      "name": "+SkirtB R B03",
+      "path_components": [
+        "Avatar_Male_Claymore_Diluc_Kanban",
+        "Bip001",
+        "Bip001 Pelvis",
+        "Bip001 Spine",
+        "+SkirtB R B01",
+        "+SkirtB R B02",
+        "+SkirtB R B03"
+      ]
+    },
+    "-8643924437321546633": {
+      "game_object": {
+        "file_id": 0,
+        "path_id": "5906158740712171597"
+      },
+      "local_rotation_xyzw": [
+        -0.9997063875198364,
+        -0.02127956785261631,
+        -0.007954605855047703,
+        0.008430278860032558
+      ],
+      "local_position": [
+        -0.11108741164207458,
+        0.004171104170382023,
+        0.0016129683936014771
+      ],
+      "local_scale": [
+        1.0,
+        1.0,
+        1.0
+      ],
+      "children": [],
+      "parent": {
+        "file_id": 0,
+        "path_id": "-6218925977574660361"
+      },
+      "name": "+UpperArmTwist L A02",
+      "path_components": [
+        "Avatar_Male_Claymore_Diluc_Kanban",
+        "Bip001",
+        "Bip001 Pelvis",
+        "Bip001 Spine",
+        "Bip001 Spine1",
+        "Bip001 Spine2",
+        "Bip001 L Clavicle",
+        "Bip001 L UpperArm",
+        "+UpperArmTwist L A02"
+      ]
+    },
+    "-8506886128619662669": {
+      "game_object": {
+        "file_id": 0,
+        "path_id": "7783905914540377628"
+      },
+      "local_rotation_xyzw": [
+        -0.0,
+        -0.0,
+        -0.0,
+        1.0
+      ],
+      "local_position": [
+        0.0,
+        1.899999976158142,
+        0.0
+      ],
+      "local_scale": [
+        1.0,
+        1.0,
+        1.0
+      ],
+      "children": [],
+      "parent": {
+        "file_id": 0,
+        "path_id": "-6292552416593011793"
+      },
+      "name": "BubbleAttachPoint",
+      "path_components": [
+        "Avatar_Male_Claymore_Diluc_Kanban",
+        "BubbleAttachPoint"
+      ]
+    },
+    "-8425648469796315068": {
+      "game_object": {
+        "file_id": 0,
+        "path_id": "-6345403671727963878"
+      },
+      "local_rotation_xyzw": [
+        0.009892139583826065,
+        0.005186519119888544,
+        0.1042056605219841,
+        -0.9944930672645569
+      ],
+      "local_position": [
+        -0.08672191202640533,
+        -0.001421925611793995,
+        0.02712870016694069
+      ],
+      "local_scale": [
+        1.000000238418579,
+        1.0000001192092896,
+        1.0
+      ],
+      "children": [
+        {
+          "file_id": 0,
+          "path_id": "370583269452978654"
+        }
+      ],
+      "parent": {
+        "file_id": 0,
+        "path_id": "7317532008801178315"
+      },
+      "name": "Bip001 R Finger1",
+      "path_components": [
+        "Avatar_Male_Claymore_Diluc_Kanban",
+        "Bip001",
+        "Bip001 Pelvis",
+        "Bip001 Spine",
+        "Bip001 Spine1",
+        "Bip001 Spine2",
+        "Bip001 R Clavicle",
+        "Bip001 R UpperArm",
+        "Bip001 R Forearm",
+        "Bip001 R Hand",
+        "Bip001 R Finger1"
+      ]
+    },
+    "-8316334134424545873": {
+      "game_object": {
+        "file_id": 0,
+        "path_id": "-1545794430501213846"
+      },
+      "local_rotation_xyzw": [
+        0.0,
+        0.0,
+        0.0,
+        1.0
+      ],
+      "local_position": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "local_scale": [
+        1.0,
+        1.0,
+        1.0
+      ],
+      "children": [],
+      "parent": {
+        "file_id": 0,
+        "path_id": "-6171901367830778191"
+      },
+      "name": "HitObject5",
+      "path_components": [
+        "Avatar_Male_Claymore_Diluc_Kanban",
+        "Bip001",
+        "Bip001 Pelvis",
+        "Bip001 Spine",
+        "Bip001 Spine1",
+        "Bip001 Spine2",
+        "Bip001 R Clavicle",
+        "Bip001 R UpperArm",
+        "Bip001 R Forearm",
+        "HitObject5"
+      ]
+    },
+    "-7928654033227304340": {
+      "game_object": {
+        "file_id": 0,
+        "path_id": "5099567530423257650"
+      },
+      "local_rotation_xyzw": [
+        0.14848692715168,
+        0.5397295355796814,
+        -0.04712860286235809,
+        0.8272984027862549
+      ],
+      "local_position": [
+        -0.48899999260902405,
+        -0.28299999237060547,
+        -0.23100000619888306
+      ],
+      "local_scale": [
+        1.0000003576278687,
+        1.138199806213379,
+        0.9999998807907104
+      ],
+      "children": [],
+      "parent": {
+        "file_id": 0,
+        "path_id": "-6970750044183340508"
+      },
+      "name": "PRIVATE_WeaponRootSword",
+      "path_components": [
+        "Avatar_Male_Claymore_Diluc_Kanban",
+        "Bip001",
+        "Bip001 Pelvis",
+        "Bip001 Spine",
+        "Bip001 Spine1",
+        "PRIVATE_WeaponRootSword"
+      ]
+    },
+    "-7922005166585331324": {
+      "game_object": {
+        "file_id": 0,
+        "path_id": "5703476324436196124"
+      },
+      "local_rotation_xyzw": [
+        0.0,
+        0.0,
+        0.0,
+        1.0
+      ],
+      "local_position": [
+        -0.0348999984562397,
+        0.0003000000142492354,
+        -0.0
+      ],
+      "local_scale": [
+        1.0,
+        1.0,
+        1.0
+      ],
+      "children": [],
+      "parent": {
+        "file_id": 0,
+        "path_id": "-1399631060231889546"
+      },
+      "name": "PRIVATE_Pendant",
+      "path_components": [
+        "Avatar_Male_Claymore_Diluc_Kanban",
+        "Bip001",
+        "Bip001 Pelvis",
+        "+VisionPelvisS L B01",
+        "+VisionPelvisS L B02",
+        "PRIVATE_Pendant"
+      ]
+    },
+    "-7915036105366861758": {
+      "game_object": {
+        "file_id": 0,
+        "path_id": "5515392547500188735"
+      },
+      "local_rotation_xyzw": [
+        -1.426044855179498e-05,
+        -2.1806401946378173e-06,
+        0.02535189315676689,
+        0.9996786117553711
+      ],
+      "local_position": [
+        -0.14013168215751648,
+        -3.0517577442878974e-07,
+        -3.9100646631595737e-07
+      ],
+      "local_scale": [
+        0.9999986290931702,
+        1.000001311302185,
+        1.0000001192092896
+      ],
+      "children": [],
+      "parent": {
+        "file_id": 0,
+        "path_id": "3902740408762433457"
+      },
+      "name": "+SkirtB L B04",
+      "path_components": [
+        "Avatar_Male_Claymore_Diluc_Kanban",
+        "Bip001",
+        "Bip001 Pelvis",
+        "Bip001 Spine",
+        "+SkirtB L B01",
+        "+SkirtB L B02",
+        "+SkirtB L B03",
+        "+SkirtB L B04"
+      ]
+    },
+    "-7597428224556253331": {
+      "game_object": {
+        "file_id": 0,
+        "path_id": "4842734698512313797"
+      },
+      "local_rotation_xyzw": [
+        0.0,
+        0.0,
+        0.0,
+        1.0
+      ],
+      "local_position": [
+        0.057999998331069946,
+        -0.0,
+        0.0
+      ],
+      "local_scale": [
+        1.0,
+        1.0,
+        1.0
+      ],
+      "children": [],
+      "parent": {
+        "file_id": 0,
+        "path_id": "-1400199481021602623"
+      },
+      "name": "HitObject8",
+      "path_components": [
+        "Avatar_Male_Claymore_Diluc_Kanban",
+        "Bip001",
+        "Bip001 Pelvis",
+        "Bip001 L Thigh",
+        "Bip001 L Calf",
+        "HitObject8"
+      ]
+    },
+    "-7488187266419224554": {
+      "game_object": {
+        "file_id": 0,
+        "path_id": "-3567508690263105832"
+      },
+      "local_rotation_xyzw": [
+        -0.06587480008602142,
+        0.976568341255188,
+        0.20191437005996704,
+        0.03472023457288742
+      ],
+      "local_position": [
+        -0.021426314488053322,
+        0.09588849544525146,
+        0.09161283075809479
+      ],
+      "local_scale": [
+        1.0000052452087402,
+        0.9999956488609314,
+        0.9999995231628418
+      ],
+      "children": [
+        {
+          "file_id": 0,
+          "path_id": "-1399631060231889546"
+        }
+      ],
+      "parent": {
+        "file_id": 0,
+        "path_id": "3521577355142387332"
+      },
+      "name": "+VisionPelvisS L B01",
+      "path_components": [
+        "Avatar_Male_Claymore_Diluc_Kanban",
+        "Bip001",
+        "Bip001 Pelvis",
+        "+VisionPelvisS L B01"
+      ]
+    },
+    "-7306665827040285109": {
+      "game_object": {
+        "file_id": 0,
+        "path_id": "2823153106573435749"
+      },
+      "local_rotation_xyzw": [
+        0.009838290512561798,
+        0.005996926687657833,
+        -0.20097625255584717,
+        0.9795284271240234
+      ],
+      "local_position": [
+        -0.09045850485563278,
+        -0.004438405856490135,
+        -0.005725570488721132
+      ],
+      "local_scale": [
+        0.9999997615814209,
+        0.9999998211860657,
+        1.0
+      ],
+      "children": [
+        {
+          "file_id": 0,
+          "path_id": "5799161677739789912"
+        }
+      ],
+      "parent": {
+        "file_id": 0,
+        "path_id": "-2339703120878983519"
+      },
+      "name": "Bip001 L Finger2",
+      "path_components": [
+        "Avatar_Male_Claymore_Diluc_Kanban",
+        "Bip001",
+        "Bip001 Pelvis",
+        "Bip001 Spine",
+        "Bip001 Spine1",
+        "Bip001 Spine2",
+        "Bip001 L Clavicle",
+        "Bip001 L UpperArm",
+        "Bip001 L Forearm",
+        "Bip001 L Hand",
+        "Bip001 L Finger2"
+      ]
+    },
+    "-7066155035456498134": {
+      "game_object": {
+        "file_id": 0,
+        "path_id": "-6742083234691968123"
+      },
+      "local_rotation_xyzw": [
+        3.4365278622772166e-08,
+        9.027614211731816e-09,
+        -0.11329738795757294,
+        0.9935611486434937
+      ],
+      "local_position": [
+        -0.02635037526488304,
+        -1.2031989626848372e-07,
+        -1.8080454466939955e-08
+      ],
+      "local_scale": [
+        0.9999999403953552,
+        1.0,
+        1.0
+      ],
+      "children": [
+        {
+          "file_id": 0,
+          "path_id": "4915853084693320187"
+        }
+      ],
+      "parent": {
+        "file_id": 0,
+        "path_id": "-5891166706188392356"
+      },
+      "name": "Bip001 L Finger12",
+      "path_components": [
+        "Avatar_Male_Claymore_Diluc_Kanban",
+        "Bip001",
+        "Bip001 Pelvis",
+        "Bip001 Spine",
+        "Bip001 Spine1",
+        "Bip001 Spine2",
+        "Bip001 L Clavicle",
+        "Bip001 L UpperArm",
+        "Bip001 L Forearm",
+        "Bip001 L Hand",
+        "Bip001 L Finger1",
+        "Bip001 L Finger11",
+        "Bip001 L Finger12"
+      ]
+    },
+    "-6970750044183340508": {
+      "game_object": {
+        "file_id": 0,
+        "path_id": "3994018273805645088"
+      },
+      "local_rotation_xyzw": [
+        -0.05114132538437843,
+        -0.0015238533960655332,
+        0.05875605717301369,
+        0.9969603419303894
+      ],
+      "local_position": [
+        -0.08854639530181885,
+        -8.896004874259233e-05,
+        -5.762558430433273e-09
+      ],
+      "local_scale": [
+        0.9999999403953552,
+        0.9999999403953552,
+        1.0
+      ],
+      "children": [
+        {
+          "file_id": 0,
+          "path_id": "3899006346060575524"
+        },
+        {
+          "file_id": 0,
+          "path_id": "-7928654033227304340"
+        }
+      ],
+      "parent": {
+        "file_id": 0,
+        "path_id": "7491348154537083011"
+      },
+      "name": "Bip001 Spine1",
+      "path_components": [
+        "Avatar_Male_Claymore_Diluc_Kanban",
+        "Bip001",
+        "Bip001 Pelvis",
+        "Bip001 Spine",
+        "Bip001 Spine1"
+      ]
+    },
+    "-6831226938691399907": {
+      "game_object": {
+        "file_id": 0,
+        "path_id": "7466584214439975883"
+      },
+      "local_rotation_xyzw": [
+        -3.725290298461914e-09,
+        7.450580596923828e-09,
+        2.7755575615628914e-17,
+        1.0
+      ],
+      "local_position": [
+        -0.025044402107596397,
+        0.0,
+        4.76837147544984e-09
+      ],
+      "local_scale": [
+        1.0,
+        1.0,
+        1.0
+      ],
+      "children": [],
+      "parent": {
+        "file_id": 0,
+        "path_id": "-2101748294929659853"
+      },
+      "name": "Bip001 L Finger3Nub",
+      "path_components": [
+        "Avatar_Male_Claymore_Diluc_Kanban",
+        "Bip001",
+        "Bip001 Pelvis",
+        "Bip001 Spine",
+        "Bip001 Spine1",
+        "Bip001 Spine2",
+        "Bip001 L Clavicle",
+        "Bip001 L UpperArm",
+        "Bip001 L Forearm",
+        "Bip001 L Hand",
+        "Bip001 L Finger3",
+        "Bip001 L Finger31",
+        "Bip001 L Finger32",
+        "Bip001 L Finger3Nub"
+      ]
+    },
+    "-6584635132209141619": {
+      "game_object": {
+        "file_id": 0,
+        "path_id": "-7042272856544005022"
+      },
+      "local_rotation_xyzw": [
+        -1.4901162970204496e-08,
+        -1.4901162970204496e-08,
+        1.0,
+        -1.4901162970204496e-08
+      ],
+      "local_position": [
+        -0.02222118340432644,
+        0.0,
+        0.0
+      ],
+      "local_scale": [
+        -0.9999998807907104,
+        -0.9999998807907104,
+        -0.9999999403953552
+      ],
+      "children": [],
+      "parent": {
+        "file_id": 0,
+        "path_id": "-5304942968007451212"
+      },
+      "name": "Bip001 R Finger4Nub",
+      "path_components": [
+        "Avatar_Male_Claymore_Diluc_Kanban",
+        "Bip001",
+        "Bip001 Pelvis",
+        "Bip001 Spine",
+        "Bip001 Spine1",
+        "Bip001 Spine2",
+        "Bip001 R Clavicle",
+        "Bip001 R UpperArm",
+        "Bip001 R Forearm",
+        "Bip001 R Hand",
+        "Bip001 R Finger4",
+        "Bip001 R Finger41",
+        "Bip001 R Finger42",
+        "Bip001 R Finger4Nub"
+      ]
+    },
+    "-6468188332744627837": {
+      "game_object": {
+        "file_id": 0,
+        "path_id": "6167221168592377898"
+      },
+      "local_rotation_xyzw": [
+        -0.0001545188861200586,
+        -0.005148008465766907,
+        0.020889241248369217,
+        0.9997685551643372
+      ],
+      "local_position": [
+        -0.14059509336948395,
+        -1.716613724056515e-06,
+        -4.3630598156596534e-07
+      ],
+      "local_scale": [
+        1.0000026226043701,
+        0.9999979734420776,
+        0.9999994039535522
+      ],
+      "children": [
+        {
+          "file_id": 0,
+          "path_id": "3902740408762433457"
+        }
+      ],
+      "parent": {
+        "file_id": 0,
+        "path_id": "8530570907166699153"
+      },
+      "name": "+SkirtB L B02",
+      "path_components": [
+        "Avatar_Male_Claymore_Diluc_Kanban",
+        "Bip001",
+        "Bip001 Pelvis",
+        "Bip001 Spine",
+        "+SkirtB L B01",
+        "+SkirtB L B02"
+      ]
+    },
+    "-6314174535665313817": {
+      "game_object": {
+        "file_id": 0,
+        "path_id": "4963151798488439752"
+      },
+      "local_rotation_xyzw": [
+        -4.6566123179658803e-10,
+        -4.6566123179658803e-10,
+        -2.168403827983126e-19,
+        1.0
+      ],
+      "local_position": [
+        -0.02821204997599125,
+        0.0,
+        0.0
+      ],
+      "local_scale": [
+        1.0000001192092896,
+        1.0000001192092896,
+        1.0000001192092896
+      ],
+      "children": [],
+      "parent": {
+        "file_id": 0,
+        "path_id": "-78411760324282256"
+      },
+      "name": "Bip001 L Finger2Nub",
+      "path_components": [
+        "Avatar_Male_Claymore_Diluc_Kanban",
+        "Bip001",
+        "Bip001 Pelvis",
+        "Bip001 Spine",
+        "Bip001 Spine1",
+        "Bip001 Spine2",
+        "Bip001 L Clavicle",
+        "Bip001 L UpperArm",
+        "Bip001 L Forearm",
+        "Bip001 L Hand",
+        "Bip001 L Finger2",
+        "Bip001 L Finger21",
+        "Bip001 L Finger22",
+        "Bip001 L Finger2Nub"
+      ]
+    },
+    "-6292552416593011793": {
+      "game_object": {
+        "file_id": 0,
+        "path_id": "-993785237614152836"
+      },
+      "local_rotation_xyzw": [
+        -0.0,
+        -0.0,
+        -0.0,
+        1.0
+      ],
+      "local_position": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "local_scale": [
+        1.0,
+        1.0,
+        1.0
+      ],
+      "children": [
+        {
+          "file_id": 0,
+          "path_id": "8166208749733471185"
+        },
+        {
+          "file_id": 0,
+          "path_id": "-256605910200572875"
+        },
+        {
+          "file_id": 0,
+          "path_id": "6949882774501978284"
+        },
+        {
+          "file_id": 0,
+          "path_id": "-2467099677098357924"
+        },
+        {
+          "file_id": 0,
+          "path_id": "8068998927170203456"
+        },
+        {
+          "file_id": 0,
+          "path_id": "-1927001886111049875"
+        },
+        {
+          "file_id": 0,
+          "path_id": "-4468955737482754414"
+        },
+        {
+          "file_id": 0,
+          "path_id": "-4197795710254619760"
+        },
+        {
+          "file_id": 0,
+          "path_id": "-5440816703695848389"
+        },
+        {
+          "file_id": 0,
+          "path_id": "-4800979415381975025"
+        },
+        {
+          "file_id": 0,
+          "path_id": "-4334630938361284878"
+        },
+        {
+          "file_id": 0,
+          "path_id": "-8506886128619662669"
+        }
+      ],
+      "parent": {
+        "file_id": 0,
+        "path_id": "0"
+      },
+      "name": "Avatar_Male_Claymore_Diluc_Kanban",
+      "path_components": [
+        "Avatar_Male_Claymore_Diluc_Kanban"
+      ]
+    },
+    "-6218925977574660361": {
+      "game_object": {
+        "file_id": 0,
+        "path_id": "-6715626907914849176"
+      },
+      "local_rotation_xyzw": [
+        0.25981763005256653,
+        -0.5432278513908386,
+        0.0782952681183815,
+        0.7945238351821899
+      ],
+      "local_position": [
+        -0.14202238619327545,
+        3.91155481338501e-08,
+        -6.780028911634872e-07
+      ],
+      "local_scale": [
+        0.9999998807907104,
+        1.0000001192092896,
+        1.0
+      ],
+      "children": [
+        {
+          "file_id": 0,
+          "path_id": "1064869409669265046"
+        },
+        {
+          "file_id": 0,
+          "path_id": "-8643924437321546633"
+        },
+        {
+          "file_id": 0,
+          "path_id": "6315709349128283050"
+        }
+      ],
+      "parent": {
+        "file_id": 0,
+        "path_id": "-4093195960360231142"
+      },
+      "name": "Bip001 L UpperArm",
+      "path_components": [
+        "Avatar_Male_Claymore_Diluc_Kanban",
+        "Bip001",
+        "Bip001 Pelvis",
+        "Bip001 Spine",
+        "Bip001 Spine1",
+        "Bip001 Spine2",
+        "Bip001 L Clavicle",
+        "Bip001 L UpperArm"
+      ]
+    },
+    "-6171901367830778191": {
+      "game_object": {
+        "file_id": 0,
+        "path_id": "-8029551686355604881"
+      },
+      "local_rotation_xyzw": [
+        -0.01790165901184082,
+        -0.002671569585800171,
+        0.14757172763347626,
+        0.988885760307312
+      ],
+      "local_position": [
+        -0.2260797768831253,
+        -1.9744035739677201e-07,
+        -8.940696716308594e-08
+      ],
+      "local_scale": [
+        1.0000001192092896,
+        1.0,
+        0.9999999403953552
+      ],
+      "children": [
+        {
+          "file_id": 0,
+          "path_id": "7317532008801178315"
+        },
+        {
+          "file_id": 0,
+          "path_id": "-8316334134424545873"
+        }
+      ],
+      "parent": {
+        "file_id": 0,
+        "path_id": "6350768854910684131"
+      },
+      "name": "Bip001 R Forearm",
+      "path_components": [
+        "Avatar_Male_Claymore_Diluc_Kanban",
+        "Bip001",
+        "Bip001 Pelvis",
+        "Bip001 Spine",
+        "Bip001 Spine1",
+        "Bip001 Spine2",
+        "Bip001 R Clavicle",
+        "Bip001 R UpperArm",
+        "Bip001 R Forearm"
+      ]
+    },
+    "-5891166706188392356": {
+      "game_object": {
+        "file_id": 0,
+        "path_id": "6633261009211240979"
+      },
+      "local_rotation_xyzw": [
+        2.4396865683229407e-07,
+        -5.056050245144661e-09,
+        -0.41970542073249817,
+        0.9076604247093201
+      ],
+      "local_position": [
+        -0.03756856173276901,
+        1.1762591611841344e-07,
+        2.0511615517193604e-08
+      ],
+      "local_scale": [
+        0.9999999403953552,
+        1.0,
+        0.9999999403953552
+      ],
+      "children": [
+        {
+          "file_id": 0,
+          "path_id": "-7066155035456498134"
+        }
+      ],
+      "parent": {
+        "file_id": 0,
+        "path_id": "8755108384676762791"
+      },
+      "name": "Bip001 L Finger11",
+      "path_components": [
+        "Avatar_Male_Claymore_Diluc_Kanban",
+        "Bip001",
+        "Bip001 Pelvis",
+        "Bip001 Spine",
+        "Bip001 Spine1",
+        "Bip001 Spine2",
+        "Bip001 L Clavicle",
+        "Bip001 L UpperArm",
+        "Bip001 L Forearm",
+        "Bip001 L Hand",
+        "Bip001 L Finger1",
+        "Bip001 L Finger11"
+      ]
+    },
+    "-5593338581514979787": {
+      "game_object": {
+        "file_id": 0,
+        "path_id": "283545774615600292"
+      },
+      "local_rotation_xyzw": [
+        0.03157617896795273,
+        -0.022326244041323662,
+        -0.06955957412719727,
+        0.996828019618988
+      ],
+      "local_position": [
+        -0.4349653720855713,
+        2.575688640149565e-08,
+        6.752088665962219e-08
+      ],
+      "local_scale": [
+        1.0000001192092896,
+        1.0000001192092896,
+        1.0000001192092896
+      ],
+      "children": [
+        {
+          "file_id": 0,
+          "path_id": "4086470407308905164"
+        }
+      ],
+      "parent": {
+        "file_id": 0,
+        "path_id": "8699960657544763612"
+      },
+      "name": "Bip001 R Foot",
+      "path_components": [
+        "Avatar_Male_Claymore_Diluc_Kanban",
+        "Bip001",
+        "Bip001 Pelvis",
+        "Bip001 R Thigh",
+        "Bip001 R Calf",
+        "Bip001 R Foot"
+      ]
+    },
+    "-5576402902145670756": {
+      "game_object": {
+        "file_id": 0,
+        "path_id": "-4825007696655405282"
+      },
+      "local_rotation_xyzw": [
+        2.1683448721887544e-05,
+        -0.008076056838035583,
+        0.018977204337716103,
+        0.9997873306274414
+      ],
+      "local_position": [
+        -0.13850928843021393,
+        1.4877318790240679e-06,
+        -5.912780807193485e-07
+      ],
+      "local_scale": [
+        1.000001311302185,
+        0.9999983906745911,
+        0.9999999403953552
+      ],
+      "children": [],
+      "parent": {
+        "file_id": 0,
+        "path_id": "723647241834641068"
+      },
+      "name": "+SkirtF R B02",
+      "path_components": [
+        "Avatar_Male_Claymore_Diluc_Kanban",
+        "Bip001",
+        "Bip001 Pelvis",
+        "Bip001 Spine",
+        "+SkirtF R B01",
+        "+SkirtF R B02"
+      ]
+    },
+    "-5440816703695848389": {
+      "game_object": {
+        "file_id": 0,
+        "path_id": "-4049831842575756434"
+      },
+      "local_rotation_xyzw": [
+        -0.0,
+        -0.0,
+        -0.0,
+        1.0
+      ],
+      "local_position": [
+        0.0,
+        0.800000011920929,
+        0.0
+      ],
+      "local_scale": [
+        1.0,
+        1.0,
+        1.0
+      ],
+      "children": [],
+      "parent": {
+        "file_id": 0,
+        "path_id": "-6292552416593011793"
+      },
+      "name": "AttackCollider",
+      "path_components": [
+        "Avatar_Male_Claymore_Diluc_Kanban",
+        "AttackCollider"
+      ]
+    },
+    "-5304942968007451212": {
+      "game_object": {
+        "file_id": 0,
+        "path_id": "-812448324025918152"
+      },
+      "local_rotation_xyzw": [
+        -6.87194415149861e-07,
+        1.0841580433407216e-07,
+        0.4717938303947449,
+        -0.8817089200019836
+      ],
+      "local_position": [
+        -0.02034003660082817,
+        8.572680343377215e-10,
+        -5.6440843110294736e-08
+      ],
+      "local_scale": [
+        1.0,
+        1.0,
+        1.0
+      ],
+      "children": [
+        {
+          "file_id": 0,
+          "path_id": "-6584635132209141619"
+        }
+      ],
+      "parent": {
+        "file_id": 0,
+        "path_id": "1296386563776074736"
+      },
+      "name": "Bip001 R Finger42",
+      "path_components": [
+        "Avatar_Male_Claymore_Diluc_Kanban",
+        "Bip001",
+        "Bip001 Pelvis",
+        "Bip001 Spine",
+        "Bip001 Spine1",
+        "Bip001 Spine2",
+        "Bip001 R Clavicle",
+        "Bip001 R UpperArm",
+        "Bip001 R Forearm",
+        "Bip001 R Hand",
+        "Bip001 R Finger4",
+        "Bip001 R Finger41",
+        "Bip001 R Finger42"
+      ]
+    },
+    "-4800979415381975025": {
+      "game_object": {
+        "file_id": 0,
+        "path_id": "5000738926100968873"
+      },
+      "local_rotation_xyzw": [
+        -0.0,
+        -0.0,
+        -0.0,
+        1.0
+      ],
+      "local_position": [
+        0.0,
+        1.850000023841858,
+        0.0
+      ],
+      "local_scale": [
+        1.0,
+        1.0,
+        1.0
+      ],
+      "children": [],
+      "parent": {
+        "file_id": 0,
+        "path_id": "-6292552416593011793"
+      },
+      "name": "MoveHead",
+      "path_components": [
+        "Avatar_Male_Claymore_Diluc_Kanban",
+        "MoveHead"
+      ]
+    },
+    "-4468955737482754414": {
+      "game_object": {
+        "file_id": 0,
+        "path_id": "-6633148117930027144"
+      },
+      "local_rotation_xyzw": [
+        2.1855694143368964e-08,
+        0.0,
+        -0.0,
+        1.0
+      ],
+      "local_position": [
+        -0.0,
+        0.0,
+        0.0
+      ],
+      "local_scale": [
+        1.0,
+        1.0,
+        1.0
+      ],
+      "children": [],
+      "parent": {
+        "file_id": 0,
+        "path_id": "-6292552416593011793"
+      },
+      "name": "Face_Eye",
+      "path_components": [
+        "Avatar_Male_Claymore_Diluc_Kanban",
+        "Face_Eye"
+      ]
+    },
+    "-4334630938361284878": {
+      "game_object": {
+        "file_id": 0,
+        "path_id": "-6947516185803903321"
+      },
+      "local_rotation_xyzw": [
+        -0.0,
+        -0.0,
+        -0.0,
+        1.0
+      ],
+      "local_position": [
+        0.09600000083446503,
+        1.5,
+        0.003000000026077032
+      ],
+      "local_scale": [
+        1.0,
+        1.0,
+        1.0
+      ],
+      "children": [],
+      "parent": {
+        "file_id": 0,
+        "path_id": "-6292552416593011793"
+      },
+      "name": "FocusAnchor",
+      "path_components": [
+        "Avatar_Male_Claymore_Diluc_Kanban",
+        "FocusAnchor"
+      ]
+    },
+    "-4309507714414919104": {
+      "game_object": {
+        "file_id": 0,
+        "path_id": "6559002485041756979"
+      },
+      "local_rotation_xyzw": [
+        0.11273060739040375,
+        -0.028700033202767372,
+        -0.09920357167720795,
+        0.9882442951202393
+      ],
+      "local_position": [
+        -0.18804067373275757,
+        -0.017622996121644974,
+        -9.66247171163559e-09
+      ],
+      "local_scale": [
+        0.9999999403953552,
+        0.9999999403953552,
+        1.0
+      ],
+      "children": [
+        {
+          "file_id": 0,
+          "path_id": "5461207643137899433"
+        }
+      ],
+      "parent": {
+        "file_id": 0,
+        "path_id": "3899006346060575524"
+      },
+      "name": "Bip001 Neck",
+      "path_components": [
+        "Avatar_Male_Claymore_Diluc_Kanban",
+        "Bip001",
+        "Bip001 Pelvis",
+        "Bip001 Spine",
+        "Bip001 Spine1",
+        "Bip001 Spine2",
+        "Bip001 Neck"
+      ]
+    },
+    "-4299016129470148739": {
+      "game_object": {
+        "file_id": 0,
+        "path_id": "-3998544125874145353"
+      },
+      "local_rotation_xyzw": [
+        -0.01745772548019886,
+        0.014598661102354527,
+        -0.2729717493057251,
+        0.9617528915405273
+      ],
+      "local_position": [
+        -0.07856149971485138,
+        0.001301762880757451,
+        0.03458051383495331
+      ],
+      "local_scale": [
+        1.0,
+        0.9999998211860657,
+        1.0
+      ],
+      "children": [
+        {
+          "file_id": 0,
+          "path_id": "6075939188463090364"
+        }
+      ],
+      "parent": {
+        "file_id": 0,
+        "path_id": "-2339703120878983519"
+      },
+      "name": "Bip001 L Finger4",
+      "path_components": [
+        "Avatar_Male_Claymore_Diluc_Kanban",
+        "Bip001",
+        "Bip001 Pelvis",
+        "Bip001 Spine",
+        "Bip001 Spine1",
+        "Bip001 Spine2",
+        "Bip001 L Clavicle",
+        "Bip001 L UpperArm",
+        "Bip001 L Forearm",
+        "Bip001 L Hand",
+        "Bip001 L Finger4"
+      ]
+    },
+    "-4197795710254619760": {
+      "game_object": {
+        "file_id": 0,
+        "path_id": "9161542268174165861"
+      },
+      "local_rotation_xyzw": [
+        -0.0,
+        -0.0,
+        -0.0,
+        1.0
+      ],
+      "local_position": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "local_scale": [
+        1.0,
+        1.0,
+        1.0
+      ],
+      "children": [
+        {
+          "file_id": 0,
+          "path_id": "4550070432671540793"
+        },
+        {
+          "file_id": 0,
+          "path_id": "313475074246277408"
+        },
+        {
+          "file_id": 0,
+          "path_id": "-2782311078833269671"
+        }
+      ],
+      "parent": {
+        "file_id": 0,
+        "path_id": "-6292552416593011793"
+      },
+      "name": "Root",
+      "path_components": [
+        "Avatar_Male_Claymore_Diluc_Kanban",
+        "Root"
+      ]
+    },
+    "-4161971045533169876": {
+      "game_object": {
+        "file_id": 0,
+        "path_id": "-715536738286026946"
+      },
+      "local_rotation_xyzw": [
+        0.009836181998252869,
+        0.005995648447424173,
+        0.20093923807144165,
+        -0.9795359969139099
+      ],
+      "local_position": [
+        -0.09045851230621338,
+        -0.004438518080860376,
+        0.005725564435124397
+      ],
+      "local_scale": [
+        0.9999998211860657,
+        0.9999999403953552,
+        1.0000001192092896
+      ],
+      "children": [
+        {
+          "file_id": 0,
+          "path_id": "945026880955168632"
+        }
+      ],
+      "parent": {
+        "file_id": 0,
+        "path_id": "7317532008801178315"
+      },
+      "name": "Bip001 R Finger2",
+      "path_components": [
+        "Avatar_Male_Claymore_Diluc_Kanban",
+        "Bip001",
+        "Bip001 Pelvis",
+        "Bip001 Spine",
+        "Bip001 Spine1",
+        "Bip001 Spine2",
+        "Bip001 R Clavicle",
+        "Bip001 R UpperArm",
+        "Bip001 R Forearm",
+        "Bip001 R Hand",
+        "Bip001 R Finger2"
+      ]
+    },
+    "-4157895233801945898": {
+      "game_object": {
+        "file_id": 0,
+        "path_id": "-2184485734238919583"
+      },
+      "local_rotation_xyzw": [
+        -0.692863404750824,
+        0.7210688591003418,
+        -1.1075236017177303e-07,
+        -2.2422594270210539e-07
+      ],
+      "local_position": [
+        -0.002917175181210041,
+        0.07887080311775208,
+        6.153798040031688e-07
+      ],
+      "local_scale": [
+        1.0,
+        1.0,
+        1.0
+      ],
+      "children": [],
+      "parent": {
+        "file_id": 0,
+        "path_id": "5461207643137899433"
+      },
+      "name": "+ToothBone D A01",
+      "path_components": [
+        "Avatar_Male_Claymore_Diluc_Kanban",
+        "Bip001",
+        "Bip001 Pelvis",
+        "Bip001 Spine",
+        "Bip001 Spine1",
+        "Bip001 Spine2",
+        "Bip001 Neck",
+        "Bip001 Head",
+        "+ToothBone D A01"
+      ]
+    },
+    "-4096483873387962800": {
+      "game_object": {
+        "file_id": 0,
+        "path_id": "5884435221877218911"
+      },
+      "local_rotation_xyzw": [
+        0.604206919670105,
+        0.057888735085725784,
+        0.792610764503479,
+        0.0578886941075325
+      ],
+      "local_position": [
+        -0.15806618332862854,
+        -0.019765736535191536,
+        -0.0275449026376009
+      ],
+      "local_scale": [
+        1.0,
+        0.9999998807907104,
+        1.0
+      ],
+      "children": [
+        {
+          "file_id": 0,
+          "path_id": "6350768854910684131"
+        }
+      ],
+      "parent": {
+        "file_id": 0,
+        "path_id": "3899006346060575524"
+      },
+      "name": "Bip001 R Clavicle",
+      "path_components": [
+        "Avatar_Male_Claymore_Diluc_Kanban",
+        "Bip001",
+        "Bip001 Pelvis",
+        "Bip001 Spine",
+        "Bip001 Spine1",
+        "Bip001 Spine2",
+        "Bip001 R Clavicle"
+      ]
+    },
+    "-4093195960360231142": {
+      "game_object": {
+        "file_id": 0,
+        "path_id": "2936289676684879143"
+      },
+      "local_rotation_xyzw": [
+        0.6462686657905579,
+        0.060883019119501114,
+        -0.7582370042800903,
+        -0.06088303029537201
+      ],
+      "local_position": [
+        -0.15806616842746735,
+        -0.01976590044796467,
+        0.02754477597773075
+      ],
+      "local_scale": [
+        1.0000001192092896,
+        0.9999999403953552,
+        0.9999999403953552
+      ],
+      "children": [
+        {
+          "file_id": 0,
+          "path_id": "-6218925977574660361"
+        }
+      ],
+      "parent": {
+        "file_id": 0,
+        "path_id": "3899006346060575524"
+      },
+      "name": "Bip001 L Clavicle",
+      "path_components": [
+        "Avatar_Male_Claymore_Diluc_Kanban",
+        "Bip001",
+        "Bip001 Pelvis",
+        "Bip001 Spine",
+        "Bip001 Spine1",
+        "Bip001 Spine2",
+        "Bip001 L Clavicle"
+      ]
+    },
+    "-3939192468857622180": {
+      "game_object": {
+        "file_id": 0,
+        "path_id": "-2895406849604891244"
+      },
+      "local_rotation_xyzw": [
+        1.6705148198070674e-07,
+        3.227400569016936e-08,
+        -0.4861624240875244,
+        0.873868465423584
+      ],
+      "local_position": [
+        -0.03855341672897339,
+        -1.6249055434514048e-09,
+        5.073915065878509e-09
+      ],
+      "local_scale": [
+        1.0,
+        0.9999999403953552,
+        0.9999999403953552
+      ],
+      "children": [
+        {
+          "file_id": 0,
+          "path_id": "-2101748294929659853"
+        }
+      ],
+      "parent": {
+        "file_id": 0,
+        "path_id": "8831086354021861489"
+      },
+      "name": "Bip001 L Finger31",
+      "path_components": [
+        "Avatar_Male_Claymore_Diluc_Kanban",
+        "Bip001",
+        "Bip001 Pelvis",
+        "Bip001 Spine",
+        "Bip001 Spine1",
+        "Bip001 Spine2",
+        "Bip001 L Clavicle",
+        "Bip001 L UpperArm",
+        "Bip001 L Forearm",
+        "Bip001 L Hand",
+        "Bip001 L Finger3",
+        "Bip001 L Finger31"
+      ]
+    },
+    "-3821171427926800004": {
+      "game_object": {
+        "file_id": 0,
+        "path_id": "-9064304807348017429"
+      },
+      "local_rotation_xyzw": [
+        0.9373756051063538,
+        0.13356296718120575,
+        -0.18872962892055511,
+        0.26051703095436096
+      ],
+      "local_position": [
+        -0.2384556531906128,
+        -0.03089599497616291,
+        0.049081187695264816
+      ],
+      "local_scale": [
+        1.0000003576278687,
+        1.0000001192092896,
+        0.9999999403953552
+      ],
+      "children": [],
+      "parent": {
+        "file_id": 0,
+        "path_id": "3899006346060575524"
+      },
+      "name": "+CollarS L D01",
+      "path_components": [
+        "Avatar_Male_Claymore_Diluc_Kanban",
+        "Bip001",
+        "Bip001 Pelvis",
+        "Bip001 Spine",
+        "Bip001 Spine1",
+        "Bip001 Spine2",
+        "+CollarS L D01"
+      ]
+    },
+    "-3760936705019616566": {
+      "game_object": {
+        "file_id": 0,
+        "path_id": "2972986117512713811"
+      },
+      "local_rotation_xyzw": [
+        -0.9997957348823547,
+        0.018755042925477028,
+        -0.007449683733284473,
+        0.001105084316805005
+      ],
+      "local_position": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "local_scale": [
+        1.0000101327896118,
+        1.0,
+        0.9999899864196777
+      ],
+      "children": [],
+      "parent": {
+        "file_id": 0,
+        "path_id": "6350768854910684131"
+      },
+      "name": "+UpperArmTwist R A01",
+      "path_components": [
+        "Avatar_Male_Claymore_Diluc_Kanban",
+        "Bip001",
+        "Bip001 Pelvis",
+        "Bip001 Spine",
+        "Bip001 Spine1",
+        "Bip001 Spine2",
+        "Bip001 R Clavicle",
+        "Bip001 R UpperArm",
+        "+UpperArmTwist R A01"
+      ]
+    },
+    "-3644345544456173528": {
+      "game_object": {
+        "file_id": 0,
+        "path_id": "8805787550393836755"
+      },
+      "local_rotation_xyzw": [
+        0.09579575061798096,
+        -0.5395015478134155,
+        0.8292376399040222,
+        0.11011902987957001
+      ],
+      "local_position": [
+        0.002999267540872097,
+        -0.054759662598371506,
+        -0.13548609614372253
+      ],
+      "local_scale": [
+        0.9999914765357971,
+        1.0000089406967163,
+        0.9999994039535522
+      ],
+      "children": [
+        {
+          "file_id": 0,
+          "path_id": "7728524044328623255"
+        }
+      ],
+      "parent": {
+        "file_id": 0,
+        "path_id": "7491348154537083011"
+      },
+      "name": "+SkirtS R B01",
+      "path_components": [
+        "Avatar_Male_Claymore_Diluc_Kanban",
+        "Bip001",
+        "Bip001 Pelvis",
+        "Bip001 Spine",
+        "+SkirtS R B01"
+      ]
+    },
+    "-3632185233183067666": {
+      "game_object": {
+        "file_id": 0,
+        "path_id": "-7212740291797915128"
+      },
+      "local_rotation_xyzw": [
+        0.937378466129303,
+        0.13355524837970734,
+        0.18874670565128326,
+        -0.26049819588661194
+      ],
+      "local_position": [
+        -0.2384556531906128,
+        -0.030896740034222603,
+        -0.04907890781760216
+      ],
+      "local_scale": [
+        0.9999975562095642,
+        1.0000025033950806,
+        0.9999998807907104
+      ],
+      "children": [],
+      "parent": {
+        "file_id": 0,
+        "path_id": "3899006346060575524"
+      },
+      "name": "+CollarS R D01",
+      "path_components": [
+        "Avatar_Male_Claymore_Diluc_Kanban",
+        "Bip001",
+        "Bip001 Pelvis",
+        "Bip001 Spine",
+        "Bip001 Spine1",
+        "Bip001 Spine2",
+        "+CollarS R D01"
+      ]
+    },
+    "-3432103224847789948": {
+      "game_object": {
+        "file_id": 0,
+        "path_id": "-6834980305305152992"
+      },
+      "local_rotation_xyzw": [
+        0.04521183297038078,
+        -0.1881839632987976,
+        0.9737697243690491,
+        0.11964631080627441
+      ],
+      "local_position": [
+        0.0064118956215679646,
+        -0.12124886363744736,
+        -0.05394145846366882
+      ],
+      "local_scale": [
+        0.9999997019767761,
+        0.9999967813491821,
+        1.0000038146972656
+      ],
+      "children": [
+        {
+          "file_id": 0,
+          "path_id": "-85692430414978929"
+        }
+      ],
+      "parent": {
+        "file_id": 0,
+        "path_id": "7491348154537083011"
+      },
+      "name": "+SkirtB R B01",
+      "path_components": [
+        "Avatar_Male_Claymore_Diluc_Kanban",
+        "Bip001",
+        "Bip001 Pelvis",
+        "Bip001 Spine",
+        "+SkirtB R B01"
+      ]
+    },
+    "-3094034556881723895": {
+      "game_object": {
+        "file_id": 0,
+        "path_id": "-5564843391339106515"
+      },
+      "local_rotation_xyzw": [
+        2.0428092994961844e-08,
+        2.8476441116254136e-07,
+        0.974721372127533,
+        0.22342395782470703
+      ],
+      "local_position": [
+        -0.027944335713982582,
+        -0.07945634424686432,
+        -2.9103828722010228e-12
+      ],
+      "local_scale": [
+        0.9999933242797852,
+        1.0000070333480835,
+        1.0
+      ],
+      "children": [
+        {
+          "file_id": 0,
+          "path_id": "5739632813813358029"
+        }
+      ],
+      "parent": {
+        "file_id": 0,
+        "path_id": "5461207643137899433"
+      },
+      "name": "+HairB CB A01",
+      "path_components": [
+        "Avatar_Male_Claymore_Diluc_Kanban",
+        "Bip001",
+        "Bip001 Pelvis",
+        "Bip001 Spine",
+        "Bip001 Spine1",
+        "Bip001 Spine2",
+        "Bip001 Neck",
+        "Bip001 Head",
+        "+HairB CB A01"
+      ]
+    },
+    "-3044803089626443061": {
+      "game_object": {
+        "file_id": 0,
+        "path_id": "-4479154832910324068"
+      },
+      "local_rotation_xyzw": [
+        -2.0589014937399952e-08,
+        -1.8626414188815943e-08,
+        0.7069994807243347,
+        -0.7072141170501709
+      ],
+      "local_position": [
+        -0.09252917021512985,
+        0.1363045871257782,
+        0.002016083337366581
+      ],
+      "local_scale": [
+        0.9999999403953552,
+        1.0,
+        0.9999999403953552
+      ],
+      "children": [
+        {
+          "file_id": 0,
+          "path_id": "-8901921515646995728"
+        }
+      ],
+      "parent": {
+        "file_id": 0,
+        "path_id": "-2433688975317566472"
+      },
+      "name": "Bip001 L Toe0",
+      "path_components": [
+        "Avatar_Male_Claymore_Diluc_Kanban",
+        "Bip001",
+        "Bip001 Pelvis",
+        "Bip001 L Thigh",
+        "Bip001 L Calf",
+        "Bip001 L Foot",
+        "Bip001 L Toe0"
+      ]
+    },
+    "-2960192383458315167": {
+      "game_object": {
+        "file_id": 0,
+        "path_id": "-1567640004141843575"
+      },
+      "local_rotation_xyzw": [
+        0.5019261837005615,
+        0.49957337975502014,
+        -0.498295396566391,
+        0.5001981854438782
+      ],
+      "local_position": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "local_scale": [
+        1.0000309944152832,
+        0.9999691247940063,
+        1.0
+      ],
+      "children": [],
+      "parent": {
+        "file_id": 0,
+        "path_id": "8166208749733471185"
+      },
+      "name": "+PelvisTwist CF A01",
+      "path_components": [
+        "Avatar_Male_Claymore_Diluc_Kanban",
+        "Bip001",
+        "+PelvisTwist CF A01"
+      ]
+    },
+    "-2899177760392819894": {
+      "game_object": {
+        "file_id": 0,
+        "path_id": "5592485884441273164"
+      },
+      "local_rotation_xyzw": [
+        -3.725290298461914e-09,
+        -3.7252898543727042e-09,
+        1.0,
+        1.4901161193847656e-08
+      ],
+      "local_position": [
+        -0.025044402107596397,
+        0.0,
+        4.76837147544984e-09
+      ],
+      "local_scale": [
+        -1.0,
+        -1.0000001192092896,
+        -1.0000001192092896
+      ],
+      "children": [],
+      "parent": {
+        "file_id": 0,
+        "path_id": "301346586051765140"
+      },
+      "name": "Bip001 R Finger3Nub",
+      "path_components": [
+        "Avatar_Male_Claymore_Diluc_Kanban",
+        "Bip001",
+        "Bip001 Pelvis",
+        "Bip001 Spine",
+        "Bip001 Spine1",
+        "Bip001 Spine2",
+        "Bip001 R Clavicle",
+        "Bip001 R UpperArm",
+        "Bip001 R Forearm",
+        "Bip001 R Hand",
+        "Bip001 R Finger3",
+        "Bip001 R Finger31",
+        "Bip001 R Finger32",
+        "Bip001 R Finger3Nub"
+      ]
+    },
+    "-2782311078833269671": {
+      "game_object": {
+        "file_id": 0,
+        "path_id": "5350436573018500000"
+      },
+      "local_rotation_xyzw": [
+        0.7077537178993225,
+        0.7064579129219055,
+        -0.0009775171056389809,
+        -0.0009775171056389809
+      ],
+      "local_position": [
+        0.5,
+        1.0,
+        -1.4999997688391886e-07
+      ],
+      "local_scale": [
+        1.0,
+        1.0,
+        1.0
+      ],
+      "children": [],
+      "parent": {
+        "file_id": 0,
+        "path_id": "-4197795710254619760"
+      },
+      "name": "CatalystR",
+      "path_components": [
+        "Avatar_Male_Claymore_Diluc_Kanban",
+        "Root",
+        "CatalystR"
+      ]
+    },
+    "-2498428286812001567": {
+      "game_object": {
+        "file_id": 0,
+        "path_id": "5575751886183242911"
+      },
+      "local_rotation_xyzw": [
+        0.09142757207155228,
+        0.9813032746315002,
+        -0.1690840870141983,
+        0.009777753613889217
+      ],
+      "local_position": [
+        -1.1920931797249068e-07,
+        -3.179643925932396e-08,
+        -0.07267647981643677
+      ],
+      "local_scale": [
+        0.9999999403953552,
+        1.0,
+        0.9999999403953552
+      ],
+      "children": [
+        {
+          "file_id": 0,
+          "path_id": "8699960657544763612"
+        }
+      ],
+      "parent": {
+        "file_id": 0,
+        "path_id": "3521577355142387332"
+      },
+      "name": "Bip001 R Thigh",
+      "path_components": [
+        "Avatar_Male_Claymore_Diluc_Kanban",
+        "Bip001",
+        "Bip001 Pelvis",
+        "Bip001 R Thigh"
+      ]
+    },
+    "-2467099677098357924": {
+      "game_object": {
+        "file_id": 0,
+        "path_id": "9106886071836669646"
+      },
+      "local_rotation_xyzw": [
+        2.1855694143368964e-08,
+        0.0,
+        -0.0,
+        1.0
+      ],
+      "local_position": [
+        -0.0,
+        0.0,
+        0.0
+      ],
+      "local_scale": [
+        1.0,
+        1.0,
+        1.0
+      ],
+      "children": [],
+      "parent": {
+        "file_id": 0,
+        "path_id": "-6292552416593011793"
+      },
+      "name": "EffectMesh",
+      "path_components": [
+        "Avatar_Male_Claymore_Diluc_Kanban",
+        "EffectMesh"
+      ]
+    },
+    "-2433688975317566472": {
+      "game_object": {
+        "file_id": 0,
+        "path_id": "6372694793890169301"
+      },
+      "local_rotation_xyzw": [
+        -8.731419853802436e-08,
+        0.05663900822401047,
+        -0.01848556287586689,
+        0.9982236623764038
+      ],
+      "local_position": [
+        -0.43496543169021606,
+        3.332388942567377e-08,
+        5.6030483364111205e-08
+      ],
+      "local_scale": [
+        0.9999999403953552,
+        1.0,
+        0.9999999403953552
+      ],
+      "children": [
+        {
+          "file_id": 0,
+          "path_id": "-3044803089626443061"
+        }
+      ],
+      "parent": {
+        "file_id": 0,
+        "path_id": "-1400199481021602623"
+      },
+      "name": "Bip001 L Foot",
+      "path_components": [
+        "Avatar_Male_Claymore_Diluc_Kanban",
+        "Bip001",
+        "Bip001 Pelvis",
+        "Bip001 L Thigh",
+        "Bip001 L Calf",
+        "Bip001 L Foot"
+      ]
+    },
+    "-2339703120878983519": {
+      "game_object": {
+        "file_id": 0,
+        "path_id": "-6419253308021505513"
+      },
+      "local_rotation_xyzw": [
+        0.7246382832527161,
+        0.03913778439164162,
+        0.0487997867166996,
+        -0.6862844228744507
+      ],
+      "local_position": [
+        -0.23070096969604492,
+        -2.7939681679356454e-09,
+        0.0002819700166583061
+      ],
+      "local_scale": [
+        1.0000001192092896,
+        1.0000001192092896,
+        1.0
+      ],
+      "children": [
+        {
+          "file_id": 0,
+          "path_id": "8755108384676762791"
+        },
+        {
+          "file_id": 0,
+          "path_id": "-7306665827040285109"
+        },
+        {
+          "file_id": 0,
+          "path_id": "8831086354021861489"
+        },
+        {
+          "file_id": 0,
+          "path_id": "-4299016129470148739"
+        },
+        {
+          "file_id": 0,
+          "path_id": "859129412401956317"
+        },
+        {
+          "file_id": 0,
+          "path_id": "8793278787892661084"
+        }
+      ],
+      "parent": {
+        "file_id": 0,
+        "path_id": "6315709349128283050"
+      },
+      "name": "Bip001 L Hand",
+      "path_components": [
+        "Avatar_Male_Claymore_Diluc_Kanban",
+        "Bip001",
+        "Bip001 Pelvis",
+        "Bip001 Spine",
+        "Bip001 Spine1",
+        "Bip001 Spine2",
+        "Bip001 L Clavicle",
+        "Bip001 L UpperArm",
+        "Bip001 L Forearm",
+        "Bip001 L Hand"
+      ]
+    },
+    "-2101748294929659853": {
+      "game_object": {
+        "file_id": 0,
+        "path_id": "-4498886989423241163"
+      },
+      "local_rotation_xyzw": [
+        1.698190175147829e-07,
+        1.4595055830568526e-08,
+        -0.39290449023246765,
+        0.919579267501831
+      ],
+      "local_position": [
+        -0.030572891235351562,
+        -1.2885515987548501e-09,
+        1.0831516239484529e-10
+      ],
+      "local_scale": [
+        1.0,
+        1.0,
+        1.0
+      ],
+      "children": [
+        {
+          "file_id": 0,
+          "path_id": "-6831226938691399907"
+        }
+      ],
+      "parent": {
+        "file_id": 0,
+        "path_id": "-3939192468857622180"
+      },
+      "name": "Bip001 L Finger32",
+      "path_components": [
+        "Avatar_Male_Claymore_Diluc_Kanban",
+        "Bip001",
+        "Bip001 Pelvis",
+        "Bip001 Spine",
+        "Bip001 Spine1",
+        "Bip001 Spine2",
+        "Bip001 L Clavicle",
+        "Bip001 L UpperArm",
+        "Bip001 L Forearm",
+        "Bip001 L Hand",
+        "Bip001 L Finger3",
+        "Bip001 L Finger31",
+        "Bip001 L Finger32"
+      ]
+    },
+    "-1927001886111049875": {
+      "game_object": {
+        "file_id": 0,
+        "path_id": "4776716093478802771"
+      },
+      "local_rotation_xyzw": [
+        2.1855694143368964e-08,
+        0.0,
+        -0.0,
+        1.0
+      ],
+      "local_position": [
+        -0.0,
+        0.0,
+        0.0
+      ],
+      "local_scale": [
+        1.0,
+        1.0,
+        1.0
+      ],
+      "children": [],
+      "parent": {
+        "file_id": 0,
+        "path_id": "-6292552416593011793"
+      },
+      "name": "Face",
+      "path_components": [
+        "Avatar_Male_Claymore_Diluc_Kanban",
+        "Face"
+      ]
+    },
+    "-1641542689205109422": {
+      "game_object": {
+        "file_id": 0,
+        "path_id": "-1716896156410146230"
+      },
+      "local_rotation_xyzw": [
+        -2.399585525836301e-07,
+        -5.6655098390479e-09,
+        0.33823224902153015,
+        -0.9410626888275146
+      ],
+      "local_position": [
+        -0.031145885586738586,
+        1.312700059763472e-09,
+        -2.2569197621891135e-09
+      ],
+      "local_scale": [
+        0.9999999403953552,
+        1.0,
+        1.0
+      ],
+      "children": [
+        {
+          "file_id": 0,
+          "path_id": "-1152565499590836054"
+        }
+      ],
+      "parent": {
+        "file_id": 0,
+        "path_id": "945026880955168632"
+      },
+      "name": "Bip001 R Finger22",
+      "path_components": [
+        "Avatar_Male_Claymore_Diluc_Kanban",
+        "Bip001",
+        "Bip001 Pelvis",
+        "Bip001 Spine",
+        "Bip001 Spine1",
+        "Bip001 Spine2",
+        "Bip001 R Clavicle",
+        "Bip001 R UpperArm",
+        "Bip001 R Forearm",
+        "Bip001 R Hand",
+        "Bip001 R Finger2",
+        "Bip001 R Finger21",
+        "Bip001 R Finger22"
+      ]
+    },
+    "-1581456732716320743": {
+      "game_object": {
+        "file_id": 0,
+        "path_id": "7112544883720567802"
+      },
+      "local_rotation_xyzw": [
+        -0.019527100026607513,
+        0.012240773066878319,
+        0.2899923324584961,
+        -0.9567514657974243
+      ],
+      "local_position": [
+        -0.07856156677007675,
+        0.0013017695164307952,
+        -0.03458048775792122
+      ],
+      "local_scale": [
+        1.0000001192092896,
+        0.9999998807907104,
+        1.0000001192092896
+      ],
+      "children": [
+        {
+          "file_id": 0,
+          "path_id": "1296386563776074736"
+        }
+      ],
+      "parent": {
+        "file_id": 0,
+        "path_id": "7317532008801178315"
+      },
+      "name": "Bip001 R Finger4",
+      "path_components": [
+        "Avatar_Male_Claymore_Diluc_Kanban",
+        "Bip001",
+        "Bip001 Pelvis",
+        "Bip001 Spine",
+        "Bip001 Spine1",
+        "Bip001 Spine2",
+        "Bip001 R Clavicle",
+        "Bip001 R UpperArm",
+        "Bip001 R Forearm",
+        "Bip001 R Hand",
+        "Bip001 R Finger4"
+      ]
+    },
+    "-1400199481021602623": {
+      "game_object": {
+        "file_id": 0,
+        "path_id": "-7523473398380560170"
+      },
+      "local_rotation_xyzw": [
+        -9.592622518539429e-08,
+        -1.4901161193847656e-07,
+        0.03556491807103157,
+        0.999367356300354
+      ],
+      "local_position": [
+        -0.5220756530761719,
+        1.1548398504146462e-07,
+        8.940696716308594e-08
+      ],
+      "local_scale": [
+        1.0,
+        0.9999999403953552,
+        0.9999999403953552
+      ],
+      "children": [
+        {
+          "file_id": 0,
+          "path_id": "-2433688975317566472"
+        },
+        {
+          "file_id": 0,
+          "path_id": "6077888956180349617"
+        },
+        {
+          "file_id": 0,
+          "path_id": "-7597428224556253331"
+        }
+      ],
+      "parent": {
+        "file_id": 0,
+        "path_id": "9095674204179332953"
+      },
+      "name": "Bip001 L Calf",
+      "path_components": [
+        "Avatar_Male_Claymore_Diluc_Kanban",
+        "Bip001",
+        "Bip001 Pelvis",
+        "Bip001 L Thigh",
+        "Bip001 L Calf"
+      ]
+    },
+    "-1399631060231889546": {
+      "game_object": {
+        "file_id": 0,
+        "path_id": "2100194164509156843"
+      },
+      "local_rotation_xyzw": [
+        3.7624658943968825e-08,
+        -2.013149185131624e-07,
+        -0.003937965724617243,
+        0.9999922513961792
+      ],
+      "local_position": [
+        -0.07713775336742401,
+        7.820129326319147e-07,
+        -7.629394360719743e-08
+      ],
+      "local_scale": [
+        1.0000022649765015,
+        0.9999977350234985,
+        1.0
+      ],
+      "children": [
+        {
+          "file_id": 0,
+          "path_id": "-7922005166585331324"
+        }
+      ],
+      "parent": {
+        "file_id": 0,
+        "path_id": "-7488187266419224554"
+      },
+      "name": "+VisionPelvisS L B02",
+      "path_components": [
+        "Avatar_Male_Claymore_Diluc_Kanban",
+        "Bip001",
+        "Bip001 Pelvis",
+        "+VisionPelvisS L B01",
+        "+VisionPelvisS L B02"
+      ]
+    },
+    "-1323363234237957939": {
+      "game_object": {
+        "file_id": 0,
+        "path_id": "-931472425819224467"
+      },
+      "local_rotation_xyzw": [
+        3.246367123210803e-05,
+        -0.0010237839305773377,
+        0.02871786803007126,
+        0.9995870590209961
+      ],
+      "local_position": [
+        -0.1363092064857483,
+        2.174377414121409e-06,
+        2.849101861102099e-07
+      ],
+      "local_scale": [
+        0.9999966025352478,
+        1.000003457069397,
+        0.9999997019767761
+      ],
+      "children": [],
+      "parent": {
+        "file_id": 0,
+        "path_id": "7728524044328623255"
+      },
+      "name": "+SkirtS R B03",
+      "path_components": [
+        "Avatar_Male_Claymore_Diluc_Kanban",
+        "Bip001",
+        "Bip001 Pelvis",
+        "Bip001 Spine",
+        "+SkirtS R B01",
+        "+SkirtS R B02",
+        "+SkirtS R B03"
+      ]
+    },
+    "-1295412641902401813": {
+      "game_object": {
+        "file_id": 0,
+        "path_id": "9038323154197081411"
+      },
+      "local_rotation_xyzw": [
+        -0.688229501247406,
+        0.7254931330680847,
+        -1.8627555675720942e-07,
+        -3.0606003065258847e-07
+      ],
+      "local_position": [
+        -0.008973540738224983,
+        0.07878610491752625,
+        6.098419476074923e-07
+      ],
+      "local_scale": [
+        1.0,
+        1.0,
+        1.0
+      ],
+      "children": [],
+      "parent": {
+        "file_id": 0,
+        "path_id": "5461207643137899433"
+      },
+      "name": "+ToothBone U A01",
+      "path_components": [
+        "Avatar_Male_Claymore_Diluc_Kanban",
+        "Bip001",
+        "Bip001 Pelvis",
+        "Bip001 Spine",
+        "Bip001 Spine1",
+        "Bip001 Spine2",
+        "Bip001 Neck",
+        "Bip001 Head",
+        "+ToothBone U A01"
+      ]
+    },
+    "-1182813831845122385": {
+      "game_object": {
+        "file_id": 0,
+        "path_id": "2404262518731863984"
+      },
+      "local_rotation_xyzw": [
+        0.0,
+        -0.0,
+        -0.0,
+        1.0
+      ],
+      "local_position": [
+        -0.0303836427628994,
+        7.629394360719743e-08,
+        3.814697180359872e-08
+      ],
+      "local_scale": [
+        1.0,
+        1.0,
+        1.0
+      ],
+      "children": [],
+      "parent": {
+        "file_id": 0,
+        "path_id": "8939640010804722484"
+      },
+      "name": "Bip001 L Finger0Nub",
+      "path_components": [
+        "Avatar_Male_Claymore_Diluc_Kanban",
+        "Bip001",
+        "Bip001 Pelvis",
+        "Bip001 Spine",
+        "Bip001 Spine1",
+        "Bip001 Spine2",
+        "Bip001 L Clavicle",
+        "Bip001 L UpperArm",
+        "Bip001 L Forearm",
+        "Bip001 L Hand",
+        "DMZ L 01",
+        "DMZ L 02",
+        "DMZ L 03",
+        "Bip001 L Finger0Nub"
+      ]
+    },
+    "-1152565499590836054": {
+      "game_object": {
+        "file_id": 0,
+        "path_id": "8267908674760913097"
+      },
+      "local_rotation_xyzw": [
+        0.0,
+        -0.0,
+        1.0,
+        1.4901161193847656e-08
+      ],
+      "local_position": [
+        -0.028212012723088264,
+        0.0,
+        3.5762786065873797e-09
+      ],
+      "local_scale": [
+        -1.0,
+        -0.9999999403953552,
+        -1.0
+      ],
+      "children": [],
+      "parent": {
+        "file_id": 0,
+        "path_id": "-1641542689205109422"
+      },
+      "name": "Bip001 R Finger2Nub",
+      "path_components": [
+        "Avatar_Male_Claymore_Diluc_Kanban",
+        "Bip001",
+        "Bip001 Pelvis",
+        "Bip001 Spine",
+        "Bip001 Spine1",
+        "Bip001 Spine2",
+        "Bip001 R Clavicle",
+        "Bip001 R UpperArm",
+        "Bip001 R Forearm",
+        "Bip001 R Hand",
+        "Bip001 R Finger2",
+        "Bip001 R Finger21",
+        "Bip001 R Finger22",
+        "Bip001 R Finger2Nub"
+      ]
+    },
+    "-1076096665895493161": {
+      "game_object": {
+        "file_id": 0,
+        "path_id": "-438549026162623017"
+      },
+      "local_rotation_xyzw": [
+        1.655832056712825e-05,
+        1.3711043038711068e-06,
+        0.025351664051413536,
+        0.9996786117553711
+      ],
+      "local_position": [
+        -0.14013183116912842,
+        -6.866454782539222e-07,
+        5.29289252426679e-07
+      ],
+      "local_scale": [
+        0.9999977350234985,
+        1.0000017881393433,
+        1.0000001192092896
+      ],
+      "children": [],
+      "parent": {
+        "file_id": 0,
+        "path_id": "-8800713966289172739"
+      },
+      "name": "+SkirtB R B04",
+      "path_components": [
+        "Avatar_Male_Claymore_Diluc_Kanban",
+        "Bip001",
+        "Bip001 Pelvis",
+        "Bip001 Spine",
+        "+SkirtB R B01",
+        "+SkirtB R B02",
+        "+SkirtB R B03",
+        "+SkirtB R B04"
+      ]
+    },
+    "-1024938085326705714": {
+      "game_object": {
+        "file_id": 0,
+        "path_id": "-7784370810289787470"
+      },
+      "local_rotation_xyzw": [
+        -0.7974269986152649,
+        -0.08019949495792389,
+        -0.3187940716743469,
+        0.5060124397277832
+      ],
+      "local_position": [
+        -0.18906767666339874,
+        0.024271488189697266,
+        -0.0794234573841095
+      ],
+      "local_scale": [
+        1.0,
+        1.0000015497207642,
+        0.9999985098838806
+      ],
+      "children": [],
+      "parent": {
+        "file_id": 0,
+        "path_id": "3899006346060575524"
+      },
+      "name": "+CollarS R C01",
+      "path_components": [
+        "Avatar_Male_Claymore_Diluc_Kanban",
+        "Bip001",
+        "Bip001 Pelvis",
+        "Bip001 Spine",
+        "Bip001 Spine1",
+        "Bip001 Spine2",
+        "+CollarS R C01"
+      ]
+    },
+    "-256605910200572875": {
+      "game_object": {
+        "file_id": 0,
+        "path_id": "6795793402372841865"
+      },
+      "local_rotation_xyzw": [
+        2.1855694143368964e-08,
+        0.0,
+        -0.0,
+        1.0
+      ],
+      "local_position": [
+        -0.0,
+        0.0,
+        0.0
+      ],
+      "local_scale": [
+        1.0,
+        1.0,
+        1.0
+      ],
+      "children": [],
+      "parent": {
+        "file_id": 0,
+        "path_id": "-6292552416593011793"
+      },
+      "name": "Body",
+      "path_components": [
+        "Avatar_Male_Claymore_Diluc_Kanban",
+        "Body"
+      ]
+    },
+    "-85692430414978929": {
+      "game_object": {
+        "file_id": 0,
+        "path_id": "-6433827085419148869"
+      },
+      "local_rotation_xyzw": [
+        0.00015549673116765916,
+        0.005127162206918001,
+        0.020879672840237617,
+        0.999768853187561
+      ],
+      "local_position": [
+        -0.14059676229953766,
+        -1.1444091541079615e-07,
+        3.147125084979052e-07
+      ],
+      "local_scale": [
+        1.000001072883606,
+        0.9999989867210388,
+        1.000000238418579
+      ],
+      "children": [
+        {
+          "file_id": 0,
+          "path_id": "-8800713966289172739"
+        }
+      ],
+      "parent": {
+        "file_id": 0,
+        "path_id": "-3432103224847789948"
+      },
+      "name": "+SkirtB R B02",
+      "path_components": [
+        "Avatar_Male_Claymore_Diluc_Kanban",
+        "Bip001",
+        "Bip001 Pelvis",
+        "Bip001 Spine",
+        "+SkirtB R B01",
+        "+SkirtB R B02"
+      ]
+    },
+    "-78411760324282256": {
+      "game_object": {
+        "file_id": 0,
+        "path_id": "5416832089431556769"
+      },
+      "local_rotation_xyzw": [
+        1.7082604131246626e-07,
+        4.4310759506061e-09,
+        -0.3382161855697632,
+        0.9410684704780579
+      ],
+      "local_position": [
+        -0.03114575520157814,
+        1.1789667553330219e-07,
+        -2.0376947351685715e-10
+      ],
+      "local_scale": [
+        1.0000001192092896,
+        1.0,
+        1.0000001192092896
+      ],
+      "children": [
+        {
+          "file_id": 0,
+          "path_id": "-6314174535665313817"
+        }
+      ],
+      "parent": {
+        "file_id": 0,
+        "path_id": "5799161677739789912"
+      },
+      "name": "Bip001 L Finger22",
+      "path_components": [
+        "Avatar_Male_Claymore_Diluc_Kanban",
+        "Bip001",
+        "Bip001 Pelvis",
+        "Bip001 Spine",
+        "Bip001 Spine1",
+        "Bip001 Spine2",
+        "Bip001 L Clavicle",
+        "Bip001 L UpperArm",
+        "Bip001 L Forearm",
+        "Bip001 L Hand",
+        "Bip001 L Finger2",
+        "Bip001 L Finger21",
+        "Bip001 L Finger22"
+      ]
+    },
+    "301346586051765140": {
+      "game_object": {
+        "file_id": 0,
+        "path_id": "153947602421262739"
+      },
+      "local_rotation_xyzw": [
+        -2.495452235962148e-07,
+        -1.621306111587728e-08,
+        0.3928869664669037,
+        -0.9195868372917175
+      ],
+      "local_position": [
+        -0.03057297319173813,
+        1.2885533751116895e-09,
+        -4.615350324144174e-09
+      ],
+      "local_scale": [
+        0.9999999403953552,
+        1.0,
+        1.0
+      ],
+      "children": [
+        {
+          "file_id": 0,
+          "path_id": "-2899177760392819894"
+        }
+      ],
+      "parent": {
+        "file_id": 0,
+        "path_id": "8717850818838673035"
+      },
+      "name": "Bip001 R Finger32",
+      "path_components": [
+        "Avatar_Male_Claymore_Diluc_Kanban",
+        "Bip001",
+        "Bip001 Pelvis",
+        "Bip001 Spine",
+        "Bip001 Spine1",
+        "Bip001 Spine2",
+        "Bip001 R Clavicle",
+        "Bip001 R UpperArm",
+        "Bip001 R Forearm",
+        "Bip001 R Hand",
+        "Bip001 R Finger3",
+        "Bip001 R Finger31",
+        "Bip001 R Finger32"
+      ]
+    },
+    "313475074246277408": {
+      "game_object": {
+        "file_id": 0,
+        "path_id": "-5084680051099677766"
+      },
+      "local_rotation_xyzw": [
+        -0.0019569473806768656,
+        -0.0009775172220543027,
+        0.706744909286499,
+        0.7074651718139648
+      ],
+      "local_position": [
+        -0.5,
+        1.0,
+        -1.4999997688391886e-07
+      ],
+      "local_scale": [
+        1.0,
+        1.0,
+        1.0
+      ],
+      "children": [],
+      "parent": {
+        "file_id": 0,
+        "path_id": "-4197795710254619760"
+      },
+      "name": "CatalystL",
+      "path_components": [
+        "Avatar_Male_Claymore_Diluc_Kanban",
+        "Root",
+        "CatalystL"
+      ]
+    },
+    "370583269452978654": {
+      "game_object": {
+        "file_id": 0,
+        "path_id": "2393223058089075728"
+      },
+      "local_rotation_xyzw": [
+        -2.5776725465220807e-07,
+        -8.330508727283359e-09,
+        0.37228140234947205,
+        -0.9281198978424072
+      ],
+      "local_position": [
+        -0.03756863996386528,
+        1.5833989674973736e-09,
+        8.692933484155674e-09
+      ],
+      "local_scale": [
+        1.0,
+        1.0000001192092896,
+        0.9999999403953552
+      ],
+      "children": [
+        {
+          "file_id": 0,
+          "path_id": "6542333215124220487"
+        }
+      ],
+      "parent": {
+        "file_id": 0,
+        "path_id": "-8425648469796315068"
+      },
+      "name": "Bip001 R Finger11",
+      "path_components": [
+        "Avatar_Male_Claymore_Diluc_Kanban",
+        "Bip001",
+        "Bip001 Pelvis",
+        "Bip001 Spine",
+        "Bip001 Spine1",
+        "Bip001 Spine2",
+        "Bip001 R Clavicle",
+        "Bip001 R UpperArm",
+        "Bip001 R Forearm",
+        "Bip001 R Hand",
+        "Bip001 R Finger1",
+        "Bip001 R Finger11"
+      ]
+    },
+    "706247564061551604": {
+      "game_object": {
+        "file_id": 0,
+        "path_id": "-5890800617397418753"
+      },
+      "local_rotation_xyzw": [
+        -0.09579835832118988,
+        0.5395036935806274,
+        0.8292344808578491,
+        0.11013001948595047
+      ],
+      "local_position": [
+        0.002998428186401725,
+        -0.05476009100675583,
+        0.13549047708511353
+      ],
+      "local_scale": [
+        0.9999999403953552,
+        1.0000112056732178,
+        0.9999889135360718
+      ],
+      "children": [
+        {
+          "file_id": 0,
+          "path_id": "5535777070028571614"
+        }
+      ],
+      "parent": {
+        "file_id": 0,
+        "path_id": "7491348154537083011"
+      },
+      "name": "+SkirtS L B01",
+      "path_components": [
+        "Avatar_Male_Claymore_Diluc_Kanban",
+        "Bip001",
+        "Bip001 Pelvis",
+        "Bip001 Spine",
+        "+SkirtS L B01"
+      ]
+    },
+    "723647241834641068": {
+      "game_object": {
+        "file_id": 0,
+        "path_id": "9213651047912146229"
+      },
+      "local_rotation_xyzw": [
+        -0.10596064478158951,
+        0.8329866528511047,
+        -0.5340902209281921,
+        -0.09825065732002258
+      ],
+      "local_position": [
+        -0.0009632110595703125,
+        0.04107584059238434,
+        -0.1355012059211731
+      ],
+      "local_scale": [
+        0.9999906420707703,
+        1.0000005960464478,
+        1.0000097751617432
+      ],
+      "children": [
+        {
+          "file_id": 0,
+          "path_id": "-5576402902145670756"
+        }
+      ],
+      "parent": {
+        "file_id": 0,
+        "path_id": "7491348154537083011"
+      },
+      "name": "+SkirtF R B01",
+      "path_components": [
+        "Avatar_Male_Claymore_Diluc_Kanban",
+        "Bip001",
+        "Bip001 Pelvis",
+        "Bip001 Spine",
+        "+SkirtF R B01"
+      ]
+    },
+    "768575824823820073": {
+      "game_object": {
+        "file_id": 0,
+        "path_id": "5193925431400269579"
+      },
+      "local_rotation_xyzw": [
+        -0.10597112774848938,
+        0.8329871892929077,
+        0.5340861082077026,
+        0.09825709462165833
+      ],
+      "local_position": [
+        -0.0009632110595703125,
+        0.0410754568874836,
+        0.13550589978694916
+      ],
+      "local_scale": [
+        0.9999997019767761,
+        1.000008463859558,
+        0.9999917149543762
+      ],
+      "children": [
+        {
+          "file_id": 0,
+          "path_id": "3983610768435100874"
+        }
+      ],
+      "parent": {
+        "file_id": 0,
+        "path_id": "7491348154537083011"
+      },
+      "name": "+SkirtF L B01",
+      "path_components": [
+        "Avatar_Male_Claymore_Diluc_Kanban",
+        "Bip001",
+        "Bip001 Pelvis",
+        "Bip001 Spine",
+        "+SkirtF L B01"
+      ]
+    },
+    "859129412401956317": {
+      "game_object": {
+        "file_id": 0,
+        "path_id": "-348689668293873054"
+      },
+      "local_rotation_xyzw": [
+        0.7087486386299133,
+        -0.3433639109134674,
+        0.13782581686973572,
+        0.6006501913070679
+      ],
+      "local_position": [
+        -0.022144164890050888,
+        0.010130729526281357,
+        -0.024239368736743927
+      ],
+      "local_scale": [
+        1.0,
+        1.0,
+        1.0
+      ],
+      "children": [
+        {
+          "file_id": 0,
+          "path_id": "4024743393415700524"
+        }
+      ],
+      "parent": {
+        "file_id": 0,
+        "path_id": "-2339703120878983519"
+      },
+      "name": "DMZ L 01",
+      "path_components": [
+        "Avatar_Male_Claymore_Diluc_Kanban",
+        "Bip001",
+        "Bip001 Pelvis",
+        "Bip001 Spine",
+        "Bip001 Spine1",
+        "Bip001 Spine2",
+        "Bip001 L Clavicle",
+        "Bip001 L UpperArm",
+        "Bip001 L Forearm",
+        "Bip001 L Hand",
+        "DMZ L 01"
+      ]
+    },
+    "914958024803223433": {
+      "game_object": {
+        "file_id": 0,
+        "path_id": "7218449611540068024"
+      },
+      "local_rotation_xyzw": [
+        0.0,
+        -0.0,
+        1.0,
+        1.4901162970204496e-08
+      ],
+      "local_position": [
+        -0.023938484489917755,
+        0.0,
+        9.53674295089968e-09
+      ],
+      "local_scale": [
+        -0.9999999403953552,
+        -1.0,
+        -0.9999999403953552
+      ],
+      "children": [],
+      "parent": {
+        "file_id": 0,
+        "path_id": "6542333215124220487"
+      },
+      "name": "Bip001 R Finger1Nub",
+      "path_components": [
+        "Avatar_Male_Claymore_Diluc_Kanban",
+        "Bip001",
+        "Bip001 Pelvis",
+        "Bip001 Spine",
+        "Bip001 Spine1",
+        "Bip001 Spine2",
+        "Bip001 R Clavicle",
+        "Bip001 R UpperArm",
+        "Bip001 R Forearm",
+        "Bip001 R Hand",
+        "Bip001 R Finger1",
+        "Bip001 R Finger11",
+        "Bip001 R Finger12",
+        "Bip001 R Finger1Nub"
+      ]
+    },
+    "945026880955168632": {
+      "game_object": {
+        "file_id": 0,
+        "path_id": "-8230836299591922961"
+      },
+      "local_rotation_xyzw": [
+        -2.468517834586237e-07,
+        -3.9886991487492196e-08,
+        0.48371174931526184,
+        -0.8752274513244629
+      ],
+      "local_position": [
+        -0.039185140281915665,
+        1.2086088929663674e-07,
+        2.8074591540416804e-09
+      ],
+      "local_scale": [
+        1.000000238418579,
+        1.0000001192092896,
+        1.0000001192092896
+      ],
+      "children": [
+        {
+          "file_id": 0,
+          "path_id": "-1641542689205109422"
+        }
+      ],
+      "parent": {
+        "file_id": 0,
+        "path_id": "-4161971045533169876"
+      },
+      "name": "Bip001 R Finger21",
+      "path_components": [
+        "Avatar_Male_Claymore_Diluc_Kanban",
+        "Bip001",
+        "Bip001 Pelvis",
+        "Bip001 Spine",
+        "Bip001 Spine1",
+        "Bip001 Spine2",
+        "Bip001 R Clavicle",
+        "Bip001 R UpperArm",
+        "Bip001 R Forearm",
+        "Bip001 R Hand",
+        "Bip001 R Finger2",
+        "Bip001 R Finger21"
+      ]
+    },
+    "1064869409669265046": {
+      "game_object": {
+        "file_id": 0,
+        "path_id": "2759170933832002686"
+      },
+      "local_rotation_xyzw": [
+        0.999789834022522,
+        -0.0187235027551651,
+        -0.007546622771769762,
+        0.0035708944778889418
+      ],
+      "local_position": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "local_scale": [
+        1.0,
+        1.0,
+        1.0
+      ],
+      "children": [],
+      "parent": {
+        "file_id": 0,
+        "path_id": "-6218925977574660361"
+      },
+      "name": "+UpperArmTwist L A01",
+      "path_components": [
+        "Avatar_Male_Claymore_Diluc_Kanban",
+        "Bip001",
+        "Bip001 Pelvis",
+        "Bip001 Spine",
+        "Bip001 Spine1",
+        "Bip001 Spine2",
+        "Bip001 L Clavicle",
+        "Bip001 L UpperArm",
+        "+UpperArmTwist L A01"
+      ]
+    },
+    "1194406950221433146": {
+      "game_object": {
+        "file_id": 0,
+        "path_id": "7291201514485960731"
+      },
+      "local_rotation_xyzw": [
+        -0.7111530303955078,
+        0.3182162642478943,
+        0.14441430568695068,
+        0.610036313533783
+      ],
+      "local_position": [
+        -0.022144164890050888,
+        0.010130729526281357,
+        0.024239372462034225
+      ],
+      "local_scale": [
+        1.0,
+        1.0,
+        1.0
+      ],
+      "children": [
+        {
+          "file_id": 0,
+          "path_id": "4338908693399387056"
+        }
+      ],
+      "parent": {
+        "file_id": 0,
+        "path_id": "7317532008801178315"
+      },
+      "name": "DMZ R 01",
+      "path_components": [
+        "Avatar_Male_Claymore_Diluc_Kanban",
+        "Bip001",
+        "Bip001 Pelvis",
+        "Bip001 Spine",
+        "Bip001 Spine1",
+        "Bip001 Spine2",
+        "Bip001 R Clavicle",
+        "Bip001 R UpperArm",
+        "Bip001 R Forearm",
+        "Bip001 R Hand",
+        "DMZ R 01"
+      ]
+    },
+    "1211431101773156971": {
+      "game_object": {
+        "file_id": 0,
+        "path_id": "-8202187868525646679"
+      },
+      "local_rotation_xyzw": [
+        0.02152641862630844,
+        0.022482896223664284,
+        -0.004887585528194904,
+        0.9995035529136658
+      ],
+      "local_position": [
+        -0.04022026062011719,
+        0.00032371521228924394,
+        0.0017502307891845703
+      ],
+      "local_scale": [
+        0.9999999403953552,
+        1.0,
+        1.0
+      ],
+      "children": [],
+      "parent": {
+        "file_id": 0,
+        "path_id": "7317532008801178315"
+      },
+      "name": "WeaponR",
+      "path_components": [
+        "Avatar_Male_Claymore_Diluc_Kanban",
+        "Bip001",
+        "Bip001 Pelvis",
+        "Bip001 Spine",
+        "Bip001 Spine1",
+        "Bip001 Spine2",
+        "Bip001 R Clavicle",
+        "Bip001 R UpperArm",
+        "Bip001 R Forearm",
+        "Bip001 R Hand",
+        "WeaponR"
+      ]
+    },
+    "1242009766086605714": {
+      "game_object": {
+        "file_id": 0,
+        "path_id": "9182223271432579959"
+      },
+      "local_rotation_xyzw": [
+        1.1688917889163264e-10,
+        -7.018167158534538e-10,
+        0.1642892211675644,
+        0.9864122271537781
+      ],
+      "local_position": [
+        -0.25635984539985657,
+        -0.05793982744216919,
+        -3.8385391576412076e-07
+      ],
+      "local_scale": [
+        1.0,
+        1.0,
+        1.0
+      ],
+      "children": [],
+      "parent": {
+        "file_id": 0,
+        "path_id": "3899006346060575524"
+      },
+      "name": "+FlycloakRootB CB A01",
+      "path_components": [
+        "Avatar_Male_Claymore_Diluc_Kanban",
+        "Bip001",
+        "Bip001 Pelvis",
+        "Bip001 Spine",
+        "Bip001 Spine1",
+        "Bip001 Spine2",
+        "+FlycloakRootB CB A01"
+      ]
+    },
+    "1247757705978084809": {
+      "game_object": {
+        "file_id": 0,
+        "path_id": "1962208768186625021"
+      },
+      "local_rotation_xyzw": [
+        0.00015782774426043034,
+        0.008354227058589458,
+        0.058938756585121155,
+        0.9982266426086426
+      ],
+      "local_position": [
+        -0.03327842801809311,
+        -9.53674295089968e-09,
+        2.8610228852699038e-08
+      ],
+      "local_scale": [
+        1.0,
+        1.0,
+        1.0
+      ],
+      "children": [
+        {
+          "file_id": 0,
+          "path_id": "6306926743367698873"
+        }
+      ],
+      "parent": {
+        "file_id": 0,
+        "path_id": "4338908693399387056"
+      },
+      "name": "DMZ R 03",
+      "path_components": [
+        "Avatar_Male_Claymore_Diluc_Kanban",
+        "Bip001",
+        "Bip001 Pelvis",
+        "Bip001 Spine",
+        "Bip001 Spine1",
+        "Bip001 Spine2",
+        "Bip001 R Clavicle",
+        "Bip001 R UpperArm",
+        "Bip001 R Forearm",
+        "Bip001 R Hand",
+        "DMZ R 01",
+        "DMZ R 02",
+        "DMZ R 03"
+      ]
+    },
+    "1296386563776074736": {
+      "game_object": {
+        "file_id": 0,
+        "path_id": "-176632447632633715"
+      },
+      "local_rotation_xyzw": [
+        -6.765452553736395e-07,
+        1.0582410681081456e-07,
+        0.4681168794631958,
+        -0.8836665749549866
+      ],
+      "local_position": [
+        -0.03116913139820099,
+        -1.1789569498432684e-07,
+        1.9145828034083934e-08
+      ],
+      "local_scale": [
+        1.0,
+        1.0,
+        1.0
+      ],
+      "children": [
+        {
+          "file_id": 0,
+          "path_id": "-5304942968007451212"
+        }
+      ],
+      "parent": {
+        "file_id": 0,
+        "path_id": "-1581456732716320743"
+      },
+      "name": "Bip001 R Finger41",
+      "path_components": [
+        "Avatar_Male_Claymore_Diluc_Kanban",
+        "Bip001",
+        "Bip001 Pelvis",
+        "Bip001 Spine",
+        "Bip001 Spine1",
+        "Bip001 Spine2",
+        "Bip001 R Clavicle",
+        "Bip001 R UpperArm",
+        "Bip001 R Forearm",
+        "Bip001 R Hand",
+        "Bip001 R Finger4",
+        "Bip001 R Finger41"
+      ]
+    },
+    "1385073101803860194": {
+      "game_object": {
+        "file_id": 0,
+        "path_id": "45750726928963171"
+      },
+      "local_rotation_xyzw": [
+        1.4901161193847656e-08,
+        -1.4901160305669237e-08,
+        -2.9802318834981634e-08,
+        1.0
+      ],
+      "local_position": [
+        -0.022221220657229424,
+        0.0,
+        0.0
+      ],
+      "local_scale": [
+        1.0000001192092896,
+        1.0,
+        0.9999999403953552
+      ],
+      "children": [],
+      "parent": {
+        "file_id": 0,
+        "path_id": "3641106875528934260"
+      },
+      "name": "Bip001 L Finger4Nub",
+      "path_components": [
+        "Avatar_Male_Claymore_Diluc_Kanban",
+        "Bip001",
+        "Bip001 Pelvis",
+        "Bip001 Spine",
+        "Bip001 Spine1",
+        "Bip001 Spine2",
+        "Bip001 L Clavicle",
+        "Bip001 L UpperArm",
+        "Bip001 L Forearm",
+        "Bip001 L Hand",
+        "Bip001 L Finger4",
+        "Bip001 L Finger41",
+        "Bip001 L Finger42",
+        "Bip001 L Finger4Nub"
+      ]
+    },
+    "1616312302603572180": {
+      "game_object": {
+        "file_id": 0,
+        "path_id": "37351408341683241"
+      },
+      "local_rotation_xyzw": [
+        -0.9997559785842896,
+        -0.020512057468295097,
+        0.00810623075813055,
+        0.0012360208202153444
+      ],
+      "local_position": [
+        -0.1111174002289772,
+        0.004172801971435547,
+        -0.0016514586750417948
+      ],
+      "local_scale": [
+        1.0,
+        1.0,
+        1.0
+      ],
+      "children": [],
+      "parent": {
+        "file_id": 0,
+        "path_id": "6350768854910684131"
+      },
+      "name": "+UpperArmTwist R A02",
+      "path_components": [
+        "Avatar_Male_Claymore_Diluc_Kanban",
+        "Bip001",
+        "Bip001 Pelvis",
+        "Bip001 Spine",
+        "Bip001 Spine1",
+        "Bip001 Spine2",
+        "Bip001 R Clavicle",
+        "Bip001 R UpperArm",
+        "+UpperArmTwist R A02"
+      ]
+    },
+    "2092624706009171043": {
+      "game_object": {
+        "file_id": 0,
+        "path_id": "-5005945631866604258"
+      },
+      "local_rotation_xyzw": [
+        0.0,
+        0.0,
+        0.0,
+        1.0
+      ],
+      "local_position": [
+        -0.06400000303983688,
+        0.023000000044703484,
+        0.0010000000474974513
+      ],
+      "local_scale": [
+        1.0,
+        1.0,
+        1.0
+      ],
+      "children": [],
+      "parent": {
+        "file_id": 0,
+        "path_id": "7317532008801178315"
+      },
+      "name": "PRIVATE_RHand",
+      "path_components": [
+        "Avatar_Male_Claymore_Diluc_Kanban",
+        "Bip001",
+        "Bip001 Pelvis",
+        "Bip001 Spine",
+        "Bip001 Spine1",
+        "Bip001 Spine2",
+        "Bip001 R Clavicle",
+        "Bip001 R UpperArm",
+        "Bip001 R Forearm",
+        "Bip001 R Hand",
+        "PRIVATE_RHand"
+      ]
+    },
+    "2739874121014337142": {
+      "game_object": {
+        "file_id": 0,
+        "path_id": "8302898389238150774"
+      },
+      "local_rotation_xyzw": [
+        -3.116289371973835e-05,
+        0.0010256858076900244,
+        0.028717610985040665,
+        0.9995870590209961
+      ],
+      "local_position": [
+        -0.1363089680671692,
+        1.678466787780053e-06,
+        -3.5762786065873797e-09
+      ],
+      "local_scale": [
+        1.0000019073486328,
+        0.999998152256012,
+        1.0
+      ],
+      "children": [],
+      "parent": {
+        "file_id": 0,
+        "path_id": "5535777070028571614"
+      },
+      "name": "+SkirtS L B03",
+      "path_components": [
+        "Avatar_Male_Claymore_Diluc_Kanban",
+        "Bip001",
+        "Bip001 Pelvis",
+        "Bip001 Spine",
+        "+SkirtS L B01",
+        "+SkirtS L B02",
+        "+SkirtS L B03"
+      ]
+    },
+    "3266821034389782029": {
+      "game_object": {
+        "file_id": 0,
+        "path_id": "3976744764895550593"
+      },
+      "local_rotation_xyzw": [
+        -0.014683738350868225,
+        -0.014138815924525261,
+        0.26104670763015747,
+        -0.9651109576225281
+      ],
+      "local_position": [
+        -0.08702436834573746,
+        -0.0027486064936965704,
+        -0.017060182988643646
+      ],
+      "local_scale": [
+        0.9999998807907104,
+        1.0,
+        1.0000001192092896
+      ],
+      "children": [
+        {
+          "file_id": 0,
+          "path_id": "8717850818838673035"
+        }
+      ],
+      "parent": {
+        "file_id": 0,
+        "path_id": "7317532008801178315"
+      },
+      "name": "Bip001 R Finger3",
+      "path_components": [
+        "Avatar_Male_Claymore_Diluc_Kanban",
+        "Bip001",
+        "Bip001 Pelvis",
+        "Bip001 Spine",
+        "Bip001 Spine1",
+        "Bip001 Spine2",
+        "Bip001 R Clavicle",
+        "Bip001 R UpperArm",
+        "Bip001 R Forearm",
+        "Bip001 R Hand",
+        "Bip001 R Finger3"
+      ]
+    },
+    "3512492194087166970": {
+      "game_object": {
+        "file_id": 0,
+        "path_id": "8537358339110271769"
+      },
+      "local_rotation_xyzw": [
+        0.01637888327240944,
+        0.7069167494773865,
+        0.7069174647331238,
+        -0.016376065090298653
+      ],
+      "local_position": [
+        -0.07451293617486954,
+        0.027565592899918556,
+        0.08750542253255844
+      ],
+      "local_scale": [
+        0.9999999403953552,
+        1.0000044107437134,
+        0.9999953508377075
+      ],
+      "children": [],
+      "parent": {
+        "file_id": 0,
+        "path_id": "5461207643137899433"
+      },
+      "name": "+HairS L C01",
+      "path_components": [
+        "Avatar_Male_Claymore_Diluc_Kanban",
+        "Bip001",
+        "Bip001 Pelvis",
+        "Bip001 Spine",
+        "Bip001 Spine1",
+        "Bip001 Spine2",
+        "Bip001 Neck",
+        "Bip001 Head",
+        "+HairS L C01"
+      ]
+    },
+    "3521577355142387332": {
+      "game_object": {
+        "file_id": 0,
+        "path_id": "7553303515444211281"
+      },
+      "local_rotation_xyzw": [
+        0.5,
+        -0.5000001192092896,
+        -0.5,
+        -0.5
+      ],
+      "local_position": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "local_scale": [
+        1.0,
+        1.0,
+        1.0
+      ],
+      "children": [
+        {
+          "file_id": 0,
+          "path_id": "-7488187266419224554"
+        },
+        {
+          "file_id": 0,
+          "path_id": "9095674204179332953"
+        },
+        {
+          "file_id": 0,
+          "path_id": "-2498428286812001567"
+        },
+        {
+          "file_id": 0,
+          "path_id": "7491348154537083011"
+        }
+      ],
+      "parent": {
+        "file_id": 0,
+        "path_id": "8166208749733471185"
+      },
+      "name": "Bip001 Pelvis",
+      "path_components": [
+        "Avatar_Male_Claymore_Diluc_Kanban",
+        "Bip001",
+        "Bip001 Pelvis"
+      ]
+    },
+    "3641106875528934260": {
+      "game_object": {
+        "file_id": 0,
+        "path_id": "-8664102883464566772"
+      },
+      "local_rotation_xyzw": [
+        1.6742411901304877e-07,
+        2.957163225403292e-08,
+        -0.4718146026134491,
+        0.8816978335380554
+      ],
+      "local_position": [
+        -0.020340261980891228,
+        -8.572786369676066e-10,
+        9.490720709326439e-11
+      ],
+      "local_scale": [
+        1.0,
+        1.0,
+        0.9999999403953552
+      ],
+      "children": [
+        {
+          "file_id": 0,
+          "path_id": "1385073101803860194"
+        }
+      ],
+      "parent": {
+        "file_id": 0,
+        "path_id": "6075939188463090364"
+      },
+      "name": "Bip001 L Finger42",
+      "path_components": [
+        "Avatar_Male_Claymore_Diluc_Kanban",
+        "Bip001",
+        "Bip001 Pelvis",
+        "Bip001 Spine",
+        "Bip001 Spine1",
+        "Bip001 Spine2",
+        "Bip001 L Clavicle",
+        "Bip001 L UpperArm",
+        "Bip001 L Forearm",
+        "Bip001 L Hand",
+        "Bip001 L Finger4",
+        "Bip001 L Finger41",
+        "Bip001 L Finger42"
+      ]
+    },
+    "3899006346060575524": {
+      "game_object": {
+        "file_id": 0,
+        "path_id": "-5354828410126834893"
+      },
+      "local_rotation_xyzw": [
+        -0.04708881676197052,
+        -0.013941207900643349,
+        -0.08342655003070831,
+        0.9953031539916992
+      ],
+      "local_position": [
+        -0.1124296486377716,
+        -0.00012647511903196573,
+        -7.683411240577698e-09
+      ],
+      "local_scale": [
+        1.0,
+        1.0,
+        1.0
+      ],
+      "children": [
+        {
+          "file_id": 0,
+          "path_id": "5572703992181440357"
+        },
+        {
+          "file_id": 0,
+          "path_id": "-3821171427926800004"
+        },
+        {
+          "file_id": 0,
+          "path_id": "-1024938085326705714"
+        },
+        {
+          "file_id": 0,
+          "path_id": "-3632185233183067666"
+        },
+        {
+          "file_id": 0,
+          "path_id": "1242009766086605714"
+        },
+        {
+          "file_id": 0,
+          "path_id": "-4093195960360231142"
+        },
+        {
+          "file_id": 0,
+          "path_id": "-4309507714414919104"
+        },
+        {
+          "file_id": 0,
+          "path_id": "-4096483873387962800"
+        },
+        {
+          "file_id": 0,
+          "path_id": "8493069819296400466"
+        },
+        {
+          "file_id": 0,
+          "path_id": "6683804603605922088"
+        }
+      ],
+      "parent": {
+        "file_id": 0,
+        "path_id": "-6970750044183340508"
+      },
+      "name": "Bip001 Spine2",
+      "path_components": [
+        "Avatar_Male_Claymore_Diluc_Kanban",
+        "Bip001",
+        "Bip001 Pelvis",
+        "Bip001 Spine",
+        "Bip001 Spine1",
+        "Bip001 Spine2"
+      ]
+    },
+    "3902740408762433457": {
+      "game_object": {
+        "file_id": 0,
+        "path_id": "2556315101369978854"
+      },
+      "local_rotation_xyzw": [
+        -3.349581447764649e-06,
+        -1.892600920427867e-07,
+        0.017706917598843575,
+        0.9998432397842407
+      ],
+      "local_position": [
+        -0.13971839845180511,
+        -1.8310546465727384e-06,
+        1.5974043776623148e-07
+      ],
+      "local_scale": [
+        0.9999987483024597,
+        1.000001311302185,
+        1.0
+      ],
+      "children": [
+        {
+          "file_id": 0,
+          "path_id": "-7915036105366861758"
+        }
+      ],
+      "parent": {
+        "file_id": 0,
+        "path_id": "-6468188332744627837"
+      },
+      "name": "+SkirtB L B03",
+      "path_components": [
+        "Avatar_Male_Claymore_Diluc_Kanban",
+        "Bip001",
+        "Bip001 Pelvis",
+        "Bip001 Spine",
+        "+SkirtB L B01",
+        "+SkirtB L B02",
+        "+SkirtB L B03"
+      ]
+    },
+    "3983610768435100874": {
+      "game_object": {
+        "file_id": 0,
+        "path_id": "-8365120102195584625"
+      },
+      "local_rotation_xyzw": [
+        -2.2585090846405365e-05,
+        0.008074506185948849,
+        0.01897864043712616,
+        0.9997872710227966
+      ],
+      "local_position": [
+        -0.13851097226142883,
+        -3.433227391269611e-07,
+        6.103515488575795e-07
+      ],
+      "local_scale": [
+        0.9999943971633911,
+        1.0000057220458984,
+        1.0000001192092896
+      ],
+      "children": [],
+      "parent": {
+        "file_id": 0,
+        "path_id": "768575824823820073"
+      },
+      "name": "+SkirtF L B02",
+      "path_components": [
+        "Avatar_Male_Claymore_Diluc_Kanban",
+        "Bip001",
+        "Bip001 Pelvis",
+        "Bip001 Spine",
+        "+SkirtF L B01",
+        "+SkirtF L B02"
+      ]
+    },
+    "4024743393415700524": {
+      "game_object": {
+        "file_id": 0,
+        "path_id": "-7157404891376386644"
+      },
+      "local_rotation_xyzw": [
+        0.0019340706057846546,
+        -0.006923449691385031,
+        -0.2637312114238739,
+        0.9645694494247437
+      ],
+      "local_position": [
+        -0.034888532012701035,
+        0.0,
+        1.907348590179936e-08
+      ],
+      "local_scale": [
+        1.0,
+        1.0,
+        1.0
+      ],
+      "children": [
+        {
+          "file_id": 0,
+          "path_id": "8939640010804722484"
+        }
+      ],
+      "parent": {
+        "file_id": 0,
+        "path_id": "859129412401956317"
+      },
+      "name": "DMZ L 02",
+      "path_components": [
+        "Avatar_Male_Claymore_Diluc_Kanban",
+        "Bip001",
+        "Bip001 Pelvis",
+        "Bip001 Spine",
+        "Bip001 Spine1",
+        "Bip001 Spine2",
+        "Bip001 L Clavicle",
+        "Bip001 L UpperArm",
+        "Bip001 L Forearm",
+        "Bip001 L Hand",
+        "DMZ L 01",
+        "DMZ L 02"
+      ]
+    },
+    "4086470407308905164": {
+      "game_object": {
+        "file_id": 0,
+        "path_id": "-8791829678549570036"
+      },
+      "local_rotation_xyzw": [
+        -1.8739344298523974e-08,
+        -1.8626417741529622e-08,
+        0.7071012854576111,
+        -0.7071123123168945
+      ],
+      "local_position": [
+        -0.09252921491861343,
+        0.1363045871257782,
+        -0.0020160679705441
+      ],
+      "local_scale": [
+        1.0,
+        1.0,
+        1.0
+      ],
+      "children": [
+        {
+          "file_id": 0,
+          "path_id": "5961365798631096660"
+        }
+      ],
+      "parent": {
+        "file_id": 0,
+        "path_id": "-5593338581514979787"
+      },
+      "name": "Bip001 R Toe0",
+      "path_components": [
+        "Avatar_Male_Claymore_Diluc_Kanban",
+        "Bip001",
+        "Bip001 Pelvis",
+        "Bip001 R Thigh",
+        "Bip001 R Calf",
+        "Bip001 R Foot",
+        "Bip001 R Toe0"
+      ]
+    },
+    "4180408310403612210": {
+      "game_object": {
+        "file_id": 0,
+        "path_id": "232832738350357210"
+      },
+      "local_rotation_xyzw": [
+        0.0,
+        0.0,
+        0.0,
+        1.0
+      ],
+      "local_position": [
+        0.057999998331069946,
+        0.0,
+        0.0
+      ],
+      "local_scale": [
+        1.0,
+        1.0,
+        1.0
+      ],
+      "children": [],
+      "parent": {
+        "file_id": 0,
+        "path_id": "8699960657544763612"
+      },
+      "name": "HitObject6",
+      "path_components": [
+        "Avatar_Male_Claymore_Diluc_Kanban",
+        "Bip001",
+        "Bip001 Pelvis",
+        "Bip001 R Thigh",
+        "Bip001 R Calf",
+        "HitObject6"
+      ]
+    },
+    "4338908693399387056": {
+      "game_object": {
+        "file_id": 0,
+        "path_id": "-7022784290025002662"
+      },
+      "local_rotation_xyzw": [
+        -0.0019337574485689402,
+        0.006923512555658817,
+        -0.26375073194503784,
+        0.9645640850067139
+      ],
+      "local_position": [
+        -0.034888532012701035,
+        -3.814697180359872e-08,
+        -9.53674295089968e-09
+      ],
+      "local_scale": [
+        1.0,
+        1.0,
+        1.0
+      ],
+      "children": [
+        {
+          "file_id": 0,
+          "path_id": "1247757705978084809"
+        }
+      ],
+      "parent": {
+        "file_id": 0,
+        "path_id": "1194406950221433146"
+      },
+      "name": "DMZ R 02",
+      "path_components": [
+        "Avatar_Male_Claymore_Diluc_Kanban",
+        "Bip001",
+        "Bip001 Pelvis",
+        "Bip001 Spine",
+        "Bip001 Spine1",
+        "Bip001 Spine2",
+        "Bip001 R Clavicle",
+        "Bip001 R UpperArm",
+        "Bip001 R Forearm",
+        "Bip001 R Hand",
+        "DMZ R 01",
+        "DMZ R 02"
+      ]
+    },
+    "4550070432671540793": {
+      "game_object": {
+        "file_id": 0,
+        "path_id": "-1112093380874865042"
+      },
+      "local_rotation_xyzw": [
+        0.001956947147846222,
+        0.0009775171056389809,
+        0.0009775171056389809,
+        0.9999971389770508
+      ],
+      "local_position": [
+        -0.0,
+        1.2999999523162842,
+        -1.3000000365082087e-07
+      ],
+      "local_scale": [
+        1.0,
+        1.0,
+        1.0
+      ],
+      "children": [],
+      "parent": {
+        "file_id": 0,
+        "path_id": "-4197795710254619760"
+      },
+      "name": "CameraLook",
+      "path_components": [
+        "Avatar_Male_Claymore_Diluc_Kanban",
+        "Root",
+        "CameraLook"
+      ]
+    },
+    "4622128235415929431": {
+      "game_object": {
+        "file_id": 0,
+        "path_id": "-9069256369493641014"
+      },
+      "local_rotation_xyzw": [
+        0.6956005096435547,
+        -0.6955748200416565,
+        0.12710650265216827,
+        0.12712034583091736
+      ],
+      "local_position": [
+        -0.06896468997001648,
+        0.03794931620359421,
+        -0.01986939087510109
+      ],
+      "local_scale": [
+        0.9999836683273315,
+        1.0000054836273193,
+        0.9999834299087524
+      ],
+      "children": [
+        {
+          "file_id": 0,
+          "path_id": "9047372480378925923"
+        }
+      ],
+      "parent": {
+        "file_id": 0,
+        "path_id": "5461207643137899433"
+      },
+      "name": "+EyeBone R A01",
+      "path_components": [
+        "Avatar_Male_Claymore_Diluc_Kanban",
+        "Bip001",
+        "Bip001 Pelvis",
+        "Bip001 Spine",
+        "Bip001 Spine1",
+        "Bip001 Spine2",
+        "Bip001 Neck",
+        "Bip001 Head",
+        "+EyeBone R A01"
+      ]
+    },
+    "4915853084693320187": {
+      "game_object": {
+        "file_id": 0,
+        "path_id": "-1188206387445312933"
+      },
+      "local_rotation_xyzw": [
+        0.0,
+        7.4505797087454084e-09,
+        -0.0,
+        1.0
+      ],
+      "local_position": [
+        -0.02393852174282074,
+        0.0,
+        0.0
+      ],
+      "local_scale": [
+        1.0000001192092896,
+        1.0,
+        1.0
+      ],
+      "children": [],
+      "parent": {
+        "file_id": 0,
+        "path_id": "-7066155035456498134"
+      },
+      "name": "Bip001 L Finger1Nub",
+      "path_components": [
+        "Avatar_Male_Claymore_Diluc_Kanban",
+        "Bip001",
+        "Bip001 Pelvis",
+        "Bip001 Spine",
+        "Bip001 Spine1",
+        "Bip001 Spine2",
+        "Bip001 L Clavicle",
+        "Bip001 L UpperArm",
+        "Bip001 L Forearm",
+        "Bip001 L Hand",
+        "Bip001 L Finger1",
+        "Bip001 L Finger11",
+        "Bip001 L Finger12",
+        "Bip001 L Finger1Nub"
+      ]
+    },
+    "5461207643137899433": {
+      "game_object": {
+        "file_id": 0,
+        "path_id": "-5642217877576096130"
+      },
+      "local_rotation_xyzw": [
+        -0.003242023754864931,
+        0.0027520207222551107,
+        0.021077988669276237,
+        0.999768853187561
+      ],
+      "local_position": [
+        -0.10345453023910522,
+        0.01046217605471611,
+        -1.30385160446167e-08
+      ],
+      "local_scale": [
+        1.0000001192092896,
+        1.0000001192092896,
+        1.0
+      ],
+      "children": [
+        {
+          "file_id": 0,
+          "path_id": "8802375219058444346"
+        },
+        {
+          "file_id": 0,
+          "path_id": "4622128235415929431"
+        },
+        {
+          "file_id": 0,
+          "path_id": "-3094034556881723895"
+        },
+        {
+          "file_id": 0,
+          "path_id": "3512492194087166970"
+        },
+        {
+          "file_id": 0,
+          "path_id": "6286519610146571270"
+        },
+        {
+          "file_id": 0,
+          "path_id": "-4157895233801945898"
+        },
+        {
+          "file_id": 0,
+          "path_id": "-1295412641902401813"
+        },
+        {
+          "file_id": 0,
+          "path_id": "-8938601067242065326"
+        }
+      ],
+      "parent": {
+        "file_id": 0,
+        "path_id": "-4309507714414919104"
+      },
+      "name": "Bip001 Head",
+      "path_components": [
+        "Avatar_Male_Claymore_Diluc_Kanban",
+        "Bip001",
+        "Bip001 Pelvis",
+        "Bip001 Spine",
+        "Bip001 Spine1",
+        "Bip001 Spine2",
+        "Bip001 Neck",
+        "Bip001 Head"
+      ]
+    },
+    "5535777070028571614": {
+      "game_object": {
+        "file_id": 0,
+        "path_id": "4962868627091453629"
+      },
+      "local_rotation_xyzw": [
+        5.676952059729956e-05,
+        -0.005066771060228348,
+        0.012240855023264885,
+        0.9999122619628906
+      ],
+      "local_position": [
+        -0.14282409846782684,
+        1.5258788153005298e-06,
+        -1.0013580009626821e-07
+      ],
+      "local_scale": [
+        0.9999982714653015,
+        1.000002384185791,
+        0.999999463558197
+      ],
+      "children": [
+        {
+          "file_id": 0,
+          "path_id": "2739874121014337142"
+        }
+      ],
+      "parent": {
+        "file_id": 0,
+        "path_id": "706247564061551604"
+      },
+      "name": "+SkirtS L B02",
+      "path_components": [
+        "Avatar_Male_Claymore_Diluc_Kanban",
+        "Bip001",
+        "Bip001 Pelvis",
+        "Bip001 Spine",
+        "+SkirtS L B01",
+        "+SkirtS L B02"
+      ]
+    },
+    "5572703992181440357": {
+      "game_object": {
+        "file_id": 0,
+        "path_id": "2400708938187656516"
+      },
+      "local_rotation_xyzw": [
+        0.7974404692649841,
+        0.08017048984766006,
+        -0.3187965154647827,
+        0.5059942603111267
+      ],
+      "local_position": [
+        -0.18906767666339874,
+        0.02427106723189354,
+        0.07942410558462143
+      ],
+      "local_scale": [
+        1.000011682510376,
+        0.9999874234199524,
+        1.0000008344650269
+      ],
+      "children": [],
+      "parent": {
+        "file_id": 0,
+        "path_id": "3899006346060575524"
+      },
+      "name": "+CollarS L C01",
+      "path_components": [
+        "Avatar_Male_Claymore_Diluc_Kanban",
+        "Bip001",
+        "Bip001 Pelvis",
+        "Bip001 Spine",
+        "Bip001 Spine1",
+        "Bip001 Spine2",
+        "+CollarS L C01"
+      ]
+    },
+    "5739632813813358029": {
+      "game_object": {
+        "file_id": 0,
+        "path_id": "7654926539170719486"
+      },
+      "local_rotation_xyzw": [
+        5.570667625104386e-13,
+        -2.350752838914394e-12,
+        0.2241208702325821,
+        0.9745613932609558
+      ],
+      "local_position": [
+        -0.14782042801380157,
+        9.155273232863692e-07,
+        6.631016624680797e-09
+      ],
+      "local_scale": [
+        1.000017523765564,
+        0.9999824166297913,
+        1.0
+      ],
+      "children": [
+        {
+          "file_id": 0,
+          "path_id": "8871713042807670868"
+        }
+      ],
+      "parent": {
+        "file_id": 0,
+        "path_id": "-3094034556881723895"
+      },
+      "name": "+HairB CB A02",
+      "path_components": [
+        "Avatar_Male_Claymore_Diluc_Kanban",
+        "Bip001",
+        "Bip001 Pelvis",
+        "Bip001 Spine",
+        "Bip001 Spine1",
+        "Bip001 Spine2",
+        "Bip001 Neck",
+        "Bip001 Head",
+        "+HairB CB A01",
+        "+HairB CB A02"
+      ]
+    },
+    "5799161677739789912": {
+      "game_object": {
+        "file_id": 0,
+        "path_id": "-4237282269974008395"
+      },
+      "local_rotation_xyzw": [
+        1.6892218468456122e-07,
+        3.121871472444582e-08,
+        -0.4837239980697632,
+        0.8752205967903137
+      ],
+      "local_position": [
+        -0.0391850508749485,
+        -1.651527470336589e-09,
+        1.0045227982757865e-09
+      ],
+      "local_scale": [
+        1.0,
+        0.9999999403953552,
+        1.0
+      ],
+      "children": [
+        {
+          "file_id": 0,
+          "path_id": "-78411760324282256"
+        }
+      ],
+      "parent": {
+        "file_id": 0,
+        "path_id": "-7306665827040285109"
+      },
+      "name": "Bip001 L Finger21",
+      "path_components": [
+        "Avatar_Male_Claymore_Diluc_Kanban",
+        "Bip001",
+        "Bip001 Pelvis",
+        "Bip001 Spine",
+        "Bip001 Spine1",
+        "Bip001 Spine2",
+        "Bip001 L Clavicle",
+        "Bip001 L UpperArm",
+        "Bip001 L Forearm",
+        "Bip001 L Hand",
+        "Bip001 L Finger2",
+        "Bip001 L Finger21"
+      ]
+    },
+    "5825279401095587608": {
+      "game_object": {
+        "file_id": 0,
+        "path_id": "-1403860627089701136"
+      },
+      "local_rotation_xyzw": [
+        0.0,
+        0.0,
+        0.0,
+        1.0
+      ],
+      "local_position": [
+        -0.2540000081062317,
+        0.0,
+        0.0
+      ],
+      "local_scale": [
+        1.0,
+        1.0,
+        1.0
+      ],
+      "children": [],
+      "parent": {
+        "file_id": 0,
+        "path_id": "8699960657544763612"
+      },
+      "name": "HitObject4",
+      "path_components": [
+        "Avatar_Male_Claymore_Diluc_Kanban",
+        "Bip001",
+        "Bip001 Pelvis",
+        "Bip001 R Thigh",
+        "Bip001 R Calf",
+        "HitObject4"
+      ]
+    },
+    "5961365798631096660": {
+      "game_object": {
+        "file_id": 0,
+        "path_id": "6336853496145560279"
+      },
+      "local_rotation_xyzw": [
+        0.0,
+        -5.393856368496319e-12,
+        -0.0,
+        1.0
+      ],
+      "local_position": [
+        -0.06869671493768692,
+        0.0,
+        -4.76837147544984e-09
+      ],
+      "local_scale": [
+        1.0,
+        1.0,
+        1.0
+      ],
+      "children": [],
+      "parent": {
+        "file_id": 0,
+        "path_id": "4086470407308905164"
+      },
+      "name": "Bip001 R Toe0Nub",
+      "path_components": [
+        "Avatar_Male_Claymore_Diluc_Kanban",
+        "Bip001",
+        "Bip001 Pelvis",
+        "Bip001 R Thigh",
+        "Bip001 R Calf",
+        "Bip001 R Foot",
+        "Bip001 R Toe0",
+        "Bip001 R Toe0Nub"
+      ]
+    },
+    "5978566649133990754": {
+      "game_object": {
+        "file_id": 0,
+        "path_id": "-2863251786130046472"
+      },
+      "local_rotation_xyzw": [
+        -0.04385557398200035,
+        0.043819278478622437,
+        -0.7057552933692932,
+        0.7057379484176636
+      ],
+      "local_position": [
+        -0.04333506152033806,
+        -0.0024520873557776213,
+        -0.0020785469096153975
+      ],
+      "local_scale": [
+        1.0000004768371582,
+        1.0000009536743164,
+        1.000000238418579
+      ],
+      "children": [],
+      "parent": {
+        "file_id": 0,
+        "path_id": "8802375219058444346"
+      },
+      "name": "+EyeBone L A02",
+      "path_components": [
+        "Avatar_Male_Claymore_Diluc_Kanban",
+        "Bip001",
+        "Bip001 Pelvis",
+        "Bip001 Spine",
+        "Bip001 Spine1",
+        "Bip001 Spine2",
+        "Bip001 Neck",
+        "Bip001 Head",
+        "+EyeBone L A01",
+        "+EyeBone L A02"
+      ]
+    },
+    "6075939188463090364": {
+      "game_object": {
+        "file_id": 0,
+        "path_id": "2315013628776418607"
+      },
+      "local_rotation_xyzw": [
+        1.684901036469455e-07,
+        2.3680739147380336e-08,
+        -0.4410035312175751,
+        0.8975054025650024
+      ],
+      "local_position": [
+        -0.031169112771749496,
+        -1.2052305464749224e-07,
+        -2.1649529391432054e-10
+      ],
+      "local_scale": [
+        1.0,
+        1.0,
+        1.0
+      ],
+      "children": [
+        {
+          "file_id": 0,
+          "path_id": "3641106875528934260"
+        }
+      ],
+      "parent": {
+        "file_id": 0,
+        "path_id": "-4299016129470148739"
+      },
+      "name": "Bip001 L Finger41",
+      "path_components": [
+        "Avatar_Male_Claymore_Diluc_Kanban",
+        "Bip001",
+        "Bip001 Pelvis",
+        "Bip001 Spine",
+        "Bip001 Spine1",
+        "Bip001 Spine2",
+        "Bip001 L Clavicle",
+        "Bip001 L UpperArm",
+        "Bip001 L Forearm",
+        "Bip001 L Hand",
+        "Bip001 L Finger4",
+        "Bip001 L Finger41"
+      ]
+    },
+    "6077888956180349617": {
+      "game_object": {
+        "file_id": 0,
+        "path_id": "7346262725342280228"
+      },
+      "local_rotation_xyzw": [
+        0.0,
+        0.0,
+        0.0,
+        1.0
+      ],
+      "local_position": [
+        -0.2540000081062317,
+        0.0,
+        0.0
+      ],
+      "local_scale": [
+        1.0,
+        1.0,
+        1.0
+      ],
+      "children": [],
+      "parent": {
+        "file_id": 0,
+        "path_id": "-1400199481021602623"
+      },
+      "name": "HitObject9",
+      "path_components": [
+        "Avatar_Male_Claymore_Diluc_Kanban",
+        "Bip001",
+        "Bip001 Pelvis",
+        "Bip001 L Thigh",
+        "Bip001 L Calf",
+        "HitObject9"
+      ]
+    },
+    "6286519610146571270": {
+      "game_object": {
+        "file_id": 0,
+        "path_id": "3213820582805540336"
+      },
+      "local_rotation_xyzw": [
+        -0.016399690881371498,
+        -0.7069157958030701,
+        0.706918478012085,
+        -0.016353914514183998
+      ],
+      "local_position": [
+        -0.07451309263706207,
+        0.027565965428948402,
+        -0.08750734478235245
+      ],
+      "local_scale": [
+        0.9999998211860657,
+        1.0000003576278687,
+        1.0000001192092896
+      ],
+      "children": [],
+      "parent": {
+        "file_id": 0,
+        "path_id": "5461207643137899433"
+      },
+      "name": "+HairS R C01",
+      "path_components": [
+        "Avatar_Male_Claymore_Diluc_Kanban",
+        "Bip001",
+        "Bip001 Pelvis",
+        "Bip001 Spine",
+        "Bip001 Spine1",
+        "Bip001 Spine2",
+        "Bip001 Neck",
+        "Bip001 Head",
+        "+HairS R C01"
+      ]
+    },
+    "6306926743367698873": {
+      "game_object": {
+        "file_id": 0,
+        "path_id": "4295456156910821601"
+      },
+      "local_rotation_xyzw": [
+        4.440892098500626e-16,
+        -1.4901161193847656e-08,
+        1.0,
+        -2.9802322387695312e-08
+      ],
+      "local_position": [
+        -0.0303836427628994,
+        -7.629394360719743e-08,
+        3.814697180359872e-08
+      ],
+      "local_scale": [
+        -1.0,
+        -1.0,
+        -1.0
+      ],
+      "children": [],
+      "parent": {
+        "file_id": 0,
+        "path_id": "1247757705978084809"
+      },
+      "name": "Bip001 R Finger0Nub",
+      "path_components": [
+        "Avatar_Male_Claymore_Diluc_Kanban",
+        "Bip001",
+        "Bip001 Pelvis",
+        "Bip001 Spine",
+        "Bip001 Spine1",
+        "Bip001 Spine2",
+        "Bip001 R Clavicle",
+        "Bip001 R UpperArm",
+        "Bip001 R Forearm",
+        "Bip001 R Hand",
+        "DMZ R 01",
+        "DMZ R 02",
+        "DMZ R 03",
+        "Bip001 R Finger0Nub"
+      ]
+    },
+    "6315709349128283050": {
+      "game_object": {
+        "file_id": 0,
+        "path_id": "-2202010942714544879"
+      },
+      "local_rotation_xyzw": [
+        -0.01448751986026764,
+        -0.0020605921745300293,
+        0.14079192280769348,
+        0.9899311065673828
+      ],
+      "local_position": [
+        -0.22607985138893127,
+        -5.885958103135636e-07,
+        8.940696716308594e-08
+      ],
+      "local_scale": [
+        1.0000001192092896,
+        0.9999999403953552,
+        1.0
+      ],
+      "children": [
+        {
+          "file_id": 0,
+          "path_id": "-2339703120878983519"
+        },
+        {
+          "file_id": 0,
+          "path_id": "7796623980531058729"
+        }
+      ],
+      "parent": {
+        "file_id": 0,
+        "path_id": "-6218925977574660361"
+      },
+      "name": "Bip001 L Forearm",
+      "path_components": [
+        "Avatar_Male_Claymore_Diluc_Kanban",
+        "Bip001",
+        "Bip001 Pelvis",
+        "Bip001 Spine",
+        "Bip001 Spine1",
+        "Bip001 Spine2",
+        "Bip001 L Clavicle",
+        "Bip001 L UpperArm",
+        "Bip001 L Forearm"
+      ]
+    },
+    "6350768854910684131": {
+      "game_object": {
+        "file_id": 0,
+        "path_id": "-1178758001111082717"
+      },
+      "local_rotation_xyzw": [
+        -0.09950096160173416,
+        0.5044565200805664,
+        -0.015906235203146935,
+        0.8575372695922852
+      ],
+      "local_position": [
+        -0.14202244579792023,
+        6.705523247774181e-08,
+        4.76837158203125e-07
+      ],
+      "local_scale": [
+        1.0,
+        1.0000001192092896,
+        1.0
+      ],
+      "children": [
+        {
+          "file_id": 0,
+          "path_id": "-3760936705019616566"
+        },
+        {
+          "file_id": 0,
+          "path_id": "1616312302603572180"
+        },
+        {
+          "file_id": 0,
+          "path_id": "-6171901367830778191"
+        }
+      ],
+      "parent": {
+        "file_id": 0,
+        "path_id": "-4096483873387962800"
+      },
+      "name": "Bip001 R UpperArm",
+      "path_components": [
+        "Avatar_Male_Claymore_Diluc_Kanban",
+        "Bip001",
+        "Bip001 Pelvis",
+        "Bip001 Spine",
+        "Bip001 Spine1",
+        "Bip001 Spine2",
+        "Bip001 R Clavicle",
+        "Bip001 R UpperArm"
+      ]
+    },
+    "6531128965584151050": {
+      "game_object": {
+        "file_id": 0,
+        "path_id": "7217382729881748383"
+      },
+      "local_rotation_xyzw": [
+        3.1316301374317845e-06,
+        3.016462642335682e-06,
+        0.9857167601585388,
+        0.16841162741184235
+      ],
+      "local_position": [
+        0.021244581788778305,
+        -0.13001121580600739,
+        -1.378444238753218e-07
+      ],
+      "local_scale": [
+        0.9999936819076538,
+        1.0000063180923462,
+        0.9999999403953552
+      ],
+      "children": [],
+      "parent": {
+        "file_id": 0,
+        "path_id": "7491348154537083011"
+      },
+      "name": "+SkirtB CB A01",
+      "path_components": [
+        "Avatar_Male_Claymore_Diluc_Kanban",
+        "Bip001",
+        "Bip001 Pelvis",
+        "Bip001 Spine",
+        "+SkirtB CB A01"
+      ]
+    },
+    "6542333215124220487": {
+      "game_object": {
+        "file_id": 0,
+        "path_id": "-2738037748847583054"
+      },
+      "local_rotation_xyzw": [
+        -1.5631812289029767e-07,
+        3.1319125071149756e-08,
+        0.0807826966047287,
+        -0.9967318177223206
+      ],
+      "local_position": [
+        -0.026350446045398712,
+        1.1105876218664434e-09,
+        -8.855942645880077e-09
+      ],
+      "local_scale": [
+        1.0,
+        1.0,
+        1.0000001192092896
+      ],
+      "children": [
+        {
+          "file_id": 0,
+          "path_id": "914958024803223433"
+        }
+      ],
+      "parent": {
+        "file_id": 0,
+        "path_id": "370583269452978654"
+      },
+      "name": "Bip001 R Finger12",
+      "path_components": [
+        "Avatar_Male_Claymore_Diluc_Kanban",
+        "Bip001",
+        "Bip001 Pelvis",
+        "Bip001 Spine",
+        "Bip001 Spine1",
+        "Bip001 Spine2",
+        "Bip001 R Clavicle",
+        "Bip001 R UpperArm",
+        "Bip001 R Forearm",
+        "Bip001 R Hand",
+        "Bip001 R Finger1",
+        "Bip001 R Finger11",
+        "Bip001 R Finger12"
+      ]
+    },
+    "6683804603605922088": {
+      "game_object": {
+        "file_id": 0,
+        "path_id": "-7195063486331902143"
+      },
+      "local_rotation_xyzw": [
+        3.4604919818548296e-08,
+        1.1430952895352675e-07,
+        -0.09230830520391464,
+        0.995730459690094
+      ],
+      "local_position": [
+        0.14300000667572021,
+        -0.04399999976158142,
+        -0.0
+      ],
+      "local_scale": [
+        1.0,
+        1.0,
+        1.0
+      ],
+      "children": [],
+      "parent": {
+        "file_id": 0,
+        "path_id": "3899006346060575524"
+      },
+      "name": "HitObject2",
+      "path_components": [
+        "Avatar_Male_Claymore_Diluc_Kanban",
+        "Bip001",
+        "Bip001 Pelvis",
+        "Bip001 Spine",
+        "Bip001 Spine1",
+        "Bip001 Spine2",
+        "HitObject2"
+      ]
+    },
+    "6949882774501978284": {
+      "game_object": {
+        "file_id": 0,
+        "path_id": "543910735456072360"
+      },
+      "local_rotation_xyzw": [
+        2.1855694143368964e-08,
+        0.0,
+        -0.0,
+        1.0
+      ],
+      "local_position": [
+        -0.0,
+        0.0,
+        0.0
+      ],
+      "local_scale": [
+        1.0,
+        1.0,
+        1.0
+      ],
+      "children": [],
+      "parent": {
+        "file_id": 0,
+        "path_id": "-6292552416593011793"
+      },
+      "name": "Brow",
+      "path_components": [
+        "Avatar_Male_Claymore_Diluc_Kanban",
+        "Brow"
+      ]
+    },
+    "7317532008801178315": {
+      "game_object": {
+        "file_id": 0,
+        "path_id": "-6702018101981126430"
+      },
+      "local_rotation_xyzw": [
+        0.6802187561988831,
+        0.0345747247338295,
+        -0.08224566280841827,
+        0.727559506893158
+      ],
+      "local_position": [
+        -0.23070107400417328,
+        -4.6566128730773926e-09,
+        -0.00023644979228265584
+      ],
+      "local_scale": [
+        0.9999999403953552,
+        1.0,
+        1.0
+      ],
+      "children": [
+        {
+          "file_id": 0,
+          "path_id": "-8425648469796315068"
+        },
+        {
+          "file_id": 0,
+          "path_id": "-4161971045533169876"
+        },
+        {
+          "file_id": 0,
+          "path_id": "3266821034389782029"
+        },
+        {
+          "file_id": 0,
+          "path_id": "-1581456732716320743"
+        },
+        {
+          "file_id": 0,
+          "path_id": "1194406950221433146"
+        },
+        {
+          "file_id": 0,
+          "path_id": "1211431101773156971"
+        },
+        {
+          "file_id": 0,
+          "path_id": "2092624706009171043"
+        }
+      ],
+      "parent": {
+        "file_id": 0,
+        "path_id": "-6171901367830778191"
+      },
+      "name": "Bip001 R Hand",
+      "path_components": [
+        "Avatar_Male_Claymore_Diluc_Kanban",
+        "Bip001",
+        "Bip001 Pelvis",
+        "Bip001 Spine",
+        "Bip001 Spine1",
+        "Bip001 Spine2",
+        "Bip001 R Clavicle",
+        "Bip001 R UpperArm",
+        "Bip001 R Forearm",
+        "Bip001 R Hand"
+      ]
+    },
+    "7491348154537083011": {
+      "game_object": {
+        "file_id": 0,
+        "path_id": "-8188107129693438540"
+      },
+      "local_rotation_xyzw": [
+        0.058522917330265045,
+        -0.006658955477178097,
+        -0.008426784537732601,
+        0.9982283115386963
+      ],
+      "local_position": [
+        -0.10141469538211823,
+        0.024579033255577087,
+        3.91155481338501e-08
+      ],
+      "local_scale": [
+        1.0,
+        1.0,
+        1.0
+      ],
+      "children": [
+        {
+          "file_id": 0,
+          "path_id": "6531128965584151050"
+        },
+        {
+          "file_id": 0,
+          "path_id": "8530570907166699153"
+        },
+        {
+          "file_id": 0,
+          "path_id": "-3432103224847789948"
+        },
+        {
+          "file_id": 0,
+          "path_id": "768575824823820073"
+        },
+        {
+          "file_id": 0,
+          "path_id": "723647241834641068"
+        },
+        {
+          "file_id": 0,
+          "path_id": "706247564061551604"
+        },
+        {
+          "file_id": 0,
+          "path_id": "-3644345544456173528"
+        },
+        {
+          "file_id": 0,
+          "path_id": "-6970750044183340508"
+        }
+      ],
+      "parent": {
+        "file_id": 0,
+        "path_id": "3521577355142387332"
+      },
+      "name": "Bip001 Spine",
+      "path_components": [
+        "Avatar_Male_Claymore_Diluc_Kanban",
+        "Bip001",
+        "Bip001 Pelvis",
+        "Bip001 Spine"
+      ]
+    },
+    "7728524044328623255": {
+      "game_object": {
+        "file_id": 0,
+        "path_id": "6926318441506035968"
+      },
+      "local_rotation_xyzw": [
+        -5.817045894218609e-05,
+        0.0050684185698628426,
+        0.012240159325301647,
+        0.9999122619628906
+      ],
+      "local_position": [
+        -0.14282500743865967,
+        1.7547606603329768e-06,
+        2.6583671797197894e-07
+      ],
+      "local_scale": [
+        0.9999972581863403,
+        1.0000028610229492,
+        0.9999999403953552
+      ],
+      "children": [
+        {
+          "file_id": 0,
+          "path_id": "-1323363234237957939"
+        }
+      ],
+      "parent": {
+        "file_id": 0,
+        "path_id": "-3644345544456173528"
+      },
+      "name": "+SkirtS R B02",
+      "path_components": [
+        "Avatar_Male_Claymore_Diluc_Kanban",
+        "Bip001",
+        "Bip001 Pelvis",
+        "Bip001 Spine",
+        "+SkirtS R B01",
+        "+SkirtS R B02"
+      ]
+    },
+    "7796623980531058729": {
+      "game_object": {
+        "file_id": 0,
+        "path_id": "-6058714507536446359"
+      },
+      "local_rotation_xyzw": [
+        0.0,
+        0.0,
+        0.0,
+        1.0
+      ],
+      "local_position": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "local_scale": [
+        1.0,
+        1.0,
+        1.0
+      ],
+      "children": [],
+      "parent": {
+        "file_id": 0,
+        "path_id": "6315709349128283050"
+      },
+      "name": "HitObject1",
+      "path_components": [
+        "Avatar_Male_Claymore_Diluc_Kanban",
+        "Bip001",
+        "Bip001 Pelvis",
+        "Bip001 Spine",
+        "Bip001 Spine1",
+        "Bip001 Spine2",
+        "Bip001 L Clavicle",
+        "Bip001 L UpperArm",
+        "Bip001 L Forearm",
+        "HitObject1"
+      ]
+    },
+    "8068998927170203456": {
+      "game_object": {
+        "file_id": 0,
+        "path_id": "-5158749490301940878"
+      },
+      "local_rotation_xyzw": [
+        2.1855694143368964e-08,
+        0.0,
+        -0.0,
+        1.0
+      ],
+      "local_position": [
+        -0.0,
+        0.0,
+        0.0
+      ],
+      "local_scale": [
+        1.0,
+        1.0,
+        1.0
+      ],
+      "children": [],
+      "parent": {
+        "file_id": 0,
+        "path_id": "-6292552416593011793"
+      },
+      "name": "EyeStar",
+      "path_components": [
+        "Avatar_Male_Claymore_Diluc_Kanban",
+        "EyeStar"
+      ]
+    },
+    "8166208749733471185": {
+      "game_object": {
+        "file_id": 0,
+        "path_id": "7554293961006013152"
+      },
+      "local_rotation_xyzw": [
+        -0.5019135475158691,
+        0.5526860952377319,
+        0.5326495170593262,
+        0.398629367351532
+      ],
+      "local_position": [
+        0.019991125911474228,
+        1.043068766593933,
+        -3.4013763070106506e-05
+      ],
+      "local_scale": [
+        1.0,
+        1.0,
+        1.0
+      ],
+      "children": [
+        {
+          "file_id": 0,
+          "path_id": "-2960192383458315167"
+        },
+        {
+          "file_id": 0,
+          "path_id": "3521577355142387332"
+        }
+      ],
+      "parent": {
+        "file_id": 0,
+        "path_id": "-6292552416593011793"
+      },
+      "name": "Bip001",
+      "path_components": [
+        "Avatar_Male_Claymore_Diluc_Kanban",
+        "Bip001"
+      ]
+    },
+    "8493069819296400466": {
+      "game_object": {
+        "file_id": 0,
+        "path_id": "496501755195728626"
+      },
+      "local_rotation_xyzw": [
+        4.378475182420516e-08,
+        1.7320307676982338e-07,
+        -0.09230827540159225,
+        0.995730459690094
+      ],
+      "local_position": [
+        -0.09200000017881393,
+        0.004999999888241291,
+        0.0
+      ],
+      "local_scale": [
+        1.0,
+        1.0,
+        1.0
+      ],
+      "children": [],
+      "parent": {
+        "file_id": 0,
+        "path_id": "3899006346060575524"
+      },
+      "name": "HitObject3",
+      "path_components": [
+        "Avatar_Male_Claymore_Diluc_Kanban",
+        "Bip001",
+        "Bip001 Pelvis",
+        "Bip001 Spine",
+        "Bip001 Spine1",
+        "Bip001 Spine2",
+        "HitObject3"
+      ]
+    },
+    "8530570907166699153": {
+      "game_object": {
+        "file_id": 0,
+        "path_id": "-2036823421527579766"
+      },
+      "local_rotation_xyzw": [
+        -0.045212939381599426,
+        0.1881810575723648,
+        0.9737703204154968,
+        0.11964546144008636
+      ],
+      "local_position": [
+        0.0064115142449736595,
+        -0.12124878913164139,
+        0.053941208869218826
+      ],
+      "local_scale": [
+        1.0000001192092896,
+        0.9999924898147583,
+        1.0000075101852417
+      ],
+      "children": [
+        {
+          "file_id": 0,
+          "path_id": "-6468188332744627837"
+        }
+      ],
+      "parent": {
+        "file_id": 0,
+        "path_id": "7491348154537083011"
+      },
+      "name": "+SkirtB L B01",
+      "path_components": [
+        "Avatar_Male_Claymore_Diluc_Kanban",
+        "Bip001",
+        "Bip001 Pelvis",
+        "Bip001 Spine",
+        "+SkirtB L B01"
+      ]
+    },
+    "8699960657544763612": {
+      "game_object": {
+        "file_id": 0,
+        "path_id": "-210106257492472102"
+      },
+      "local_rotation_xyzw": [
+        0.017026269808411598,
+        0.0008977912366390228,
+        0.0526566356420517,
+        0.9984671473503113
+      ],
+      "local_position": [
+        -0.5220757722854614,
+        1.5320256352424622e-07,
+        6.519258732851085e-08
+      ],
+      "local_scale": [
+        0.9999999403953552,
+        1.0000001192092896,
+        1.0
+      ],
+      "children": [
+        {
+          "file_id": 0,
+          "path_id": "-5593338581514979787"
+        },
+        {
+          "file_id": 0,
+          "path_id": "4180408310403612210"
+        },
+        {
+          "file_id": 0,
+          "path_id": "5825279401095587608"
+        }
+      ],
+      "parent": {
+        "file_id": 0,
+        "path_id": "-2498428286812001567"
+      },
+      "name": "Bip001 R Calf",
+      "path_components": [
+        "Avatar_Male_Claymore_Diluc_Kanban",
+        "Bip001",
+        "Bip001 Pelvis",
+        "Bip001 R Thigh",
+        "Bip001 R Calf"
+      ]
+    },
+    "8717850818838673035": {
+      "game_object": {
+        "file_id": 0,
+        "path_id": "5262501841637726674"
+      },
+      "local_rotation_xyzw": [
+        -2.6092126859111886e-07,
+        -3.586633212648849e-08,
+        0.4861922264099121,
+        -0.8738518953323364
+      ],
+      "local_position": [
+        -0.03855331987142563,
+        1.6248998813139792e-09,
+        9.807024525798624e-09
+      ],
+      "local_scale": [
+        1.0,
+        0.9999999403953552,
+        0.9999999403953552
+      ],
+      "children": [
+        {
+          "file_id": 0,
+          "path_id": "301346586051765140"
+        }
+      ],
+      "parent": {
+        "file_id": 0,
+        "path_id": "3266821034389782029"
+      },
+      "name": "Bip001 R Finger31",
+      "path_components": [
+        "Avatar_Male_Claymore_Diluc_Kanban",
+        "Bip001",
+        "Bip001 Pelvis",
+        "Bip001 Spine",
+        "Bip001 Spine1",
+        "Bip001 Spine2",
+        "Bip001 R Clavicle",
+        "Bip001 R UpperArm",
+        "Bip001 R Forearm",
+        "Bip001 R Hand",
+        "Bip001 R Finger3",
+        "Bip001 R Finger31"
+      ]
+    },
+    "8755108384676762791": {
+      "game_object": {
+        "file_id": 0,
+        "path_id": "-7500827647891796868"
+      },
+      "local_rotation_xyzw": [
+        0.004115632735192776,
+        0.0008279902976937592,
+        -0.048333439975976944,
+        0.9988224506378174
+      ],
+      "local_position": [
+        -0.08672187477350235,
+        -0.0014218135038390756,
+        -0.027128711342811584
+      ],
+      "local_scale": [
+        1.0000001192092896,
+        1.000000238418579,
+        1.0
+      ],
+      "children": [
+        {
+          "file_id": 0,
+          "path_id": "-5891166706188392356"
+        }
+      ],
+      "parent": {
+        "file_id": 0,
+        "path_id": "-2339703120878983519"
+      },
+      "name": "Bip001 L Finger1",
+      "path_components": [
+        "Avatar_Male_Claymore_Diluc_Kanban",
+        "Bip001",
+        "Bip001 Pelvis",
+        "Bip001 Spine",
+        "Bip001 Spine1",
+        "Bip001 Spine2",
+        "Bip001 L Clavicle",
+        "Bip001 L UpperArm",
+        "Bip001 L Forearm",
+        "Bip001 L Hand",
+        "Bip001 L Finger1"
+      ]
+    },
+    "8793278787892661084": {
+      "game_object": {
+        "file_id": 0,
+        "path_id": "2427769006793849748"
+      },
+      "local_rotation_xyzw": [
+        0.9835792779922485,
+        -0.025440312922000885,
+        0.03616813197731972,
+        0.17497555911540985
+      ],
+      "local_position": [
+        -0.04008903354406357,
+        0.001639194437302649,
+        -0.003316326066851616
+      ],
+      "local_scale": [
+        1.0,
+        0.9999999403953552,
+        1.0000001192092896
+      ],
+      "children": [],
+      "parent": {
+        "file_id": 0,
+        "path_id": "-2339703120878983519"
+      },
+      "name": "WeaponL",
+      "path_components": [
+        "Avatar_Male_Claymore_Diluc_Kanban",
+        "Bip001",
+        "Bip001 Pelvis",
+        "Bip001 Spine",
+        "Bip001 Spine1",
+        "Bip001 Spine2",
+        "Bip001 L Clavicle",
+        "Bip001 L UpperArm",
+        "Bip001 L Forearm",
+        "Bip001 L Hand",
+        "WeaponL"
+      ]
+    },
+    "8802375219058444346": {
+      "game_object": {
+        "file_id": 0,
+        "path_id": "4215931768388573241"
+      },
+      "local_rotation_xyzw": [
+        -0.6955708265304565,
+        0.6955944299697876,
+        0.12712273001670837,
+        0.12715916335582733
+      ],
+      "local_position": [
+        -0.06896453350782394,
+        0.03794923797249794,
+        0.019869549199938774
+      ],
+      "local_scale": [
+        0.9999711513519287,
+        1.0000157356262207,
+        0.9999704957008362
+      ],
+      "children": [
+        {
+          "file_id": 0,
+          "path_id": "5978566649133990754"
+        }
+      ],
+      "parent": {
+        "file_id": 0,
+        "path_id": "5461207643137899433"
+      },
+      "name": "+EyeBone L A01",
+      "path_components": [
+        "Avatar_Male_Claymore_Diluc_Kanban",
+        "Bip001",
+        "Bip001 Pelvis",
+        "Bip001 Spine",
+        "Bip001 Spine1",
+        "Bip001 Spine2",
+        "Bip001 Neck",
+        "Bip001 Head",
+        "+EyeBone L A01"
+      ]
+    },
+    "8831086354021861489": {
+      "game_object": {
+        "file_id": 0,
+        "path_id": "2895054142754743689"
+      },
+      "local_rotation_xyzw": [
+        -0.014682174660265446,
+        -0.014136666432023048,
+        -0.26103338599205017,
+        0.9651145935058594
+      ],
+      "local_position": [
+        -0.08702433109283447,
+        -0.002748494502156973,
+        0.017060192301869392
+      ],
+      "local_scale": [
+        0.9999998807907104,
+        1.0000001192092896,
+        0.9999999403953552
+      ],
+      "children": [
+        {
+          "file_id": 0,
+          "path_id": "-3939192468857622180"
+        }
+      ],
+      "parent": {
+        "file_id": 0,
+        "path_id": "-2339703120878983519"
+      },
+      "name": "Bip001 L Finger3",
+      "path_components": [
+        "Avatar_Male_Claymore_Diluc_Kanban",
+        "Bip001",
+        "Bip001 Pelvis",
+        "Bip001 Spine",
+        "Bip001 Spine1",
+        "Bip001 Spine2",
+        "Bip001 L Clavicle",
+        "Bip001 L UpperArm",
+        "Bip001 L Forearm",
+        "Bip001 L Hand",
+        "Bip001 L Finger3"
+      ]
+    },
+    "8871713042807670868": {
+      "game_object": {
+        "file_id": 0,
+        "path_id": "-2587767388856408846"
+      },
+      "local_rotation_xyzw": [
+        3.0411388468251643e-13,
+        -6.074269776404351e-13,
+        -0.1865919679403305,
+        0.9824374914169312
+      ],
+      "local_position": [
+        -0.13693267107009888,
+        1.945495569088962e-06,
+        4.83210893520436e-09
+      ],
+      "local_scale": [
+        0.9999974966049194,
+        1.0000022649765015,
+        1.0
+      ],
+      "children": [],
+      "parent": {
+        "file_id": 0,
+        "path_id": "5739632813813358029"
+      },
+      "name": "+HairB CB A03",
+      "path_components": [
+        "Avatar_Male_Claymore_Diluc_Kanban",
+        "Bip001",
+        "Bip001 Pelvis",
+        "Bip001 Spine",
+        "Bip001 Spine1",
+        "Bip001 Spine2",
+        "Bip001 Neck",
+        "Bip001 Head",
+        "+HairB CB A01",
+        "+HairB CB A02",
+        "+HairB CB A03"
+      ]
+    },
+    "8939640010804722484": {
+      "game_object": {
+        "file_id": 0,
+        "path_id": "-3213631955937639450"
+      },
+      "local_rotation_xyzw": [
+        -0.00015584683569613844,
+        -0.00835425965487957,
+        0.05890563875436783,
+        0.9982286095619202
+      ],
+      "local_position": [
+        -0.03327842801809311,
+        -4.768371297814156e-08,
+        -3.814697180359872e-08
+      ],
+      "local_scale": [
+        1.0,
+        1.0,
+        1.0
+      ],
+      "children": [
+        {
+          "file_id": 0,
+          "path_id": "-1182813831845122385"
+        }
+      ],
+      "parent": {
+        "file_id": 0,
+        "path_id": "4024743393415700524"
+      },
+      "name": "DMZ L 03",
+      "path_components": [
+        "Avatar_Male_Claymore_Diluc_Kanban",
+        "Bip001",
+        "Bip001 Pelvis",
+        "Bip001 Spine",
+        "Bip001 Spine1",
+        "Bip001 Spine2",
+        "Bip001 L Clavicle",
+        "Bip001 L UpperArm",
+        "Bip001 L Forearm",
+        "Bip001 L Hand",
+        "DMZ L 01",
+        "DMZ L 02",
+        "DMZ L 03"
+      ]
+    },
+    "9047372480378925923": {
+      "game_object": {
+        "file_id": 0,
+        "path_id": "8161665441108340396"
+      },
+      "local_rotation_xyzw": [
+        0.044470980763435364,
+        -0.04446951299905777,
+        -0.7057178616523743,
+        0.7056962251663208
+      ],
+      "local_position": [
+        -0.043334536254405975,
+        -0.0024520873557776213,
+        0.0020779401529580355
+      ],
+      "local_scale": [
+        1.0000073909759521,
+        0.9999879002571106,
+        0.999987781047821
+      ],
+      "children": [],
+      "parent": {
+        "file_id": 0,
+        "path_id": "4622128235415929431"
+      },
+      "name": "+EyeBone R A02",
+      "path_components": [
+        "Avatar_Male_Claymore_Diluc_Kanban",
+        "Bip001",
+        "Bip001 Pelvis",
+        "Bip001 Spine",
+        "Bip001 Spine1",
+        "Bip001 Spine2",
+        "Bip001 Neck",
+        "Bip001 Head",
+        "+EyeBone R A01",
+        "+EyeBone R A02"
+      ]
+    },
+    "9095674204179332953": {
+      "game_object": {
+        "file_id": 0,
+        "path_id": "-4045019991821742697"
+      },
+      "local_rotation_xyzw": [
+        0.0555223673582077,
+        0.9781569838523865,
+        0.14774155616760254,
+        0.13527220487594604
+      ],
+      "local_position": [
+        1.192093321833454e-07,
+        1.286540083356158e-07,
+        0.07267647981643677
+      ],
+      "local_scale": [
+        1.0,
+        1.0000001192092896,
+        1.0
+      ],
+      "children": [
+        {
+          "file_id": 0,
+          "path_id": "-1400199481021602623"
+        }
+      ],
+      "parent": {
+        "file_id": 0,
+        "path_id": "3521577355142387332"
+      },
+      "name": "Bip001 L Thigh",
+      "path_components": [
+        "Avatar_Male_Claymore_Diluc_Kanban",
+        "Bip001",
+        "Bip001 Pelvis",
+        "Bip001 L Thigh"
+      ]
+    }
+  },
+  "renderers": [
+    {
+      "game_object": {
+        "file_id": 0,
+        "path_id": "-6633148117930027144"
+      },
+      "header_flags_hex": "010100010001000100000000000001000000000100000000",
+      "lightmap_scale_offset": [
+        1.0,
+        1.0,
+        0.0,
+        0.0
+      ],
+      "dynamic_lightmap_scale_offset": [
+        1.0,
+        1.0,
+        0.0,
+        0.0
+      ],
+      "view_distance_ratio": 16.0,
+      "shader_lod_distance_ratio": 1.0,
+      "materials": [
+        {
+          "file_id": 2,
+          "path_id": "8997584996979090013"
+        }
+      ],
+      "static_batch": [
+        0,
+        0
+      ],
+      "static_batch_root": {
+        "file_id": 0,
+        "path_id": "0"
+      },
+      "material_layers": 1,
+      "probe_anchor": {
+        "file_id": 0,
+        "path_id": "0"
+      },
+      "probe_volume": {
+        "file_id": 0,
+        "path_id": "0"
+      },
+      "sorting": [
+        0,
+        0,
+        0
+      ],
+      "use_highest_mip": 0,
+      "quality": 0,
+      "update_when_offscreen": 0,
+      "skin_normals": 1,
+      "mesh": {
+        "file_id": 1,
+        "path_id": "2380235536763143789"
+      },
+      "bones": [
+        {
+          "file_id": 0,
+          "path_id": "5461207643137899433"
+        }
+      ],
+      "blend_shape_weights": [],
+      "root_bone": {
+        "file_id": 0,
+        "path_id": "5461207643137899433"
+      },
+      "aabb": [
+        -0.06561803072690964,
+        0.07197348028421402,
+        -8.791685104370117e-07,
+        0.05485152453184128,
+        0.03590157628059387,
+        0.07604915648698807
+      ],
+      "dirty_aabb": 0,
+      "uninterpreted_trailer_hex": "000000000000000000000000000000000000803f01000000",
+      "id": "-4695345477776380378",
+      "name": "Face_Eye",
+      "type_hash": "d74087651cccc56b59dcdac73be06d71",
+      "raw_sha256": "32acdb66690acefd3cb216469392195e32dbc0bf87e80e3f6f3a0c09e6211bbd",
+      "mesh_ref": "cab-c920ac063a5c2563ec38763a8298dbe7:2380235536763143789",
+      "material_refs": [
+        "cab-922044b2d606dea02c9fc855e4f095f7:8997584996979090013"
+      ],
+      "bone_names": [
+        "Bip001 Head"
+      ],
+      "bone_paths": [
+        [
+          "Avatar_Male_Claymore_Diluc_Kanban",
+          "Bip001",
+          "Bip001 Pelvis",
+          "Bip001 Spine",
+          "Bip001 Spine1",
+          "Bip001 Spine2",
+          "Bip001 Neck",
+          "Bip001 Head"
+        ]
+      ]
+    },
+    {
+      "game_object": {
+        "file_id": 0,
+        "path_id": "6795793402372841865"
+      },
+      "header_flags_hex": "010100010001000100000000000001000000000100000000",
+      "lightmap_scale_offset": [
+        1.0,
+        1.0,
+        0.0,
+        0.0
+      ],
+      "dynamic_lightmap_scale_offset": [
+        1.0,
+        1.0,
+        0.0,
+        0.0
+      ],
+      "view_distance_ratio": 16.0,
+      "shader_lod_distance_ratio": 1.0,
+      "materials": [
+        {
+          "file_id": 3,
+          "path_id": "-4634326098374825733"
+        },
+        {
+          "file_id": 4,
+          "path_id": "-5283021317529446678"
+        }
+      ],
+      "static_batch": [
+        0,
+        0
+      ],
+      "static_batch_root": {
+        "file_id": 0,
+        "path_id": "0"
+      },
+      "material_layers": 1,
+      "probe_anchor": {
+        "file_id": 0,
+        "path_id": "0"
+      },
+      "probe_volume": {
+        "file_id": 0,
+        "path_id": "0"
+      },
+      "sorting": [
+        0,
+        0,
+        0
+      ],
+      "use_highest_mip": 0,
+      "quality": 0,
+      "update_when_offscreen": 0,
+      "skin_normals": 1,
+      "mesh": {
+        "file_id": 1,
+        "path_id": "5252250616817118327"
+      },
+      "bones": [
+        {
+          "file_id": 0,
+          "path_id": "5572703992181440357"
+        },
+        {
+          "file_id": 0,
+          "path_id": "-3821171427926800004"
+        },
+        {
+          "file_id": 0,
+          "path_id": "-1024938085326705714"
+        },
+        {
+          "file_id": 0,
+          "path_id": "-3632185233183067666"
+        },
+        {
+          "file_id": 0,
+          "path_id": "5978566649133990754"
+        },
+        {
+          "file_id": 0,
+          "path_id": "9047372480378925923"
+        },
+        {
+          "file_id": 0,
+          "path_id": "-3094034556881723895"
+        },
+        {
+          "file_id": 0,
+          "path_id": "5739632813813358029"
+        },
+        {
+          "file_id": 0,
+          "path_id": "8871713042807670868"
+        },
+        {
+          "file_id": 0,
+          "path_id": "3512492194087166970"
+        },
+        {
+          "file_id": 0,
+          "path_id": "6286519610146571270"
+        },
+        {
+          "file_id": 0,
+          "path_id": "-2960192383458315167"
+        },
+        {
+          "file_id": 0,
+          "path_id": "6531128965584151050"
+        },
+        {
+          "file_id": 0,
+          "path_id": "8530570907166699153"
+        },
+        {
+          "file_id": 0,
+          "path_id": "-6468188332744627837"
+        },
+        {
+          "file_id": 0,
+          "path_id": "3902740408762433457"
+        },
+        {
+          "file_id": 0,
+          "path_id": "-7915036105366861758"
+        },
+        {
+          "file_id": 0,
+          "path_id": "-3432103224847789948"
+        },
+        {
+          "file_id": 0,
+          "path_id": "-85692430414978929"
+        },
+        {
+          "file_id": 0,
+          "path_id": "-8800713966289172739"
+        },
+        {
+          "file_id": 0,
+          "path_id": "-1076096665895493161"
+        },
+        {
+          "file_id": 0,
+          "path_id": "768575824823820073"
+        },
+        {
+          "file_id": 0,
+          "path_id": "3983610768435100874"
+        },
+        {
+          "file_id": 0,
+          "path_id": "723647241834641068"
+        },
+        {
+          "file_id": 0,
+          "path_id": "-5576402902145670756"
+        },
+        {
+          "file_id": 0,
+          "path_id": "706247564061551604"
+        },
+        {
+          "file_id": 0,
+          "path_id": "5535777070028571614"
+        },
+        {
+          "file_id": 0,
+          "path_id": "2739874121014337142"
+        },
+        {
+          "file_id": 0,
+          "path_id": "-3644345544456173528"
+        },
+        {
+          "file_id": 0,
+          "path_id": "7728524044328623255"
+        },
+        {
+          "file_id": 0,
+          "path_id": "-1323363234237957939"
+        },
+        {
+          "file_id": 0,
+          "path_id": "1064869409669265046"
+        },
+        {
+          "file_id": 0,
+          "path_id": "-8643924437321546633"
+        },
+        {
+          "file_id": 0,
+          "path_id": "-3760936705019616566"
+        },
+        {
+          "file_id": 0,
+          "path_id": "1616312302603572180"
+        },
+        {
+          "file_id": 0,
+          "path_id": "-7488187266419224554"
+        },
+        {
+          "file_id": 0,
+          "path_id": "-1399631060231889546"
+        },
+        {
+          "file_id": 0,
+          "path_id": "5461207643137899433"
+        },
+        {
+          "file_id": 0,
+          "path_id": "-1400199481021602623"
+        },
+        {
+          "file_id": 0,
+          "path_id": "-4093195960360231142"
+        },
+        {
+          "file_id": 0,
+          "path_id": "8755108384676762791"
+        },
+        {
+          "file_id": 0,
+          "path_id": "-5891166706188392356"
+        },
+        {
+          "file_id": 0,
+          "path_id": "-7066155035456498134"
+        },
+        {
+          "file_id": 0,
+          "path_id": "-7306665827040285109"
+        },
+        {
+          "file_id": 0,
+          "path_id": "5799161677739789912"
+        },
+        {
+          "file_id": 0,
+          "path_id": "-78411760324282256"
+        },
+        {
+          "file_id": 0,
+          "path_id": "8831086354021861489"
+        },
+        {
+          "file_id": 0,
+          "path_id": "-3939192468857622180"
+        },
+        {
+          "file_id": 0,
+          "path_id": "-2101748294929659853"
+        },
+        {
+          "file_id": 0,
+          "path_id": "-4299016129470148739"
+        },
+        {
+          "file_id": 0,
+          "path_id": "6075939188463090364"
+        },
+        {
+          "file_id": 0,
+          "path_id": "3641106875528934260"
+        },
+        {
+          "file_id": 0,
+          "path_id": "-2433688975317566472"
+        },
+        {
+          "file_id": 0,
+          "path_id": "6315709349128283050"
+        },
+        {
+          "file_id": 0,
+          "path_id": "-2339703120878983519"
+        },
+        {
+          "file_id": 0,
+          "path_id": "9095674204179332953"
+        },
+        {
+          "file_id": 0,
+          "path_id": "-3044803089626443061"
+        },
+        {
+          "file_id": 0,
+          "path_id": "-4309507714414919104"
+        },
+        {
+          "file_id": 0,
+          "path_id": "8699960657544763612"
+        },
+        {
+          "file_id": 0,
+          "path_id": "-4096483873387962800"
+        },
+        {
+          "file_id": 0,
+          "path_id": "-8425648469796315068"
+        },
+        {
+          "file_id": 0,
+          "path_id": "370583269452978654"
+        },
+        {
+          "file_id": 0,
+          "path_id": "6542333215124220487"
+        },
+        {
+          "file_id": 0,
+          "path_id": "-4161971045533169876"
+        },
+        {
+          "file_id": 0,
+          "path_id": "945026880955168632"
+        },
+        {
+          "file_id": 0,
+          "path_id": "-1641542689205109422"
+        },
+        {
+          "file_id": 0,
+          "path_id": "3266821034389782029"
+        },
+        {
+          "file_id": 0,
+          "path_id": "8717850818838673035"
+        },
+        {
+          "file_id": 0,
+          "path_id": "301346586051765140"
+        },
+        {
+          "file_id": 0,
+          "path_id": "-1581456732716320743"
+        },
+        {
+          "file_id": 0,
+          "path_id": "1296386563776074736"
+        },
+        {
+          "file_id": 0,
+          "path_id": "-5304942968007451212"
+        },
+        {
+          "file_id": 0,
+          "path_id": "-5593338581514979787"
+        },
+        {
+          "file_id": 0,
+          "path_id": "-6171901367830778191"
+        },
+        {
+          "file_id": 0,
+          "path_id": "7317532008801178315"
+        },
+        {
+          "file_id": 0,
+          "path_id": "-2498428286812001567"
+        },
+        {
+          "file_id": 0,
+          "path_id": "4086470407308905164"
+        },
+        {
+          "file_id": 0,
+          "path_id": "7491348154537083011"
+        },
+        {
+          "file_id": 0,
+          "path_id": "-6970750044183340508"
+        },
+        {
+          "file_id": 0,
+          "path_id": "3899006346060575524"
+        },
+        {
+          "file_id": 0,
+          "path_id": "859129412401956317"
+        },
+        {
+          "file_id": 0,
+          "path_id": "4024743393415700524"
+        },
+        {
+          "file_id": 0,
+          "path_id": "8939640010804722484"
+        },
+        {
+          "file_id": 0,
+          "path_id": "1194406950221433146"
+        },
+        {
+          "file_id": 0,
+          "path_id": "4338908693399387056"
+        },
+        {
+          "file_id": 0,
+          "path_id": "1247757705978084809"
+        }
+      ],
+      "blend_shape_weights": [],
+      "root_bone": {
+        "file_id": 0,
+        "path_id": "7491348154537083011"
+      },
+      "aabb": [
+        0.21562105417251587,
+        -0.05725222826004028,
+        0.0,
+        0.9431642889976501,
+        0.24994158744812012,
+        0.5271179676055908
+      ],
+      "dirty_aabb": 0,
+      "uninterpreted_trailer_hex": "000000000000000000000000000000000000803f01000000",
+      "id": "-4094445906327891873",
+      "name": "Body",
+      "type_hash": "d74087651cccc56b59dcdac73be06d71",
+      "raw_sha256": "7e3466d03f44048cd0a2882792b593bcac4e589dbeae846478abe5945ddc0c26",
+      "mesh_ref": "cab-c920ac063a5c2563ec38763a8298dbe7:5252250616817118327",
+      "material_refs": [
+        "cab-8c01ac663615c4c79d1b7543e349bbed:-4634326098374825733",
+        "cab-10e5a8ebab08f57e3c638dbfb04ff97b:-5283021317529446678"
+      ],
+      "bone_names": [
+        "+CollarS L C01",
+        "+CollarS L D01",
+        "+CollarS R C01",
+        "+CollarS R D01",
+        "+EyeBone L A02",
+        "+EyeBone R A02",
+        "+HairB CB A01",
+        "+HairB CB A02",
+        "+HairB CB A03",
+        "+HairS L C01",
+        "+HairS R C01",
+        "+PelvisTwist CF A01",
+        "+SkirtB CB A01",
+        "+SkirtB L B01",
+        "+SkirtB L B02",
+        "+SkirtB L B03",
+        "+SkirtB L B04",
+        "+SkirtB R B01",
+        "+SkirtB R B02",
+        "+SkirtB R B03",
+        "+SkirtB R B04",
+        "+SkirtF L B01",
+        "+SkirtF L B02",
+        "+SkirtF R B01",
+        "+SkirtF R B02",
+        "+SkirtS L B01",
+        "+SkirtS L B02",
+        "+SkirtS L B03",
+        "+SkirtS R B01",
+        "+SkirtS R B02",
+        "+SkirtS R B03",
+        "+UpperArmTwist L A01",
+        "+UpperArmTwist L A02",
+        "+UpperArmTwist R A01",
+        "+UpperArmTwist R A02",
+        "+VisionPelvisS L B01",
+        "+VisionPelvisS L B02",
+        "Bip001 Head",
+        "Bip001 L Calf",
+        "Bip001 L Clavicle",
+        "Bip001 L Finger1",
+        "Bip001 L Finger11",
+        "Bip001 L Finger12",
+        "Bip001 L Finger2",
+        "Bip001 L Finger21",
+        "Bip001 L Finger22",
+        "Bip001 L Finger3",
+        "Bip001 L Finger31",
+        "Bip001 L Finger32",
+        "Bip001 L Finger4",
+        "Bip001 L Finger41",
+        "Bip001 L Finger42",
+        "Bip001 L Foot",
+        "Bip001 L Forearm",
+        "Bip001 L Hand",
+        "Bip001 L Thigh",
+        "Bip001 L Toe0",
+        "Bip001 Neck",
+        "Bip001 R Calf",
+        "Bip001 R Clavicle",
+        "Bip001 R Finger1",
+        "Bip001 R Finger11",
+        "Bip001 R Finger12",
+        "Bip001 R Finger2",
+        "Bip001 R Finger21",
+        "Bip001 R Finger22",
+        "Bip001 R Finger3",
+        "Bip001 R Finger31",
+        "Bip001 R Finger32",
+        "Bip001 R Finger4",
+        "Bip001 R Finger41",
+        "Bip001 R Finger42",
+        "Bip001 R Foot",
+        "Bip001 R Forearm",
+        "Bip001 R Hand",
+        "Bip001 R Thigh",
+        "Bip001 R Toe0",
+        "Bip001 Spine",
+        "Bip001 Spine1",
+        "Bip001 Spine2",
+        "DMZ L 01",
+        "DMZ L 02",
+        "DMZ L 03",
+        "DMZ R 01",
+        "DMZ R 02",
+        "DMZ R 03"
+      ],
+      "bone_paths": [
+        [
+          "Avatar_Male_Claymore_Diluc_Kanban",
+          "Bip001",
+          "Bip001 Pelvis",
+          "Bip001 Spine",
+          "Bip001 Spine1",
+          "Bip001 Spine2",
+          "+CollarS L C01"
+        ],
+        [
+          "Avatar_Male_Claymore_Diluc_Kanban",
+          "Bip001",
+          "Bip001 Pelvis",
+          "Bip001 Spine",
+          "Bip001 Spine1",
+          "Bip001 Spine2",
+          "+CollarS L D01"
+        ],
+        [
+          "Avatar_Male_Claymore_Diluc_Kanban",
+          "Bip001",
+          "Bip001 Pelvis",
+          "Bip001 Spine",
+          "Bip001 Spine1",
+          "Bip001 Spine2",
+          "+CollarS R C01"
+        ],
+        [
+          "Avatar_Male_Claymore_Diluc_Kanban",
+          "Bip001",
+          "Bip001 Pelvis",
+          "Bip001 Spine",
+          "Bip001 Spine1",
+          "Bip001 Spine2",
+          "+CollarS R D01"
+        ],
+        [
+          "Avatar_Male_Claymore_Diluc_Kanban",
+          "Bip001",
+          "Bip001 Pelvis",
+          "Bip001 Spine",
+          "Bip001 Spine1",
+          "Bip001 Spine2",
+          "Bip001 Neck",
+          "Bip001 Head",
+          "+EyeBone L A01",
+          "+EyeBone L A02"
+        ],
+        [
+          "Avatar_Male_Claymore_Diluc_Kanban",
+          "Bip001",
+          "Bip001 Pelvis",
+          "Bip001 Spine",
+          "Bip001 Spine1",
+          "Bip001 Spine2",
+          "Bip001 Neck",
+          "Bip001 Head",
+          "+EyeBone R A01",
+          "+EyeBone R A02"
+        ],
+        [
+          "Avatar_Male_Claymore_Diluc_Kanban",
+          "Bip001",
+          "Bip001 Pelvis",
+          "Bip001 Spine",
+          "Bip001 Spine1",
+          "Bip001 Spine2",
+          "Bip001 Neck",
+          "Bip001 Head",
+          "+HairB CB A01"
+        ],
+        [
+          "Avatar_Male_Claymore_Diluc_Kanban",
+          "Bip001",
+          "Bip001 Pelvis",
+          "Bip001 Spine",
+          "Bip001 Spine1",
+          "Bip001 Spine2",
+          "Bip001 Neck",
+          "Bip001 Head",
+          "+HairB CB A01",
+          "+HairB CB A02"
+        ],
+        [
+          "Avatar_Male_Claymore_Diluc_Kanban",
+          "Bip001",
+          "Bip001 Pelvis",
+          "Bip001 Spine",
+          "Bip001 Spine1",
+          "Bip001 Spine2",
+          "Bip001 Neck",
+          "Bip001 Head",
+          "+HairB CB A01",
+          "+HairB CB A02",
+          "+HairB CB A03"
+        ],
+        [
+          "Avatar_Male_Claymore_Diluc_Kanban",
+          "Bip001",
+          "Bip001 Pelvis",
+          "Bip001 Spine",
+          "Bip001 Spine1",
+          "Bip001 Spine2",
+          "Bip001 Neck",
+          "Bip001 Head",
+          "+HairS L C01"
+        ],
+        [
+          "Avatar_Male_Claymore_Diluc_Kanban",
+          "Bip001",
+          "Bip001 Pelvis",
+          "Bip001 Spine",
+          "Bip001 Spine1",
+          "Bip001 Spine2",
+          "Bip001 Neck",
+          "Bip001 Head",
+          "+HairS R C01"
+        ],
+        [
+          "Avatar_Male_Claymore_Diluc_Kanban",
+          "Bip001",
+          "+PelvisTwist CF A01"
+        ],
+        [
+          "Avatar_Male_Claymore_Diluc_Kanban",
+          "Bip001",
+          "Bip001 Pelvis",
+          "Bip001 Spine",
+          "+SkirtB CB A01"
+        ],
+        [
+          "Avatar_Male_Claymore_Diluc_Kanban",
+          "Bip001",
+          "Bip001 Pelvis",
+          "Bip001 Spine",
+          "+SkirtB L B01"
+        ],
+        [
+          "Avatar_Male_Claymore_Diluc_Kanban",
+          "Bip001",
+          "Bip001 Pelvis",
+          "Bip001 Spine",
+          "+SkirtB L B01",
+          "+SkirtB L B02"
+        ],
+        [
+          "Avatar_Male_Claymore_Diluc_Kanban",
+          "Bip001",
+          "Bip001 Pelvis",
+          "Bip001 Spine",
+          "+SkirtB L B01",
+          "+SkirtB L B02",
+          "+SkirtB L B03"
+        ],
+        [
+          "Avatar_Male_Claymore_Diluc_Kanban",
+          "Bip001",
+          "Bip001 Pelvis",
+          "Bip001 Spine",
+          "+SkirtB L B01",
+          "+SkirtB L B02",
+          "+SkirtB L B03",
+          "+SkirtB L B04"
+        ],
+        [
+          "Avatar_Male_Claymore_Diluc_Kanban",
+          "Bip001",
+          "Bip001 Pelvis",
+          "Bip001 Spine",
+          "+SkirtB R B01"
+        ],
+        [
+          "Avatar_Male_Claymore_Diluc_Kanban",
+          "Bip001",
+          "Bip001 Pelvis",
+          "Bip001 Spine",
+          "+SkirtB R B01",
+          "+SkirtB R B02"
+        ],
+        [
+          "Avatar_Male_Claymore_Diluc_Kanban",
+          "Bip001",
+          "Bip001 Pelvis",
+          "Bip001 Spine",
+          "+SkirtB R B01",
+          "+SkirtB R B02",
+          "+SkirtB R B03"
+        ],
+        [
+          "Avatar_Male_Claymore_Diluc_Kanban",
+          "Bip001",
+          "Bip001 Pelvis",
+          "Bip001 Spine",
+          "+SkirtB R B01",
+          "+SkirtB R B02",
+          "+SkirtB R B03",
+          "+SkirtB R B04"
+        ],
+        [
+          "Avatar_Male_Claymore_Diluc_Kanban",
+          "Bip001",
+          "Bip001 Pelvis",
+          "Bip001 Spine",
+          "+SkirtF L B01"
+        ],
+        [
+          "Avatar_Male_Claymore_Diluc_Kanban",
+          "Bip001",
+          "Bip001 Pelvis",
+          "Bip001 Spine",
+          "+SkirtF L B01",
+          "+SkirtF L B02"
+        ],
+        [
+          "Avatar_Male_Claymore_Diluc_Kanban",
+          "Bip001",
+          "Bip001 Pelvis",
+          "Bip001 Spine",
+          "+SkirtF R B01"
+        ],
+        [
+          "Avatar_Male_Claymore_Diluc_Kanban",
+          "Bip001",
+          "Bip001 Pelvis",
+          "Bip001 Spine",
+          "+SkirtF R B01",
+          "+SkirtF R B02"
+        ],
+        [
+          "Avatar_Male_Claymore_Diluc_Kanban",
+          "Bip001",
+          "Bip001 Pelvis",
+          "Bip001 Spine",
+          "+SkirtS L B01"
+        ],
+        [
+          "Avatar_Male_Claymore_Diluc_Kanban",
+          "Bip001",
+          "Bip001 Pelvis",
+          "Bip001 Spine",
+          "+SkirtS L B01",
+          "+SkirtS L B02"
+        ],
+        [
+          "Avatar_Male_Claymore_Diluc_Kanban",
+          "Bip001",
+          "Bip001 Pelvis",
+          "Bip001 Spine",
+          "+SkirtS L B01",
+          "+SkirtS L B02",
+          "+SkirtS L B03"
+        ],
+        [
+          "Avatar_Male_Claymore_Diluc_Kanban",
+          "Bip001",
+          "Bip001 Pelvis",
+          "Bip001 Spine",
+          "+SkirtS R B01"
+        ],
+        [
+          "Avatar_Male_Claymore_Diluc_Kanban",
+          "Bip001",
+          "Bip001 Pelvis",
+          "Bip001 Spine",
+          "+SkirtS R B01",
+          "+SkirtS R B02"
+        ],
+        [
+          "Avatar_Male_Claymore_Diluc_Kanban",
+          "Bip001",
+          "Bip001 Pelvis",
+          "Bip001 Spine",
+          "+SkirtS R B01",
+          "+SkirtS R B02",
+          "+SkirtS R B03"
+        ],
+        [
+          "Avatar_Male_Claymore_Diluc_Kanban",
+          "Bip001",
+          "Bip001 Pelvis",
+          "Bip001 Spine",
+          "Bip001 Spine1",
+          "Bip001 Spine2",
+          "Bip001 L Clavicle",
+          "Bip001 L UpperArm",
+          "+UpperArmTwist L A01"
+        ],
+        [
+          "Avatar_Male_Claymore_Diluc_Kanban",
+          "Bip001",
+          "Bip001 Pelvis",
+          "Bip001 Spine",
+          "Bip001 Spine1",
+          "Bip001 Spine2",
+          "Bip001 L Clavicle",
+          "Bip001 L UpperArm",
+          "+UpperArmTwist L A02"
+        ],
+        [
+          "Avatar_Male_Claymore_Diluc_Kanban",
+          "Bip001",
+          "Bip001 Pelvis",
+          "Bip001 Spine",
+          "Bip001 Spine1",
+          "Bip001 Spine2",
+          "Bip001 R Clavicle",
+          "Bip001 R UpperArm",
+          "+UpperArmTwist R A01"
+        ],
+        [
+          "Avatar_Male_Claymore_Diluc_Kanban",
+          "Bip001",
+          "Bip001 Pelvis",
+          "Bip001 Spine",
+          "Bip001 Spine1",
+          "Bip001 Spine2",
+          "Bip001 R Clavicle",
+          "Bip001 R UpperArm",
+          "+UpperArmTwist R A02"
+        ],
+        [
+          "Avatar_Male_Claymore_Diluc_Kanban",
+          "Bip001",
+          "Bip001 Pelvis",
+          "+VisionPelvisS L B01"
+        ],
+        [
+          "Avatar_Male_Claymore_Diluc_Kanban",
+          "Bip001",
+          "Bip001 Pelvis",
+          "+VisionPelvisS L B01",
+          "+VisionPelvisS L B02"
+        ],
+        [
+          "Avatar_Male_Claymore_Diluc_Kanban",
+          "Bip001",
+          "Bip001 Pelvis",
+          "Bip001 Spine",
+          "Bip001 Spine1",
+          "Bip001 Spine2",
+          "Bip001 Neck",
+          "Bip001 Head"
+        ],
+        [
+          "Avatar_Male_Claymore_Diluc_Kanban",
+          "Bip001",
+          "Bip001 Pelvis",
+          "Bip001 L Thigh",
+          "Bip001 L Calf"
+        ],
+        [
+          "Avatar_Male_Claymore_Diluc_Kanban",
+          "Bip001",
+          "Bip001 Pelvis",
+          "Bip001 Spine",
+          "Bip001 Spine1",
+          "Bip001 Spine2",
+          "Bip001 L Clavicle"
+        ],
+        [
+          "Avatar_Male_Claymore_Diluc_Kanban",
+          "Bip001",
+          "Bip001 Pelvis",
+          "Bip001 Spine",
+          "Bip001 Spine1",
+          "Bip001 Spine2",
+          "Bip001 L Clavicle",
+          "Bip001 L UpperArm",
+          "Bip001 L Forearm",
+          "Bip001 L Hand",
+          "Bip001 L Finger1"
+        ],
+        [
+          "Avatar_Male_Claymore_Diluc_Kanban",
+          "Bip001",
+          "Bip001 Pelvis",
+          "Bip001 Spine",
+          "Bip001 Spine1",
+          "Bip001 Spine2",
+          "Bip001 L Clavicle",
+          "Bip001 L UpperArm",
+          "Bip001 L Forearm",
+          "Bip001 L Hand",
+          "Bip001 L Finger1",
+          "Bip001 L Finger11"
+        ],
+        [
+          "Avatar_Male_Claymore_Diluc_Kanban",
+          "Bip001",
+          "Bip001 Pelvis",
+          "Bip001 Spine",
+          "Bip001 Spine1",
+          "Bip001 Spine2",
+          "Bip001 L Clavicle",
+          "Bip001 L UpperArm",
+          "Bip001 L Forearm",
+          "Bip001 L Hand",
+          "Bip001 L Finger1",
+          "Bip001 L Finger11",
+          "Bip001 L Finger12"
+        ],
+        [
+          "Avatar_Male_Claymore_Diluc_Kanban",
+          "Bip001",
+          "Bip001 Pelvis",
+          "Bip001 Spine",
+          "Bip001 Spine1",
+          "Bip001 Spine2",
+          "Bip001 L Clavicle",
+          "Bip001 L UpperArm",
+          "Bip001 L Forearm",
+          "Bip001 L Hand",
+          "Bip001 L Finger2"
+        ],
+        [
+          "Avatar_Male_Claymore_Diluc_Kanban",
+          "Bip001",
+          "Bip001 Pelvis",
+          "Bip001 Spine",
+          "Bip001 Spine1",
+          "Bip001 Spine2",
+          "Bip001 L Clavicle",
+          "Bip001 L UpperArm",
+          "Bip001 L Forearm",
+          "Bip001 L Hand",
+          "Bip001 L Finger2",
+          "Bip001 L Finger21"
+        ],
+        [
+          "Avatar_Male_Claymore_Diluc_Kanban",
+          "Bip001",
+          "Bip001 Pelvis",
+          "Bip001 Spine",
+          "Bip001 Spine1",
+          "Bip001 Spine2",
+          "Bip001 L Clavicle",
+          "Bip001 L UpperArm",
+          "Bip001 L Forearm",
+          "Bip001 L Hand",
+          "Bip001 L Finger2",
+          "Bip001 L Finger21",
+          "Bip001 L Finger22"
+        ],
+        [
+          "Avatar_Male_Claymore_Diluc_Kanban",
+          "Bip001",
+          "Bip001 Pelvis",
+          "Bip001 Spine",
+          "Bip001 Spine1",
+          "Bip001 Spine2",
+          "Bip001 L Clavicle",
+          "Bip001 L UpperArm",
+          "Bip001 L Forearm",
+          "Bip001 L Hand",
+          "Bip001 L Finger3"
+        ],
+        [
+          "Avatar_Male_Claymore_Diluc_Kanban",
+          "Bip001",
+          "Bip001 Pelvis",
+          "Bip001 Spine",
+          "Bip001 Spine1",
+          "Bip001 Spine2",
+          "Bip001 L Clavicle",
+          "Bip001 L UpperArm",
+          "Bip001 L Forearm",
+          "Bip001 L Hand",
+          "Bip001 L Finger3",
+          "Bip001 L Finger31"
+        ],
+        [
+          "Avatar_Male_Claymore_Diluc_Kanban",
+          "Bip001",
+          "Bip001 Pelvis",
+          "Bip001 Spine",
+          "Bip001 Spine1",
+          "Bip001 Spine2",
+          "Bip001 L Clavicle",
+          "Bip001 L UpperArm",
+          "Bip001 L Forearm",
+          "Bip001 L Hand",
+          "Bip001 L Finger3",
+          "Bip001 L Finger31",
+          "Bip001 L Finger32"
+        ],
+        [
+          "Avatar_Male_Claymore_Diluc_Kanban",
+          "Bip001",
+          "Bip001 Pelvis",
+          "Bip001 Spine",
+          "Bip001 Spine1",
+          "Bip001 Spine2",
+          "Bip001 L Clavicle",
+          "Bip001 L UpperArm",
+          "Bip001 L Forearm",
+          "Bip001 L Hand",
+          "Bip001 L Finger4"
+        ],
+        [
+          "Avatar_Male_Claymore_Diluc_Kanban",
+          "Bip001",
+          "Bip001 Pelvis",
+          "Bip001 Spine",
+          "Bip001 Spine1",
+          "Bip001 Spine2",
+          "Bip001 L Clavicle",
+          "Bip001 L UpperArm",
+          "Bip001 L Forearm",
+          "Bip001 L Hand",
+          "Bip001 L Finger4",
+          "Bip001 L Finger41"
+        ],
+        [
+          "Avatar_Male_Claymore_Diluc_Kanban",
+          "Bip001",
+          "Bip001 Pelvis",
+          "Bip001 Spine",
+          "Bip001 Spine1",
+          "Bip001 Spine2",
+          "Bip001 L Clavicle",
+          "Bip001 L UpperArm",
+          "Bip001 L Forearm",
+          "Bip001 L Hand",
+          "Bip001 L Finger4",
+          "Bip001 L Finger41",
+          "Bip001 L Finger42"
+        ],
+        [
+          "Avatar_Male_Claymore_Diluc_Kanban",
+          "Bip001",
+          "Bip001 Pelvis",
+          "Bip001 L Thigh",
+          "Bip001 L Calf",
+          "Bip001 L Foot"
+        ],
+        [
+          "Avatar_Male_Claymore_Diluc_Kanban",
+          "Bip001",
+          "Bip001 Pelvis",
+          "Bip001 Spine",
+          "Bip001 Spine1",
+          "Bip001 Spine2",
+          "Bip001 L Clavicle",
+          "Bip001 L UpperArm",
+          "Bip001 L Forearm"
+        ],
+        [
+          "Avatar_Male_Claymore_Diluc_Kanban",
+          "Bip001",
+          "Bip001 Pelvis",
+          "Bip001 Spine",
+          "Bip001 Spine1",
+          "Bip001 Spine2",
+          "Bip001 L Clavicle",
+          "Bip001 L UpperArm",
+          "Bip001 L Forearm",
+          "Bip001 L Hand"
+        ],
+        [
+          "Avatar_Male_Claymore_Diluc_Kanban",
+          "Bip001",
+          "Bip001 Pelvis",
+          "Bip001 L Thigh"
+        ],
+        [
+          "Avatar_Male_Claymore_Diluc_Kanban",
+          "Bip001",
+          "Bip001 Pelvis",
+          "Bip001 L Thigh",
+          "Bip001 L Calf",
+          "Bip001 L Foot",
+          "Bip001 L Toe0"
+        ],
+        [
+          "Avatar_Male_Claymore_Diluc_Kanban",
+          "Bip001",
+          "Bip001 Pelvis",
+          "Bip001 Spine",
+          "Bip001 Spine1",
+          "Bip001 Spine2",
+          "Bip001 Neck"
+        ],
+        [
+          "Avatar_Male_Claymore_Diluc_Kanban",
+          "Bip001",
+          "Bip001 Pelvis",
+          "Bip001 R Thigh",
+          "Bip001 R Calf"
+        ],
+        [
+          "Avatar_Male_Claymore_Diluc_Kanban",
+          "Bip001",
+          "Bip001 Pelvis",
+          "Bip001 Spine",
+          "Bip001 Spine1",
+          "Bip001 Spine2",
+          "Bip001 R Clavicle"
+        ],
+        [
+          "Avatar_Male_Claymore_Diluc_Kanban",
+          "Bip001",
+          "Bip001 Pelvis",
+          "Bip001 Spine",
+          "Bip001 Spine1",
+          "Bip001 Spine2",
+          "Bip001 R Clavicle",
+          "Bip001 R UpperArm",
+          "Bip001 R Forearm",
+          "Bip001 R Hand",
+          "Bip001 R Finger1"
+        ],
+        [
+          "Avatar_Male_Claymore_Diluc_Kanban",
+          "Bip001",
+          "Bip001 Pelvis",
+          "Bip001 Spine",
+          "Bip001 Spine1",
+          "Bip001 Spine2",
+          "Bip001 R Clavicle",
+          "Bip001 R UpperArm",
+          "Bip001 R Forearm",
+          "Bip001 R Hand",
+          "Bip001 R Finger1",
+          "Bip001 R Finger11"
+        ],
+        [
+          "Avatar_Male_Claymore_Diluc_Kanban",
+          "Bip001",
+          "Bip001 Pelvis",
+          "Bip001 Spine",
+          "Bip001 Spine1",
+          "Bip001 Spine2",
+          "Bip001 R Clavicle",
+          "Bip001 R UpperArm",
+          "Bip001 R Forearm",
+          "Bip001 R Hand",
+          "Bip001 R Finger1",
+          "Bip001 R Finger11",
+          "Bip001 R Finger12"
+        ],
+        [
+          "Avatar_Male_Claymore_Diluc_Kanban",
+          "Bip001",
+          "Bip001 Pelvis",
+          "Bip001 Spine",
+          "Bip001 Spine1",
+          "Bip001 Spine2",
+          "Bip001 R Clavicle",
+          "Bip001 R UpperArm",
+          "Bip001 R Forearm",
+          "Bip001 R Hand",
+          "Bip001 R Finger2"
+        ],
+        [
+          "Avatar_Male_Claymore_Diluc_Kanban",
+          "Bip001",
+          "Bip001 Pelvis",
+          "Bip001 Spine",
+          "Bip001 Spine1",
+          "Bip001 Spine2",
+          "Bip001 R Clavicle",
+          "Bip001 R UpperArm",
+          "Bip001 R Forearm",
+          "Bip001 R Hand",
+          "Bip001 R Finger2",
+          "Bip001 R Finger21"
+        ],
+        [
+          "Avatar_Male_Claymore_Diluc_Kanban",
+          "Bip001",
+          "Bip001 Pelvis",
+          "Bip001 Spine",
+          "Bip001 Spine1",
+          "Bip001 Spine2",
+          "Bip001 R Clavicle",
+          "Bip001 R UpperArm",
+          "Bip001 R Forearm",
+          "Bip001 R Hand",
+          "Bip001 R Finger2",
+          "Bip001 R Finger21",
+          "Bip001 R Finger22"
+        ],
+        [
+          "Avatar_Male_Claymore_Diluc_Kanban",
+          "Bip001",
+          "Bip001 Pelvis",
+          "Bip001 Spine",
+          "Bip001 Spine1",
+          "Bip001 Spine2",
+          "Bip001 R Clavicle",
+          "Bip001 R UpperArm",
+          "Bip001 R Forearm",
+          "Bip001 R Hand",
+          "Bip001 R Finger3"
+        ],
+        [
+          "Avatar_Male_Claymore_Diluc_Kanban",
+          "Bip001",
+          "Bip001 Pelvis",
+          "Bip001 Spine",
+          "Bip001 Spine1",
+          "Bip001 Spine2",
+          "Bip001 R Clavicle",
+          "Bip001 R UpperArm",
+          "Bip001 R Forearm",
+          "Bip001 R Hand",
+          "Bip001 R Finger3",
+          "Bip001 R Finger31"
+        ],
+        [
+          "Avatar_Male_Claymore_Diluc_Kanban",
+          "Bip001",
+          "Bip001 Pelvis",
+          "Bip001 Spine",
+          "Bip001 Spine1",
+          "Bip001 Spine2",
+          "Bip001 R Clavicle",
+          "Bip001 R UpperArm",
+          "Bip001 R Forearm",
+          "Bip001 R Hand",
+          "Bip001 R Finger3",
+          "Bip001 R Finger31",
+          "Bip001 R Finger32"
+        ],
+        [
+          "Avatar_Male_Claymore_Diluc_Kanban",
+          "Bip001",
+          "Bip001 Pelvis",
+          "Bip001 Spine",
+          "Bip001 Spine1",
+          "Bip001 Spine2",
+          "Bip001 R Clavicle",
+          "Bip001 R UpperArm",
+          "Bip001 R Forearm",
+          "Bip001 R Hand",
+          "Bip001 R Finger4"
+        ],
+        [
+          "Avatar_Male_Claymore_Diluc_Kanban",
+          "Bip001",
+          "Bip001 Pelvis",
+          "Bip001 Spine",
+          "Bip001 Spine1",
+          "Bip001 Spine2",
+          "Bip001 R Clavicle",
+          "Bip001 R UpperArm",
+          "Bip001 R Forearm",
+          "Bip001 R Hand",
+          "Bip001 R Finger4",
+          "Bip001 R Finger41"
+        ],
+        [
+          "Avatar_Male_Claymore_Diluc_Kanban",
+          "Bip001",
+          "Bip001 Pelvis",
+          "Bip001 Spine",
+          "Bip001 Spine1",
+          "Bip001 Spine2",
+          "Bip001 R Clavicle",
+          "Bip001 R UpperArm",
+          "Bip001 R Forearm",
+          "Bip001 R Hand",
+          "Bip001 R Finger4",
+          "Bip001 R Finger41",
+          "Bip001 R Finger42"
+        ],
+        [
+          "Avatar_Male_Claymore_Diluc_Kanban",
+          "Bip001",
+          "Bip001 Pelvis",
+          "Bip001 R Thigh",
+          "Bip001 R Calf",
+          "Bip001 R Foot"
+        ],
+        [
+          "Avatar_Male_Claymore_Diluc_Kanban",
+          "Bip001",
+          "Bip001 Pelvis",
+          "Bip001 Spine",
+          "Bip001 Spine1",
+          "Bip001 Spine2",
+          "Bip001 R Clavicle",
+          "Bip001 R UpperArm",
+          "Bip001 R Forearm"
+        ],
+        [
+          "Avatar_Male_Claymore_Diluc_Kanban",
+          "Bip001",
+          "Bip001 Pelvis",
+          "Bip001 Spine",
+          "Bip001 Spine1",
+          "Bip001 Spine2",
+          "Bip001 R Clavicle",
+          "Bip001 R UpperArm",
+          "Bip001 R Forearm",
+          "Bip001 R Hand"
+        ],
+        [
+          "Avatar_Male_Claymore_Diluc_Kanban",
+          "Bip001",
+          "Bip001 Pelvis",
+          "Bip001 R Thigh"
+        ],
+        [
+          "Avatar_Male_Claymore_Diluc_Kanban",
+          "Bip001",
+          "Bip001 Pelvis",
+          "Bip001 R Thigh",
+          "Bip001 R Calf",
+          "Bip001 R Foot",
+          "Bip001 R Toe0"
+        ],
+        [
+          "Avatar_Male_Claymore_Diluc_Kanban",
+          "Bip001",
+          "Bip001 Pelvis",
+          "Bip001 Spine"
+        ],
+        [
+          "Avatar_Male_Claymore_Diluc_Kanban",
+          "Bip001",
+          "Bip001 Pelvis",
+          "Bip001 Spine",
+          "Bip001 Spine1"
+        ],
+        [
+          "Avatar_Male_Claymore_Diluc_Kanban",
+          "Bip001",
+          "Bip001 Pelvis",
+          "Bip001 Spine",
+          "Bip001 Spine1",
+          "Bip001 Spine2"
+        ],
+        [
+          "Avatar_Male_Claymore_Diluc_Kanban",
+          "Bip001",
+          "Bip001 Pelvis",
+          "Bip001 Spine",
+          "Bip001 Spine1",
+          "Bip001 Spine2",
+          "Bip001 L Clavicle",
+          "Bip001 L UpperArm",
+          "Bip001 L Forearm",
+          "Bip001 L Hand",
+          "DMZ L 01"
+        ],
+        [
+          "Avatar_Male_Claymore_Diluc_Kanban",
+          "Bip001",
+          "Bip001 Pelvis",
+          "Bip001 Spine",
+          "Bip001 Spine1",
+          "Bip001 Spine2",
+          "Bip001 L Clavicle",
+          "Bip001 L UpperArm",
+          "Bip001 L Forearm",
+          "Bip001 L Hand",
+          "DMZ L 01",
+          "DMZ L 02"
+        ],
+        [
+          "Avatar_Male_Claymore_Diluc_Kanban",
+          "Bip001",
+          "Bip001 Pelvis",
+          "Bip001 Spine",
+          "Bip001 Spine1",
+          "Bip001 Spine2",
+          "Bip001 L Clavicle",
+          "Bip001 L UpperArm",
+          "Bip001 L Forearm",
+          "Bip001 L Hand",
+          "DMZ L 01",
+          "DMZ L 02",
+          "DMZ L 03"
+        ],
+        [
+          "Avatar_Male_Claymore_Diluc_Kanban",
+          "Bip001",
+          "Bip001 Pelvis",
+          "Bip001 Spine",
+          "Bip001 Spine1",
+          "Bip001 Spine2",
+          "Bip001 R Clavicle",
+          "Bip001 R UpperArm",
+          "Bip001 R Forearm",
+          "Bip001 R Hand",
+          "DMZ R 01"
+        ],
+        [
+          "Avatar_Male_Claymore_Diluc_Kanban",
+          "Bip001",
+          "Bip001 Pelvis",
+          "Bip001 Spine",
+          "Bip001 Spine1",
+          "Bip001 Spine2",
+          "Bip001 R Clavicle",
+          "Bip001 R UpperArm",
+          "Bip001 R Forearm",
+          "Bip001 R Hand",
+          "DMZ R 01",
+          "DMZ R 02"
+        ],
+        [
+          "Avatar_Male_Claymore_Diluc_Kanban",
+          "Bip001",
+          "Bip001 Pelvis",
+          "Bip001 Spine",
+          "Bip001 Spine1",
+          "Bip001 Spine2",
+          "Bip001 R Clavicle",
+          "Bip001 R UpperArm",
+          "Bip001 R Forearm",
+          "Bip001 R Hand",
+          "DMZ R 01",
+          "DMZ R 02",
+          "DMZ R 03"
+        ]
+      ]
+    },
+    {
+      "game_object": {
+        "file_id": 0,
+        "path_id": "-5158749490301940878"
+      },
+      "header_flags_hex": "010100010001000100000000000001000000000100000000",
+      "lightmap_scale_offset": [
+        1.0,
+        1.0,
+        0.0,
+        0.0
+      ],
+      "dynamic_lightmap_scale_offset": [
+        1.0,
+        1.0,
+        0.0,
+        0.0
+      ],
+      "view_distance_ratio": 1.0,
+      "shader_lod_distance_ratio": 1.0,
+      "materials": [
+        {
+          "file_id": 2,
+          "path_id": "8997584996979090013"
+        }
+      ],
+      "static_batch": [
+        0,
+        0
+      ],
+      "static_batch_root": {
+        "file_id": 0,
+        "path_id": "0"
+      },
+      "material_layers": 1,
+      "probe_anchor": {
+        "file_id": 0,
+        "path_id": "0"
+      },
+      "probe_volume": {
+        "file_id": 0,
+        "path_id": "0"
+      },
+      "sorting": [
+        0,
+        0,
+        0
+      ],
+      "use_highest_mip": 0,
+      "quality": 0,
+      "update_when_offscreen": 0,
+      "skin_normals": 1,
+      "mesh": {
+        "file_id": 1,
+        "path_id": "-7084705170417898017"
+      },
+      "bones": [
+        {
+          "file_id": 0,
+          "path_id": "5978566649133990754"
+        },
+        {
+          "file_id": 0,
+          "path_id": "9047372480378925923"
+        }
+      ],
+      "blend_shape_weights": [],
+      "root_bone": {
+        "file_id": 0,
+        "path_id": "9047372480378925923"
+      },
+      "aabb": [
+        0.006850090809166431,
+        0.007920918986201286,
+        -0.036570463329553604,
+        0.01216618251055479,
+        0.0124285276979208,
+        0.04691256210207939
+      ],
+      "dirty_aabb": 0,
+      "uninterpreted_trailer_hex": "000000000000000000000000000000000000803f00000000",
+      "id": "-3230684435841343862",
+      "name": "EyeStar",
+      "type_hash": "d74087651cccc56b59dcdac73be06d71",
+      "raw_sha256": "761774dbea7a6e5e208dd6149b0cb43c1010de592117177c594c430f5bde3a21",
+      "mesh_ref": "cab-c920ac063a5c2563ec38763a8298dbe7:-7084705170417898017",
+      "material_refs": [
+        "cab-922044b2d606dea02c9fc855e4f095f7:8997584996979090013"
+      ],
+      "bone_names": [
+        "+EyeBone L A02",
+        "+EyeBone R A02"
+      ],
+      "bone_paths": [
+        [
+          "Avatar_Male_Claymore_Diluc_Kanban",
+          "Bip001",
+          "Bip001 Pelvis",
+          "Bip001 Spine",
+          "Bip001 Spine1",
+          "Bip001 Spine2",
+          "Bip001 Neck",
+          "Bip001 Head",
+          "+EyeBone L A01",
+          "+EyeBone L A02"
+        ],
+        [
+          "Avatar_Male_Claymore_Diluc_Kanban",
+          "Bip001",
+          "Bip001 Pelvis",
+          "Bip001 Spine",
+          "Bip001 Spine1",
+          "Bip001 Spine2",
+          "Bip001 Neck",
+          "Bip001 Head",
+          "+EyeBone R A01",
+          "+EyeBone R A02"
+        ]
+      ]
+    },
+    {
+      "game_object": {
+        "file_id": 0,
+        "path_id": "543910735456072360"
+      },
+      "header_flags_hex": "010100010001000100000000000001000000000100000000",
+      "lightmap_scale_offset": [
+        1.0,
+        1.0,
+        0.0,
+        0.0
+      ],
+      "dynamic_lightmap_scale_offset": [
+        1.0,
+        1.0,
+        0.0,
+        0.0
+      ],
+      "view_distance_ratio": 16.0,
+      "shader_lod_distance_ratio": 1.0,
+      "materials": [
+        {
+          "file_id": 2,
+          "path_id": "8997584996979090013"
+        }
+      ],
+      "static_batch": [
+        0,
+        0
+      ],
+      "static_batch_root": {
+        "file_id": 0,
+        "path_id": "0"
+      },
+      "material_layers": 1,
+      "probe_anchor": {
+        "file_id": 0,
+        "path_id": "0"
+      },
+      "probe_volume": {
+        "file_id": 0,
+        "path_id": "0"
+      },
+      "sorting": [
+        0,
+        0,
+        0
+      ],
+      "use_highest_mip": 0,
+      "quality": 0,
+      "update_when_offscreen": 0,
+      "skin_normals": 1,
+      "mesh": {
+        "file_id": 1,
+        "path_id": "-2863528222214957109"
+      },
+      "bones": [
+        {
+          "file_id": 0,
+          "path_id": "5461207643137899433"
+        }
+      ],
+      "blend_shape_weights": [],
+      "root_bone": {
+        "file_id": 0,
+        "path_id": "5461207643137899433"
+      },
+      "aabb": [
+        -0.0783524438738823,
+        0.0883772075176239,
+        -7.7858567237854e-07,
+        0.01243293285369873,
+        0.015900202095508575,
+        0.06131833791732788
+      ],
+      "dirty_aabb": 0,
+      "uninterpreted_trailer_hex": "000000000000000000000000000000000000803f01000000",
+      "id": "1843234564192844473",
+      "name": "Brow",
+      "type_hash": "d74087651cccc56b59dcdac73be06d71",
+      "raw_sha256": "b31c515c6d29edf15c5758d73fac1bff15c5d8be73fd1a9b94a7f1fb62de439e",
+      "mesh_ref": "cab-c920ac063a5c2563ec38763a8298dbe7:-2863528222214957109",
+      "material_refs": [
+        "cab-922044b2d606dea02c9fc855e4f095f7:8997584996979090013"
+      ],
+      "bone_names": [
+        "Bip001 Head"
+      ],
+      "bone_paths": [
+        [
+          "Avatar_Male_Claymore_Diluc_Kanban",
+          "Bip001",
+          "Bip001 Pelvis",
+          "Bip001 Spine",
+          "Bip001 Spine1",
+          "Bip001 Spine2",
+          "Bip001 Neck",
+          "Bip001 Head"
+        ]
+      ]
+    },
+    {
+      "game_object": {
+        "file_id": 0,
+        "path_id": "9106886071836669646"
+      },
+      "header_flags_hex": "010100010001000100000000000001000000000100000000",
+      "lightmap_scale_offset": [
+        1.0,
+        1.0,
+        0.0,
+        0.0
+      ],
+      "dynamic_lightmap_scale_offset": [
+        1.0,
+        1.0,
+        0.0,
+        0.0
+      ],
+      "view_distance_ratio": 1.0,
+      "shader_lod_distance_ratio": 1.0,
+      "materials": [
+        {
+          "file_id": 6,
+          "path_id": "2229495150828588393"
+        }
+      ],
+      "static_batch": [
+        0,
+        0
+      ],
+      "static_batch_root": {
+        "file_id": 0,
+        "path_id": "0"
+      },
+      "material_layers": 1,
+      "probe_anchor": {
+        "file_id": 0,
+        "path_id": "0"
+      },
+      "probe_volume": {
+        "file_id": 0,
+        "path_id": "0"
+      },
+      "sorting": [
+        0,
+        0,
+        0
+      ],
+      "use_highest_mip": 0,
+      "quality": 0,
+      "update_when_offscreen": 0,
+      "skin_normals": 1,
+      "mesh": {
+        "file_id": 1,
+        "path_id": "6267216488929193654"
+      },
+      "bones": [
+        {
+          "file_id": 0,
+          "path_id": "5739632813813358029"
+        },
+        {
+          "file_id": 0,
+          "path_id": "8871713042807670868"
+        },
+        {
+          "file_id": 0,
+          "path_id": "6531128965584151050"
+        },
+        {
+          "file_id": 0,
+          "path_id": "8530570907166699153"
+        },
+        {
+          "file_id": 0,
+          "path_id": "-6468188332744627837"
+        },
+        {
+          "file_id": 0,
+          "path_id": "3902740408762433457"
+        },
+        {
+          "file_id": 0,
+          "path_id": "-7915036105366861758"
+        },
+        {
+          "file_id": 0,
+          "path_id": "-3432103224847789948"
+        },
+        {
+          "file_id": 0,
+          "path_id": "-85692430414978929"
+        },
+        {
+          "file_id": 0,
+          "path_id": "-8800713966289172739"
+        },
+        {
+          "file_id": 0,
+          "path_id": "-1076096665895493161"
+        },
+        {
+          "file_id": 0,
+          "path_id": "768575824823820073"
+        },
+        {
+          "file_id": 0,
+          "path_id": "3983610768435100874"
+        },
+        {
+          "file_id": 0,
+          "path_id": "723647241834641068"
+        },
+        {
+          "file_id": 0,
+          "path_id": "-5576402902145670756"
+        },
+        {
+          "file_id": 0,
+          "path_id": "706247564061551604"
+        },
+        {
+          "file_id": 0,
+          "path_id": "5535777070028571614"
+        },
+        {
+          "file_id": 0,
+          "path_id": "2739874121014337142"
+        },
+        {
+          "file_id": 0,
+          "path_id": "-3644345544456173528"
+        },
+        {
+          "file_id": 0,
+          "path_id": "7728524044328623255"
+        },
+        {
+          "file_id": 0,
+          "path_id": "-1323363234237957939"
+        },
+        {
+          "file_id": 0,
+          "path_id": "1064869409669265046"
+        },
+        {
+          "file_id": 0,
+          "path_id": "-8643924437321546633"
+        },
+        {
+          "file_id": 0,
+          "path_id": "-3760936705019616566"
+        },
+        {
+          "file_id": 0,
+          "path_id": "1616312302603572180"
+        },
+        {
+          "file_id": 0,
+          "path_id": "7491348154537083011"
+        },
+        {
+          "file_id": 0,
+          "path_id": "-6970750044183340508"
+        },
+        {
+          "file_id": 0,
+          "path_id": "3899006346060575524"
+        }
+      ],
+      "blend_shape_weights": [],
+      "root_bone": {
+        "file_id": 0,
+        "path_id": "7491348154537083011"
+      },
+      "aabb": [
+        -0.01935693621635437,
+        -0.0880545824766159,
+        1.2069940567016602e-06,
+        0.4258700907230377,
+        0.2480495125055313,
+        0.32624107599258423
+      ],
+      "dirty_aabb": 0,
+      "uninterpreted_trailer_hex": "000000000000000000000000000000000000803f00000000",
+      "id": "6185560644104728142",
+      "name": "EffectMesh",
+      "type_hash": "d74087651cccc56b59dcdac73be06d71",
+      "raw_sha256": "dd36c40e0f88148606b1338d6f5229b60057c665d489c1b93803c1a7003b5268",
+      "mesh_ref": "cab-c920ac063a5c2563ec38763a8298dbe7:6267216488929193654",
+      "material_refs": [
+        "cab-aaa3de6fd3a7cb70814c4c21d76eee6a:2229495150828588393"
+      ],
+      "bone_names": [
+        "+HairB CB A02",
+        "+HairB CB A03",
+        "+SkirtB CB A01",
+        "+SkirtB L B01",
+        "+SkirtB L B02",
+        "+SkirtB L B03",
+        "+SkirtB L B04",
+        "+SkirtB R B01",
+        "+SkirtB R B02",
+        "+SkirtB R B03",
+        "+SkirtB R B04",
+        "+SkirtF L B01",
+        "+SkirtF L B02",
+        "+SkirtF R B01",
+        "+SkirtF R B02",
+        "+SkirtS L B01",
+        "+SkirtS L B02",
+        "+SkirtS L B03",
+        "+SkirtS R B01",
+        "+SkirtS R B02",
+        "+SkirtS R B03",
+        "+UpperArmTwist L A01",
+        "+UpperArmTwist L A02",
+        "+UpperArmTwist R A01",
+        "+UpperArmTwist R A02",
+        "Bip001 Spine",
+        "Bip001 Spine1",
+        "Bip001 Spine2"
+      ],
+      "bone_paths": [
+        [
+          "Avatar_Male_Claymore_Diluc_Kanban",
+          "Bip001",
+          "Bip001 Pelvis",
+          "Bip001 Spine",
+          "Bip001 Spine1",
+          "Bip001 Spine2",
+          "Bip001 Neck",
+          "Bip001 Head",
+          "+HairB CB A01",
+          "+HairB CB A02"
+        ],
+        [
+          "Avatar_Male_Claymore_Diluc_Kanban",
+          "Bip001",
+          "Bip001 Pelvis",
+          "Bip001 Spine",
+          "Bip001 Spine1",
+          "Bip001 Spine2",
+          "Bip001 Neck",
+          "Bip001 Head",
+          "+HairB CB A01",
+          "+HairB CB A02",
+          "+HairB CB A03"
+        ],
+        [
+          "Avatar_Male_Claymore_Diluc_Kanban",
+          "Bip001",
+          "Bip001 Pelvis",
+          "Bip001 Spine",
+          "+SkirtB CB A01"
+        ],
+        [
+          "Avatar_Male_Claymore_Diluc_Kanban",
+          "Bip001",
+          "Bip001 Pelvis",
+          "Bip001 Spine",
+          "+SkirtB L B01"
+        ],
+        [
+          "Avatar_Male_Claymore_Diluc_Kanban",
+          "Bip001",
+          "Bip001 Pelvis",
+          "Bip001 Spine",
+          "+SkirtB L B01",
+          "+SkirtB L B02"
+        ],
+        [
+          "Avatar_Male_Claymore_Diluc_Kanban",
+          "Bip001",
+          "Bip001 Pelvis",
+          "Bip001 Spine",
+          "+SkirtB L B01",
+          "+SkirtB L B02",
+          "+SkirtB L B03"
+        ],
+        [
+          "Avatar_Male_Claymore_Diluc_Kanban",
+          "Bip001",
+          "Bip001 Pelvis",
+          "Bip001 Spine",
+          "+SkirtB L B01",
+          "+SkirtB L B02",
+          "+SkirtB L B03",
+          "+SkirtB L B04"
+        ],
+        [
+          "Avatar_Male_Claymore_Diluc_Kanban",
+          "Bip001",
+          "Bip001 Pelvis",
+          "Bip001 Spine",
+          "+SkirtB R B01"
+        ],
+        [
+          "Avatar_Male_Claymore_Diluc_Kanban",
+          "Bip001",
+          "Bip001 Pelvis",
+          "Bip001 Spine",
+          "+SkirtB R B01",
+          "+SkirtB R B02"
+        ],
+        [
+          "Avatar_Male_Claymore_Diluc_Kanban",
+          "Bip001",
+          "Bip001 Pelvis",
+          "Bip001 Spine",
+          "+SkirtB R B01",
+          "+SkirtB R B02",
+          "+SkirtB R B03"
+        ],
+        [
+          "Avatar_Male_Claymore_Diluc_Kanban",
+          "Bip001",
+          "Bip001 Pelvis",
+          "Bip001 Spine",
+          "+SkirtB R B01",
+          "+SkirtB R B02",
+          "+SkirtB R B03",
+          "+SkirtB R B04"
+        ],
+        [
+          "Avatar_Male_Claymore_Diluc_Kanban",
+          "Bip001",
+          "Bip001 Pelvis",
+          "Bip001 Spine",
+          "+SkirtF L B01"
+        ],
+        [
+          "Avatar_Male_Claymore_Diluc_Kanban",
+          "Bip001",
+          "Bip001 Pelvis",
+          "Bip001 Spine",
+          "+SkirtF L B01",
+          "+SkirtF L B02"
+        ],
+        [
+          "Avatar_Male_Claymore_Diluc_Kanban",
+          "Bip001",
+          "Bip001 Pelvis",
+          "Bip001 Spine",
+          "+SkirtF R B01"
+        ],
+        [
+          "Avatar_Male_Claymore_Diluc_Kanban",
+          "Bip001",
+          "Bip001 Pelvis",
+          "Bip001 Spine",
+          "+SkirtF R B01",
+          "+SkirtF R B02"
+        ],
+        [
+          "Avatar_Male_Claymore_Diluc_Kanban",
+          "Bip001",
+          "Bip001 Pelvis",
+          "Bip001 Spine",
+          "+SkirtS L B01"
+        ],
+        [
+          "Avatar_Male_Claymore_Diluc_Kanban",
+          "Bip001",
+          "Bip001 Pelvis",
+          "Bip001 Spine",
+          "+SkirtS L B01",
+          "+SkirtS L B02"
+        ],
+        [
+          "Avatar_Male_Claymore_Diluc_Kanban",
+          "Bip001",
+          "Bip001 Pelvis",
+          "Bip001 Spine",
+          "+SkirtS L B01",
+          "+SkirtS L B02",
+          "+SkirtS L B03"
+        ],
+        [
+          "Avatar_Male_Claymore_Diluc_Kanban",
+          "Bip001",
+          "Bip001 Pelvis",
+          "Bip001 Spine",
+          "+SkirtS R B01"
+        ],
+        [
+          "Avatar_Male_Claymore_Diluc_Kanban",
+          "Bip001",
+          "Bip001 Pelvis",
+          "Bip001 Spine",
+          "+SkirtS R B01",
+          "+SkirtS R B02"
+        ],
+        [
+          "Avatar_Male_Claymore_Diluc_Kanban",
+          "Bip001",
+          "Bip001 Pelvis",
+          "Bip001 Spine",
+          "+SkirtS R B01",
+          "+SkirtS R B02",
+          "+SkirtS R B03"
+        ],
+        [
+          "Avatar_Male_Claymore_Diluc_Kanban",
+          "Bip001",
+          "Bip001 Pelvis",
+          "Bip001 Spine",
+          "Bip001 Spine1",
+          "Bip001 Spine2",
+          "Bip001 L Clavicle",
+          "Bip001 L UpperArm",
+          "+UpperArmTwist L A01"
+        ],
+        [
+          "Avatar_Male_Claymore_Diluc_Kanban",
+          "Bip001",
+          "Bip001 Pelvis",
+          "Bip001 Spine",
+          "Bip001 Spine1",
+          "Bip001 Spine2",
+          "Bip001 L Clavicle",
+          "Bip001 L UpperArm",
+          "+UpperArmTwist L A02"
+        ],
+        [
+          "Avatar_Male_Claymore_Diluc_Kanban",
+          "Bip001",
+          "Bip001 Pelvis",
+          "Bip001 Spine",
+          "Bip001 Spine1",
+          "Bip001 Spine2",
+          "Bip001 R Clavicle",
+          "Bip001 R UpperArm",
+          "+UpperArmTwist R A01"
+        ],
+        [
+          "Avatar_Male_Claymore_Diluc_Kanban",
+          "Bip001",
+          "Bip001 Pelvis",
+          "Bip001 Spine",
+          "Bip001 Spine1",
+          "Bip001 Spine2",
+          "Bip001 R Clavicle",
+          "Bip001 R UpperArm",
+          "+UpperArmTwist R A02"
+        ],
+        [
+          "Avatar_Male_Claymore_Diluc_Kanban",
+          "Bip001",
+          "Bip001 Pelvis",
+          "Bip001 Spine"
+        ],
+        [
+          "Avatar_Male_Claymore_Diluc_Kanban",
+          "Bip001",
+          "Bip001 Pelvis",
+          "Bip001 Spine",
+          "Bip001 Spine1"
+        ],
+        [
+          "Avatar_Male_Claymore_Diluc_Kanban",
+          "Bip001",
+          "Bip001 Pelvis",
+          "Bip001 Spine",
+          "Bip001 Spine1",
+          "Bip001 Spine2"
+        ]
+      ]
+    },
+    {
+      "game_object": {
+        "file_id": 0,
+        "path_id": "4776716093478802771"
+      },
+      "header_flags_hex": "010100010001000100000000000001000000000100000000",
+      "lightmap_scale_offset": [
+        1.0,
+        1.0,
+        0.0,
+        0.0
+      ],
+      "dynamic_lightmap_scale_offset": [
+        1.0,
+        1.0,
+        0.0,
+        0.0
+      ],
+      "view_distance_ratio": 16.0,
+      "shader_lod_distance_ratio": 1.0,
+      "materials": [
+        {
+          "file_id": 2,
+          "path_id": "8997584996979090013"
+        }
+      ],
+      "static_batch": [
+        0,
+        0
+      ],
+      "static_batch_root": {
+        "file_id": 0,
+        "path_id": "0"
+      },
+      "material_layers": 1,
+      "probe_anchor": {
+        "file_id": 0,
+        "path_id": "0"
+      },
+      "probe_volume": {
+        "file_id": 0,
+        "path_id": "0"
+      },
+      "sorting": [
+        0,
+        0,
+        0
+      ],
+      "use_highest_mip": 0,
+      "quality": 0,
+      "update_when_offscreen": 0,
+      "skin_normals": 1,
+      "mesh": {
+        "file_id": 1,
+        "path_id": "-3271196847049881331"
+      },
+      "bones": [
+        {
+          "file_id": 0,
+          "path_id": "-4157895233801945898"
+        },
+        {
+          "file_id": 0,
+          "path_id": "-1295412641902401813"
+        },
+        {
+          "file_id": 0,
+          "path_id": "5461207643137899433"
+        }
+      ],
+      "blend_shape_weights": [],
+      "root_bone": {
+        "file_id": 0,
+        "path_id": "5461207643137899433"
+      },
+      "aabb": [
+        -0.07873199880123138,
+        0.04505500942468643,
+        -9.98377799987793e-07,
+        0.10731850564479828,
+        0.07250596582889557,
+        0.08335167169570923
+      ],
+      "dirty_aabb": 0,
+      "uninterpreted_trailer_hex": "000000000000000000000000000000000000803f01000000",
+      "id": "7030293468034466278",
+      "name": "Face",
+      "type_hash": "d74087651cccc56b59dcdac73be06d71",
+      "raw_sha256": "01748f0c95874e0b7aeb6721cc94b21cc0afedce07bc95867e1c16ab6ec5455c",
+      "mesh_ref": "cab-c920ac063a5c2563ec38763a8298dbe7:-3271196847049881331",
+      "material_refs": [
+        "cab-922044b2d606dea02c9fc855e4f095f7:8997584996979090013"
+      ],
+      "bone_names": [
+        "+ToothBone D A01",
+        "+ToothBone U A01",
+        "Bip001 Head"
+      ],
+      "bone_paths": [
+        [
+          "Avatar_Male_Claymore_Diluc_Kanban",
+          "Bip001",
+          "Bip001 Pelvis",
+          "Bip001 Spine",
+          "Bip001 Spine1",
+          "Bip001 Spine2",
+          "Bip001 Neck",
+          "Bip001 Head",
+          "+ToothBone D A01"
+        ],
+        [
+          "Avatar_Male_Claymore_Diluc_Kanban",
+          "Bip001",
+          "Bip001 Pelvis",
+          "Bip001 Spine",
+          "Bip001 Spine1",
+          "Bip001 Spine2",
+          "Bip001 Neck",
+          "Bip001 Head",
+          "+ToothBone U A01"
+        ],
+        [
+          "Avatar_Male_Claymore_Diluc_Kanban",
+          "Bip001",
+          "Bip001 Pelvis",
+          "Bip001 Spine",
+          "Bip001 Spine1",
+          "Bip001 Spine2",
+          "Bip001 Neck",
+          "Bip001 Head"
+        ]
+      ]
+    }
+  ],
+  "static_mesh_filters": [],
+  "lod_mesh_groups": [],
+  "new_runtime_test_performed": false
+}

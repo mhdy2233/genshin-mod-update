@@ -1,0 +1,43 @@
+{
+  "kind": "game",
+  "target": {
+    "platform": "PC",
+    "game_version": "7.0.0",
+    "build_tag": "OSRELWin7.0.0",
+    "region": "global",
+    "graphics_api": "D3D11",
+    "engine_version": "2017.4.30f1",
+    "resource_revisions": {
+      "res_revision": "47194594",
+      "data_revision": "47194594",
+      "silence_revision": "46814653"
+    }
+  },
+  "catalogs": {
+    "package": "catalogs/package.json",
+    "data": "catalogs/data.json",
+    "resources": "catalogs/resources.json",
+    "silence": "catalogs/silence.json"
+  },
+  "runtime_log_source": "wineprefix/hk4e_global/dwproton-steam-copy/pfx/drive_c/users/steamuser/AppData/LocalLow/miHoYo/Genshin Impact/output_log.txt",
+  "runtime_excerpt": [
+    "Initialize engine version: 2017.4.30f1 (0)",
+    "    Version:  Direct3D 11.0 [level 11.1]",
+    "[2026-11-09 06:40:28.934] Set Game Version: OSRELWin7.0.0"
+  ],
+  "local_binary_fingerprints": {
+    "GenshinImpact.exe": {
+      "kind": "local_binary_fingerprint_only",
+      "project_relative_path_hint": "GenshinImpact.exe",
+      "bytes": 430973352,
+      "sha256": "a1a23cb76d941df28c5156ca3152fa49421ec98842221b7d71633d42ee76ca45"
+    },
+    "xxmi/gimi/d3d11.dll": {
+      "kind": "local_binary_fingerprint_only",
+      "project_relative_path_hint": "xxmi/gimi/d3d11.dll",
+      "bytes": 3200512,
+      "sha256": "5c33ab9ead669543d4541fbb9b170f56234049cc976c5d8d36472f9df0ff9074"
+    }
+  },
+  "binary_note": "Fingerprints of the local working installation, not a claim of pristine official binaries."
+}

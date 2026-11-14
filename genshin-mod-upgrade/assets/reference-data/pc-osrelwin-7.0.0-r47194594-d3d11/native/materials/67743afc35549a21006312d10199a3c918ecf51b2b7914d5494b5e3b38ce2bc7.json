@@ -1,0 +1,537 @@
+{
+  "kind": "native_material",
+  "id": "cab-d0cab845ed4ee14b919154a9c21c29a5:6802893102660958765",
+  "source_cab": "cab-d0cab845ed4ee14b919154a9c21c29a5",
+  "path_id": "6802893102660958765",
+  "class_id": 21,
+  "raw_bytes": 2632,
+  "raw_sha256": "077701febc4b76b0f3dd9a8ea29f28136125a2bc76968485f9ebddbcda40c7b3",
+  "type_hash": "e1ee5b1091ac21b95baed1351f8fb1c2",
+  "source_object_offset": 4432,
+  "material": {
+    "name": "Eff_Fire_037_DO_00",
+    "shader": {
+      "file_id": 1,
+      "path_id": "4491145811181728303"
+    },
+    "keywords": "",
+    "lightmap_flags": 4,
+    "instancing_flags_hex": "01000000",
+    "render_queue": -1,
+    "tags": [
+      [
+        "AllowDistortionVectors",
+        "False"
+      ]
+    ],
+    "disabled_passes": [],
+    "textures": [
+      {
+        "property": "_DissolveTex",
+        "pointer": {
+          "file_id": 2,
+          "path_id": "8761173763051373140"
+        },
+        "scale": [
+          2.0,
+          1.0
+        ],
+        "offset": [
+          0.0,
+          0.0
+        ],
+        "max_mip_level": 0,
+        "texture_ref": "cab-2f984f6099d9cfe55c3f910c398a9a69:8761173763051373140"
+      },
+      {
+        "property": "_NoiseTex",
+        "pointer": {
+          "file_id": 4,
+          "path_id": "923778760248850012"
+        },
+        "scale": [
+          2.0,
+          2.0
+        ],
+        "offset": [
+          0.0,
+          0.0
+        ],
+        "max_mip_level": 0,
+        "texture_ref": "cab-4cc57453bc82ff2fee9b25b9a0aa1653:923778760248850012"
+      },
+      {
+        "property": "_NormalTex",
+        "pointer": {
+          "file_id": 3,
+          "path_id": "5181483763592306751"
+        },
+        "scale": [
+          2.0,
+          1.0
+        ],
+        "offset": [
+          0.0,
+          0.0
+        ],
+        "max_mip_level": 0,
+        "texture_ref": "cab-469fdf098c7c0a3bb3da127214362a8b:5181483763592306751"
+      }
+    ],
+    "floats": [
+      [
+        "_AlphaScale",
+        1.0
+      ],
+      [
+        "_BlendOP",
+        0.0
+      ],
+      [
+        "_BumpScale",
+        1.0
+      ],
+      [
+        "_ChannelNum",
+        1.0
+      ],
+      [
+        "_ColorOffset",
+        0.0
+      ],
+      [
+        "_ColorScale",
+        1.0
+      ],
+      [
+        "_Cull",
+        2.0
+      ],
+      [
+        "_CutOff",
+        0.0
+      ],
+      [
+        "_Cutoff",
+        0.5
+      ],
+      [
+        "_DepthFade",
+        1.0
+      ],
+      [
+        "_DepthThresh",
+        1.0
+      ],
+      [
+        "_DepthThreshold",
+        0.0
+      ],
+      [
+        "_DetailNormalMapScale",
+        1.0
+      ],
+      [
+        "_DissolveChannelNum",
+        3.0399999618530273
+      ],
+      [
+        "_DissolveColorToggle",
+        0.0
+      ],
+      [
+        "_DissolveNoise",
+        0.0
+      ],
+      [
+        "_DissolveOffset",
+        -0.4099999964237213
+      ],
+      [
+        "_DissolveScale",
+        30.0
+      ],
+      [
+        "_DistortChannelNum",
+        1.0
+      ],
+      [
+        "_DistortMask",
+        0.0
+      ],
+      [
+        "_DistortOffsetScale",
+        0.0
+      ],
+      [
+        "_DistortUSpeed",
+        0.0
+      ],
+      [
+        "_DistortVSpeed",
+        0.0
+      ],
+      [
+        "_DitherAlpha",
+        1.0
+      ],
+      [
+        "_DstBlend",
+        0.0
+      ],
+      [
+        "_DstBlendMode",
+        10.0
+      ],
+      [
+        "_EffectedByFog",
+        0.0
+      ],
+      [
+        "_ElementViewEleID",
+        0.0
+      ],
+      [
+        "_EnableAlphaTest",
+        0.0
+      ],
+      [
+        "_FadeByFresnelAndDistance",
+        0.0
+      ],
+      [
+        "_FadeLength",
+        0.0
+      ],
+      [
+        "_FadeOffset",
+        0.0
+      ],
+      [
+        "_Float1",
+        -64.12999725341797
+      ],
+      [
+        "_Float2",
+        1.0
+      ],
+      [
+        "_FresnelColorHighLightScale",
+        0.6000000238418579
+      ],
+      [
+        "_FresnelColorScale",
+        9.0
+      ],
+      [
+        "_FresnelFadeScale",
+        1.0
+      ],
+      [
+        "_FresnelPower",
+        6.0
+      ],
+      [
+        "_GlossMapScale",
+        1.0
+      ],
+      [
+        "_Glossiness",
+        0.5
+      ],
+      [
+        "_GlossyReflections",
+        1.0
+      ],
+      [
+        "_InvAutoExposure",
+        0.0
+      ],
+      [
+        "_LerpDebug",
+        0.0
+      ],
+      [
+        "_LinearRamp",
+        -0.7699999809265137
+      ],
+      [
+        "_MHYZBias",
+        0.0
+      ],
+      [
+        "_MainColorScale",
+        0.3100000023841858
+      ],
+      [
+        "_MainTexChannleNum",
+        1.0
+      ],
+      [
+        "_MaskChannelNum",
+        1.0
+      ],
+      [
+        "_MaskColorPlus",
+        0.0
+      ],
+      [
+        "_MaskScale",
+        1.0
+      ],
+      [
+        "_MaskUSpeed",
+        0.0
+      ],
+      [
+        "_MaskVSpeed",
+        0.0
+      ],
+      [
+        "_Metallic",
+        0.0
+      ],
+      [
+        "_Mode",
+        0.0
+      ],
+      [
+        "_MotionVectorsAlphaCutoff",
+        0.0
+      ],
+      [
+        "_NoiseScale",
+        0.0
+      ],
+      [
+        "_NormalInnerScale",
+        4.300000190734863
+      ],
+      [
+        "_NormalScale",
+        0.6200000047683716
+      ],
+      [
+        "_OcclusionStrength",
+        1.0
+      ],
+      [
+        "_OffsetThreshold",
+        -0.6499999761581421
+      ],
+      [
+        "_Parallax",
+        0.019999999552965164
+      ],
+      [
+        "_PolygonOffsetFactor",
+        0.0
+      ],
+      [
+        "_PolygonOffsetUnit",
+        0.0
+      ],
+      [
+        "_ReceiveShadow",
+        0.0
+      ],
+      [
+        "_RefractStr",
+        -0.949999988079071
+      ],
+      [
+        "_SOFTPARTICLES",
+        0.0
+      ],
+      [
+        "_Scale",
+        0.009999999776482582
+      ],
+      [
+        "_SmoothnessTextureChannel",
+        0.0
+      ],
+      [
+        "_SpecularHighlights",
+        1.0
+      ],
+      [
+        "_SrcBlend",
+        1.0
+      ],
+      [
+        "_SrcBlendMode",
+        5.0
+      ],
+      [
+        "_Step",
+        1.0299999713897705
+      ],
+      [
+        "_StepThreshold",
+        0.09000000357627869
+      ],
+      [
+        "_StepValue",
+        0.15000000596046448
+      ],
+      [
+        "_SwitchStep",
+        0.5
+      ],
+      [
+        "_USpeed",
+        0.0
+      ],
+      [
+        "_UVSec",
+        0.0
+      ],
+      [
+        "_UseSkyColor",
+        0.0
+      ],
+      [
+        "_UsingDitherAlpha",
+        0.0
+      ],
+      [
+        "_VSpeed",
+        0.0
+      ],
+      [
+        "_VertexAniOffsetThreshold",
+        -0.019999999552965164
+      ],
+      [
+        "_ZWrite",
+        1.0
+      ],
+      [
+        "_Ztest",
+        4.0
+      ],
+      [
+        "_Zwrite",
+        0.0
+      ],
+      [
+        "__dirty",
+        0.0
+      ]
+    ],
+    "colors": [
+      [
+        "_Color",
+        [
+          1.0,
+          1.0,
+          1.0,
+          1.0
+        ]
+      ],
+      [
+        "_ColorOffestThreshold",
+        [
+          0.10000000149011612,
+          0.10000000149011612,
+          0.0,
+          0.0
+        ]
+      ],
+      [
+        "_DisplaceRangeXY",
+        [
+          -0.20000000298023224,
+          0.20000000298023224,
+          0.0,
+          0.0
+        ]
+      ],
+      [
+        "_DissolveEndColor",
+        [
+          1.0,
+          0.8039215803146362,
+          0.8039215803146362,
+          1.0
+        ]
+      ],
+      [
+        "_DissolveTexPannerXY",
+        [
+          0.0,
+          -1.0,
+          0.0,
+          0.0
+        ]
+      ],
+      [
+        "_EmissionColor",
+        [
+          0.0,
+          0.0,
+          0.0,
+          1.0
+        ]
+      ],
+      [
+        "_FresnelColor",
+        [
+          0.021626317873597145,
+          0.5581074953079224,
+          0.7352941632270813,
+          1.0
+        ]
+      ],
+      [
+        "_MainColor",
+        [
+          0.8627451062202454,
+          0.0,
+          0.0,
+          1.0
+        ]
+      ],
+      [
+        "_MainTexPannerXY",
+        [
+          0.0,
+          0.0,
+          0.0,
+          0.0
+        ]
+      ],
+      [
+        "_NoiseTexPannerXY",
+        [
+          0.0,
+          -0.5,
+          0.0,
+          0.0
+        ]
+      ],
+      [
+        "_NormalTexPannerXY",
+        [
+          0.4000000059604645,
+          -0.8999999761581421,
+          0.0,
+          0.0
+        ]
+      ],
+      [
+        "_VertexAniRangeXY",
+        [
+          -0.3199999928474426,
+          0.10000000149011612,
+          0.0,
+          0.0
+        ]
+      ]
+    ],
+    "shader_ref": "cab-00df874edc4e8d280d4961500203f725:4491145811181728303"
+  },
+  "name": "Eff_Fire_037_DO_00",
+  "parsed": true
+}

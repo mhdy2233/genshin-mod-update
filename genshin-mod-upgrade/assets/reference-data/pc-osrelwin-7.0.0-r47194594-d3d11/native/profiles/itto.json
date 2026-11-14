@@ -1,0 +1,76 @@
+{
+  "kind": "native_profile",
+  "id": "itto",
+  "internal_name": "Itto",
+  "prefabs": [
+    {
+      "name": "Avatar_Male_Claymore_Itto",
+      "path": "native/prefabs/1bb3ffc2ccafa7edd157cbb3358f5a44faf0e9bf2e4f75556af7d30f1bd20d0b.json",
+      "source_cab": "cab-d218e93919a9a767a33a65751536a1a6",
+      "variant_suffix": "",
+      "transform_count": 205,
+      "renderer_count": 6,
+      "internal_name": "Itto"
+    },
+    {
+      "name": "Avatar_Male_Claymore_Itto_Remote",
+      "path": "native/prefabs/222b3bdd4f3fa7fd75f57f152e10ef03ea0334ffeac4be55b27f21c583e18388.json",
+      "source_cab": "cab-5881d94670a570bf57b5fe0bd12fdda4",
+      "variant_suffix": "_Remote",
+      "transform_count": 205,
+      "renderer_count": 6,
+      "internal_name": "Itto"
+    },
+    {
+      "name": "Avatar_Male_Claymore_Itto_Kanban_Edit",
+      "path": "native/prefabs/43d9a8e80da36ce7f4cbabd9ef5503b7e74fa960d7c46a0e91a72e7ff8803687.json",
+      "source_cab": "cab-6fc172ebeb740f2ebaa41fdbff8e688e",
+      "variant_suffix": "_Kanban_Edit",
+      "transform_count": 174,
+      "renderer_count": 6,
+      "internal_name": "Itto"
+    },
+    {
+      "name": "Avatar_Male_Claymore_Itto_Kanban",
+      "path": "native/prefabs/4a6d4f3ddf3d90071e8f9f3d728bf709e500d0ff2da7007968fb0b74870f852c.json",
+      "source_cab": "cab-579d8e209617acbb0418564590557cf2",
+      "variant_suffix": "_Kanban",
+      "transform_count": 174,
+      "renderer_count": 6,
+      "internal_name": "Itto"
+    },
+    {
+      "name": "Avatar_Male_Claymore_Itto_Manekin",
+      "path": "native/prefabs/804f1fe25eced2144746e9b27b0f0bc243bbafaaee7e537959de68b019e1015b.json",
+      "source_cab": "cab-6ea5aeef633145151a770cf5977759bb",
+      "variant_suffix": "_Manekin",
+      "transform_count": 174,
+      "renderer_count": 6,
+      "internal_name": "Itto"
+    },
+    {
+      "name": "Avatar_Male_Claymore_Itto_Edit",
+      "path": "native/prefabs/d7b682f47398d0e433d1726b1e31e654dbd6278095ee887f2600cddc5facee64.json",
+      "source_cab": "cab-2569b91a526ecc26ce3d782b1554657f",
+      "variant_suffix": "_Edit",
+      "transform_count": 205,
+      "renderer_count": 6,
+      "internal_name": "Itto"
+    }
+  ],
+  "roster_entries": [
+    {
+      "id": 10000057,
+      "internal_name": "Itto",
+      "name_zh": "荒泷一斗",
+      "use_type": "AVATAR_FORMAL",
+      "body_type": "BODY_MALE",
+      "weapon_type": "WEAPON_CLAYMORE",
+      "prefab_path_hash": "13342799795869226583"
+    }
+  ],
+  "costume": null,
+  "evidence_level": "installed_pc_asset_extraction",
+  "new_runtime_test_performed": false,
+  "character_id": "itto"
+}

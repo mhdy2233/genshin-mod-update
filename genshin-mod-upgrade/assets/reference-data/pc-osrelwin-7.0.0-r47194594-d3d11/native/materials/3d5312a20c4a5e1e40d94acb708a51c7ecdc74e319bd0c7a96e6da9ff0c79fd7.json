@@ -1,0 +1,271 @@
+{
+  "kind": "native_material",
+  "id": "cab-d6930252bc2ff4559ea14baf277a89bb:6284666938008368239",
+  "source_cab": "cab-d6930252bc2ff4559ea14baf277a89bb",
+  "path_id": "6284666938008368239",
+  "class_id": 21,
+  "raw_bytes": 1248,
+  "raw_sha256": "02722a2a0e83a06c920b5d670206000f3079976aa510cfefe7778919e7a5ac03",
+  "type_hash": "e1ee5b1091ac21b95baed1351f8fb1c2",
+  "source_object_offset": 4504,
+  "material": {
+    "name": "Eff_Mavuika_VAT1",
+    "shader": {
+      "file_id": 3,
+      "path_id": "-2356080335411257985"
+    },
+    "keywords": "_IFAUTOPLAYBACK_ON _IFINTERFRAMEINTERP_ON",
+    "lightmap_flags": 4,
+    "instancing_flags_hex": "01000000",
+    "render_queue": -1,
+    "tags": [],
+    "disabled_passes": [],
+    "textures": [
+      {
+        "property": "_HighlightMaskTex",
+        "pointer": {
+          "file_id": 1,
+          "path_id": "-2489701521968663053"
+        },
+        "scale": [
+          3.7799999713897705,
+          3.0
+        ],
+        "offset": [
+          -1.4900000095367432,
+          -0.550000011920929
+        ],
+        "max_mip_level": 0,
+        "texture_ref": "cab-25ddf1f65e8e50d22ebd2cb5a25011fc:-2489701521968663053"
+      },
+      {
+        "property": "_HighlightMaskTex2",
+        "pointer": {
+          "file_id": 6,
+          "path_id": "6114556763452707636"
+        },
+        "scale": [
+          1.0,
+          0.699999988079071
+        ],
+        "offset": [
+          0.44999998807907104,
+          0.10000000149011612
+        ],
+        "max_mip_level": 0,
+        "texture_ref": "cab-d0fb7a90df2f0f269a7c022767bef160:6114556763452707636"
+      },
+      {
+        "property": "_PosTex_A",
+        "pointer": {
+          "file_id": 5,
+          "path_id": "5504642054398215855"
+        },
+        "scale": [
+          1.0,
+          1.0
+        ],
+        "offset": [
+          0.0,
+          0.0
+        ],
+        "max_mip_level": 0,
+        "texture_ref": "cab-b3fade6a56298a0981f84e0db3017aa4:5504642054398215855"
+      },
+      {
+        "property": "_VerticalRampTex",
+        "pointer": {
+          "file_id": 4,
+          "path_id": "4641109760618179499"
+        },
+        "scale": [
+          1.0,
+          1.0
+        ],
+        "offset": [
+          0.0,
+          0.0
+        ],
+        "max_mip_level": 0,
+        "texture_ref": "cab-a02b0c361444a77b242299e223446c5b:4641109760618179499"
+      },
+      {
+        "property": "_VerticalRampTex2",
+        "pointer": {
+          "file_id": 2,
+          "path_id": "-1605998544621681416"
+        },
+        "scale": [
+          1.0,
+          1.0
+        ],
+        "offset": [
+          0.0,
+          0.0
+        ],
+        "max_mip_level": 0,
+        "texture_ref": "cab-8633821d3e5a8ebc50fbc5b8fd418bdf:-1605998544621681416"
+      }
+    ],
+    "floats": [
+      [
+        "_BoundMaxX",
+        0.04821600019931793
+      ],
+      [
+        "_BoundMaxY",
+        0.06286200135946274
+      ],
+      [
+        "_BoundMaxZ",
+        0.04231800138950348
+      ],
+      [
+        "_BoundMinX",
+        -0.048179998993873596
+      ],
+      [
+        "_BoundMinY",
+        -0.03506400063633919
+      ],
+      [
+        "_BoundMinZ",
+        -0.048569999635219574
+      ],
+      [
+        "_CurrentFrame",
+        45.0
+      ],
+      [
+        "_DisappearByVerColAlpha",
+        0.0
+      ],
+      [
+        "_DitherAlpha",
+        1.0
+      ],
+      [
+        "_Dx11ShaderPsScore",
+        0.0
+      ],
+      [
+        "_Dx11ShaderScore",
+        0.0
+      ],
+      [
+        "_Dx11ShaderVsScore",
+        0.0
+      ],
+      [
+        "_ElementViewEleID",
+        0.0
+      ],
+      [
+        "_FrameCount",
+        60.0
+      ],
+      [
+        "_HighlightMaskTex2ChannelSwitch",
+        0.0
+      ],
+      [
+        "_HighlightMaskTex2VOffsetByVerColA",
+        1.0
+      ],
+      [
+        "_HighlightMaskTexChannelSwitch",
+        0.0
+      ],
+      [
+        "_HoudiniFPS",
+        60.0
+      ],
+      [
+        "_IfAutoPlayback",
+        1.0
+      ],
+      [
+        "_IfInterframeInterp",
+        1.0
+      ],
+      [
+        "_Speed",
+        0.5
+      ],
+      [
+        "_TimeShift",
+        1.0
+      ],
+      [
+        "_UsingDitherAlpha",
+        0.0
+      ],
+      [
+        "_VerticalFadeOffset",
+        0.6000000238418579
+      ],
+      [
+        "_VerticalFadeRange",
+        0.25
+      ],
+      [
+        "_VerticalFadeToggle",
+        0.0
+      ],
+      [
+        "_VerticalRampLerp",
+        0.0
+      ]
+    ],
+    "colors": [
+      [
+        "_Color",
+        [
+          1.149999976158142,
+          1.149999976158142,
+          1.149999976158142,
+          1.0
+        ]
+      ],
+      [
+        "_DayColor",
+        [
+          1.0,
+          1.0,
+          1.0,
+          1.0
+        ]
+      ],
+      [
+        "_HighlightColor",
+        [
+          1.149999976158142,
+          1.149999976158142,
+          1.149999976158142,
+          0.0
+        ]
+      ],
+      [
+        "_HighlightColor2",
+        [
+          0.949999988079071,
+          0.6937115788459778,
+          0.3324997127056122,
+          1.0
+        ]
+      ],
+      [
+        "_VerticalRampTint",
+        [
+          1.100000023841858,
+          1.100000023841858,
+          1.100000023841858,
+          1.0
+        ]
+      ]
+    ],
+    "shader_ref": "cab-94da3b6e4a37deebcd7288446f3e7818:-2356080335411257985"
+  },
+  "name": "Eff_Mavuika_VAT1",
+  "parsed": true
+}

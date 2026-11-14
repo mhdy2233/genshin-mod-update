@@ -1,0 +1,563 @@
+{
+  "kind": "native_material",
+  "id": "cab-aab97b527457e09ff7e42729817a8959:5613979221972394218",
+  "source_cab": "cab-aab97b527457e09ff7e42729817a8959",
+  "path_id": "5613979221972394218",
+  "class_id": 21,
+  "raw_bytes": 3056,
+  "raw_sha256": "70cb12ae67246fc79d9736dacc5e3e7d3b5025f5400c0705d070d248bbbbdfc7",
+  "type_hash": "e1ee5b1091ac21b95baed1351f8fb1c2",
+  "source_object_offset": 4480,
+  "material": {
+    "name": "Eff_Other_298_UD_T_00",
+    "shader": {
+      "file_id": 2,
+      "path_id": "2854121428418910931"
+    },
+    "keywords": "",
+    "lightmap_flags": 4,
+    "instancing_flags_hex": "01000000",
+    "render_queue": -1,
+    "tags": [
+      [
+        "AllowDistortionVectors",
+        "False"
+      ]
+    ],
+    "disabled_passes": [],
+    "textures": [
+      {
+        "property": "_AddTex",
+        "pointer": {
+          "file_id": 1,
+          "path_id": "2851071484887756288"
+        },
+        "scale": [
+          1.0,
+          1.0
+        ],
+        "offset": [
+          0.0,
+          0.0
+        ],
+        "max_mip_level": 0,
+        "texture_ref": "cab-060caad32cafe8c46b1cc393ba674242:2851071484887756288"
+      },
+      {
+        "property": "_AddTexUvmoveTex",
+        "pointer": {
+          "file_id": 4,
+          "path_id": "7836204360011446828"
+        },
+        "scale": [
+          1.0,
+          1.0
+        ],
+        "offset": [
+          0.0,
+          0.0
+        ],
+        "max_mip_level": 0,
+        "texture_ref": "cab-770c8f723fafeec6c3789fb23145b773:7836204360011446828"
+      },
+      {
+        "property": "_DissolveTex",
+        "pointer": {
+          "file_id": 4,
+          "path_id": "7836204360011446828"
+        },
+        "scale": [
+          1.0,
+          0.5
+        ],
+        "offset": [
+          0.0,
+          0.0
+        ],
+        "max_mip_level": 0,
+        "texture_ref": "cab-770c8f723fafeec6c3789fb23145b773:7836204360011446828"
+      },
+      {
+        "property": "_MainTex012Texs",
+        "pointer": {
+          "file_id": 3,
+          "path_id": "7961718772593645213"
+        },
+        "scale": [
+          1.0,
+          1.0
+        ],
+        "offset": [
+          0.0,
+          0.0
+        ],
+        "max_mip_level": 0,
+        "texture_ref": "cab-6ba6613fc4a4f4eaaac53f37e134f99b:7961718772593645213"
+      },
+      {
+        "property": "_UVmoveTex",
+        "pointer": {
+          "file_id": 5,
+          "path_id": "851314730019422757"
+        },
+        "scale": [
+          1.0,
+          1.0
+        ],
+        "offset": [
+          0.0,
+          0.0
+        ],
+        "max_mip_level": 0,
+        "texture_ref": "cab-7dd59ce974f627325de3c6786c4b8651:851314730019422757"
+      },
+      {
+        "property": "_texcoord",
+        "pointer": {
+          "file_id": 0,
+          "path_id": "0"
+        },
+        "scale": [
+          1.0,
+          1.0
+        ],
+        "offset": [
+          0.0,
+          0.0
+        ],
+        "max_mip_level": 0,
+        "texture_ref": null
+      }
+    ],
+    "floats": [
+      [
+        "_AddTexBrightness",
+        10.0
+      ],
+      [
+        "_AddTexColorChannelSwitch",
+        0.0
+      ],
+      [
+        "_AddTexUvmoveTexBrightness",
+        9.0
+      ],
+      [
+        "_AddTexUvmoveTex_Uspeed",
+        0.30000001192092896
+      ],
+      [
+        "_AddTexUvmoveTex_Vspeed",
+        0.4000000059604645
+      ],
+      [
+        "_AlphaBrightness",
+        1.0
+      ],
+      [
+        "_AlphaEdgeFade",
+        0.3499999940395355
+      ],
+      [
+        "_AlphaFadeByDistanceToggle",
+        0.0
+      ],
+      [
+        "_AlphaFadeDistance",
+        2.0
+      ],
+      [
+        "_AlphaFadeDistanceInvertToggle",
+        0.0
+      ],
+      [
+        "_AlphaFadeOffset",
+        0.0
+      ],
+      [
+        "_AlphaSoftedgePower",
+        1.0
+      ],
+      [
+        "_AlphaSoftedgeScale",
+        1.0
+      ],
+      [
+        "_AlphaSoftedgeToggle",
+        0.0
+      ],
+      [
+        "_BaseTexAlphaBrightness",
+        1.0
+      ],
+      [
+        "_BaseTexAlphaChannelSwitch",
+        0.0
+      ],
+      [
+        "_BaseTexColorBrightness",
+        3.0
+      ],
+      [
+        "_BaseTexColorChannelSwitch",
+        0.0
+      ],
+      [
+        "_BaseTexURandomToggle",
+        0.0
+      ],
+      [
+        "_BaseTexVRandomToggle",
+        0.0
+      ],
+      [
+        "_BaseTex_Uspeed",
+        0.0
+      ],
+      [
+        "_BaseTex_Vspeed",
+        0.30000001192092896
+      ],
+      [
+        "_BlendOP",
+        0.0
+      ],
+      [
+        "_ColorBrightness",
+        1.0
+      ],
+      [
+        "_Cull",
+        0.0
+      ],
+      [
+        "_DepthFade",
+        1.0
+      ],
+      [
+        "_DepthThresh",
+        0.004999999888241291
+      ],
+      [
+        "_Dissolve",
+        1.0
+      ],
+      [
+        "_DissolveTexAlphaBrightness",
+        0.5
+      ],
+      [
+        "_DissolveTexChannelSwitch",
+        0.0
+      ],
+      [
+        "_DissolveTex_Uspeed",
+        0.0
+      ],
+      [
+        "_DissolveTex_Vspeed",
+        0.30000001192092896
+      ],
+      [
+        "_DstBlendMode",
+        10.0
+      ],
+      [
+        "_EffectedByFog",
+        0.0
+      ],
+      [
+        "_Float1",
+        1.0
+      ],
+      [
+        "_Float2",
+        0.0
+      ],
+      [
+        "_Float3",
+        1.0
+      ],
+      [
+        "_Keyword0",
+        3.0
+      ],
+      [
+        "_Lerp",
+        1.0
+      ],
+      [
+        "_LerpAlphaScaler",
+        0.0
+      ],
+      [
+        "_MHYZBias",
+        0.0
+      ],
+      [
+        "_MainTex02AlphaBrightness",
+        0.0
+      ],
+      [
+        "_MainTex02Brightness",
+        1.0
+      ],
+      [
+        "_MainTex03AlphaBrightness",
+        2.0
+      ],
+      [
+        "_MainTex03Brightness",
+        1.5
+      ],
+      [
+        "_MainTex1Brightness",
+        2.0
+      ],
+      [
+        "_MainTex1ColorChannelSwitch",
+        0.0
+      ],
+      [
+        "_MainTex2Brightness",
+        1.0
+      ],
+      [
+        "_MainTex2ColorChannelSwitch",
+        3.0
+      ],
+      [
+        "_MainTexAlphaBrightness",
+        1.0
+      ],
+      [
+        "_MainTexRGBBrightness",
+        2.0
+      ],
+      [
+        "_MaskTexBlendModeToggle",
+        0.0
+      ],
+      [
+        "_MaskTexBrightness",
+        1.0
+      ],
+      [
+        "_MaskTexChannelSwitch",
+        2.0
+      ],
+      [
+        "_MaskTexToggle",
+        0.0
+      ],
+      [
+        "_MaskTex_Uspeed",
+        0.0
+      ],
+      [
+        "_MaskTex_Vspeed",
+        0.0
+      ],
+      [
+        "_MotionVectorsAlphaCutoff",
+        0.0
+      ],
+      [
+        "_NoiseIntensityOnMask",
+        0.0
+      ],
+      [
+        "_NoiseTexChannelSwitch",
+        0.0
+      ],
+      [
+        "_NoiseTexToggle",
+        0.0
+      ],
+      [
+        "_NoiseTexUVRandomToggle",
+        0.0
+      ],
+      [
+        "_NoiseTex_Uspeed",
+        0.0
+      ],
+      [
+        "_NoiseTex_Vspeed",
+        1.0
+      ],
+      [
+        "_Noise_Brightness",
+        0.0
+      ],
+      [
+        "_Noise_Offset",
+        0.0
+      ],
+      [
+        "_PolygonOffsetFactor",
+        0.0
+      ],
+      [
+        "_PolygonOffsetUnit",
+        0.0
+      ],
+      [
+        "_SOFTPARTICLES",
+        0.0
+      ],
+      [
+        "_SrcBlendMode",
+        5.0
+      ],
+      [
+        "_UVmoveTexAlphaBrightness",
+        1.0
+      ],
+      [
+        "_UVmoveTexAlphaChannelSwitch",
+        3.0
+      ],
+      [
+        "_UVmoveTexAlphaEdgeFade",
+        0.5
+      ],
+      [
+        "_UVmoveTexColorBrightness",
+        3.0
+      ],
+      [
+        "_UVmoveTexColorChannelSwitch",
+        0.0
+      ],
+      [
+        "_UVmoveTex_Uspeed",
+        0.0
+      ],
+      [
+        "_UVmoveTex_Vspeed",
+        0.30000001192092896
+      ],
+      [
+        "_UVmove_Uspeed",
+        0.0
+      ],
+      [
+        "_UVmove_Vspeed",
+        0.30000001192092896
+      ],
+      [
+        "_Ztest",
+        4.0
+      ],
+      [
+        "_Zwrite",
+        0.0
+      ]
+    ],
+    "colors": [
+      [
+        "_AddTexColor",
+        [
+          0.7720588445663452,
+          0.9151114821434021,
+          1.0,
+          1.0
+        ]
+      ],
+      [
+        "_BaseTexAlphaColor",
+        [
+          1.0,
+          1.0,
+          1.0,
+          1.0
+        ]
+      ],
+      [
+        "_Color0",
+        [
+          1.0,
+          1.0,
+          1.0,
+          1.0
+        ]
+      ],
+      [
+        "_DayColor",
+        [
+          1.0,
+          1.0,
+          1.0,
+          1.0
+        ]
+      ],
+      [
+        "_MainColor",
+        [
+          1.0,
+          1.0,
+          1.0,
+          1.0
+        ]
+      ],
+      [
+        "_MainTex1DarkColor",
+        [
+          1.0,
+          1.0,
+          1.0,
+          1.0
+        ]
+      ],
+      [
+        "_MainTex1LightColor",
+        [
+          1.0,
+          1.0,
+          1.0,
+          1.0
+        ]
+      ],
+      [
+        "_MainTex2AlphaColor",
+        [
+          1.0,
+          1.0,
+          1.0,
+          1.0
+        ]
+      ],
+      [
+        "_MainTex2Color",
+        [
+          1.0,
+          1.0,
+          1.0,
+          1.0
+        ]
+      ],
+      [
+        "_MeshParticleColorArray",
+        [
+          1.0,
+          1.0,
+          1.0,
+          1.0
+        ]
+      ],
+      [
+        "_UVmoveTexColor",
+        [
+          1.0,
+          1.0,
+          1.0,
+          1.0
+        ]
+      ]
+    ],
+    "shader_ref": "cab-1d4dd8ae1f12337ee80993f5258967ef:2854121428418910931"
+  },
+  "name": "Eff_Other_298_UD_T_00",
+  "parsed": true
+}

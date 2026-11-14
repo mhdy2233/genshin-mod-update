@@ -1,0 +1,96 @@
+{
+  "kind": "character",
+  "id": "playergirl",
+  "name_zh": "女主",
+  "game_draw_targets": [],
+  "face_texture_example": [],
+  "example_mod": null,
+  "bone_mapping": null,
+  "full_skeleton_extracted": false,
+  "validation": {
+    "scope": "Native installed assets; no new draw capture or gameplay acceptance",
+    "new_runtime_test_performed_by_export": false,
+    "all_actions_lighting_and_lods_verified": false
+  },
+  "native_profiles": {
+    "playergirl": "native/profiles/playergirl.json",
+    "playergirlcostumecwxr": "native/profiles/playergirlcostumecwxr.json"
+  },
+  "roster_entries": [
+    {
+      "id": 10000007,
+      "internal_name": "PlayerGirl",
+      "name_zh": "女主",
+      "use_type": "AVATAR_FORMAL",
+      "body_type": "BODY_GIRL",
+      "weapon_type": "WEAPON_SWORD_ONE_HAND",
+      "prefab_path_hash": "3359644857405034642"
+    },
+    {
+      "id": 10000135,
+      "internal_name": "PlayerGirl",
+      "name_zh": null,
+      "use_type": "AVATAR_FORMAL",
+      "body_type": "BODY_GIRL",
+      "weapon_type": "WEAPON_CROSSBOW",
+      "prefab_path_hash": "2736366618676411117"
+    },
+    {
+      "id": 10000999,
+      "internal_name": "PlayerGirl",
+      "name_zh": null,
+      "use_type": "AVATAR_FORMAL",
+      "body_type": "BODY_GIRL",
+      "weapon_type": "WEAPON_SWORD_ONE_HAND",
+      "prefab_path_hash": "12862548388751571263"
+    },
+    {
+      "id": 11000040,
+      "internal_name": "PlayerGirl",
+      "name_zh": null,
+      "use_type": "AVATAR_TEST",
+      "body_type": "BODY_GIRL",
+      "weapon_type": "WEAPON_SWORD_ONE_HAND",
+      "prefab_path_hash": "1580498014198870131"
+    },
+    {
+      "id": 11000047,
+      "internal_name": "PlayerGirl",
+      "name_zh": null,
+      "use_type": null,
+      "body_type": "BODY_GIRL",
+      "weapon_type": "WEAPON_CROSSBOW",
+      "prefab_path_hash": "2736366618676411117"
+    },
+    {
+      "id": 11000048,
+      "internal_name": "PlayerGirl",
+      "name_zh": null,
+      "use_type": null,
+      "body_type": "BODY_GIRL",
+      "weapon_type": "WEAPON_BOW",
+      "prefab_path_hash": "17236499927819264843"
+    },
+    {
+      "id": 11000135,
+      "internal_name": "PlayerGirl",
+      "name_zh": null,
+      "use_type": null,
+      "body_type": "BODY_GIRL",
+      "weapon_type": "WEAPON_CROSSBOW",
+      "prefab_path_hash": "2736366618676411117"
+    },
+    {
+      "id": 11000999,
+      "internal_name": "PlayerGirl",
+      "name_zh": null,
+      "use_type": "AVATAR_TEST",
+      "body_type": "BODY_GIRL",
+      "weapon_type": "WEAPON_SWORD_ONE_HAND",
+      "prefab_path_hash": "12862548388751571263"
+    }
+  ],
+  "official_mesh_extracted": true,
+  "prefab_skeletons_extracted": true,
+  "draw_hash_status": "not_captured_on_target"
+}

@@ -1,0 +1,76 @@
+{
+  "kind": "native_profile",
+  "id": "venti",
+  "internal_name": "Venti",
+  "prefabs": [
+    {
+      "name": "Avatar_Boy_Bow_Venti_Remote",
+      "path": "native/prefabs/17e3114e46f50565feec2f4e1d8a6e496d304f4ec958c8ee9aa66ab374ba626f.json",
+      "source_cab": "cab-a60733c2ef7bc4d2df4a0ff84da39895",
+      "variant_suffix": "_Remote",
+      "transform_count": 200,
+      "renderer_count": 6,
+      "internal_name": "Venti"
+    },
+    {
+      "name": "Avatar_Boy_Bow_Venti_Manekin",
+      "path": "native/prefabs/1a7127355d375c3c401ba2c6f35f1ea5eb17e0348b904b8516cdd30a362a72ff.json",
+      "source_cab": "cab-344be7af8fab208cf70afaedbb938e26",
+      "variant_suffix": "_Manekin",
+      "transform_count": 169,
+      "renderer_count": 6,
+      "internal_name": "Venti"
+    },
+    {
+      "name": "Avatar_Boy_Bow_Venti_Kanban_Edit",
+      "path": "native/prefabs/1e2c92615efc98201f55ec0c883915dccef3e708c8069bb2e6228630be52b25c.json",
+      "source_cab": "cab-a0b6e8b7a336694933f1a99872e1dd9a",
+      "variant_suffix": "_Kanban_Edit",
+      "transform_count": 169,
+      "renderer_count": 6,
+      "internal_name": "Venti"
+    },
+    {
+      "name": "Avatar_Boy_Bow_Venti",
+      "path": "native/prefabs/223f3265dad9ee426594493862a04d8ec527e7bf185434522d8d282be77c7285.json",
+      "source_cab": "cab-e7a0c71422444d67ac076ba8c966f9f2",
+      "variant_suffix": "",
+      "transform_count": 200,
+      "renderer_count": 6,
+      "internal_name": "Venti"
+    },
+    {
+      "name": "Avatar_Boy_Bow_Venti_Kanban",
+      "path": "native/prefabs/9955d0fede1a333d9773dc8c2a9f53daba74fd8068544a2d24c123fa2deb0ee0.json",
+      "source_cab": "cab-99671ae7f81e8d811d196e0f27d58f72",
+      "variant_suffix": "_Kanban",
+      "transform_count": 169,
+      "renderer_count": 6,
+      "internal_name": "Venti"
+    },
+    {
+      "name": "Avatar_Boy_Bow_Venti_Edit",
+      "path": "native/prefabs/a8524a522314895c275b1c9d0b470393a46dd2e60fe2ae48ddee14b24a8d4d25.json",
+      "source_cab": "cab-7e17d2b1398b5f66481c4c93945d7884",
+      "variant_suffix": "_Edit",
+      "transform_count": 200,
+      "renderer_count": 6,
+      "internal_name": "Venti"
+    }
+  ],
+  "roster_entries": [
+    {
+      "id": 10000022,
+      "internal_name": "Venti",
+      "name_zh": "温迪",
+      "use_type": "AVATAR_FORMAL",
+      "body_type": "BODY_BOY",
+      "weapon_type": "WEAPON_BOW",
+      "prefab_path_hash": "10480814800038770762"
+    }
+  ],
+  "costume": null,
+  "evidence_level": "installed_pc_asset_extraction",
+  "new_runtime_test_performed": false,
+  "character_id": "venti"
+}

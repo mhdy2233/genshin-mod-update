@@ -1,0 +1,529 @@
+{
+  "kind": "native_mesh",
+  "id": "cab-c8078828ce19a1d24808081392f32e5b:7291864275771746356",
+  "source_cab": "cab-c8078828ce19a1d24808081392f32e5b",
+  "path_id": "7291864275771746356",
+  "class_id": 43,
+  "raw_bytes": 196664,
+  "raw_sha256": "a280bb6f68159c214daa2a453e5c79a8a1a06294bc9518face851f981f9dfd47",
+  "type_hash": "7cda0f2e6742c9b0f2a194edde97cbe2",
+  "source_object_offset": 6244840,
+  "layout": {
+    "name": "Hat02",
+    "submeshes": [
+      {
+        "first_byte": 0,
+        "index_count": 7524,
+        "topology": 0,
+        "base_vertex": 0,
+        "first_vertex": 0,
+        "vertex_count": 2151,
+        "aabb": [
+          0.0,
+          1.2609171867370605,
+          -0.03317810222506523,
+          0.12925824522972107,
+          0.11368238925933838,
+          0.14570149779319763
+        ],
+        "first_index": 0
+      }
+    ],
+    "blend_shapes": {
+      "vertices": {
+        "count": 0,
+        "offset": 68,
+        "bytes": 0,
+        "stride": 40
+      },
+      "frames": [],
+      "channels": [],
+      "full_weights": []
+    },
+    "bindposes": {
+      "count": 8,
+      "offset": 84,
+      "bytes": 512,
+      "stride": 64
+    },
+    "bone_hashes": {
+      "count": 8,
+      "offset": 600,
+      "bytes": 32,
+      "stride": 4
+    },
+    "root_bone_hash": 4053967270,
+    "flags": {
+      "compression": 0,
+      "readable": 0,
+      "keep_vertices": 0,
+      "keep_indices": 0
+    },
+    "packed_skin_uv": 0,
+    "index_format": 0,
+    "indices": {
+      "count": 15048,
+      "offset": 652,
+      "bytes": 15048,
+      "stride": 1
+    },
+    "skin": {
+      "count": 2151,
+      "offset": 15704,
+      "bytes": 68832,
+      "stride": 32
+    },
+    "current_channels": 143,
+    "vertex_count": 2151,
+    "channels": [
+      {
+        "index": 0,
+        "stream": 0,
+        "offset": 0,
+        "format": 0,
+        "dimension": 3,
+        "format_name": "float32",
+        "component_bytes": 4
+      },
+      {
+        "index": 1,
+        "stream": 0,
+        "offset": 12,
+        "format": 0,
+        "dimension": 3,
+        "format_name": "float32",
+        "component_bytes": 4
+      },
+      {
+        "index": 2,
+        "stream": 1,
+        "offset": 0,
+        "format": 2,
+        "dimension": 4,
+        "format_name": "color_unorm8",
+        "component_bytes": 1
+      },
+      {
+        "index": 3,
+        "stream": 1,
+        "offset": 4,
+        "format": 0,
+        "dimension": 2,
+        "format_name": "float32",
+        "component_bytes": 4
+      },
+      {
+        "index": 4,
+        "stream": 0,
+        "offset": 0,
+        "format": 0,
+        "dimension": 0
+      },
+      {
+        "index": 5,
+        "stream": 0,
+        "offset": 0,
+        "format": 0,
+        "dimension": 0
+      },
+      {
+        "index": 6,
+        "stream": 0,
+        "offset": 0,
+        "format": 0,
+        "dimension": 0
+      },
+      {
+        "index": 7,
+        "stream": 0,
+        "offset": 24,
+        "format": 0,
+        "dimension": 4,
+        "format_name": "float32",
+        "component_bytes": 4
+      }
+    ],
+    "vertex_data": {
+      "count": 111860,
+      "offset": 84584,
+      "bytes": 111860,
+      "stride": 1
+    },
+    "vertex_streams": [
+      {
+        "stream": 0,
+        "stride": 40,
+        "bytes": 86040,
+        "offset_in_vertex_data": 0,
+        "offset_in_raw_mesh": 84584,
+        "channel_indices": [
+          0,
+          1,
+          7
+        ]
+      },
+      {
+        "stream": 1,
+        "stride": 12,
+        "bytes": 25812,
+        "offset_in_vertex_data": 86048,
+        "offset_in_raw_mesh": 170632,
+        "channel_indices": [
+          2,
+          3
+        ]
+      }
+    ],
+    "compressed": {
+      "vertices": {
+        "offset": 196444,
+        "bytes": 20,
+        "count": 0,
+        "bits": 0,
+        "range_start": [
+          0.0,
+          0.0
+        ],
+        "data": {
+          "count": 0,
+          "offset": 196460,
+          "bytes": 0,
+          "stride": 1
+        }
+      },
+      "uv": {
+        "offset": 196464,
+        "bytes": 20,
+        "count": 0,
+        "bits": 0,
+        "range_start": [
+          0.0,
+          0.0
+        ],
+        "data": {
+          "count": 0,
+          "offset": 196480,
+          "bytes": 0,
+          "stride": 1
+        }
+      },
+      "normals": {
+        "offset": 196484,
+        "bytes": 20,
+        "count": 0,
+        "bits": 0,
+        "range_start": [
+          0.0,
+          0.0
+        ],
+        "data": {
+          "count": 0,
+          "offset": 196500,
+          "bytes": 0,
+          "stride": 1
+        }
+      },
+      "tangents": {
+        "offset": 196504,
+        "bytes": 20,
+        "count": 0,
+        "bits": 0,
+        "range_start": [
+          0.0,
+          0.0
+        ],
+        "data": {
+          "count": 0,
+          "offset": 196520,
+          "bytes": 0,
+          "stride": 1
+        }
+      },
+      "weights": {
+        "offset": 196524,
+        "bytes": 12,
+        "count": 0,
+        "bits": 0,
+        "range_start": null,
+        "data": {
+          "count": 0,
+          "offset": 196532,
+          "bytes": 0,
+          "stride": 1
+        }
+      },
+      "normal_signs": {
+        "offset": 196536,
+        "bytes": 12,
+        "count": 0,
+        "bits": 0,
+        "range_start": null,
+        "data": {
+          "count": 0,
+          "offset": 196544,
+          "bytes": 0,
+          "stride": 1
+        }
+      },
+      "tangent_signs": {
+        "offset": 196548,
+        "bytes": 12,
+        "count": 0,
+        "bits": 0,
+        "range_start": null,
+        "data": {
+          "count": 0,
+          "offset": 196556,
+          "bytes": 0,
+          "stride": 1
+        }
+      },
+      "float_colors": {
+        "offset": 196560,
+        "bytes": 20,
+        "count": 0,
+        "bits": 0,
+        "range_start": [
+          0.0,
+          0.0
+        ],
+        "data": {
+          "count": 0,
+          "offset": 196576,
+          "bytes": 0,
+          "stride": 1
+        }
+      },
+      "bone_indices": {
+        "offset": 196580,
+        "bytes": 12,
+        "count": 0,
+        "bits": 0,
+        "range_start": null,
+        "data": {
+          "count": 0,
+          "offset": 196588,
+          "bytes": 0,
+          "stride": 1
+        }
+      },
+      "triangles": {
+        "offset": 196592,
+        "bytes": 12,
+        "count": 0,
+        "bits": 0,
+        "range_start": null,
+        "data": {
+          "count": 0,
+          "offset": 196600,
+          "bytes": 0,
+          "stride": 1
+        }
+      }
+    },
+    "compressed_uv_info": 0,
+    "aabb": [
+      0.0,
+      1.2609171867370605,
+      -0.03317810222506523,
+      0.12925824522972107,
+      0.11368238925933838,
+      0.14570149779319763
+    ],
+    "usage_flags": 0,
+    "baked_convex": {
+      "count": 0,
+      "offset": 196640,
+      "bytes": 0,
+      "stride": 1
+    },
+    "baked_triangle": {
+      "count": 0,
+      "offset": 196644,
+      "bytes": 0,
+      "stride": 1
+    },
+    "metrics": [
+      1.0,
+      1.0
+    ],
+    "metrics_dirty": 0,
+    "close_dynamic_compression": 0,
+    "is_streaming": 0,
+    "bindpose_matrices_row_major": [
+      [
+        -0.0012663302477449179,
+        0.8884333372116089,
+        0.45900410413742065,
+        -1.1618839502334595,
+        -0.0017244310583919287,
+        0.45900171995162964,
+        -0.8884337544441223,
+        -0.6348921656608582,
+        -0.9999980330467224,
+        -0.0019165718695148826,
+        0.000950794608797878,
+        0.002566133625805378,
+        0.0,
+        0.0,
+        0.0,
+        1.0
+      ],
+      [
+        0.002081293612718582,
+        -0.9739485383033752,
+        0.2267587035894394,
+        1.2048460245132446,
+        0.000490039587020874,
+        0.2267601639032364,
+        0.9739503264427185,
+        -0.1924043446779251,
+        -0.9999980330467224,
+        -0.0019159566145390272,
+        0.0009492281824350357,
+        0.0024134258273988962,
+        0.0,
+        0.0,
+        0.0,
+        1.0
+      ],
+      [
+        0.015857839956879616,
+        0.9998674392700195,
+        0.0033923806622624397,
+        -1.3570133447647095,
+        0.4983314275741577,
+        -0.004962017759680748,
+        -0.8669719099998474,
+        -0.05576658248901367,
+        -0.8668416142463684,
+        0.015438857488334179,
+        -0.49834489822387695,
+        -0.14729605615139008,
+        0.0,
+        0.0,
+        0.0,
+        1.0
+      ],
+      [
+        0.40395045280456543,
+        0.890230119228363,
+        0.2105102688074112,
+        -1.052142858505249,
+        -0.4288696348667145,
+        0.38756248354911804,
+        -0.8160061836242676,
+        -0.5743047595024109,
+        -0.8080192804336548,
+        0.23934461176395416,
+        0.5383486747741699,
+        -0.3083071708679199,
+        0.0,
+        0.0,
+        0.0,
+        1.0
+      ],
+      [
+        -0.40395018458366394,
+        0.8902297616004944,
+        0.2105114758014679,
+        -1.0521425008773804,
+        0.4288688898086548,
+        0.38756319880485535,
+        -0.8160061836242676,
+        -0.5743058919906616,
+        -0.8080195784568787,
+        -0.23934398591518402,
+        -0.5383479595184326,
+        0.30830657482147217,
+        0.0,
+        0.0,
+        0.0,
+        1.0
+      ],
+      [
+        0.8751834034919739,
+        -0.4837017059326172,
+        0.009313791058957577,
+        0.6527391076087952,
+        0.48352786898612976,
+        0.8751798272132874,
+        0.016150569543242455,
+        -1.1138888597488403,
+        -0.015963301062583923,
+        -0.009631233289837837,
+        0.999826192855835,
+        -0.007582027930766344,
+        0.0,
+        0.0,
+        0.0,
+        1.0
+      ],
+      [
+        -0.8751837611198425,
+        -0.4837014377117157,
+        0.009313948452472687,
+        0.6527388095855713,
+        -0.4835275411605835,
+        0.8751802444458008,
+        0.016150061041116714,
+        -1.1138896942138672,
+        -0.01596319116652012,
+        0.009630718268454075,
+        -0.999826192855835,
+        0.007582620717585087,
+        0.0,
+        0.0,
+        0.0,
+        1.0
+      ],
+      [
+        -2.0484974072587647e-07,
+        -0.995921790599823,
+        0.09021864086389542,
+        1.1107311248779297,
+        1.4151675031826016e-06,
+        0.09021864086389542,
+        0.9959220886230469,
+        -0.1496221423149109,
+        -1.0,
+        3.3168871027555724e-07,
+        1.390915258525638e-06,
+        -4.2572901293169707e-07,
+        0.0,
+        0.0,
+        0.0,
+        1.0
+      ]
+    ],
+    "bone_name_hashes": [
+      1527643656,
+      3118914571,
+      3837855321,
+      1069334557,
+      3765234174,
+      3436193945,
+      1900361659,
+      4053967270
+    ],
+    "index_summary": {
+      "count": 7524,
+      "minimum": 0,
+      "maximum": 2150,
+      "element_bytes": 2
+    },
+    "weighted_bone_indices": [
+      0,
+      1,
+      2,
+      3,
+      4,
+      5,
+      6,
+      7
+    ]
+  },
+  "name": "Hat02",
+  "raw_binary": "native/mesh-data/a280bb6f68159c214daa2a453e5c79a8a1a06294bc9518face851f981f9dfd47.bin",
+  "parsed": true
+}

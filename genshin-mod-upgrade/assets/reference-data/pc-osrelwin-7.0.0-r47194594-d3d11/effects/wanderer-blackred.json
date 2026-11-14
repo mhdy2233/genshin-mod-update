@@ -1,0 +1,619 @@
+{
+  "kind": "effect",
+  "id": "wanderer-blackred",
+  "character": "wanderer",
+  "revision": 5,
+  "example_ini": "examples/wanderer/WandererFX.ini",
+  "rules": [
+    {
+      "id": "ps:b827bd6f4ca16989",
+      "source_shader_sha256": "c7a4323d231ba3526d77ccd9156d7e118556d5537b0a43825437d1282b48b5b9",
+      "texture_clauses": [
+        {
+          "0": "87e6a112",
+          "2": "e799fc09"
+        },
+        {
+          "0": "c4aeaf43",
+          "2": "6d98c253"
+        }
+      ],
+      "matching_capture_draws": {
+        "20261109-054938": [
+          225
+        ],
+        "2026-11-09-064111": [
+          208,
+          209
+        ]
+      },
+      "shader_regex_group": "ShaderRegexFXb827bd6f4ca16989",
+      "pattern": "(?P<before>^dcl_globalFlags refactoringAllowed\\n^dcl_constantbuffer CB0\\[176\\], immediateIndexed\\n^dcl_constantbuffer CB1\\[9\\], immediateIndexed\\n^dcl_constantbuffer CB2\\[1\\], immediateIndexed\\n^dcl_constantbuffer CB3\\[8\\], dynamicIndexed\\n^dcl_sampler s0, mode_default\\n^dcl_sampler s1, mode_default\\n^dcl_sampler s2, mode_default\\n^dcl_sampler s3, mode_default\\n^dcl_sampler s4, mode_default\\n^dcl_resource_texture2d \\(float,float,float,float\\) t0\\n^dcl_resource_texture2d \\(float,float,float,float\\) t1\\n^dcl_resource_texture2d \\(float,float,float,float\\) t2\\n^dcl_resource_texture2d \\(float,float,float,float\\) t3\\n^dcl_resource_texture3d \\(float,float,float,float\\) t4\\n^dcl_resource_texture3d \\(float,float,float,float\\) t5\\n^dcl_resource_texture2d \\(float,float,float,float\\) t6\\n^dcl_resource_texture2d \\(float,float,float,float\\) t7\\n^dcl_input_ps linear v1\\.xyzw\\n^dcl_input_ps linear v2\\.zw\\n^dcl_input_ps linear v5\\.xy\\n^dcl_input_ps linear v6\\.xy\\n^dcl_input_ps constant v7\\.x\\n^dcl_input_ps linear v8\\.xyw\\n^dcl_input_ps linear v10\\.xyz\\n^dcl_output o0\\.xyzw\\n^dcl_temps 6\\n^iadd r0\\.x, v7\\.x, cb2\\[0\\]\\.x\\n^add r0\\.yz, \\-v5\\.xxyx, l\\(0\\.000000, 1\\.000000, 1\\.000000, 0\\.000000\\)\\n^ne r1\\.xy, l\\(0\\.000000, 0\\.000000, 0\\.000000, 0\\.000000\\), cb0\\[147\\]\\.wzww\\n^movc r2\\.y, r1\\.x, r0\\.y, v5\\.x\\n^ne r1\\.xzw, l\\(0\\.000000, 0\\.000000, 0\\.000000, 0\\.000000\\), cb0\\[148\\]\\.xxyz\\n^movc r2\\.x, r1\\.x, r0\\.z, v5\\.y\\n(?s:.*?))^  mad o0\\.xyz, r1\\.wwww, r2\\.xyzx, r1\\.xyzx\\n^else\\n^  mov o0\\.xyz, r0\\.yzwy\\n^endif\\n^mul r0\\.x, r0\\.x, cb0\\[158\\]\\.w\\n^mul o0\\.w, r0\\.x, cb0\\[173\\]\\.w\\n^ret\\n",
+      "replacement": "${before}  mad ${color}.xyz, r1.wwww, r2.xyzx, r1.xyzx\\nelse\\n  mov ${color}.xyz, r0.yzwy\\nendif\\nmul r0.x, r0.x, cb0[158].w\\nmul o0.w, r0.x, cb0[173].w\\nld_indexable(texture1d)(float,float,float,float) ${gate}.xyzw, l(197,0), t120.xyzw\\nif_nz ${gate}.x\\n  max ${color}.w, ${color}.x, ${color}.y\\n  max ${color}.w, ${color}.w, ${color}.z\\n  mul ${color}.xyz, ${color}.wwww, l(0.650000, 0.008000, 0.028000, 0.000000)\\nendif\\nmov o0.xyz, ${color}.xyzx\\nret\\n",
+      "original_output_tail": "  mad o0.xyz, r1.wwww, r2.xyzx, r1.xyzx\nelse\n  mov o0.xyz, r0.yzwy\nendif\nmul r0.x, r0.x, cb0[158].w\nmul o0.w, r0.x, cb0[173].w\nret\n",
+      "original_temp_count": 6,
+      "alpha_preserved_in_static_test": true,
+      "matched_in_last_recorded_v5_reload": true
+    },
+    {
+      "id": "ps:681e1c8631e1ad84",
+      "source_shader_sha256": "687adb4707dce987fceb0fcb37eba91faefa939fb519bac9fa2b9b9ddfbf6ee0",
+      "texture_clauses": [
+        {
+          "0": "3e4b0149",
+          "3": "e10ab07a"
+        }
+      ],
+      "matching_capture_draws": {
+        "20261109-054938": [
+          228
+        ]
+      },
+      "shader_regex_group": "ShaderRegexFX681e1c8631e1ad84",
+      "pattern": "(?P<before>^dcl_globalFlags refactoringAllowed\\n^dcl_constantbuffer CB0\\[81\\], immediateIndexed\\n^dcl_constantbuffer CB1\\[10\\], immediateIndexed\\n^dcl_constantbuffer CB2\\[1\\], immediateIndexed\\n^dcl_sampler s0, mode_default\\n^dcl_sampler s1, mode_default\\n^dcl_sampler s2, mode_default\\n^dcl_sampler s3, mode_default\\n^dcl_sampler s4, mode_default\\n^dcl_resource_texturecube \\(float,float,float,float\\) t0\\n^dcl_resource_texture2d \\(float,float,float,float\\) t1\\n^dcl_resource_texture2d \\(float,float,float,float\\) t2\\n^dcl_resource_texture2d \\(float,float,float,float\\) t3\\n^dcl_resource_texture2d \\(float,float,float,float\\) t4\\n^dcl_resource_texture2d \\(float,float,float,float\\) t5\\n^dcl_input_ps linear v1\\.xyzw\\n^dcl_input_ps linear v2\\.xy\\n^dcl_input_ps linear v3\\.w\\n^dcl_input_ps linear v4\\.xyzw\\n^dcl_input_ps linear v5\\.w\\n^dcl_input_ps linear v6\\.xyz\\n^dcl_input_ps linear v7\\.xyw\\n^dcl_output o0\\.xyzw\\n^dcl_temps 6\\n^mov r0\\.x, v3\\.w\\n^mov r0\\.y, v5\\.w\\n^mov r0\\.z, v4\\.w\\n^mad r0\\.xyz, \\-r0\\.xyzx, cb2\\[0\\]\\.wwww, cb2\\[0\\]\\.xyzx\\n^dp3 r0\\.w, r0\\.xyzx, r0\\.xyzx\\n^rsq r0\\.w, r0\\.w\\n(?s:.*?))^  mul o0\\.xyz, r0\\.xyzx, r1\\.yyyy\\n^else\\n^  mov o0\\.xyz, r0\\.xyzx\\n^endif\\n^mul r0\\.x, r0\\.w, cb0\\[76\\]\\.w\\n^mul r0\\.y, r1\\.x, cb0\\[80\\]\\.x\\n^max r0\\.y, r0\\.y, l\\(0\\.000100\\)\\n^log r0\\.y, r0\\.y\\n^mul r0\\.y, r0\\.y, cb0\\[80\\]\\.y\\n^exp r0\\.y, r0\\.y\\n^mul_sat r0\\.x, r0\\.y, r0\\.x\\n^mul o0\\.w, r0\\.x, cb0\\[77\\]\\.x\\n^ret\\n",
+      "replacement": "${before}  mul ${color}.xyz, r0.xyzx, r1.yyyy\\nelse\\n  mov ${color}.xyz, r0.xyzx\\nendif\\nmul r0.x, r0.w, cb0[76].w\\nmul r0.y, r1.x, cb0[80].x\\nmax r0.y, r0.y, l(0.000100)\\nlog r0.y, r0.y\\nmul r0.y, r0.y, cb0[80].y\\nexp r0.y, r0.y\\nmul_sat r0.x, r0.y, r0.x\\nmul o0.w, r0.x, cb0[77].x\\nld_indexable(texture1d)(float,float,float,float) ${gate}.xyzw, l(197,0), t120.xyzw\\nif_nz ${gate}.x\\n  max ${color}.w, ${color}.x, ${color}.y\\n  max ${color}.w, ${color}.w, ${color}.z\\n  mul ${color}.xyz, ${color}.wwww, l(0.650000, 0.008000, 0.028000, 0.000000)\\nendif\\nmov o0.xyz, ${color}.xyzx\\nret\\n",
+      "original_output_tail": "  mul o0.xyz, r0.xyzx, r1.yyyy\nelse\n  mov o0.xyz, r0.xyzx\nendif\nmul r0.x, r0.w, cb0[76].w\nmul r0.y, r1.x, cb0[80].x\nmax r0.y, r0.y, l(0.000100)\nlog r0.y, r0.y\nmul r0.y, r0.y, cb0[80].y\nexp r0.y, r0.y\nmul_sat r0.x, r0.y, r0.x\nmul o0.w, r0.x, cb0[77].x\nret\n",
+      "original_temp_count": 6,
+      "alpha_preserved_in_static_test": true,
+      "matched_in_last_recorded_v5_reload": false
+    },
+    {
+      "id": "ps:13aa4661b0c04f75",
+      "source_shader_sha256": "2b46324bdcb6cda4030a13cb7405654e68ee7245bd314fefb7304ed23db4b430",
+      "texture_clauses": [
+        {
+          "0": "91cdedd0",
+          "1": "21fd405b"
+        },
+        {
+          "0": "3b8db5c3",
+          "1": "056ee5be"
+        }
+      ],
+      "matching_capture_draws": {
+        "20261109-054938": [
+          229,
+          233
+        ]
+      },
+      "shader_regex_group": "ShaderRegexFX13aa4661b0c04f75",
+      "pattern": "(?P<before>^dcl_globalFlags refactoringAllowed\\n^dcl_constantbuffer CB0\\[176\\], immediateIndexed\\n^dcl_constantbuffer CB1\\[1\\], immediateIndexed\\n^dcl_constantbuffer CB2\\[8\\], dynamicIndexed\\n^dcl_sampler s0, mode_default\\n^dcl_sampler s1, mode_default\\n^dcl_sampler s2, mode_default\\n^dcl_sampler s3, mode_default\\n^dcl_resource_texture2d \\(float,float,float,float\\) t0\\n^dcl_resource_texture2d \\(float,float,float,float\\) t1\\n^dcl_resource_texture2d \\(float,float,float,float\\) t2\\n^dcl_resource_texture3d \\(float,float,float,float\\) t3\\n^dcl_resource_texture3d \\(float,float,float,float\\) t4\\n^dcl_resource_texture2d \\(float,float,float,float\\) t5\\n^dcl_resource_texture2d \\(float,float,float,float\\) t6\\n^dcl_input_ps linear v1\\.xyzw\\n^dcl_input_ps linear v2\\.zw\\n^dcl_input_ps linear v5\\.xy\\n^dcl_input_ps linear v6\\.xy\\n^dcl_input_ps constant v7\\.x\\n^dcl_input_ps linear v10\\.xyz\\n^dcl_output o0\\.xyzw\\n^dcl_temps 6\\n^iadd r0\\.x, v7\\.x, cb1\\[0\\]\\.x\\n^add r0\\.yz, \\-v5\\.xxyx, l\\(0\\.000000, 1\\.000000, 1\\.000000, 0\\.000000\\)\\n^ne r1\\.xy, l\\(0\\.000000, 0\\.000000, 0\\.000000, 0\\.000000\\), cb0\\[147\\]\\.wzww\\n^movc r2\\.y, r1\\.x, r0\\.y, v5\\.x\\n^ne r1\\.xzw, l\\(0\\.000000, 0\\.000000, 0\\.000000, 0\\.000000\\), cb0\\[148\\]\\.xxyz\\n^movc r2\\.x, r1\\.x, r0\\.z, v5\\.y\\n(?s:.*?))^  mad o0\\.xyz, r1\\.wwww, r2\\.xyzx, r1\\.xyzx\\n^else\\n^  mov o0\\.xyz, r0\\.yzwy\\n^endif\\n^mul r0\\.x, r0\\.x, cb0\\[158\\]\\.w\\n^mul o0\\.w, r0\\.x, cb0\\[173\\]\\.w\\n^ret\\n",
+      "replacement": "${before}  mad ${color}.xyz, r1.wwww, r2.xyzx, r1.xyzx\\nelse\\n  mov ${color}.xyz, r0.yzwy\\nendif\\nmul r0.x, r0.x, cb0[158].w\\nmul o0.w, r0.x, cb0[173].w\\nld_indexable(texture1d)(float,float,float,float) ${gate}.xyzw, l(197,0), t120.xyzw\\nif_nz ${gate}.x\\n  max ${color}.w, ${color}.x, ${color}.y\\n  max ${color}.w, ${color}.w, ${color}.z\\n  mul ${color}.xyz, ${color}.wwww, l(0.650000, 0.008000, 0.028000, 0.000000)\\nendif\\nmov o0.xyz, ${color}.xyzx\\nret\\n",
+      "original_output_tail": "  mad o0.xyz, r1.wwww, r2.xyzx, r1.xyzx\nelse\n  mov o0.xyz, r0.yzwy\nendif\nmul r0.x, r0.x, cb0[158].w\nmul o0.w, r0.x, cb0[173].w\nret\n",
+      "original_temp_count": 6,
+      "alpha_preserved_in_static_test": true,
+      "matched_in_last_recorded_v5_reload": false
+    },
+    {
+      "id": "ps:cfa3621a42542d38",
+      "source_shader_sha256": "4c588cd919707cbf8208bee24f90792a4f06a11a5e09959a311fbe32517359f0",
+      "texture_clauses": [
+        {
+          "0": "cdfc7ad0"
+        },
+        {
+          "0": "3b8db5c3",
+          "1": "056ee5be"
+        },
+        {
+          "0": "cdbd78be",
+          "1": "21fd405b"
+        }
+      ],
+      "matching_capture_draws": {
+        "20261109-054938": [
+          230,
+          231
+        ],
+        "2026-11-09-064111": [
+          221
+        ],
+        "2026-11-09-064118": [
+          201,
+          202,
+          204
+        ]
+      },
+      "shader_regex_group": "ShaderRegexFXcfa3621a42542d38",
+      "pattern": "(?P<before>^dcl_globalFlags refactoringAllowed\\n^dcl_constantbuffer CB0\\[174\\], immediateIndexed\\n^dcl_sampler s0, mode_default\\n^dcl_sampler s1, mode_default\\n^dcl_sampler s2, mode_default\\n^dcl_sampler s3, mode_default\\n^dcl_resource_texture2d \\(float,float,float,float\\) t0\\n^dcl_resource_texture2d \\(float,float,float,float\\) t1\\n^dcl_resource_texture2d \\(float,float,float,float\\) t2\\n^dcl_resource_texture3d \\(float,float,float,float\\) t3\\n^dcl_resource_texture3d \\(float,float,float,float\\) t4\\n^dcl_resource_texture2d \\(float,float,float,float\\) t5\\n^dcl_resource_texture2d \\(float,float,float,float\\) t6\\n^dcl_input_ps linear v1\\.xyzw\\n^dcl_input_ps linear v2\\.zw\\n^dcl_input_ps linear v3\\.xyz\\n^dcl_input_ps linear v4\\.xyz\\n^dcl_input_ps linear v5\\.xy\\n^dcl_input_ps linear v6\\.xy\\n^dcl_input_ps linear v9\\.xyz\\n^dcl_output o0\\.xyzw\\n^dcl_temps 6\\n^add r0\\.xy, \\-v5\\.xyxx, l\\(1\\.000000, 1\\.000000, 0\\.000000, 0\\.000000\\)\\n^ne r0\\.zw, l\\(0\\.000000, 0\\.000000, 0\\.000000, 0\\.000000\\), cb0\\[147\\]\\.wwwz\\n^movc r1\\.y, r0\\.z, r0\\.x, v5\\.x\\n^ne r2\\.xyz, l\\(0\\.000000, 0\\.000000, 0\\.000000, 0\\.000000\\), cb0\\[148\\]\\.xyzx\\n^movc r1\\.x, r2\\.x, r0\\.y, v5\\.y\\n^movc r0\\.xy, r0\\.wwww, r1\\.xyxx, r1\\.yxyy\\n(?s:.*?))^  mad o0\\.xyz, r1\\.wwww, r2\\.xyzx, r1\\.xyzx\\n^else\\n^  mov o0\\.xyz, r0\\.yzwy\\n^endif\\n^mul r0\\.x, r0\\.x, cb0\\[158\\]\\.w\\n^mul o0\\.w, r0\\.x, cb0\\[173\\]\\.w\\n^ret\\n",
+      "replacement": "${before}  mad ${color}.xyz, r1.wwww, r2.xyzx, r1.xyzx\\nelse\\n  mov ${color}.xyz, r0.yzwy\\nendif\\nmul r0.x, r0.x, cb0[158].w\\nmul o0.w, r0.x, cb0[173].w\\nld_indexable(texture1d)(float,float,float,float) ${gate}.xyzw, l(197,0), t120.xyzw\\nif_nz ${gate}.x\\n  max ${color}.w, ${color}.x, ${color}.y\\n  max ${color}.w, ${color}.w, ${color}.z\\n  mul ${color}.xyz, ${color}.wwww, l(0.650000, 0.008000, 0.028000, 0.000000)\\nendif\\nmov o0.xyz, ${color}.xyzx\\nret\\n",
+      "original_output_tail": "  mad o0.xyz, r1.wwww, r2.xyzx, r1.xyzx\nelse\n  mov o0.xyz, r0.yzwy\nendif\nmul r0.x, r0.x, cb0[158].w\nmul o0.w, r0.x, cb0[173].w\nret\n",
+      "original_temp_count": 6,
+      "alpha_preserved_in_static_test": true,
+      "matched_in_last_recorded_v5_reload": true
+    },
+    {
+      "id": "ps:3f64242442981d1f",
+      "source_shader_sha256": "a77043bf25559d6331626d5d61b9610f26faffce2db0b4182e88d90e690f124c",
+      "texture_clauses": [
+        {
+          "0": "0dbb4554"
+        }
+      ],
+      "matching_capture_draws": {
+        "20261109-054938": [
+          232
+        ]
+      },
+      "shader_regex_group": "ShaderRegexFX3f64242442981d1f",
+      "pattern": "(?P<before>^dcl_globalFlags refactoringAllowed\\n^dcl_constantbuffer CB0\\[91\\], immediateIndexed\\n^dcl_constantbuffer CB1\\[46\\], immediateIndexed\\n^dcl_constantbuffer CB2\\[1\\], immediateIndexed\\n^dcl_constantbuffer CB3\\[8\\], dynamicIndexed\\n^dcl_sampler s0, mode_default\\n^dcl_sampler s1, mode_default\\n^dcl_sampler s2, mode_default\\n^dcl_resource_texture2d \\(float,float,float,float\\) t0\\n^dcl_resource_texture3d \\(float,float,float,float\\) t1\\n^dcl_resource_texture2d \\(float,float,float,float\\) t2\\n^dcl_input_ps linear v1\\.xyzw\\n^dcl_input_ps linear v2\\.xy\\n^dcl_input_ps linear v5\\.xyzw\\n^dcl_input_ps linear v6\\.xyw\\n^dcl_input_ps constant v7\\.x\\n^dcl_input_ps linear v9\\.xyz\\n^dcl_output o0\\.xyzw\\n^dcl_temps 6\\n^iadd r0\\.x, v7\\.x, cb2\\[0\\]\\.x\\n^ishl r0\\.x, r0\\.x, l\\(2\\)\\n^mul r1\\.xyzw, v1\\.xyzw, cb3\\[r0\\.x \\+ 0\\]\\.xyzw\\n^ne r0\\.y, l\\(0\\.000000, 0\\.000000, 0\\.000000, 0\\.000000\\), cb0\\[88\\]\\.x\\n^if_nz r0\\.y\\n^  mov r0\\.yzw, cb3\\[r0\\.x \\+ 2\\]\\.xxyz\\n(?s:.*?))^  mad o0\\.xyz, r1\\.xxxx, cb0\\[90\\]\\.xyzx, r2\\.xyzx\\n^else\\n^  mov o0\\.xyz, r0\\.xyzx\\n^endif\\n^mul o0\\.w, r0\\.w, cb0\\[88\\]\\.y\\n^ret\\n",
+      "replacement": "${before}  mad ${color}.xyz, r1.xxxx, cb0[90].xyzx, r2.xyzx\\nelse\\n  mov ${color}.xyz, r0.xyzx\\nendif\\nmul o0.w, r0.w, cb0[88].y\\nld_indexable(texture1d)(float,float,float,float) ${gate}.xyzw, l(197,0), t120.xyzw\\nif_nz ${gate}.x\\n  max ${color}.w, ${color}.x, ${color}.y\\n  max ${color}.w, ${color}.w, ${color}.z\\n  mul ${color}.xyz, ${color}.wwww, l(0.650000, 0.008000, 0.028000, 0.000000)\\nendif\\nmov o0.xyz, ${color}.xyzx\\nret\\n",
+      "original_output_tail": "  mad o0.xyz, r1.xxxx, cb0[90].xyzx, r2.xyzx\nelse\n  mov o0.xyz, r0.xyzx\nendif\nmul o0.w, r0.w, cb0[88].y\nret\n",
+      "original_temp_count": 6,
+      "alpha_preserved_in_static_test": true,
+      "matched_in_last_recorded_v5_reload": false
+    },
+    {
+      "id": "ps:da2154f9123fa231",
+      "source_shader_sha256": "5c227ba10deb82c0ca50af27e6a8d64e5b0e56b281860a9975268db1f2379cbb",
+      "texture_clauses": [
+        {
+          "0": "e10ab07a",
+          "1": "e10ab07a"
+        }
+      ],
+      "matching_capture_draws": {
+        "20261109-054938": [
+          234
+        ]
+      },
+      "shader_regex_group": "ShaderRegexFXda2154f9123fa231",
+      "pattern": "(?P<before>^dcl_globalFlags refactoringAllowed\\n^dcl_constantbuffer CB0\\[176\\], immediateIndexed\\n^dcl_constantbuffer CB1\\[1\\], immediateIndexed\\n^dcl_constantbuffer CB2\\[8\\], dynamicIndexed\\n^dcl_sampler s0, mode_default\\n^dcl_sampler s1, mode_default\\n^dcl_sampler s2, mode_default\\n^dcl_sampler s3, mode_default\\n^dcl_resource_texture2d \\(float,float,float,float\\) t0\\n^dcl_resource_texture2d \\(float,float,float,float\\) t1\\n^dcl_resource_texture2d \\(float,float,float,float\\) t2\\n^dcl_resource_texture3d \\(float,float,float,float\\) t3\\n^dcl_resource_texture3d \\(float,float,float,float\\) t4\\n^dcl_resource_texture2d \\(float,float,float,float\\) t5\\n^dcl_resource_texture2d \\(float,float,float,float\\) t6\\n^dcl_input_ps linear v1\\.xyzw\\n^dcl_input_ps linear v2\\.zw\\n^dcl_input_ps linear v5\\.xy\\n^dcl_input_ps linear v6\\.xy\\n^dcl_input_ps constant v7\\.x\\n^dcl_input_ps linear v9\\.xyz\\n^dcl_output o0\\.xyzw\\n^dcl_temps 6\\n^iadd r0\\.x, v7\\.x, cb1\\[0\\]\\.x\\n^add r0\\.yz, \\-v5\\.xxyx, l\\(0\\.000000, 1\\.000000, 1\\.000000, 0\\.000000\\)\\n^ne r1\\.xy, l\\(0\\.000000, 0\\.000000, 0\\.000000, 0\\.000000\\), cb0\\[147\\]\\.wzww\\n^movc r2\\.y, r1\\.x, r0\\.y, v5\\.x\\n^ne r1\\.xzw, l\\(0\\.000000, 0\\.000000, 0\\.000000, 0\\.000000\\), cb0\\[148\\]\\.xxyz\\n^movc r2\\.x, r1\\.x, r0\\.z, v5\\.y\\n(?s:.*?))^  mad o0\\.xyz, r1\\.wwww, r2\\.xyzx, r1\\.xyzx\\n^else\\n^  mov o0\\.xyz, r0\\.yzwy\\n^endif\\n^mul r0\\.x, r0\\.x, cb0\\[158\\]\\.w\\n^mul o0\\.w, r0\\.x, cb0\\[159\\]\\.z\\n^ret\\n",
+      "replacement": "${before}  mad ${color}.xyz, r1.wwww, r2.xyzx, r1.xyzx\\nelse\\n  mov ${color}.xyz, r0.yzwy\\nendif\\nmul r0.x, r0.x, cb0[158].w\\nmul o0.w, r0.x, cb0[159].z\\nld_indexable(texture1d)(float,float,float,float) ${gate}.xyzw, l(197,0), t120.xyzw\\nif_nz ${gate}.x\\n  max ${color}.w, ${color}.x, ${color}.y\\n  max ${color}.w, ${color}.w, ${color}.z\\n  mul ${color}.xyz, ${color}.wwww, l(0.650000, 0.008000, 0.028000, 0.000000)\\nendif\\nmov o0.xyz, ${color}.xyzx\\nret\\n",
+      "original_output_tail": "  mad o0.xyz, r1.wwww, r2.xyzx, r1.xyzx\nelse\n  mov o0.xyz, r0.yzwy\nendif\nmul r0.x, r0.x, cb0[158].w\nmul o0.w, r0.x, cb0[159].z\nret\n",
+      "original_temp_count": 6,
+      "alpha_preserved_in_static_test": true,
+      "matched_in_last_recorded_v5_reload": false
+    },
+    {
+      "id": "ps:f19c8f36223fd04d",
+      "source_shader_sha256": "290043eb1f11ef234cb6651ac299e31260c1a95153d1066a7d03201d0dec2d71",
+      "texture_clauses": [
+        {
+          "0": "8903ecef",
+          "1": "9e4ed698",
+          "2": "7e319fc8"
+        }
+      ],
+      "matching_capture_draws": {
+        "2026-11-09-064111": [
+          210
+        ]
+      },
+      "shader_regex_group": "ShaderRegexFXf19c8f36223fd04d",
+      "pattern": "(?P<before>^dcl_globalFlags refactoringAllowed\\n^dcl_constantbuffer CB0\\[178\\], immediateIndexed\\n^dcl_constantbuffer CB1\\[9\\], immediateIndexed\\n^dcl_sampler s0, mode_default\\n^dcl_sampler s1, mode_default\\n^dcl_sampler s2, mode_default\\n^dcl_sampler s3, mode_default\\n^dcl_sampler s4, mode_default\\n^dcl_sampler s5, mode_default\\n^dcl_resource_texture2d \\(float,float,float,float\\) t0\\n^dcl_resource_texture2d \\(float,float,float,float\\) t1\\n^dcl_resource_texture2d \\(float,float,float,float\\) t2\\n^dcl_resource_texture2d \\(float,float,float,float\\) t3\\n^dcl_resource_texture2d \\(float,float,float,float\\) t4\\n^dcl_resource_texture3d \\(float,float,float,float\\) t5\\n^dcl_resource_texture3d \\(float,float,float,float\\) t6\\n^dcl_resource_texture2d \\(float,float,float,float\\) t7\\n^dcl_resource_texture2d \\(float,float,float,float\\) t8\\n^dcl_input_ps linear v1\\.xyzw\\n^dcl_input_ps linear v2\\.xyzw\\n^dcl_input_ps linear v3\\.xyz\\n^dcl_input_ps linear v4\\.xyz\\n^dcl_input_ps linear v5\\.xy\\n^dcl_input_ps linear v6\\.xy\\n^dcl_input_ps linear v7\\.xyw\\n^dcl_input_ps linear v8\\.xyz\\n^dcl_output o0\\.xyzw\\n^dcl_temps 7\\n^add r0\\.xy, \\-v5\\.xyxx, l\\(1\\.000000, 1\\.000000, 0\\.000000, 0\\.000000\\)\\n^ne r0\\.zw, l\\(0\\.000000, 0\\.000000, 0\\.000000, 0\\.000000\\), cb0\\[147\\]\\.wwwz\\n^movc r1\\.y, r0\\.z, r0\\.x, v5\\.x\\n^ne r2\\.xyz, l\\(0\\.000000, 0\\.000000, 0\\.000000, 0\\.000000\\), cb0\\[148\\]\\.xyzx\\n^movc r1\\.x, r2\\.x, r0\\.y, v5\\.y\\n^movc r0\\.xy, r0\\.wwww, r1\\.xyxx, r1\\.yxyy\\n(?s:.*?))^  mad o0\\.xyz, r0\\.zzzz, r3\\.xyzx, r2\\.xyzx\\n^else\\n^  mov o0\\.xyz, r1\\.xyzx\\n^endif\\n^mul r0\\.x, r0\\.x, cb0\\[158\\]\\.w\\n^min r0\\.y, r0\\.y, l\\(1\\.000000\\)\\n^mul r0\\.x, r0\\.y, r0\\.x\\n^mul o0\\.w, r0\\.x, cb0\\[159\\]\\.z\\n^ret\\n",
+      "replacement": "${before}  mad ${color}.xyz, r0.zzzz, r3.xyzx, r2.xyzx\\nelse\\n  mov ${color}.xyz, r1.xyzx\\nendif\\nmul r0.x, r0.x, cb0[158].w\\nmin r0.y, r0.y, l(1.000000)\\nmul r0.x, r0.y, r0.x\\nmul o0.w, r0.x, cb0[159].z\\nld_indexable(texture1d)(float,float,float,float) ${gate}.xyzw, l(197,0), t120.xyzw\\nif_nz ${gate}.x\\n  max ${color}.w, ${color}.x, ${color}.y\\n  max ${color}.w, ${color}.w, ${color}.z\\n  mul ${color}.xyz, ${color}.wwww, l(0.650000, 0.008000, 0.028000, 0.000000)\\nendif\\nmov o0.xyz, ${color}.xyzx\\nret\\n",
+      "original_output_tail": "  mad o0.xyz, r0.zzzz, r3.xyzx, r2.xyzx\nelse\n  mov o0.xyz, r1.xyzx\nendif\nmul r0.x, r0.x, cb0[158].w\nmin r0.y, r0.y, l(1.000000)\nmul r0.x, r0.y, r0.x\nmul o0.w, r0.x, cb0[159].z\nret\n",
+      "original_temp_count": 7,
+      "alpha_preserved_in_static_test": true,
+      "matched_in_last_recorded_v5_reload": true
+    },
+    {
+      "id": "ps:919ae37a0bc55913",
+      "source_shader_sha256": "467936d4fbb113568868b33343b2f1449f7c20aaf012fa141da11b69447a294f",
+      "texture_clauses": [
+        {
+          "0": "383616e1",
+          "1": "17bad60d",
+          "2": "559b1fff"
+        }
+      ],
+      "matching_capture_draws": {
+        "2026-11-09-064111": [
+          211
+        ]
+      },
+      "shader_regex_group": "ShaderRegexFX919ae37a0bc55913",
+      "pattern": "(?P<before>^dcl_globalFlags refactoringAllowed\\n^dcl_constantbuffer CB0\\[127\\], immediateIndexed\\n^dcl_constantbuffer CB1\\[9\\], immediateIndexed\\n^dcl_sampler s0, mode_default\\n^dcl_sampler s1, mode_default\\n^dcl_sampler s2, mode_default\\n^dcl_sampler s3, mode_default\\n^dcl_resource_texture2d \\(float,float,float,float\\) t0\\n^dcl_resource_texture2d \\(float,float,float,float\\) t1\\n^dcl_resource_texture2d \\(float,float,float,float\\) t2\\n^dcl_resource_texture2d \\(float,float,float,float\\) t3\\n^dcl_resource_texture2d \\(float,float,float,float\\) t4\\n^dcl_input_ps linear v1\\.xyzw\\n^dcl_input_ps linear v2\\.zw\\n^dcl_input_ps linear v3\\.xyzw\\n^dcl_input_ps linear v6\\.xyw\\n^dcl_output o0\\.xyzw\\n^dcl_temps 5\\n^add r0\\.xy, \\-v2\\.zwzz, l\\(1\\.000000, 1\\.000000, 0\\.000000, 0\\.000000\\)\\n^ne r0\\.zw, l\\(0\\.000000, 0\\.000000, 0\\.000000, 0\\.000000\\), cb0\\[101\\]\\.wwwz\\n^movc r1\\.y, r0\\.z, r0\\.x, v2\\.z\\n^ne r2\\.xyz, l\\(0\\.000000, 0\\.000000, 0\\.000000, 0\\.000000\\), cb0\\[102\\]\\.xyzx\\n^movc r1\\.x, r2\\.x, r0\\.y, v2\\.w\\n^movc r0\\.xy, r0\\.wwww, r1\\.xyxx, r1\\.yxyy\\n(?s:.*?))^mul o0\\.xyz, r0\\.yzwy, cb0\\[123\\]\\.xyzx\\n^mul r0\\.y, cb0\\[123\\]\\.w, cb0\\[124\\]\\.x\\n^mul r0\\.y, r0\\.y, v1\\.w\\n^mul r0\\.y, r0\\.y, cb0\\[122\\]\\.w\\n^mul r0\\.x, r0\\.x, r0\\.y\\n^mul_sat o0\\.w, r0\\.x, cb0\\[126\\]\\.x\\n^ret\\n",
+      "replacement": "${before}mul ${color}.xyz, r0.yzwy, cb0[123].xyzx\\nmul r0.y, cb0[123].w, cb0[124].x\\nmul r0.y, r0.y, v1.w\\nmul r0.y, r0.y, cb0[122].w\\nmul r0.x, r0.x, r0.y\\nmul_sat o0.w, r0.x, cb0[126].x\\nld_indexable(texture1d)(float,float,float,float) ${gate}.xyzw, l(197,0), t120.xyzw\\nif_nz ${gate}.x\\n  max ${color}.w, ${color}.x, ${color}.y\\n  max ${color}.w, ${color}.w, ${color}.z\\n  mul ${color}.xyz, ${color}.wwww, l(0.650000, 0.008000, 0.028000, 0.000000)\\nendif\\nmov o0.xyz, ${color}.xyzx\\nret\\n",
+      "original_output_tail": "mul o0.xyz, r0.yzwy, cb0[123].xyzx\nmul r0.y, cb0[123].w, cb0[124].x\nmul r0.y, r0.y, v1.w\nmul r0.y, r0.y, cb0[122].w\nmul r0.x, r0.x, r0.y\nmul_sat o0.w, r0.x, cb0[126].x\nret\n",
+      "original_temp_count": 5,
+      "alpha_preserved_in_static_test": true,
+      "matched_in_last_recorded_v5_reload": true
+    },
+    {
+      "id": "ps:3632dd8ab004fd19",
+      "source_shader_sha256": "f74c531efc87044dff4ac22c61b056543d2d6e3c52fed5fcf6b8edb330ec0639",
+      "texture_clauses": [
+        {
+          "0": "cdfc7ad0"
+        }
+      ],
+      "matching_capture_draws": {
+        "2026-11-09-064111": [
+          212,
+          213,
+          214,
+          216
+        ]
+      },
+      "shader_regex_group": "ShaderRegexFX3632dd8ab004fd19",
+      "pattern": "(?P<before>^dcl_globalFlags refactoringAllowed\\n^dcl_constantbuffer CB0\\[89\\], immediateIndexed\\n^dcl_constantbuffer CB1\\[46\\], immediateIndexed\\n^dcl_constantbuffer CB2\\[1\\], immediateIndexed\\n^dcl_constantbuffer CB3\\[8\\], dynamicIndexed\\n^dcl_sampler s0, mode_default\\n^dcl_resource_texture2d \\(float,float,float,float\\) t0\\n^dcl_input_ps linear v1\\.xyzw\\n^dcl_input_ps linear v2\\.xy\\n^dcl_input_ps constant v5\\.x\\n^dcl_input_ps linear v7\\.xyz\\n^dcl_output o0\\.xyzw\\n^dcl_temps 6\\n^iadd r0\\.x, v5\\.x, cb2\\[0\\]\\.x\\n^ishl r0\\.x, r0\\.x, l\\(2\\)\\n^mul r1\\.xyzw, v1\\.xyzw, cb3\\[r0\\.x \\+ 0\\]\\.xyzw\\n^ne r0\\.y, l\\(0\\.000000, 0\\.000000, 0\\.000000, 0\\.000000\\), cb0\\[88\\]\\.x\\n^if_nz r0\\.y\\n^  mov r0\\.yzw, cb3\\[r0\\.x \\+ 2\\]\\.xxyz\\n(?s:.*?))^movc o0\\.xyz, r0\\.wwww, r1\\.xyzx, r0\\.xyzx\\n^mul r0\\.x, r1\\.w, cb0\\[76\\]\\.w\\n^mul r0\\.x, r2\\.w, r0\\.x\\n^dp2_sat r0\\.x, r0\\.xxxx, cb0\\[85\\]\\.wwww\\n^mul r0\\.x, r0\\.x, cb0\\[84\\]\\.w\\n^mul o0\\.w, r0\\.x, cb0\\[88\\]\\.y\\n^ret\\n",
+      "replacement": "${before}movc ${color}.xyz, r0.wwww, r1.xyzx, r0.xyzx\\nmul r0.x, r1.w, cb0[76].w\\nmul r0.x, r2.w, r0.x\\ndp2_sat r0.x, r0.xxxx, cb0[85].wwww\\nmul r0.x, r0.x, cb0[84].w\\nmul o0.w, r0.x, cb0[88].y\\nld_indexable(texture1d)(float,float,float,float) ${gate}.xyzw, l(197,0), t120.xyzw\\nif_nz ${gate}.x\\n  max ${color}.w, ${color}.x, ${color}.y\\n  max ${color}.w, ${color}.w, ${color}.z\\n  mul ${color}.xyz, ${color}.wwww, l(0.650000, 0.008000, 0.028000, 0.000000)\\nendif\\nmov o0.xyz, ${color}.xyzx\\nret\\n",
+      "original_output_tail": "movc o0.xyz, r0.wwww, r1.xyzx, r0.xyzx\nmul r0.x, r1.w, cb0[76].w\nmul r0.x, r2.w, r0.x\ndp2_sat r0.x, r0.xxxx, cb0[85].wwww\nmul r0.x, r0.x, cb0[84].w\nmul o0.w, r0.x, cb0[88].y\nret\n",
+      "original_temp_count": 6,
+      "alpha_preserved_in_static_test": true,
+      "matched_in_last_recorded_v5_reload": true
+    },
+    {
+      "id": "ps:557ea1cbdfa0164f",
+      "source_shader_sha256": "3b88a21ec2fa0d7ffc123b8d0d8ddcd19b733abcd9c06a69617f8139d06353ed",
+      "texture_clauses": [
+        {
+          "0": "2b6cb6eb",
+          "1": "8fee3f2a"
+        }
+      ],
+      "matching_capture_draws": {
+        "2026-11-09-064111": [
+          215
+        ],
+        "2026-11-09-064120": [
+          196
+        ]
+      },
+      "shader_regex_group": "ShaderRegexFX557ea1cbdfa0164f",
+      "pattern": "(?P<before>^dcl_globalFlags refactoringAllowed\\n^dcl_constantbuffer CB0\\[102\\], immediateIndexed\\n^dcl_constantbuffer CB1\\[1\\], immediateIndexed\\n^dcl_sampler s0, mode_default\\n^dcl_sampler s1, mode_default\\n^dcl_resource_texture2d \\(float,float,float,float\\) t0\\n^dcl_resource_texture2d \\(float,float,float,float\\) t1\\n^dcl_resource_texture2d \\(float,float,float,float\\) t2\\n^dcl_input_ps linear v1\\.xyzw\\n^dcl_input_ps linear v2\\.xy\\n^dcl_input_ps linear v3\\.xyzw\\n^dcl_input_ps linear v4\\.xyzw\\n^dcl_input_ps linear v5\\.xyzw\\n^dcl_output o0\\.xyzw\\n^dcl_temps 4\\n^mov r0\\.x, v3\\.w\\n^mov r0\\.y, v5\\.w\\n^mov r0\\.z, v4\\.w\\n^dp3 r0\\.w, r0\\.xyzx, r0\\.xyzx\\n^rsq r0\\.w, r0\\.w\\n^mul r0\\.xyz, r0\\.wwww, r0\\.xyzx\\n(?s:.*?))^mul o0\\.xyz, r0\\.xzwx, cb0\\[94\\]\\.xyzx\\n^mul r0\\.x, cb0\\[94\\]\\.w, cb0\\[95\\]\\.x\\n^mul_sat r0\\.x, r0\\.y, r0\\.x\\n^mul o0\\.w, r0\\.x, cb0\\[101\\]\\.y\\n^ret\\n",
+      "replacement": "${before}mul ${color}.xyz, r0.xzwx, cb0[94].xyzx\\nmul r0.x, cb0[94].w, cb0[95].x\\nmul_sat r0.x, r0.y, r0.x\\nmul o0.w, r0.x, cb0[101].y\\nld_indexable(texture1d)(float,float,float,float) ${gate}.xyzw, l(197,0), t120.xyzw\\nif_nz ${gate}.x\\n  max ${color}.w, ${color}.x, ${color}.y\\n  max ${color}.w, ${color}.w, ${color}.z\\n  mul ${color}.xyz, ${color}.wwww, l(0.650000, 0.008000, 0.028000, 0.000000)\\nendif\\nmov o0.xyz, ${color}.xyzx\\nret\\n",
+      "original_output_tail": "mul o0.xyz, r0.xzwx, cb0[94].xyzx\nmul r0.x, cb0[94].w, cb0[95].x\nmul_sat r0.x, r0.y, r0.x\nmul o0.w, r0.x, cb0[101].y\nret\n",
+      "original_temp_count": 4,
+      "alpha_preserved_in_static_test": true,
+      "matched_in_last_recorded_v5_reload": true
+    },
+    {
+      "id": "ps:4a1f6b16c8c8448a",
+      "source_shader_sha256": "f480439ba8d8bda55a6174018a9a4ae6c14d9d051f86752d81099e68568732ca",
+      "texture_clauses": [
+        {
+          "0": "cdfc7ad0"
+        }
+      ],
+      "matching_capture_draws": {
+        "2026-11-09-064111": [
+          218
+        ],
+        "2026-11-09-064118": [
+          199,
+          203,
+          206,
+          207
+        ]
+      },
+      "shader_regex_group": "ShaderRegexFX4a1f6b16c8c8448a",
+      "pattern": "(?P<before>^dcl_globalFlags refactoringAllowed\\n^dcl_constantbuffer CB0\\[89\\], immediateIndexed\\n^dcl_constantbuffer CB1\\[46\\], immediateIndexed\\n^dcl_sampler s0, mode_default\\n^dcl_resource_texture2d \\(float,float,float,float\\) t0\\n^dcl_input_ps linear v1\\.xyzw\\n^dcl_input_ps linear v2\\.xy\\n^dcl_input_ps linear v3\\.xyz\\n^dcl_input_ps linear v4\\.xyz\\n^dcl_input_ps linear v6\\.xyz\\n^dcl_output o0\\.xyzw\\n^dcl_temps 4\\n^dp3 r0\\.x, v6\\.xyzx, v6\\.xyzx\\n^rsq r0\\.x, r0\\.x\\n^mul r0\\.xyz, r0\\.xxxx, v6\\.xyzx\\n^mul r1\\.x, r0\\.y, r0\\.y\\n^mad r1\\.x, r0\\.x, r0\\.x, \\-r1\\.x\\n^mul r2\\.xyzw, r0\\.yzzx, r0\\.xyzz\\n(?s:.*?))^movc o0\\.xyz, r0\\.wwww, r0\\.xyzx, r2\\.xyzx\\n^eq r0\\.x, cb0\\[85\\]\\.x, l\\(4\\.000000\\)\\n^and r0\\.x, r0\\.x, l\\(0x3f800000\\)\\n^eq r2\\.xyzw, cb0\\[85\\]\\.xxxx, l\\(0\\.000000, 1\\.000000, 2\\.000000, 3\\.000000\\)\\n^movc r0\\.x, r2\\.w, r1\\.w, r0\\.x\\n^movc r0\\.x, r2\\.z, r1\\.z, r0\\.x\\n^movc r0\\.x, r2\\.y, r1\\.y, r0\\.x\\n^movc r0\\.x, r2\\.x, r1\\.x, r0\\.x\\n^mul r0\\.y, v1\\.w, cb0\\[76\\]\\.w\\n^mul r0\\.x, r0\\.x, r0\\.y\\n^dp2_sat r0\\.x, r0\\.xxxx, cb0\\[85\\]\\.wwww\\n^mul r0\\.x, r0\\.x, cb0\\[84\\]\\.w\\n^mul o0\\.w, r0\\.x, cb0\\[88\\]\\.y\\n^ret\\n",
+      "replacement": "${before}movc ${color}.xyz, r0.wwww, r0.xyzx, r2.xyzx\\neq r0.x, cb0[85].x, l(4.000000)\\nand r0.x, r0.x, l(0x3f800000)\\neq r2.xyzw, cb0[85].xxxx, l(0.000000, 1.000000, 2.000000, 3.000000)\\nmovc r0.x, r2.w, r1.w, r0.x\\nmovc r0.x, r2.z, r1.z, r0.x\\nmovc r0.x, r2.y, r1.y, r0.x\\nmovc r0.x, r2.x, r1.x, r0.x\\nmul r0.y, v1.w, cb0[76].w\\nmul r0.x, r0.x, r0.y\\ndp2_sat r0.x, r0.xxxx, cb0[85].wwww\\nmul r0.x, r0.x, cb0[84].w\\nmul o0.w, r0.x, cb0[88].y\\nld_indexable(texture1d)(float,float,float,float) ${gate}.xyzw, l(197,0), t120.xyzw\\nif_nz ${gate}.x\\n  max ${color}.w, ${color}.x, ${color}.y\\n  max ${color}.w, ${color}.w, ${color}.z\\n  mul ${color}.xyz, ${color}.wwww, l(0.650000, 0.008000, 0.028000, 0.000000)\\nendif\\nmov o0.xyz, ${color}.xyzx\\nret\\n",
+      "original_output_tail": "movc o0.xyz, r0.wwww, r0.xyzx, r2.xyzx\neq r0.x, cb0[85].x, l(4.000000)\nand r0.x, r0.x, l(0x3f800000)\neq r2.xyzw, cb0[85].xxxx, l(0.000000, 1.000000, 2.000000, 3.000000)\nmovc r0.x, r2.w, r1.w, r0.x\nmovc r0.x, r2.z, r1.z, r0.x\nmovc r0.x, r2.y, r1.y, r0.x\nmovc r0.x, r2.x, r1.x, r0.x\nmul r0.y, v1.w, cb0[76].w\nmul r0.x, r0.x, r0.y\ndp2_sat r0.x, r0.xxxx, cb0[85].wwww\nmul r0.x, r0.x, cb0[84].w\nmul o0.w, r0.x, cb0[88].y\nret\n",
+      "original_temp_count": 4,
+      "alpha_preserved_in_static_test": true,
+      "matched_in_last_recorded_v5_reload": true
+    },
+    {
+      "id": "ps:c8af3002ecd58996",
+      "source_shader_sha256": "5b96cb912dcd390a8c205c7ccb3ee7c1e12a72d461c41502e79fe7302183103c",
+      "texture_clauses": [
+        {
+          "0": "21fd405b",
+          "1": "573c763e"
+        }
+      ],
+      "matching_capture_draws": {
+        "2026-11-09-064111": [
+          220
+        ]
+      },
+      "shader_regex_group": "ShaderRegexFXc8af3002ecd58996",
+      "pattern": "(?P<before>^dcl_globalFlags refactoringAllowed\\n^dcl_constantbuffer CB0\\[174\\], immediateIndexed\\n^dcl_sampler s0, mode_default\\n^dcl_sampler s1, mode_default\\n^dcl_sampler s2, mode_default\\n^dcl_sampler s3, mode_default\\n^dcl_sampler s4, mode_default\\n^dcl_resource_texture2d \\(float,float,float,float\\) t0\\n^dcl_resource_texture2d \\(float,float,float,float\\) t1\\n^dcl_resource_texture2d \\(float,float,float,float\\) t2\\n^dcl_resource_texture2d \\(float,float,float,float\\) t3\\n^dcl_resource_texture3d \\(float,float,float,float\\) t4\\n^dcl_resource_texture3d \\(float,float,float,float\\) t5\\n^dcl_resource_texture2d \\(float,float,float,float\\) t6\\n^dcl_resource_texture2d \\(float,float,float,float\\) t7\\n^dcl_input_ps linear v1\\.xyzw\\n^dcl_input_ps linear v2\\.zw\\n^dcl_input_ps linear v3\\.xyz\\n^dcl_input_ps linear v4\\.xyz\\n^dcl_input_ps linear v5\\.xyzw\\n^dcl_input_ps linear v6\\.xy\\n^dcl_input_ps linear v9\\.xyz\\n^dcl_output o0\\.xyzw\\n^dcl_temps 6\\n^eq r0\\.x, cb0\\[153\\]\\.w, l\\(1\\.000000\\)\\n^if_nz r0\\.x\\n^  mad r0\\.xy, v2\\.zwzz, cb0\\[152\\]\\.xyxx, v5\\.zwzz\\n^else\\n^  mov r0\\.xy, v5\\.zwzz\\n^endif\\n(?s:.*?))^  mad o0\\.xyz, r1\\.wwww, r2\\.xyzx, r1\\.xyzx\\n^else\\n^  mov o0\\.xyz, r0\\.yzwy\\n^endif\\n^mul r0\\.x, r0\\.x, cb0\\[158\\]\\.w\\n^mul o0\\.w, r0\\.x, cb0\\[173\\]\\.w\\n^ret\\n",
+      "replacement": "${before}  mad ${color}.xyz, r1.wwww, r2.xyzx, r1.xyzx\\nelse\\n  mov ${color}.xyz, r0.yzwy\\nendif\\nmul r0.x, r0.x, cb0[158].w\\nmul o0.w, r0.x, cb0[173].w\\nld_indexable(texture1d)(float,float,float,float) ${gate}.xyzw, l(197,0), t120.xyzw\\nif_nz ${gate}.x\\n  max ${color}.w, ${color}.x, ${color}.y\\n  max ${color}.w, ${color}.w, ${color}.z\\n  mul ${color}.xyz, ${color}.wwww, l(0.650000, 0.008000, 0.028000, 0.000000)\\nendif\\nmov o0.xyz, ${color}.xyzx\\nret\\n",
+      "original_output_tail": "  mad o0.xyz, r1.wwww, r2.xyzx, r1.xyzx\nelse\n  mov o0.xyz, r0.yzwy\nendif\nmul r0.x, r0.x, cb0[158].w\nmul o0.w, r0.x, cb0[173].w\nret\n",
+      "original_temp_count": 6,
+      "alpha_preserved_in_static_test": true,
+      "matched_in_last_recorded_v5_reload": true
+    },
+    {
+      "id": "ps:342ec7c4be047dfd",
+      "source_shader_sha256": "597b80088df4cdbdeb81bf9cb81bdabcb7ea87aede277d5c529a837151856d15",
+      "texture_clauses": [
+        {
+          "0": "21fd405b",
+          "1": "12f86753",
+          "2": "78176f07",
+          "3": "58d2635b"
+        }
+      ],
+      "matching_capture_draws": {
+        "2026-11-09-064111": [
+          222
+        ],
+        "2026-11-09-064120": [
+          200
+        ]
+      },
+      "shader_regex_group": "ShaderRegexFX342ec7c4be047dfd",
+      "pattern": "(?P<before>^dcl_globalFlags refactoringAllowed\\n^dcl_constantbuffer CB0\\[127\\], immediateIndexed\\n^dcl_constantbuffer CB1\\[9\\], immediateIndexed\\n^dcl_sampler s0, mode_default\\n^dcl_sampler s1, mode_default\\n^dcl_sampler s2, mode_default\\n^dcl_sampler s3, mode_default\\n^dcl_sampler s4, mode_default\\n^dcl_resource_texture2d \\(float,float,float,float\\) t0\\n^dcl_resource_texture2d \\(float,float,float,float\\) t1\\n^dcl_resource_texture2d \\(float,float,float,float\\) t2\\n^dcl_resource_texture2d \\(float,float,float,float\\) t3\\n^dcl_resource_texture2d \\(float,float,float,float\\) t4\\n^dcl_resource_texture2d \\(float,float,float,float\\) t5\\n^dcl_input_ps linear v1\\.xyzw\\n^dcl_input_ps linear v2\\.xyzw\\n^dcl_input_ps linear v3\\.xyzw\\n^dcl_input_ps linear v6\\.xyw\\n^dcl_output o0\\.xyzw\\n^dcl_temps 6\\n^add r0\\.xy, \\-v2\\.xyxx, l\\(1\\.000000, 1\\.000000, 0\\.000000, 0\\.000000\\)\\n^ne r0\\.zw, l\\(0\\.000000, 0\\.000000, 0\\.000000, 0\\.000000\\), cb0\\[107\\]\\.wwwz\\n^movc r1\\.y, r0\\.z, r0\\.x, v2\\.x\\n^ne r2\\.xyz, l\\(0\\.000000, 0\\.000000, 0\\.000000, 0\\.000000\\), cb0\\[108\\]\\.xyzx\\n^movc r1\\.x, r2\\.x, r0\\.y, v2\\.y\\n^movc r0\\.xy, r0\\.wwww, r1\\.xyxx, r1\\.yxyy\\n(?=(?s:.*?)^div r1\\.y, r1\\.x, cb0\\[98\\]\\.x\\n^min r1\\.y, \\|r1\\.y\\|, l\\(1\\.000000\\)\\n)(?s:.*?))^mul o0\\.xyz, r0\\.yzwy, cb0\\[123\\]\\.xyzx\\n^mul r0\\.y, cb0\\[123\\]\\.w, cb0\\[124\\]\\.x\\n^mul r0\\.y, r0\\.y, v1\\.w\\n^mul r0\\.y, r0\\.y, cb0\\[122\\]\\.w\\n^mul r0\\.x, r0\\.x, r0\\.y\\n^mul_sat o0\\.w, r0\\.x, cb0\\[126\\]\\.x\\n^ret\\n",
+      "replacement": "${before}mul ${color}.xyz, r0.yzwy, cb0[123].xyzx\\nmul r0.y, cb0[123].w, cb0[124].x\\nmul r0.y, r0.y, v1.w\\nmul r0.y, r0.y, cb0[122].w\\nmul r0.x, r0.x, r0.y\\nmul_sat o0.w, r0.x, cb0[126].x\\nld_indexable(texture1d)(float,float,float,float) ${gate}.xyzw, l(197,0), t120.xyzw\\nif_nz ${gate}.x\\n  max ${color}.w, ${color}.x, ${color}.y\\n  max ${color}.w, ${color}.w, ${color}.z\\n  mul ${color}.xyz, ${color}.wwww, l(0.650000, 0.008000, 0.028000, 0.000000)\\nendif\\nmov o0.xyz, ${color}.xyzx\\nret\\n",
+      "original_output_tail": "mul o0.xyz, r0.yzwy, cb0[123].xyzx\nmul r0.y, cb0[123].w, cb0[124].x\nmul r0.y, r0.y, v1.w\nmul r0.y, r0.y, cb0[122].w\nmul r0.x, r0.x, r0.y\nmul_sat o0.w, r0.x, cb0[126].x\nret\n",
+      "original_temp_count": 6,
+      "alpha_preserved_in_static_test": true,
+      "matched_in_last_recorded_v5_reload": true
+    },
+    {
+      "id": "ps:f12c8ea5b452403c",
+      "source_shader_sha256": "edefb0bada798a768669e4af18746ea6d08591bdcafdab07acc3a3f21fbb5023",
+      "texture_clauses": [
+        {
+          "0": "21fd405b",
+          "1": "383616e1",
+          "2": "17bad60d",
+          "3": "484370ee"
+        },
+        {
+          "0": "ba97bda8",
+          "1": "3c3bf55e",
+          "2": "7e319fc8",
+          "3": "d0282178"
+        }
+      ],
+      "matching_capture_draws": {
+        "2026-11-09-064118": [
+          197,
+          208
+        ]
+      },
+      "shader_regex_group": "ShaderRegexFXf12c8ea5b452403c",
+      "pattern": "(?P<before>^dcl_globalFlags refactoringAllowed\\n^dcl_constantbuffer CB0\\[127\\], immediateIndexed\\n^dcl_constantbuffer CB1\\[9\\], immediateIndexed\\n^dcl_sampler s0, mode_default\\n^dcl_sampler s1, mode_default\\n^dcl_sampler s2, mode_default\\n^dcl_sampler s3, mode_default\\n^dcl_sampler s4, mode_default\\n^dcl_resource_texture2d \\(float,float,float,float\\) t0\\n^dcl_resource_texture2d \\(float,float,float,float\\) t1\\n^dcl_resource_texture2d \\(float,float,float,float\\) t2\\n^dcl_resource_texture2d \\(float,float,float,float\\) t3\\n^dcl_resource_texture2d \\(float,float,float,float\\) t4\\n^dcl_resource_texture2d \\(float,float,float,float\\) t5\\n^dcl_input_ps linear v1\\.xyzw\\n^dcl_input_ps linear v2\\.xyzw\\n^dcl_input_ps linear v3\\.xyzw\\n^dcl_input_ps linear v6\\.xyw\\n^dcl_output o0\\.xyzw\\n^dcl_temps 6\\n^add r0\\.xy, \\-v2\\.xyxx, l\\(1\\.000000, 1\\.000000, 0\\.000000, 0\\.000000\\)\\n^ne r0\\.zw, l\\(0\\.000000, 0\\.000000, 0\\.000000, 0\\.000000\\), cb0\\[107\\]\\.wwwz\\n^movc r1\\.y, r0\\.z, r0\\.x, v2\\.x\\n^ne r2\\.xyz, l\\(0\\.000000, 0\\.000000, 0\\.000000, 0\\.000000\\), cb0\\[108\\]\\.xyzx\\n^movc r1\\.x, r2\\.x, r0\\.y, v2\\.y\\n^movc r0\\.xy, r0\\.wwww, r1\\.xyxx, r1\\.yxyy\\n(?=(?s:.*?)^div r1\\.x, r1\\.x, cb0\\[98\\]\\.x\\n^min r1\\.x, \\|r1\\.x\\|, l\\(1\\.000000\\)\\n)(?s:.*?))^mul o0\\.xyz, r0\\.yzwy, cb0\\[123\\]\\.xyzx\\n^mul r0\\.y, cb0\\[123\\]\\.w, cb0\\[124\\]\\.x\\n^mul r0\\.y, r0\\.y, v1\\.w\\n^mul r0\\.y, r0\\.y, cb0\\[122\\]\\.w\\n^mul r0\\.x, r0\\.x, r0\\.y\\n^mul_sat o0\\.w, r0\\.x, cb0\\[126\\]\\.x\\n^ret\\n",
+      "replacement": "${before}mul ${color}.xyz, r0.yzwy, cb0[123].xyzx\\nmul r0.y, cb0[123].w, cb0[124].x\\nmul r0.y, r0.y, v1.w\\nmul r0.y, r0.y, cb0[122].w\\nmul r0.x, r0.x, r0.y\\nmul_sat o0.w, r0.x, cb0[126].x\\nld_indexable(texture1d)(float,float,float,float) ${gate}.xyzw, l(197,0), t120.xyzw\\nif_nz ${gate}.x\\n  max ${color}.w, ${color}.x, ${color}.y\\n  max ${color}.w, ${color}.w, ${color}.z\\n  mul ${color}.xyz, ${color}.wwww, l(0.650000, 0.008000, 0.028000, 0.000000)\\nendif\\nmov o0.xyz, ${color}.xyzx\\nret\\n",
+      "original_output_tail": "mul o0.xyz, r0.yzwy, cb0[123].xyzx\nmul r0.y, cb0[123].w, cb0[124].x\nmul r0.y, r0.y, v1.w\nmul r0.y, r0.y, cb0[122].w\nmul r0.x, r0.x, r0.y\nmul_sat o0.w, r0.x, cb0[126].x\nret\n",
+      "original_temp_count": 6,
+      "alpha_preserved_in_static_test": true,
+      "matched_in_last_recorded_v5_reload": true
+    },
+    {
+      "id": "ps:a5590a83fa07a1e1",
+      "source_shader_sha256": "ffa92449a318ce042de5cd4b865e355b6988d708f552d99b901610d305061820",
+      "texture_clauses": [
+        {
+          "0": "8b62e8e5",
+          "1": "9e4ed698"
+        }
+      ],
+      "matching_capture_draws": {
+        "2026-11-09-064118": [
+          198
+        ]
+      },
+      "shader_regex_group": "ShaderRegexFXa5590a83fa07a1e1",
+      "pattern": "(?P<before>^dcl_globalFlags refactoringAllowed\\n^dcl_constantbuffer CB0\\[178\\], immediateIndexed\\n^dcl_constantbuffer CB1\\[9\\], immediateIndexed\\n^dcl_sampler s0, mode_default\\n^dcl_sampler s1, mode_default\\n^dcl_sampler s2, mode_default\\n^dcl_sampler s3, mode_default\\n^dcl_sampler s4, mode_default\\n^dcl_resource_texture2d \\(float,float,float,float\\) t0\\n^dcl_resource_texture2d \\(float,float,float,float\\) t1\\n^dcl_resource_texture2d \\(float,float,float,float\\) t2\\n^dcl_resource_texture2d \\(float,float,float,float\\) t3\\n^dcl_resource_texture3d \\(float,float,float,float\\) t4\\n^dcl_resource_texture3d \\(float,float,float,float\\) t5\\n^dcl_resource_texture2d \\(float,float,float,float\\) t6\\n^dcl_resource_texture2d \\(float,float,float,float\\) t7\\n^dcl_input_ps linear v1\\.xyzw\\n^dcl_input_ps linear v2\\.zw\\n^dcl_input_ps linear v3\\.xyz\\n^dcl_input_ps linear v4\\.xyz\\n^dcl_input_ps linear v5\\.xy\\n^dcl_input_ps linear v6\\.xy\\n^dcl_input_ps linear v7\\.xyw\\n^dcl_input_ps linear v8\\.xyz\\n^dcl_output o0\\.xyzw\\n^dcl_temps 7\\n^add r0\\.xy, \\-v5\\.xyxx, l\\(1\\.000000, 1\\.000000, 0\\.000000, 0\\.000000\\)\\n^ne r0\\.zw, l\\(0\\.000000, 0\\.000000, 0\\.000000, 0\\.000000\\), cb0\\[147\\]\\.wwwz\\n^movc r1\\.y, r0\\.z, r0\\.x, v5\\.x\\n^ne r2\\.xyz, l\\(0\\.000000, 0\\.000000, 0\\.000000, 0\\.000000\\), cb0\\[148\\]\\.xyzx\\n^movc r1\\.x, r2\\.x, r0\\.y, v5\\.y\\n^movc r0\\.xy, r0\\.wwww, r1\\.xyxx, r1\\.yxyy\\n(?s:.*?))^  mad o0\\.xyz, r0\\.zzzz, r3\\.xyzx, r2\\.xyzx\\n^else\\n^  mov o0\\.xyz, r1\\.xyzx\\n^endif\\n^mul r0\\.x, r0\\.x, cb0\\[158\\]\\.w\\n^min r0\\.y, r0\\.y, l\\(1\\.000000\\)\\n^mul r0\\.x, r0\\.y, r0\\.x\\n^mul o0\\.w, r0\\.x, cb0\\[159\\]\\.z\\n^ret\\n",
+      "replacement": "${before}  mad ${color}.xyz, r0.zzzz, r3.xyzx, r2.xyzx\\nelse\\n  mov ${color}.xyz, r1.xyzx\\nendif\\nmul r0.x, r0.x, cb0[158].w\\nmin r0.y, r0.y, l(1.000000)\\nmul r0.x, r0.y, r0.x\\nmul o0.w, r0.x, cb0[159].z\\nld_indexable(texture1d)(float,float,float,float) ${gate}.xyzw, l(197,0), t120.xyzw\\nif_nz ${gate}.x\\n  max ${color}.w, ${color}.x, ${color}.y\\n  max ${color}.w, ${color}.w, ${color}.z\\n  mul ${color}.xyz, ${color}.wwww, l(0.650000, 0.008000, 0.028000, 0.000000)\\nendif\\nmov o0.xyz, ${color}.xyzx\\nret\\n",
+      "original_output_tail": "  mad o0.xyz, r0.zzzz, r3.xyzx, r2.xyzx\nelse\n  mov o0.xyz, r1.xyzx\nendif\nmul r0.x, r0.x, cb0[158].w\nmin r0.y, r0.y, l(1.000000)\nmul r0.x, r0.y, r0.x\nmul o0.w, r0.x, cb0[159].z\nret\n",
+      "original_temp_count": 7,
+      "alpha_preserved_in_static_test": true,
+      "matched_in_last_recorded_v5_reload": true
+    },
+    {
+      "id": "ps:bef784a0831a93ab",
+      "source_shader_sha256": "b7b8a0537f08b04ff1be682a4fc09a2aea0f80c616c28de75d4ffd5974dd74af",
+      "texture_clauses": [
+        {
+          "0": "bec6032d",
+          "1": "c3d6e5f2",
+          "2": "cdbd78be"
+        }
+      ],
+      "matching_capture_draws": {
+        "2026-11-09-064118": [
+          205
+        ]
+      },
+      "shader_regex_group": "ShaderRegexFXbef784a0831a93ab",
+      "pattern": "(?P<before>^dcl_globalFlags refactoringAllowed\\n^dcl_constantbuffer CB0\\[174\\], immediateIndexed\\n^dcl_sampler s0, mode_default\\n^dcl_sampler s1, mode_default\\n^dcl_sampler s2, mode_default\\n^dcl_sampler s3, mode_default\\n^dcl_sampler s4, mode_default\\n^dcl_resource_texture2d \\(float,float,float,float\\) t0\\n^dcl_resource_texture2d \\(float,float,float,float\\) t1\\n^dcl_resource_texture2d \\(float,float,float,float\\) t2\\n^dcl_resource_texture2d \\(float,float,float,float\\) t3\\n^dcl_resource_texture3d \\(float,float,float,float\\) t4\\n^dcl_resource_texture3d \\(float,float,float,float\\) t5\\n^dcl_resource_texture2d \\(float,float,float,float\\) t6\\n^dcl_resource_texture2d \\(float,float,float,float\\) t7\\n^dcl_input_ps linear v1\\.xyzw\\n^dcl_input_ps linear v2\\.zw\\n^dcl_input_ps linear v3\\.xyz\\n^dcl_input_ps linear v4\\.xyz\\n^dcl_input_ps linear v5\\.xy\\n^dcl_input_ps linear v6\\.xyzw\\n^dcl_input_ps linear v9\\.xyz\\n^dcl_output o0\\.xyzw\\n^dcl_temps 6\\n^add r0\\.xy, \\-v5\\.xyxx, l\\(1\\.000000, 1\\.000000, 0\\.000000, 0\\.000000\\)\\n^ne r0\\.zw, l\\(0\\.000000, 0\\.000000, 0\\.000000, 0\\.000000\\), cb0\\[147\\]\\.wwwz\\n^movc r1\\.y, r0\\.z, r0\\.x, v5\\.x\\n^ne r2\\.xyz, l\\(0\\.000000, 0\\.000000, 0\\.000000, 0\\.000000\\), cb0\\[148\\]\\.xyzx\\n^movc r1\\.x, r2\\.x, r0\\.y, v5\\.y\\n^movc r0\\.xy, r0\\.wwww, r1\\.xyxx, r1\\.yxyy\\n(?s:.*?))^  mad o0\\.xyz, r1\\.wwww, r2\\.xyzx, r1\\.xyzx\\n^else\\n^  mov o0\\.xyz, r0\\.yzwy\\n^endif\\n^mul r0\\.x, r0\\.x, cb0\\[158\\]\\.w\\n^mul o0\\.w, r0\\.x, cb0\\[173\\]\\.w\\n^ret\\n",
+      "replacement": "${before}  mad ${color}.xyz, r1.wwww, r2.xyzx, r1.xyzx\\nelse\\n  mov ${color}.xyz, r0.yzwy\\nendif\\nmul r0.x, r0.x, cb0[158].w\\nmul o0.w, r0.x, cb0[173].w\\nld_indexable(texture1d)(float,float,float,float) ${gate}.xyzw, l(197,0), t120.xyzw\\nif_nz ${gate}.x\\n  max ${color}.w, ${color}.x, ${color}.y\\n  max ${color}.w, ${color}.w, ${color}.z\\n  mul ${color}.xyz, ${color}.wwww, l(0.650000, 0.008000, 0.028000, 0.000000)\\nendif\\nmov o0.xyz, ${color}.xyzx\\nret\\n",
+      "original_output_tail": "  mad o0.xyz, r1.wwww, r2.xyzx, r1.xyzx\nelse\n  mov o0.xyz, r0.yzwy\nendif\nmul r0.x, r0.x, cb0[158].w\nmul o0.w, r0.x, cb0[173].w\nret\n",
+      "original_temp_count": 6,
+      "alpha_preserved_in_static_test": true,
+      "matched_in_last_recorded_v5_reload": true
+    },
+    {
+      "id": "ps:52ab4d3376ca9819",
+      "source_shader_sha256": "7368d34e859a72e579b6db9f79e63972e9366bc39cabfc6c8938f1c59d940602",
+      "texture_clauses": [
+        {
+          "0": "cb888b02",
+          "1": "164a949d",
+          "2": "65a32c1a"
+        }
+      ],
+      "matching_capture_draws": {
+        "2026-11-09-064120": [
+          195
+        ]
+      },
+      "shader_regex_group": "ShaderRegexFX52ab4d3376ca9819",
+      "pattern": "(?P<before>^dcl_globalFlags refactoringAllowed\\n^dcl_constantbuffer CB0\\[108\\], immediateIndexed\\n^dcl_constantbuffer CB1\\[12\\], immediateIndexed\\n^dcl_sampler s0, mode_default\\n^dcl_sampler s1, mode_default\\n^dcl_sampler s2, mode_default\\n^dcl_resource_texture2d \\(float,float,float,float\\) t0\\n^dcl_resource_texture2d \\(float,float,float,float\\) t1\\n^dcl_resource_texture2d \\(float,float,float,float\\) t2\\n^dcl_resource_texture2d \\(float,float,float,float\\) t3\\n^dcl_input_ps linear v1\\.xyzw\\n^dcl_input_ps linear v2\\.xy\\n^dcl_input_ps linear v3\\.xy\\n^dcl_input_ps linear v4\\.xyz\\n^dcl_input_ps linear v5\\.xyz\\n^dcl_input_ps linear v6\\.xyz\\n^dcl_input_ps linear v8\\.x\\n^dcl_output o0\\.xyzw\\n^dcl_temps 4\\n^add r0\\.xy, \\-v2\\.xyxx, l\\(1\\.000000, 1\\.000000, 0\\.000000, 0\\.000000\\)\\n^ne r0\\.zw, l\\(0\\.000000, 0\\.000000, 0\\.000000, 0\\.000000\\), cb0\\[99\\]\\.wwwz\\n^movc r1\\.y, r0\\.z, r0\\.x, v2\\.x\\n^ne r2\\.xyz, l\\(0\\.000000, 0\\.000000, 0\\.000000, 0\\.000000\\), cb0\\[100\\]\\.xyzx\\n^movc r1\\.x, r2\\.x, r0\\.y, v2\\.y\\n^movc r0\\.xy, r0\\.wwww, r1\\.xyxx, r1\\.yxyy\\n(?s:.*?))^  mul o0\\.xyz, r0\\.wwww, r1\\.xyzx\\n^else\\n^  mov o0\\.xyz, r1\\.xyzx\\n^endif\\n^eq r0\\.w, cb0\\[107\\]\\.y, l\\(1\\.000000\\)\\n^max r1\\.x, r0\\.z, cb0\\[107\\]\\.z\\n^movc r0\\.z, r0\\.w, r1\\.x, r0\\.z\\n^ge r0\\.x, r0\\.z, r0\\.x\\n^movc r0\\.x, r0\\.x, l\\(0\\), l\\(1\\.000000\\)\\n^eq r0\\.zw, cb0\\[96\\]\\.yyyx, l\\(0\\.000000, 0\\.000000, 1\\.000000, 1\\.000000\\)\\n^mul r0\\.x, r0\\.y, r0\\.x\\n^mul r0\\.y, r1\\.w, r0\\.x\\n^movc r0\\.x, r0\\.z, r0\\.y, r0\\.x\\n^mul r0\\.x, r0\\.x, cb0\\[104\\]\\.w\\n^mul r0\\.y, r0\\.x, v1\\.x\\n^movc r0\\.x, r0\\.w, r0\\.x, r0\\.y\\n^mul r0\\.x, r0\\.x, cb0\\[105\\]\\.x\\n^mul_sat r0\\.x, r0\\.x, cb0\\[95\\]\\.w\\n^mul o0\\.w, r0\\.x, v8\\.x\\n^ret\\n",
+      "replacement": "${before}  mul ${color}.xyz, r0.wwww, r1.xyzx\\nelse\\n  mov ${color}.xyz, r1.xyzx\\nendif\\neq r0.w, cb0[107].y, l(1.000000)\\nmax r1.x, r0.z, cb0[107].z\\nmovc r0.z, r0.w, r1.x, r0.z\\nge r0.x, r0.z, r0.x\\nmovc r0.x, r0.x, l(0), l(1.000000)\\neq r0.zw, cb0[96].yyyx, l(0.000000, 0.000000, 1.000000, 1.000000)\\nmul r0.x, r0.y, r0.x\\nmul r0.y, r1.w, r0.x\\nmovc r0.x, r0.z, r0.y, r0.x\\nmul r0.x, r0.x, cb0[104].w\\nmul r0.y, r0.x, v1.x\\nmovc r0.x, r0.w, r0.x, r0.y\\nmul r0.x, r0.x, cb0[105].x\\nmul_sat r0.x, r0.x, cb0[95].w\\nmul o0.w, r0.x, v8.x\\nld_indexable(texture1d)(float,float,float,float) ${gate}.xyzw, l(197,0), t120.xyzw\\nif_nz ${gate}.x\\n  max ${color}.w, ${color}.x, ${color}.y\\n  max ${color}.w, ${color}.w, ${color}.z\\n  mul ${color}.xyz, ${color}.wwww, l(0.650000, 0.008000, 0.028000, 0.000000)\\nendif\\nmov o0.xyz, ${color}.xyzx\\nret\\n",
+      "original_output_tail": "  mul o0.xyz, r0.wwww, r1.xyzx\nelse\n  mov o0.xyz, r1.xyzx\nendif\neq r0.w, cb0[107].y, l(1.000000)\nmax r1.x, r0.z, cb0[107].z\nmovc r0.z, r0.w, r1.x, r0.z\nge r0.x, r0.z, r0.x\nmovc r0.x, r0.x, l(0), l(1.000000)\neq r0.zw, cb0[96].yyyx, l(0.000000, 0.000000, 1.000000, 1.000000)\nmul r0.x, r0.y, r0.x\nmul r0.y, r1.w, r0.x\nmovc r0.x, r0.z, r0.y, r0.x\nmul r0.x, r0.x, cb0[104].w\nmul r0.y, r0.x, v1.x\nmovc r0.x, r0.w, r0.x, r0.y\nmul r0.x, r0.x, cb0[105].x\nmul_sat r0.x, r0.x, cb0[95].w\nmul o0.w, r0.x, v8.x\nret\n",
+      "original_temp_count": 4,
+      "alpha_preserved_in_static_test": true,
+      "matched_in_last_recorded_v5_reload": false
+    },
+    {
+      "id": "ps:b715106edc5699cd",
+      "source_shader_sha256": "e415c5bddc04e71c30ad46146c55cac49e51d30995d10d73609b06335bc8222c",
+      "texture_clauses": [
+        {
+          "0": "be058790",
+          "1": "183e79b9",
+          "3": "cc1334f7"
+        }
+      ],
+      "matching_capture_draws": {
+        "2026-11-09-064120": [
+          198
+        ]
+      },
+      "shader_regex_group": "ShaderRegexFXb715106edc5699cd",
+      "pattern": "(?P<before>^dcl_globalFlags refactoringAllowed\\n^dcl_constantbuffer CB0\\[174\\], immediateIndexed\\n^dcl_sampler s0, mode_default\\n^dcl_sampler s1, mode_default\\n^dcl_sampler s2, mode_default\\n^dcl_sampler s3, mode_default\\n^dcl_sampler s4, mode_default\\n^dcl_sampler s5, mode_default\\n^dcl_resource_texture2d \\(float,float,float,float\\) t0\\n^dcl_resource_texture2d \\(float,float,float,float\\) t1\\n^dcl_resource_texture2d \\(float,float,float,float\\) t2\\n^dcl_resource_texture2d \\(float,float,float,float\\) t3\\n^dcl_resource_texture2d \\(float,float,float,float\\) t4\\n^dcl_resource_texture3d \\(float,float,float,float\\) t5\\n^dcl_resource_texture3d \\(float,float,float,float\\) t6\\n^dcl_resource_texture2d \\(float,float,float,float\\) t7\\n^dcl_resource_texture2d \\(float,float,float,float\\) t8\\n^dcl_input_ps linear v1\\.xyzw\\n^dcl_input_ps linear v2\\.zw\\n^dcl_input_ps linear v3\\.xyz\\n^dcl_input_ps linear v4\\.xyz\\n^dcl_input_ps linear v5\\.xyzw\\n^dcl_input_ps linear v6\\.xyzw\\n^dcl_input_ps linear v9\\.xyz\\n^dcl_output o0\\.xyzw\\n^dcl_temps 6\\n^eq r0\\.x, cb0\\[153\\]\\.w, l\\(1\\.000000\\)\\n^if_nz r0\\.x\\n^  mad r0\\.xy, v2\\.zwzz, cb0\\[152\\]\\.xyxx, v5\\.zwzz\\n^else\\n^  mov r0\\.xy, v5\\.zwzz\\n^endif\\n(?s:.*?))^  mad o0\\.xyz, r1\\.wwww, r2\\.xyzx, r1\\.xyzx\\n^else\\n^  mov o0\\.xyz, r0\\.yzwy\\n^endif\\n^mul r0\\.x, r0\\.x, cb0\\[158\\]\\.w\\n^mul o0\\.w, r0\\.x, cb0\\[173\\]\\.w\\n^ret\\n",
+      "replacement": "${before}  mad ${color}.xyz, r1.wwww, r2.xyzx, r1.xyzx\\nelse\\n  mov ${color}.xyz, r0.yzwy\\nendif\\nmul r0.x, r0.x, cb0[158].w\\nmul o0.w, r0.x, cb0[173].w\\nld_indexable(texture1d)(float,float,float,float) ${gate}.xyzw, l(197,0), t120.xyzw\\nif_nz ${gate}.x\\n  max ${color}.w, ${color}.x, ${color}.y\\n  max ${color}.w, ${color}.w, ${color}.z\\n  mul ${color}.xyz, ${color}.wwww, l(0.650000, 0.008000, 0.028000, 0.000000)\\nendif\\nmov o0.xyz, ${color}.xyzx\\nret\\n",
+      "original_output_tail": "  mad o0.xyz, r1.wwww, r2.xyzx, r1.xyzx\nelse\n  mov o0.xyz, r0.yzwy\nendif\nmul r0.x, r0.x, cb0[158].w\nmul o0.w, r0.x, cb0[173].w\nret\n",
+      "original_temp_count": 6,
+      "alpha_preserved_in_static_test": true,
+      "matched_in_last_recorded_v5_reload": true
+    },
+    {
+      "id": "ps:7ac9829cb18e090e",
+      "source_shader_sha256": "cfbdac1d2600464cd5c88f29232097fe607c990e36d49f4f8f00de16a1cf23c5",
+      "texture_clauses": [
+        {
+          "0": "06de5b6f"
+        }
+      ],
+      "matching_capture_draws": {
+        "2026-11-09-064120": [
+          199
+        ]
+      },
+      "shader_regex_group": "ShaderRegexFX7ac9829cb18e090e",
+      "pattern": "(?P<before>^dcl_globalFlags refactoringAllowed\\n^dcl_constantbuffer CB0\\[91\\], immediateIndexed\\n^dcl_constantbuffer CB1\\[9\\], immediateIndexed\\n^dcl_constantbuffer CB2\\[46\\], immediateIndexed\\n^dcl_sampler s0, mode_default\\n^dcl_sampler s1, mode_default\\n^dcl_sampler s2, mode_default\\n^dcl_sampler s3, mode_default\\n^dcl_resource_texture2d \\(float,float,float,float\\) t0\\n^dcl_resource_texture2d \\(float,float,float,float\\) t1\\n^dcl_resource_texture3d \\(float,float,float,float\\) t2\\n^dcl_resource_texture2d \\(float,float,float,float\\) t3\\n^dcl_input_ps linear v1\\.xyzw\\n^dcl_input_ps linear v2\\.xy\\n^dcl_input_ps linear v3\\.xyz\\n^dcl_input_ps linear v4\\.xyz\\n^dcl_input_ps linear v5\\.xyzw\\n^dcl_input_ps linear v6\\.xyw\\n^dcl_input_ps linear v7\\.xyz\\n^dcl_output o0\\.xyzw\\n^dcl_temps 5\\n^add r0\\.xy, \\-v2\\.xyxx, l\\(1\\.000000, 1\\.000000, 0\\.000000, 0\\.000000\\)\\n^ne r0\\.zw, l\\(0\\.000000, 0\\.000000, 0\\.000000, 0\\.000000\\), cb0\\[82\\]\\.wwwz\\n^movc r1\\.y, r0\\.z, r0\\.x, v2\\.x\\n^ne r2\\.xyz, l\\(0\\.000000, 0\\.000000, 0\\.000000, 0\\.000000\\), cb0\\[83\\]\\.xyzx\\n^movc r1\\.x, r2\\.x, r0\\.y, v2\\.y\\n^movc r0\\.xy, r0\\.wwww, r1\\.xyxx, r1\\.yxyy\\n(?s:.*?))^  mad o0\\.xyz, r1\\.wwww, cb0\\[90\\]\\.xyzx, r1\\.xyzx\\n^else\\n^  mov o0\\.xyz, r0\\.yzwy\\n^endif\\n^mul o0\\.w, r0\\.x, cb0\\[88\\]\\.y\\n^ret\\n",
+      "replacement": "${before}  mad ${color}.xyz, r1.wwww, cb0[90].xyzx, r1.xyzx\\nelse\\n  mov ${color}.xyz, r0.yzwy\\nendif\\nmul o0.w, r0.x, cb0[88].y\\nld_indexable(texture1d)(float,float,float,float) ${gate}.xyzw, l(197,0), t120.xyzw\\nif_nz ${gate}.x\\n  max ${color}.w, ${color}.x, ${color}.y\\n  max ${color}.w, ${color}.w, ${color}.z\\n  mul ${color}.xyz, ${color}.wwww, l(0.650000, 0.008000, 0.028000, 0.000000)\\nendif\\nmov o0.xyz, ${color}.xyzx\\nret\\n",
+      "original_output_tail": "  mad o0.xyz, r1.wwww, cb0[90].xyzx, r1.xyzx\nelse\n  mov o0.xyz, r0.yzwy\nendif\nmul o0.w, r0.x, cb0[88].y\nret\n",
+      "original_temp_count": 5,
+      "alpha_preserved_in_static_test": true,
+      "matched_in_last_recorded_v5_reload": true
+    },
+    {
+      "id": "ps:3c115a4d1f5a63f9",
+      "source_shader_sha256": "fa2957f64b5696bd984769dd83fa989a250f69fdcd5808e093330aa294d25576",
+      "texture_clauses": [
+        {
+          "2": "0152e67a",
+          "3": "deb34157"
+        }
+      ],
+      "matching_capture_draws": {
+        "2026-11-09-064120": [
+          233
+        ]
+      },
+      "shader_regex_group": "ShaderRegexFX3c115a4d1f5a63f9",
+      "pattern": "(?P<before>^dcl_globalFlags refactoringAllowed\\n^dcl_constantbuffer CB0\\[108\\], immediateIndexed\\n^dcl_constantbuffer CB1\\[9\\], immediateIndexed\\n^dcl_sampler s0, mode_default\\n^dcl_sampler s1, mode_default\\n^dcl_sampler s2, mode_default\\n^dcl_sampler s3, mode_default\\n^dcl_resource_texture2d \\(float,float,float,float\\) t0\\n^dcl_resource_texture2d \\(float,float,float,float\\) t1\\n^dcl_resource_texture2d \\(float,float,float,float\\) t2\\n^dcl_resource_texture2d \\(float,float,float,float\\) t3\\n^dcl_input_ps linear v1\\.xyzw\\n^dcl_input_ps linear v2\\.xy\\n^dcl_input_ps linear v3\\.xy\\n^dcl_input_ps linear v5\\.xyzw\\n^dcl_output o0\\.xyzw\\n^dcl_temps 4\\n^mad r0\\.xy, v2\\.xyxx, cb0\\[92\\]\\.xyxx, cb0\\[92\\]\\.zwzz\\n^mul r0\\.zw, cb0\\[96\\]\\.xxxy, cb1\\[0\\]\\.yyyy\\n^mad r0\\.xy, r0\\.zwzz, cb0\\[94\\]\\.xyxx, r0\\.xyxx\\n^add r0\\.zw, \\-r0\\.xxxy, l\\(0\\.000000, 0\\.000000, 1\\.000000, 1\\.000000\\)\\n^ne r1\\.xy, l\\(0\\.000000, 0\\.000000, 0\\.000000, 0\\.000000\\), cb0\\[94\\]\\.wzww\\n^movc r2\\.y, r1\\.x, r0\\.z, r0\\.x\\n(?s:.*?))^mul o0\\.xyz, r0\\.xyzx, cb0\\[104\\]\\.xyzx\\n^ret\\n",
+      "replacement": "${before}mul ${color}.xyz, r0.xyzx, cb0[104].xyzx\\nld_indexable(texture1d)(float,float,float,float) ${gate}.xyzw, l(197,0), t120.xyzw\\nif_nz ${gate}.x\\n  max ${color}.w, ${color}.x, ${color}.y\\n  max ${color}.w, ${color}.w, ${color}.z\\n  mul ${color}.xyz, ${color}.wwww, l(0.650000, 0.008000, 0.028000, 0.000000)\\nendif\\nmov o0.xyz, ${color}.xyzx\\nret\\n",
+      "original_output_tail": "mul o0.xyz, r0.xyzx, cb0[104].xyzx\nret\n",
+      "original_temp_count": 4,
+      "alpha_preserved_in_static_test": true,
+      "matched_in_last_recorded_v5_reload": true
+    },
+    {
+      "id": "ps:ffb5002714525e63",
+      "source_shader_sha256": "250f6211a4a5720e9fa61f72601d7b8ae5a4b7dd8162b5af633b041de4b4af81",
+      "texture_clauses": [
+        {
+          "1": "526fd184",
+          "2": "9e4ed698",
+          "3": "0152e67a",
+          "4": "deb34157"
+        }
+      ],
+      "matching_capture_draws": {
+        "2026-11-09-064120": [
+          234
+        ]
+      },
+      "shader_regex_group": "ShaderRegexFXffb5002714525e63",
+      "pattern": "(?P<before>^dcl_globalFlags refactoringAllowed\\n^dcl_constantbuffer CB0\\[108\\], immediateIndexed\\n^dcl_constantbuffer CB1\\[9\\], immediateIndexed\\n^dcl_sampler s0, mode_default\\n^dcl_sampler s1, mode_default\\n^dcl_sampler s2, mode_default\\n^dcl_sampler s3, mode_default\\n^dcl_sampler s4, mode_default\\n^dcl_resource_texture2d \\(float,float,float,float\\) t0\\n^dcl_resource_texture2d \\(float,float,float,float\\) t1\\n^dcl_resource_texture2d \\(float,float,float,float\\) t2\\n^dcl_resource_texture2d \\(float,float,float,float\\) t3\\n^dcl_resource_texture2d \\(float,float,float,float\\) t4\\n^dcl_input_ps linear v1\\.xyzw\\n^dcl_input_ps linear v2\\.xy\\n^dcl_input_ps linear v3\\.xy\\n^dcl_input_ps linear v5\\.xyzw\\n^dcl_output o0\\.xyzw\\n^dcl_temps 4\\n^mad r0\\.xy, v2\\.xyxx, cb0\\[86\\]\\.xyxx, cb0\\[86\\]\\.zwzz\\n^mul r0\\.zw, cb0\\[90\\]\\.xxxy, cb1\\[0\\]\\.yyyy\\n^mad r0\\.xy, r0\\.zwzz, cb0\\[88\\]\\.xyxx, r0\\.xyxx\\n^mad r0\\.zw, v3\\.xxxy, cb0\\[88\\]\\.xxxy, r0\\.xxxy\\n^eq r1\\.x, cb0\\[89\\]\\.w, l\\(1\\.000000\\)\\n^movc r0\\.xy, r1\\.xxxx, r0\\.zwzz, r0\\.xyxx\\n(?s:.*?))^mul o0\\.xyz, r0\\.xyzx, cb0\\[104\\]\\.xyzx\\n^ret\\n",
+      "replacement": "${before}mul ${color}.xyz, r0.xyzx, cb0[104].xyzx\\nld_indexable(texture1d)(float,float,float,float) ${gate}.xyzw, l(197,0), t120.xyzw\\nif_nz ${gate}.x\\n  max ${color}.w, ${color}.x, ${color}.y\\n  max ${color}.w, ${color}.w, ${color}.z\\n  mul ${color}.xyz, ${color}.wwww, l(0.650000, 0.008000, 0.028000, 0.000000)\\nendif\\nmov o0.xyz, ${color}.xyzx\\nret\\n",
+      "original_output_tail": "mul o0.xyz, r0.xyzx, cb0[104].xyzx\nret\n",
+      "original_temp_count": 4,
+      "alpha_preserved_in_static_test": true,
+      "matched_in_last_recorded_v5_reload": true
+    }
+  ],
+  "texture_filters": {
+    "87e6a112": 705501,
+    "e799fc09": 705502,
+    "3e4b0149": 705503,
+    "e10ab07a": 705504,
+    "91cdedd0": 705505,
+    "21fd405b": 705506,
+    "3b8db5c3": 705507,
+    "056ee5be": 705508,
+    "cdfc7ad0": 705509,
+    "0dbb4554": 705510,
+    "c4aeaf43": 705511,
+    "6d98c253": 705512,
+    "cdbd78be": 705513,
+    "8903ecef": 705514,
+    "9e4ed698": 705515,
+    "7e319fc8": 705516,
+    "383616e1": 705517,
+    "17bad60d": 705518,
+    "559b1fff": 705519,
+    "2b6cb6eb": 705520,
+    "8fee3f2a": 705521,
+    "573c763e": 705522,
+    "12f86753": 705523,
+    "78176f07": 705524,
+    "58d2635b": 705525,
+    "484370ee": 705526,
+    "ba97bda8": 705527,
+    "3c3bf55e": 705528,
+    "d0282178": 705529,
+    "8b62e8e5": 705530,
+    "bec6032d": 705531,
+    "c3d6e5f2": 705532,
+    "cb888b02": 111.69,
+    "164a949d": 705534,
+    "65a32c1a": 705535,
+    "be058790": 705536,
+    "183e79b9": 705537,
+    "cc1334f7": 705538,
+    "06de5b6f": 705539,
+    "0152e67a": 705540,
+    "deb34157": 705541,
+    "526fd184": 705542
+  },
+  "shared_filter_dependencies": {
+    "cb888b02": {
+      "filter_index": 111.69,
+      "path": "libraries/Tracking.ini",
+      "section": "TextureOverride Water Drop",
+      "sha256": "326f61522af6145e46d66e767d1d1f2b4da98a0412689402ad9dc4e741d6a902"
+    }
+  },
+  "activation": {
+    "namespace": "WandererBlackRedFX700",
+    "ini_param_index": 197,
+    "requires": [
+      "this skin's Head/Body/Hat draw activation",
+      "global costume_mods switch",
+      "PS and texture clause match"
+    ],
+    "scope": "All filter numbers and parameter slots are specific to this example, not globally free slots."
+  },
+  "colour": {
+    "operation": "max(original RGB) times coefficient",
+    "coefficients": [
+      0.65,
+      0.008,
+      0.028
+    ],
+    "alpha_unchanged": true
+  },
+  "known_non_targets": {
+    "5eb8b30aabec768f": "Uncached, present with the same textures in all four frames including the low-action sample; no evidence to recolour it.",
+    "976abfe62d57e70a": "Present in all frames with unchanged shared textures; retained.",
+    "e2e95b7fa223853d": "Present in all frames with unchanged shared textures; retained.",
+    "4a1f6b16c8c8448a@90def015": "Existing ambient branch seen before attacks; new group only enables cdfc7ad0."
+  },
+  "validation": {
+    "static_test_source": "backups/wanderer-blackred-7.0.0-20261109/fx-candidate-tests-v5.json",
+    "pixel_shaders_checked": 243,
+    "runtime_source": "backups/wanderer-blackred-7.0.0-20261109/fx-v5-runtime-verification.json",
+    "later_reload_seconds": [
+      0.649,
+      0.65
+    ],
+    "user_quote": "特效可以看到了, 但是点f10后有几段报错",
+    "duplicate_warning_cleared": true,
+    "all_effect_layers_and_cross_character_isolation_verified": false,
+    "capture_selection_semantics": "PS plus texture clauses only; dynamic skin/global-switch conditions are not evaluated."
+  }
+}

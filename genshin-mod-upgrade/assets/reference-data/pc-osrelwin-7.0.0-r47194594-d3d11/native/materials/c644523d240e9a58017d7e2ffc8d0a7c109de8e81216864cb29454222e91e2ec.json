@@ -1,0 +1,275 @@
+{
+  "kind": "native_material",
+  "id": "cab-341c1ccc9fcb182291bdc097dabbd91a:510975818246951046",
+  "source_cab": "cab-341c1ccc9fcb182291bdc097dabbd91a",
+  "path_id": "510975818246951046",
+  "class_id": 21,
+  "raw_bytes": 1272,
+  "raw_sha256": "50a1da512160df479edbff967df33be1767e5512ee27668063d21b4c35999a20",
+  "type_hash": "e1ee5b1091ac21b95baed1351f8fb1c2",
+  "source_object_offset": 4424,
+  "material": {
+    "name": "Avatar_Girl_Catalyst_Mizuki_Mat_Body_Eff",
+    "shader": {
+      "file_id": 1,
+      "path_id": "6482592405436273485"
+    },
+    "keywords": "",
+    "lightmap_flags": 4,
+    "instancing_flags_hex": "01000000",
+    "render_queue": -1,
+    "tags": [],
+    "disabled_passes": [],
+    "textures": [
+      {
+        "property": "_BaseTex",
+        "pointer": {
+          "file_id": 3,
+          "path_id": "2147305935119899819"
+        },
+        "scale": [
+          1.0,
+          1.0
+        ],
+        "offset": [
+          0.0,
+          0.0
+        ],
+        "max_mip_level": 0,
+        "texture_ref": "cab-df5096bd4562224067622dcd3ecb5364:2147305935119899819"
+      },
+      {
+        "property": "_DistortionTexRG",
+        "pointer": {
+          "file_id": 2,
+          "path_id": "-1074531796840440386"
+        },
+        "scale": [
+          1.0,
+          1.0
+        ],
+        "offset": [
+          0.0,
+          0.0
+        ],
+        "max_mip_level": 0,
+        "texture_ref": "cab-d0749142af158f500fda6be45dbe8524:-1074531796840440386"
+      },
+      {
+        "property": "_MainTex",
+        "pointer": {
+          "file_id": 4,
+          "path_id": "-4192806705213486113"
+        },
+        "scale": [
+          1.0,
+          1.0
+        ],
+        "offset": [
+          0.0,
+          0.0
+        ],
+        "max_mip_level": 0,
+        "texture_ref": "cab-fa57f7ee36a3bfe9f3f88d40f19c822b:-4192806705213486113"
+      },
+      {
+        "property": "_NoiseTex",
+        "pointer": {
+          "file_id": 0,
+          "path_id": "0"
+        },
+        "scale": [
+          1.0,
+          1.0
+        ],
+        "offset": [
+          0.0,
+          0.0
+        ],
+        "max_mip_level": 0,
+        "texture_ref": null
+      }
+    ],
+    "floats": [
+      [
+        "_Alpha",
+        1.0
+      ],
+      [
+        "_AmbientWeight",
+        0.5
+      ],
+      [
+        "_BaseTexColorChannelSwitch",
+        3.0
+      ],
+      [
+        "_BaseTex_Alpha",
+        1.0
+      ],
+      [
+        "_BaseTex_Uspeed",
+        0.0
+      ],
+      [
+        "_BaseTex_Vspeed",
+        0.30000001192092896
+      ],
+      [
+        "_Cull",
+        2.0
+      ],
+      [
+        "_DistortionGScaler",
+        1.0
+      ],
+      [
+        "_DistortionOpacity",
+        0.019999999552965164
+      ],
+      [
+        "_DistortionRScaler",
+        1.0
+      ],
+      [
+        "_DistortionTexRG_Uspeed",
+        0.0
+      ],
+      [
+        "_DistortionTexRG_Vspeed",
+        0.30000001192092896
+      ],
+      [
+        "_EffectedByFog",
+        0.0
+      ],
+      [
+        "_Fresnal_Alpha",
+        1.0
+      ],
+      [
+        "_Fresnal_Invert",
+        0.0
+      ],
+      [
+        "_Fresnal_Power",
+        6.0
+      ],
+      [
+        "_LerpAlphaScaler",
+        1.0
+      ],
+      [
+        "_MHYZBias",
+        0.0
+      ],
+      [
+        "_MatchWithSceneBufferMode",
+        1.0
+      ],
+      [
+        "_MotionVectorsAlphaCutoff",
+        0.10000000149011612
+      ],
+      [
+        "_NoiseTexChannelSwitch",
+        0.0
+      ],
+      [
+        "_NoiseTexToggleOnBaseTex",
+        0.0
+      ],
+      [
+        "_NoiseTex_Uspeed",
+        0.0
+      ],
+      [
+        "_NoiseTex_Vspeed",
+        0.0
+      ],
+      [
+        "_Noise_Brightness",
+        0.20000000298023224
+      ],
+      [
+        "_Noise_Offset",
+        0.5
+      ],
+      [
+        "_Opacity",
+        0.47999998927116394
+      ],
+      [
+        "_PolygonOffsetFactor",
+        0.0
+      ],
+      [
+        "_PolygonOffsetUnit",
+        0.0
+      ],
+      [
+        "_Velocity_Z",
+        0.0
+      ]
+    ],
+    "colors": [
+      [
+        "_DayColor",
+        [
+          1.0,
+          1.0,
+          1.0,
+          1.0
+        ]
+      ],
+      [
+        "_DistortionAdjust",
+        [
+          0.0,
+          0.0,
+          0.0,
+          0.0
+        ]
+      ],
+      [
+        "_Fresnal_Color",
+        [
+          0.9926465749740601,
+          3.0,
+          2.584686040878296,
+          1.0
+        ]
+      ],
+      [
+        "_LerpColorDark",
+        [
+          0.0,
+          0.0,
+          0.0,
+          0.0
+        ]
+      ],
+      [
+        "_LerpColorLight",
+        [
+          0.0,
+          1.0,
+          0.9172415137290955,
+          1.0
+        ]
+      ],
+      [
+        "_MainColor",
+        [
+          1.5,
+          1.5,
+          1.5,
+          1.0
+        ]
+      ]
+    ],
+    "shader_ref": "cab-14862d16e2500faa55bce334fe86b0d7:6482592405436273485"
+  },
+  "name": "Avatar_Girl_Catalyst_Mizuki_Mat_Body_Eff",
+  "parsed": true
+}

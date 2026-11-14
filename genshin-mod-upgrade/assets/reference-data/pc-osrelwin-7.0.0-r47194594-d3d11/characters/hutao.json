@@ -1,0 +1,261 @@
+{
+  "kind": "character",
+  "id": "hutao",
+  "name_zh": "胡桃",
+  "game_draw_targets": [
+    {
+      "object": "body",
+      "evidence_level": "accepted_mod_configuration",
+      "parts": [
+        {
+          "part": "head",
+          "section": "TextureOverrideHutaoHead",
+          "match_first_index": 0,
+          "material_binding_kind": "no_normal_map_nnfix",
+          "texture_assignments": {
+            "ps-t0": "ResourceHutaoHeadDiffuse",
+            "ps-t1": "ResourceHutaoHeadLightMap"
+          },
+          "commands_after_bindings": [
+            "CommandList\\global\\ORFix\\NNFix"
+          ]
+        },
+        {
+          "part": "body",
+          "section": "TextureOverrideHutaoBody",
+          "match_first_index": 16509,
+          "material_binding_kind": "no_normal_map_nnfix",
+          "texture_assignments": {
+            "ps-t0": "ResourceHutaoBodyDiffuse",
+            "ps-t1": "ResourceHutaoBodyLightMap"
+          },
+          "commands_after_bindings": [
+            "CommandList\\global\\ORFix\\NNFix"
+          ]
+        }
+      ],
+      "position_hash": "dd16576c",
+      "blend_hash": "153dba3f",
+      "texcoord_hash": "51afdfcf",
+      "index_buffer_hash": "3de1efe2",
+      "vertex_limit_raise_hash": "e9d17db6"
+    }
+  ],
+  "face_texture_example": [
+    {
+      "section": "TextureOverrideHutaoFaceHeadDiffuse",
+      "texture_hash": "d00bb0ef",
+      "assignments": [
+        "this = ResourceHutaoFaceHeadDiffuse"
+      ]
+    }
+  ],
+  "example_mod": {
+    "name": "HutaoNilou-7.0.0",
+    "ini": "examples/hutao/Hutao.ini",
+    "ini_sha256": "e9048beaafe86d1b7bba2ba3dc27a9ab66998c3e6950e685b9cead4315550622",
+    "resources": [
+      {
+        "section": "ResourceHutaoPosition",
+        "filename": "HutaoPosition.buf",
+        "bytes": 770080,
+        "sha256": "b538645825e836d358e3175318b370fff65807ff593dc80dd851bfa6704127e1",
+        "buffer": {
+          "stride": 40,
+          "element_count": 19252,
+          "trailing_bytes": 0
+        }
+      },
+      {
+        "section": "ResourceHutaoBlend",
+        "filename": "HutaoBlend.buf",
+        "bytes": 616064,
+        "sha256": "5f9963a9a7ebbcb8387dcb9add7a0fdfa700b5f8e54c530672b861f37811f861",
+        "buffer": {
+          "stride": 32,
+          "element_count": 19252,
+          "trailing_bytes": 0
+        }
+      },
+      {
+        "section": "ResourceHutaoTexcoord",
+        "filename": "HutaoTexcoord.buf",
+        "bytes": 231024,
+        "sha256": "f41cc5527fbdec8580d790fa273845200b8d469e1eb071250576f1cfc995b8bf",
+        "buffer": {
+          "stride": 12,
+          "element_count": 19252,
+          "trailing_bytes": 0
+        }
+      },
+      {
+        "section": "ResourceHutaoHeadIB",
+        "filename": "HutaoHead.ib",
+        "bytes": 40392,
+        "sha256": "ecf8601fdc71acdadede5c24701840e92c3b6e088f07c9541d56c1538bbb7262",
+        "indices": {
+          "format": "DXGI_FORMAT_R16_UINT",
+          "count": 20196,
+          "trailing_bytes": 0,
+          "minimum": 0,
+          "maximum": 4938
+        }
+      },
+      {
+        "section": "ResourceHutaoBodyIB",
+        "filename": "HutaoBody.ib",
+        "bytes": 105258,
+        "sha256": "1e8f8a38e95b82492d2c95b6fa496071f2468ddf916c005d7cf60f9b35d51d0d",
+        "indices": {
+          "format": "DXGI_FORMAT_R16_UINT",
+          "count": 52629,
+          "trailing_bytes": 0,
+          "minimum": 4939,
+          "maximum": 19251
+        }
+      },
+      {
+        "section": "ResourceHutaoHeadDiffuse",
+        "filename": "HutaoHeadDiffuse.dds",
+        "bytes": 4194452,
+        "sha256": "6924b5417f8fc3d11b15b458d422524c4fa0e2db41ed699c16919fb78472f34a",
+        "image_header": {
+          "type": "DDS",
+          "width": 2048,
+          "height": 2048,
+          "mip_count_declared": 1,
+          "fourcc": "DX10",
+          "rgb_bit_count": 0,
+          "dxgi_format": 99
+        }
+      },
+      {
+        "section": "ResourceHutaoHeadLightMap",
+        "filename": "HutaoHeadLightMap.dds",
+        "bytes": 4194452,
+        "sha256": "08251b7283183132f98765727be35dc820b21c4bce5e6d549e265d02f3b47f2f",
+        "image_header": {
+          "type": "DDS",
+          "width": 2048,
+          "height": 2048,
+          "mip_count_declared": 1,
+          "fourcc": "DX10",
+          "rgb_bit_count": 0,
+          "dxgi_format": 98
+        }
+      },
+      {
+        "section": "ResourceHutaoHeadShadowRamp",
+        "filename": "HutaoHeadShadowRamp.jpg",
+        "bytes": 2415,
+        "sha256": "47cc8bc6c907c7db1c21c76a020f9219b0368530e9724e50c4d58067b1152f89"
+      },
+      {
+        "section": "ResourceHutaoBodyDiffuse",
+        "filename": "HutaoBodyDiffuse.dds",
+        "bytes": 5592580,
+        "sha256": "bba1e5ae72bc89664455166f52f4b86dfd7a7c0fd50349999ab2ddce9b5e0d07",
+        "image_header": {
+          "type": "DDS",
+          "width": 2048,
+          "height": 2048,
+          "mip_count_declared": 12,
+          "fourcc": "DX10",
+          "rgb_bit_count": 0,
+          "dxgi_format": 99
+        }
+      },
+      {
+        "section": "ResourceHutaoBodyLightMap",
+        "filename": "HutaoBodyLightMap.dds",
+        "bytes": 4194452,
+        "sha256": "f6b275d6b46d3146b02fcd74047ccc8ed502fe057f17eedd006398d44a484eae",
+        "image_header": {
+          "type": "DDS",
+          "width": 2048,
+          "height": 2048,
+          "mip_count_declared": 1,
+          "fourcc": "DX10",
+          "rgb_bit_count": 0,
+          "dxgi_format": 98
+        }
+      },
+      {
+        "section": "ResourceHutaoBodyMetalMap",
+        "filename": "HutaoBodyMetalMap.dds",
+        "bytes": 65684,
+        "sha256": "fb18338ed9ef023814d01efa519971f35a7e607acfc362cda0196b2da6fb66ed",
+        "image_header": {
+          "type": "DDS",
+          "width": 256,
+          "height": 256,
+          "mip_count_declared": 1,
+          "fourcc": "DX10",
+          "rgb_bit_count": 0,
+          "dxgi_format": 99
+        }
+      },
+      {
+        "section": "ResourceHutaoBodyShadowRamp",
+        "filename": "HutaoBodyShadowRamp.jpg",
+        "bytes": 2885,
+        "sha256": "b84c5a9f90d9b189f27e36697529433761d6b83f9f53de74888f188c567c2f5d"
+      },
+      {
+        "section": "ResourceHutaoFaceHeadDiffuse",
+        "filename": "HutaoFaceHeadDiffuse.dds",
+        "bytes": 1048724,
+        "sha256": "eecf44dfd6d6c9ca09122a0433b4aad337085f001106b2b4719b0a6288907f7b",
+        "image_header": {
+          "type": "DDS",
+          "width": 1024,
+          "height": 1024,
+          "mip_count_declared": 1,
+          "fourcc": "DX10",
+          "rgb_bit_count": 0,
+          "dxgi_format": 99
+        }
+      }
+    ],
+    "asset_bytes_included": false,
+    "geometry_counts_are": "MOD-specific counts, NOT official game mesh counts"
+  },
+  "official_mesh_extracted": true,
+  "full_skeleton_extracted": false,
+  "bone_mapping": null,
+  "validation": {
+    "scope": "This named MOD on the recorded PC 7.0 setup; not all outfits or animations",
+    "source": "backups/hutao-nilou-7.0.0-20261109/user-acceptance.json",
+    "new_runtime_test_performed_by_export": false,
+    "user_quote": "实测没问题",
+    "geometry_result": null,
+    "material_result": null,
+    "all_actions_lighting_and_lods_verified": false
+  },
+  "native_profiles": {
+    "hutao": "native/profiles/hutao.json",
+    "hutaocostumewinter": "native/profiles/hutaocostumewinter.json"
+  },
+  "roster_entries": [
+    {
+      "id": 10000046,
+      "internal_name": "Hutao",
+      "name_zh": "胡桃",
+      "use_type": "AVATAR_FORMAL",
+      "body_type": "BODY_GIRL",
+      "weapon_type": "WEAPON_POLE",
+      "prefab_path_hash": "6123314047929054231"
+    },
+    {
+      "id": 10000902,
+      "internal_name": "Hutao",
+      "name_zh": null,
+      "use_type": "AVATAR_FORMAL",
+      "body_type": "BODY_GIRL",
+      "weapon_type": "WEAPON_POLE",
+      "prefab_path_hash": "6048254440471282242"
+    }
+  ],
+  "prefab_skeletons_extracted": true,
+  "draw_hash_status": "accepted_mod_configuration"
+}

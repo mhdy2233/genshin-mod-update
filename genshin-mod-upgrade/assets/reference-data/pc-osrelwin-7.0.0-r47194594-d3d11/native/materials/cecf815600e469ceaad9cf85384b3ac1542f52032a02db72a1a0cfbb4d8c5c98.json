@@ -1,0 +1,1067 @@
+{
+  "kind": "native_material",
+  "id": "cab-b9f68be514057fee7970b16a0a3e8712:625707848096490489",
+  "source_cab": "cab-b9f68be514057fee7970b16a0a3e8712",
+  "path_id": "625707848096490489",
+  "class_id": 21,
+  "raw_bytes": 6120,
+  "raw_sha256": "1e26ec5fb4466c0701cb2c8d3c5c14d4d381c8908e7f221ab83e9716cbf8a5dd",
+  "type_hash": "e1ee5b1091ac21b95baed1351f8fb1c2",
+  "source_object_offset": 4472,
+  "material": {
+    "name": "Eff_Avatar_Nefer_Cloak02_02",
+    "shader": {
+      "file_id": 4,
+      "path_id": "-47141241784067194"
+    },
+    "keywords": "ENABLE_DISSOVE_ON ENABLE_MASK_TEX_ON",
+    "lightmap_flags": 4,
+    "instancing_flags_hex": "01000000",
+    "render_queue": -1,
+    "tags": [],
+    "disabled_passes": [],
+    "textures": [
+      {
+        "property": "_BaseRampTex",
+        "pointer": {
+          "file_id": 0,
+          "path_id": "0"
+        },
+        "scale": [
+          1.0,
+          1.0
+        ],
+        "offset": [
+          0.0,
+          0.0
+        ],
+        "max_mip_level": 0,
+        "texture_ref": null
+      },
+      {
+        "property": "_BaseTex",
+        "pointer": {
+          "file_id": 1,
+          "path_id": "-6117129598465865996"
+        },
+        "scale": [
+          1.0,
+          1.0
+        ],
+        "offset": [
+          0.0,
+          0.0
+        ],
+        "max_mip_level": 0,
+        "texture_ref": "cab-59f2ca2a949516de7ee871cf80198503:-6117129598465865996"
+      },
+      {
+        "property": "_DiffuseColorRampTex",
+        "pointer": {
+          "file_id": 0,
+          "path_id": "0"
+        },
+        "scale": [
+          1.0,
+          1.0
+        ],
+        "offset": [
+          0.0,
+          0.0
+        ],
+        "max_mip_level": 0,
+        "texture_ref": null
+      },
+      {
+        "property": "_DissolveEdgeColorRampTex",
+        "pointer": {
+          "file_id": 0,
+          "path_id": "0"
+        },
+        "scale": [
+          1.0,
+          1.0
+        ],
+        "offset": [
+          0.0,
+          0.0
+        ],
+        "max_mip_level": 0,
+        "texture_ref": null
+      },
+      {
+        "property": "_DissolveTex",
+        "pointer": {
+          "file_id": 3,
+          "path_id": "-5080608439593084478"
+        },
+        "scale": [
+          2.0,
+          0.44999998807907104
+        ],
+        "offset": [
+          0.0,
+          0.0
+        ],
+        "max_mip_level": 0,
+        "texture_ref": "cab-a4e1511d5b9329373696028884503b4b:-5080608439593084478"
+      },
+      {
+        "property": "_FresnelRampTex",
+        "pointer": {
+          "file_id": 0,
+          "path_id": "0"
+        },
+        "scale": [
+          1.0,
+          1.0
+        ],
+        "offset": [
+          0.0,
+          0.0
+        ],
+        "max_mip_level": 0,
+        "texture_ref": null
+      },
+      {
+        "property": "_MaskTex",
+        "pointer": {
+          "file_id": 2,
+          "path_id": "6843646435928355580"
+        },
+        "scale": [
+          0.800000011920929,
+          1.0
+        ],
+        "offset": [
+          0.0,
+          0.0
+        ],
+        "max_mip_level": 0,
+        "texture_ref": "cab-8aafa92a40567cf84f0cc7a5be6bab79:6843646435928355580"
+      },
+      {
+        "property": "_NoiseTex",
+        "pointer": {
+          "file_id": 5,
+          "path_id": "6114556763452707636"
+        },
+        "scale": [
+          1.0,
+          3.0
+        ],
+        "offset": [
+          0.0,
+          0.0
+        ],
+        "max_mip_level": 0,
+        "texture_ref": "cab-d0fb7a90df2f0f269a7c022767bef160:6114556763452707636"
+      },
+      {
+        "property": "_VertexAnimeMaskTex",
+        "pointer": {
+          "file_id": 0,
+          "path_id": "0"
+        },
+        "scale": [
+          1.0,
+          1.0
+        ],
+        "offset": [
+          0.0,
+          0.0
+        ],
+        "max_mip_level": 0,
+        "texture_ref": null
+      },
+      {
+        "property": "_VertexAnimeTex",
+        "pointer": {
+          "file_id": 0,
+          "path_id": "0"
+        },
+        "scale": [
+          1.0,
+          1.0
+        ],
+        "offset": [
+          0.0,
+          0.0
+        ],
+        "max_mip_level": 0,
+        "texture_ref": null
+      }
+    ],
+    "floats": [
+      [
+        "_Alpha",
+        1.0
+      ],
+      [
+        "_AlphaBrightness",
+        2.0
+      ],
+      [
+        "_AlphaClipToggle",
+        0.0
+      ],
+      [
+        "_AlphaFadeDistance",
+        2.0
+      ],
+      [
+        "_AlphaFadeDistanceInvertToggle",
+        0.0
+      ],
+      [
+        "_AlphaFadeDistanceTwoWay",
+        1000.0
+      ],
+      [
+        "_AlphaFadeDistanceTwoWayToggle",
+        0.0
+      ],
+      [
+        "_AlphaFadeOffset",
+        0.0
+      ],
+      [
+        "_AlphaFadeOffsetTwoWay",
+        0.0
+      ],
+      [
+        "_BaseTexAlphaBrightness",
+        1.0
+      ],
+      [
+        "_BaseTexAlphaChannelInvert",
+        0.0
+      ],
+      [
+        "_BaseTexAlphaChannelSwitch",
+        3.0
+      ],
+      [
+        "_BaseTexColorChannelInvert",
+        0.0
+      ],
+      [
+        "_BaseTexColorChannelSwitch",
+        0.0
+      ],
+      [
+        "_BaseTexGradientOffset",
+        0.10999999940395355
+      ],
+      [
+        "_BaseTexGradientSoftness",
+        0.20499999821186066
+      ],
+      [
+        "_BaseTexGroup",
+        0.0
+      ],
+      [
+        "_BaseTexLerpScaler",
+        1.0
+      ],
+      [
+        "_BaseTexMipBias",
+        0.0
+      ],
+      [
+        "_BaseTexUVRandomToggle",
+        0.0
+      ],
+      [
+        "_BaseTexUVSwitch",
+        0.0
+      ],
+      [
+        "_BaseTex_ClampU",
+        0.0
+      ],
+      [
+        "_BaseTex_ClampV",
+        0.0
+      ],
+      [
+        "_BaseTex_FlipU",
+        0.0
+      ],
+      [
+        "_BaseTex_FlipV",
+        0.0
+      ],
+      [
+        "_BaseTex_SwapUV",
+        1.0
+      ],
+      [
+        "_BaseTex_Uspeed",
+        0.0
+      ],
+      [
+        "_BaseTex_Vspeed",
+        0.0
+      ],
+      [
+        "_BlendOP",
+        0.0
+      ],
+      [
+        "_ColorBrightness",
+        80.0
+      ],
+      [
+        "_Cull",
+        2.0
+      ],
+      [
+        "_CustomData1_Color",
+        0.0
+      ],
+      [
+        "_CustomData2_Color",
+        0.0
+      ],
+      [
+        "_CustomDataDrawer",
+        0.0
+      ],
+      [
+        "_CustomLightToggle",
+        0.0
+      ],
+      [
+        "_CustomLightType",
+        0.0
+      ],
+      [
+        "_CustomPointLightRadius",
+        1.0
+      ],
+      [
+        "_CutOff",
+        0.10000000149011612
+      ],
+      [
+        "_DepthFade",
+        1.0
+      ],
+      [
+        "_DepthFadeToggle",
+        0.0
+      ],
+      [
+        "_DepthThresh",
+        1.0
+      ],
+      [
+        "_DirectionDissolveMode",
+        0.0
+      ],
+      [
+        "_DirectionDissolveTexWeight",
+        0.25099998712539673
+      ],
+      [
+        "_DirectionDissolveToggle",
+        1.0
+      ],
+      [
+        "_DirectionDissolveValue",
+        -0.3799999952316284
+      ],
+      [
+        "_DissolveEdgeColorFade",
+        9.999999747378752e-05
+      ],
+      [
+        "_DissolveEdgeColorWidth",
+        0.0
+      ],
+      [
+        "_DissolveEdgeFade",
+        0.01899999938905239
+      ],
+      [
+        "_DissolveTexChannelInvert",
+        0.0
+      ],
+      [
+        "_DissolveTexChannelSwitch",
+        0.0
+      ],
+      [
+        "_DissolveTexToggle",
+        1.0
+      ],
+      [
+        "_DissolveTexUVRandomToggle",
+        0.0
+      ],
+      [
+        "_DissolveTexUVSwitch",
+        0.0
+      ],
+      [
+        "_DissolveTex_ClampU",
+        0.0
+      ],
+      [
+        "_DissolveTex_ClampV",
+        0.0
+      ],
+      [
+        "_DissolveTex_FlipU",
+        0.0
+      ],
+      [
+        "_DissolveTex_FlipV",
+        0.0
+      ],
+      [
+        "_DissolveTex_SwapUV",
+        1.0
+      ],
+      [
+        "_DissolveTex_Uspeed",
+        -0.75
+      ],
+      [
+        "_DissolveTex_Vspeed",
+        0.15000000596046448
+      ],
+      [
+        "_DissolveVal",
+        0.0
+      ],
+      [
+        "_DstBlendMode",
+        10.0
+      ],
+      [
+        "_EffectedByFog",
+        0.0
+      ],
+      [
+        "_EnableAlphaDistanceFade",
+        0.0
+      ],
+      [
+        "_EnableCustomData",
+        0.0
+      ],
+      [
+        "_EnableFresnel",
+        0.0
+      ],
+      [
+        "_EnableVertexAnime",
+        0.0
+      ],
+      [
+        "_FresnelAlphaEdgeFade",
+        0.5
+      ],
+      [
+        "_FresnelAlphaInvert",
+        0.0
+      ],
+      [
+        "_FresnelAlphaRange",
+        0.25
+      ],
+      [
+        "_FresnelAlphaToggle",
+        0.0
+      ],
+      [
+        "_FresnelColorBlendMode",
+        1.0
+      ],
+      [
+        "_FresnelColorEdgeFade",
+        0.5
+      ],
+      [
+        "_FresnelColorInvert",
+        0.0
+      ],
+      [
+        "_FresnelColorRange",
+        0.25
+      ],
+      [
+        "_LightAreaFade",
+        1.0
+      ],
+      [
+        "_LightAreaRange",
+        0.0
+      ],
+      [
+        "_MHYZBias",
+        0.0
+      ],
+      [
+        "_MainSettingsGroup",
+        0.0
+      ],
+      [
+        "_MaskTexBlendMode",
+        0.0
+      ],
+      [
+        "_MaskTexChannelInvert",
+        0.0
+      ],
+      [
+        "_MaskTexChannelSwitch",
+        0.0
+      ],
+      [
+        "_MaskTexGradientOffset",
+        0.0
+      ],
+      [
+        "_MaskTexGradientSoftness",
+        1.0
+      ],
+      [
+        "_MaskTexMipBias",
+        0.0
+      ],
+      [
+        "_MaskTexToggle",
+        1.0
+      ],
+      [
+        "_MaskTexUVRandomToggle",
+        0.0
+      ],
+      [
+        "_MaskTexUVSwitch",
+        0.0
+      ],
+      [
+        "_MaskTex_ClampU",
+        0.0
+      ],
+      [
+        "_MaskTex_ClampV",
+        0.0
+      ],
+      [
+        "_MaskTex_FlipU",
+        0.0
+      ],
+      [
+        "_MaskTex_FlipV",
+        0.0
+      ],
+      [
+        "_MaskTex_SwapUV",
+        0.0
+      ],
+      [
+        "_MaskTex_Uspeed",
+        -0.5
+      ],
+      [
+        "_MaskTex_Vspeed",
+        0.0
+      ],
+      [
+        "_MotionVectorsAlphaCutoff",
+        0.10000000149011612
+      ],
+      [
+        "_NoiseIntensityOnBaseTex",
+        0.0
+      ],
+      [
+        "_NoiseIntensityOnDissolve",
+        0.0
+      ],
+      [
+        "_NoiseIntensityOnMask",
+        0.0
+      ],
+      [
+        "_NoiseTexChannelInvert",
+        0.0
+      ],
+      [
+        "_NoiseTexChannelSwitch",
+        2.0
+      ],
+      [
+        "_NoiseTexToggle",
+        0.0
+      ],
+      [
+        "_NoiseTexUVRandomToggle",
+        0.0
+      ],
+      [
+        "_NoiseTexUVSwitch",
+        0.0
+      ],
+      [
+        "_NoiseTex_ClampU",
+        0.0
+      ],
+      [
+        "_NoiseTex_ClampV",
+        0.0
+      ],
+      [
+        "_NoiseTex_FlipU",
+        0.0
+      ],
+      [
+        "_NoiseTex_FlipV",
+        0.0
+      ],
+      [
+        "_NoiseTex_SwapUV",
+        0.0
+      ],
+      [
+        "_NoiseTex_Uspeed",
+        -1.0
+      ],
+      [
+        "_NoiseTex_Vspeed",
+        0.0
+      ],
+      [
+        "_Noise_Brightness",
+        1.0
+      ],
+      [
+        "_Noise_Offset",
+        0.0
+      ],
+      [
+        "_PolygonOffsetFactor",
+        0.0
+      ],
+      [
+        "_PolygonOffsetUnit",
+        0.0
+      ],
+      [
+        "_RenderState",
+        0.0
+      ],
+      [
+        "_SrcBlendMode",
+        5.0
+      ],
+      [
+        "_StencilComp",
+        0.0
+      ],
+      [
+        "_StencilID",
+        0.0
+      ],
+      [
+        "_StencilOp",
+        0.0
+      ],
+      [
+        "_UseBaseRamp",
+        0.0
+      ],
+      [
+        "_UseDiffuseColorRamp",
+        0.0
+      ],
+      [
+        "_UseDissolveEdgeColorRamp",
+        0.0
+      ],
+      [
+        "_UseFresnelRamp",
+        0.0
+      ],
+      [
+        "_UseParticleInstancing",
+        0.0
+      ],
+      [
+        "_VertColADirectionDissolve",
+        0.0
+      ],
+      [
+        "_VertColADissolve",
+        0.0
+      ],
+      [
+        "_VertexAnimeIntensity",
+        1.0
+      ],
+      [
+        "_VertexAnimeMaskTexChannelSwitch",
+        0.0
+      ],
+      [
+        "_VertexAnimeMaskTexToggle",
+        0.0
+      ],
+      [
+        "_VertexAnimeMaskTex_ClampU",
+        0.0
+      ],
+      [
+        "_VertexAnimeMaskTex_ClampV",
+        0.0
+      ],
+      [
+        "_VertexAnimeMaskTex_FlipU",
+        0.0
+      ],
+      [
+        "_VertexAnimeMaskTex_FlipV",
+        0.0
+      ],
+      [
+        "_VertexAnimeMaskTex_SwapUV",
+        0.0
+      ],
+      [
+        "_VertexAnimeMaskTex_Uspeed",
+        0.0
+      ],
+      [
+        "_VertexAnimeMaskTex_Vspeed",
+        0.0
+      ],
+      [
+        "_VertexAnimeMaskUVSwitch",
+        0.0
+      ],
+      [
+        "_VertexAnimeOffset",
+        0.0
+      ],
+      [
+        "_VertexAnimeTexChannelInvert",
+        0.0
+      ],
+      [
+        "_VertexAnimeTexChannelSwitch",
+        0.0
+      ],
+      [
+        "_VertexAnimeTexUVSwitch",
+        0.0
+      ],
+      [
+        "_VertexAnimeTex_ClampU",
+        0.0
+      ],
+      [
+        "_VertexAnimeTex_ClampV",
+        0.0
+      ],
+      [
+        "_VertexAnimeTex_FlipU",
+        0.0
+      ],
+      [
+        "_VertexAnimeTex_FlipV",
+        0.0
+      ],
+      [
+        "_VertexAnimeTex_SwapUV",
+        0.0
+      ],
+      [
+        "_VertexAnimeTex_Uspeed",
+        0.0
+      ],
+      [
+        "_VertexAnimeTex_Vspeed",
+        0.0
+      ],
+      [
+        "_VertexColorAToggle",
+        1.0
+      ],
+      [
+        "_VertexColorRGBToggle",
+        1.0
+      ],
+      [
+        "_Ztest",
+        4.0
+      ],
+      [
+        "_Zwrite",
+        0.0
+      ]
+    ],
+    "colors": [
+      [
+        "_BaseColor",
+        [
+          1.0,
+          1.0,
+          1.0,
+          1.0
+        ]
+      ],
+      [
+        "_BaseTexLerpColorDark",
+        [
+          0.6302046179771423,
+          0.7132353186607361,
+          0.3933281898498535,
+          1.0
+        ]
+      ],
+      [
+        "_BaseTexLerpColorLight",
+        [
+          0.05278008058667183,
+          0.13235290348529816,
+          0.02141004055738449,
+          1.0
+        ]
+      ],
+      [
+        "_BaseTex_MirrorAdapt",
+        [
+          1.0,
+          1.0,
+          0.0,
+          0.0
+        ]
+      ],
+      [
+        "_CustomData1_Vector",
+        [
+          0.0,
+          0.0,
+          0.0,
+          0.0
+        ]
+      ],
+      [
+        "_CustomData2_Vector",
+        [
+          0.0,
+          0.0,
+          0.0,
+          0.0
+        ]
+      ],
+      [
+        "_CustomDirectionLitghtDir",
+        [
+          0.0,
+          0.0,
+          1.0,
+          1.0
+        ]
+      ],
+      [
+        "_CustomPointLightPos",
+        [
+          0.0,
+          0.0,
+          0.0,
+          1.0
+        ]
+      ],
+      [
+        "_DayColor",
+        [
+          1.0,
+          1.0,
+          1.0,
+          1.0
+        ]
+      ],
+      [
+        "_DiffuseDarkColor",
+        [
+          0.5,
+          0.5,
+          0.5,
+          1.0
+        ]
+      ],
+      [
+        "_DiffuseLightColor",
+        [
+          1.0,
+          1.0,
+          1.0,
+          1.0
+        ]
+      ],
+      [
+        "_DirectionDissolveDir",
+        [
+          -1.0,
+          0.0,
+          0.0,
+          0.0
+        ]
+      ],
+      [
+        "_DissolveEdgeColor",
+        [
+          0.005352510139346123,
+          0.06617642939090729,
+          0.020873090252280235,
+          1.0
+        ]
+      ],
+      [
+        "_DissolveTex_MirrorAdapt",
+        [
+          1.0,
+          1.0,
+          0.0,
+          0.0
+        ]
+      ],
+      [
+        "_FresnelColor",
+        [
+          1.0,
+          1.0,
+          1.0,
+          1.0
+        ]
+      ],
+      [
+        "_MainColor",
+        [
+          1.0,
+          1.0,
+          1.0,
+          1.0
+        ]
+      ],
+      [
+        "_MaskTex_MirrorAdapt",
+        [
+          1.0,
+          1.0,
+          0.0,
+          0.0
+        ]
+      ],
+      [
+        "_MeshParticleColorArray",
+        [
+          1.0,
+          1.0,
+          1.0,
+          1.0
+        ]
+      ],
+      [
+        "_NoiseTex_MirrorAdapt",
+        [
+          1.0,
+          1.0,
+          0.0,
+          0.0
+        ]
+      ],
+      [
+        "_ParticleCustomProp0",
+        [
+          1.0,
+          1.0,
+          1.0,
+          1.0
+        ]
+      ],
+      [
+        "_ParticleCustomProp1",
+        [
+          1.0,
+          1.0,
+          1.0,
+          1.0
+        ]
+      ],
+      [
+        "_ParticleTexCoord0Array",
+        [
+          1.0,
+          1.0,
+          1.0,
+          1.0
+        ]
+      ],
+      [
+        "_ParticleTexCoord1Array",
+        [
+          1.0,
+          1.0,
+          1.0,
+          1.0
+        ]
+      ],
+      [
+        "_ParticleTexCoord2Array",
+        [
+          1.0,
+          1.0,
+          1.0,
+          1.0
+        ]
+      ],
+      [
+        "_ParticleTexCoord3Array",
+        [
+          1.0,
+          1.0,
+          1.0,
+          1.0
+        ]
+      ],
+      [
+        "_ParticleUvScale",
+        [
+          1.0,
+          1.0,
+          1.0,
+          1.0
+        ]
+      ],
+      [
+        "_VertexAnimeMaskTex_MirrorAdapt",
+        [
+          1.0,
+          1.0,
+          0.0,
+          0.0
+        ]
+      ],
+      [
+        "_VertexAnimeTex_MirrorAdapt",
+        [
+          1.0,
+          1.0,
+          0.0,
+          0.0
+        ]
+      ]
+    ],
+    "shader_ref": "cab-d0948cde6ff803f4c83f5c641d1d90ab:-47141241784067194"
+  },
+  "name": "Eff_Avatar_Nefer_Cloak02_02",
+  "parsed": true
+}
